@@ -1,0 +1,826 @@
+{
+  "editHomework": {
+    "message": "Modify group assignments",
+    "description": "1.0 homework.json"
+  },
+  "addHomework": {
+    "message": "Create Group Assignment",
+    "description": "1.0 homework.json"
+  },
+  "kindTips": {
+    "message": "Click to enter the assignment instructions. The students' submission formats can include rich text, audio recording, and attachments.",
+    "description": "1.0 homework.json"
+  },
+  "excel": {
+    "message": "Excel File",
+    "description": "1.0 homework.json"
+  },
+  "ppt": {
+    "message": "PPT File",
+    "description": "1.0 homework.json"
+  },
+  "PDF": {
+    "message": "PDF File",
+    "description": "1.0 homework.json"
+  },
+  "TEXT": {
+    "message": "TEXT File",
+    "description": "1.0 homework.json"
+  },
+  "compress": {
+    "message": "Compress File",
+    "description": "1.0 homework.json"
+  },
+  "video": {
+    "message": "Video Clip",
+    "description": "1.0 homework.json"
+  },
+  "audio": {
+    "message": "Audio Clip",
+    "description": "1.0 homework.json"
+  },
+  "picture": {
+    "message": "Picture",
+    "description": "1.0 homework.json"
+  },
+  "other": {
+    "message": "Other",
+    "description": "1.0 homework.json"
+  },
+  "adjustGroupingTxt": {
+    "message": "Alert",
+    "description": "1.0 homework.json"
+  },
+  "adjustGroupingTipTxt": {
+    "message": "Changing grouping mode will clear the original grouping. Are you sure you want to change the grouping mode?",
+    "description": "1.0 homework.json"
+  },
+  "downloadTemplateTipTxt": {
+    "message": "Download templates to organize student group data in template format",
+    "description": "1.0 homework.json"
+  },
+  "downloadTemplateTxt": {
+    "message": "Download templates",
+    "description": "1.0 homework.json"
+  },
+  "uploadFileTipTxt": {
+    "message": "Upload organized files",
+    "description": "1.0 homework.json"
+  },
+  "uploadFileTip1Txt": {
+    "message": "Note: If you need to modify the student group, you can re-upload the group list.",
+    "description": "1.0 homework.json"
+  },
+  "uploadFileTip2Txt": {
+    "message": "After re-uploading, the student group will be replaced by the new group",
+    "description": "1.0 homework.json"
+  },
+  "adjustGroupingBodyTitleTxt": {
+    "message": "Follow the steps below",
+    "description": "1.0 homework.json"
+  },
+  "importSucTxt": {
+    "message": "Imported successfully!",
+    "description": "1.0 homework.json"
+  },
+  "submiting": {
+    "message": "Submitting",
+    "description": "1.0 homework.json"
+  },
+  "groupTitle": {
+    "message": "Assignment grouping",
+    "description": "1.0 homework.json"
+  },
+  "editGroup": {
+    "message": "Edit grouping",
+    "description": "1.0 homework.json"
+  },
+  "noStuTip": {
+    "message": "Each group must have minimum 1 student",
+    "description": "1.0 homework.json"
+  },
+  "referSameFile": {
+    "message": "Can't refer to the same file",
+    "description": "1.0 homework.json"
+  },
+  "uploadSameFile": {
+    "message": "Can't upload to the same file",
+    "description": "1.0 homework.json"
+  },
+  "point": {
+    "message": "Point",
+    "description": "1.0 homework.json"
+  },
+  "confirmDelete": {
+    "message": "Are you sure delete?",
+    "description": "1.0 homework.json"
+  },
+  "topicNoEmpty": {
+    "message": "Assignment topic cannot be empty",
+    "description": "1.0 homework.json"
+  },
+  "topicThanMore": {
+    "message": "Assignment heading should not be less than 3 alphabets and not more than 50 alphabets",
+    "description": "1.0 homework.json"
+  },
+  "topicExist": {
+    "message": "The assignment topic has already existed",
+    "description": "1.0 homework.json"
+  },
+  "inputFullScore": {
+    "message": "Please input full score",
+    "description": "1.0 homework.json"
+  },
+  "inputThanMore": {
+    "message": "Please enter an integer more than 0",
+    "description": "1.0 homework.json"
+  },
+  "inputThanLess": {
+    "message": "Please enter an integer less than 999",
+    "description": "1.0 homework.json"
+  },
+  "inputThanMores": {
+    "message": "Please enter an integer more than 1",
+    "description": "1.0 homework.json"
+  },
+  "selectStartTime": {
+    "message": "Please select start time",
+    "description": "1.0 homework.json"
+  },
+  "selectEndTime": {
+    "message": "Set the due date",
+    "description": "1.0 homework.json"
+  },
+  "inputCountEach": {
+    "message": "Please input the number of each group",
+    "description": "1.0 homework.json"
+  },
+  "countMax": {
+    "message": "Each group 20 people at most",
+    "description": "1.0 homework.json"
+  },
+  "countMin": {
+    "message": "Each group 2 people at least",
+    "description": "1.0 homework.json"
+  },
+  "uploadComplete": {
+    "message": "Upload completed",
+    "description": "1.0 homework.json"
+  },
+  "uploadFail": {
+    "message": "Upload fail",
+    "description": "1.0 homework.json"
+  },
+  "charRequired": {
+    "message": "The assignment requirement text has exceeded the limit of 5000 alphabets",
+    "description": "1.0 homework.json"
+  },
+  "homeworkAssign": {
+    "message": "Publish the assignment",
+    "description": "1.0 homework.json"
+  },
+  "saveDraft": {
+    "message": "Save as Draft",
+    "description": "1.0 homework.json"
+  },
+  "Success": {
+    "message": "Success",
+    "description": "1.0 homework.json"
+  },
+  "fail": {
+    "message": "Fail",
+    "description": "1.0 homework.json"
+  },
+  "netError": {
+    "message": "Network occurs abnormal",
+    "description": "1.0 homework.json"
+  },
+  "sureAbandon": {
+    "message": "Confirmed to give up setting assignment? ",
+    "description": "1.0 homework.json"
+  },
+  "delQuestion": {
+    "message": "Delete this question",
+    "description": "1.0 homework.json"
+  },
+  "topicNoempty": {
+    "message": "Assignment topic cannot be empty",
+    "description": "1.0 homework.json"
+  },
+  "assignmentCharacter": {
+    "message": "Assignment heading should not be less than 3 alphabets and not more than 50 alphabets",
+    "description": "1.0 homework.json"
+  },
+  "fileType": {
+    "message": "Please select the file type for students to submit",
+    "description": "1.0 homework.json"
+  },
+  "uploadNoempty": {
+    "message": "The file uploaded by the student cannot be empty",
+    "description": "1.0 homework.json"
+  },
+  "uploadSize": {
+    "message": "The size of the file type uploaded by the student is in round figures",
+    "description": "1.0 homework.json"
+  },
+  "uploadThan": {
+    "message": "The file uploaded by the student should not exceed 300M",
+    "description": "1.0 homework.json"
+  },
+  "onlyNo": {
+    "message": "Only number can be entered",
+    "description": "1.0 homework.json"
+  },
+  "noThan": {
+    "message": "Cannot exceed 100 marks",
+    "description": "1.0 homework.json"
+  },
+  "assignmentRequired": {
+    "message": "The assignment requirement text has exceeded the limit of 5000 alphabets",
+    "description": "1.0 homework.json"
+  },
+  "selectQ": {
+    "message": "Please select test question",
+    "description": "1.0 homework.json"
+  },
+  "saveDraftSuccess": {
+    "message": "Draft has been saved successfully",
+    "description": "1.0 homework.json"
+  },
+  "saveDraftFail": {
+    "message": "Failed to save draft",
+    "description": "1.0 homework.json"
+  },
+  "size": {
+    "message": "Size：",
+    "description": "1.0 homework.json"
+  },
+  "scoreProfileTitle": {
+    "message": "System scoring profile",
+    "description": "1.0 homework.json"
+  },
+  "scoreProfile": {
+    "message": "Students read the text aloud to practice pronunciation. System will match the pronunciation with the text and do auto-marking. This helps to reduce teacher’s workload on marking. After system auto-marking, teacher can still amend the score manually.",
+    "description": "1.0 homework.json"
+  },
+  "scoreDescTitle": {
+    "message": "Notice",
+    "description": "1.0 homework.json"
+  },
+  "scoreDesc": {
+    "message": "Currently, system auto-marking is restricted for 200 words only for reading aloud and audio within 2 minutes due technical restriction. Exceeding these two limits will cause failure in auto-marking! Please enter not more than 200 words into the read-aloud content column.",
+    "description": "1.0 homework.json"
+  },
+  "assignHomework": {
+    "message": "Create Quiz",
+    "description": "1.0 homework.json"
+  },
+  "assignmentScore": {
+    "message": "Assignment Score",
+    "description": "1.0 homework.json"
+  },
+  "gradeRule": {
+    "message": "Student’s assignment result=All peer review’s average score – number of not-scored-yet assignment * 5% * total score of assignment, for example: For full mark of 100%, if a student gets his peer review score as 80, but he only reviews 1 out of 4 assignment assigned to him, 3 * 5% * 100 of score should be deducted. So the total result of the student will be :80 - 3 * 5% * 100 = 65 marks.",
+    "description": "1.0 homework.json"
+  },
+  "appeal": {
+    "message": "Appeal",
+    "description": "1.0 homework.json"
+  },
+  "appealContent": {
+    "message": "Students can appeal to the teacher about the average score of the peer review assignments, and the teacher can change the average score of the peer review assignment, but student will still be deducted the score of the student for failing to finish peer reviewing in time.",
+    "description": "1.0 homework.json"
+  },
+  "stuAppealContent": {
+    "message": "When student is not happy with the average score, student can complain to his/her teacher and get the teacher to do marking. The final score will be teacher’s score – assignments to be evaluated *5%* total assignment score. ",
+    "description": "homeworkGroupStu.js"
+  },
+  "selectClass": {
+    "message": "Select Class",
+    "description": "1.0 homework.json"
+  },
+  "homeworkStart": {
+    "message": "Assignment starts",
+    "description": "1.0 homework.json"
+  },
+  "timePlaceholder": {
+    "message": "Please set the time",
+    "description": "1.0 homework.json"
+  },
+  "homeworkTimeTip": {
+    "message": "Set time for assignment",
+    "description": "1.0 homework.json"
+  },
+  "commitEnd": {
+    "message": "Deadline",
+    "description": "1.0 homework.json"
+  },
+  "unset": {
+    "message": "Temporarily not set",
+    "description": "1.0 homework.json"
+  },
+  "selectTime": {
+    "message": "Please choose a time",
+    "description": "1.0 homework.json"
+  },
+  "answerRequire": {
+    "message": "Please enter the times of answering",
+    "description": "1.0 homework.json"
+  },
+  "answerDigits": {
+    "message": "Please enter an integral between 1~100",
+    "description": "1.0 homework.json"
+  },
+  "answerDay": {
+    "message": "Please choose the time to publish answer",
+    "description": "1.0 homework.json"
+  },
+  "autoRemark": {
+    "message": "Please choose a grading method",
+    "description": "1.0 homework.json"
+  },
+  "peerReviewCount": {
+    "message": "Please choose the number of papers-to-be-graded",
+    "description": "1.0 homework.json"
+  },
+  "peerReviewDigits": {
+    "message": "Please choose an integral",
+    "description": "1.0 homework.json"
+  },
+  "peerReviewTime": {
+    "message": "Please choose a deadline for peer review",
+    "description": "1.0 homework.json"
+  },
+  "statTimTip": {
+    "message": "Starting time cannot be empty",
+    "description": "1.0 homework.json"
+  },
+  "endTimeTip": {
+    "message": "Deadline cannot be empty",
+    "description": "1.0 homework.json"
+  },
+  "plzSelectClass": {
+    "message": "Please select class",
+    "description": "1.0 homework.json"
+  },
+  "warnTip": {
+    "message": "The number of peer review’s papers exceeds the class size",
+    "description": "1.0 homework.json"
+  },
+  "assignmentSuccess": {
+    "message": "Published successfully!",
+    "description": "1.0 homework.json"
+  },
+  "assignmentFail": {
+    "message": "Assignment publish fail",
+    "description": "1.0 homework.json"
+  },
+  "publishSetting": {
+    "message": "Publish",
+    "description": "1.0 homework.json"
+  },
+  "noMark": {
+    "message": "No peer evaluation for this student's assignment, please do your marking.",
+    "description": "1.0 homework.json"
+  },
+  "kown": {
+    "message": "I kown",
+    "description": "1.0 homework.json"
+  },
+  "evaluated": {
+    "message": "The student has evaluated a number of assignments",
+    "description": "1.0 homework.json"
+  },
+  "evaluation": {
+    "message": " A number of assignments to which the teacher was evaluated",
+    "description": "1.0 homework.json"
+  },
+  "expandText": {
+    "message": "Expand",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "collapseText": {
+    "message": "Collapse",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "assignmentDetailText": {
+    "message": "Assignment detail",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "countLimtTip": {
+    "message": "Quizzes may have maximum attempts assigned to. {br}Are you sure you want to submit?",
+    "description": "对应于学生查看作业详情页面。{br}是一个换行的标签，需要原样保留"
+  },
+  "submitHomework": {
+    "message": "Submit",
+    "description": "对应于学生查看作业详情页面"
+  },
+  "collapseText2": {
+    "message": "<<Collapse",
+    "description": "教师批阅小组作业页面"
+  },
+  "checkAllMemebers": {
+    "message": "View all 12 members>>",
+    "description": "教师批阅小组作业页面"
+  },
+  "comment": {
+    "message": "Comment",
+    "description": "教师批阅小组作业页面"
+  },
+  "noComment": {
+    "message": "Ta didn't evaluate the assignment",
+    "description": "教师批阅小组作业页面"
+  },
+  "noEvaluation": {
+    "message": "Ta doesn't evaluate others",
+    "description": "教师批阅小组作业页面"
+  },
+  "scoreText": {
+    "message": "Pts Possible: {score}",
+    "description": "教师批阅小组作业页面"
+  },
+  "systemAdvice": {
+    "message": "The system recommends 0 score",
+    "description": "教师批阅小组作业页面"
+  },
+  "shortWord": {
+    "message": "The number of words in the homework is less than 10",
+    "description": "教师批阅小组作业页面"
+  },
+  "plzInputPoint": {
+    "message": "Please key in score",
+    "description": "教师批阅小组作业页面"
+  },
+  "commentCountLimit": {
+    "message": "Comments should not exceed 1000 characters",
+    "description": "教师批阅小组作业页面"
+  },
+  "submitHomeworkFail": {
+    "message": "Submit assignment fail",
+    "description": "教师批阅小组作业页面"
+  },
+  "frontPartTip": {
+    "message": "Nothing in front",
+    "description": "教师批阅小组作业页面"
+  },
+  "backPartTip": {
+    "message": "No more at the back",
+    "description": "教师批阅小组作业页面"
+  },
+  "imageLoading": {
+    "message": "Image loading",
+    "description": "homeworkPreview.js"
+  },
+  "imageLoadError": {
+    "message": "Image loading failure, please refresh and re-try!",
+    "description": "homeworkPreview.js"
+  },
+  "documentLoading": {
+    "message": " Loading document resources",
+    "description": "homeworkPreview.js"
+  },
+  "compressedPack": {
+    "message": "Compressed package",
+    "description": "homeworkPreview.js"
+  },
+  "compressedFile": {
+    "message": "Compressed document",
+    "description": "homeworkPreview.js"
+  },
+  "automaticText": {
+    "message": "This is an automatic marking assignment. You are required to finish reading each section in 2 minutes, otherwise it will cause system marking failure!",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "actionDesriptionText": {
+    "message": " Operation description",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "clickText": {
+    "message": "Click recording button, to open microphone when the page prompts “Allow”. After recording, please not to forget to click “Submit Assignment” to submit the said assignment",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "addMsgText": {
+    "message": "Click to compose your message",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "msgsText": {
+    "message": "Compose Message",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "msgText": {
+    "message": "Message should not be empty.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "sureDeleteText": {
+    "message": "Confirm to delete this message?",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "scoreEmptyText": {
+    "message": "The score cannot be empty",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "pleaseEnterScoreText": {
+    "message": "Please enter scores smaller than the total scores",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "commentSuccessText": {
+    "message": " Comment is successful",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "myAsssignmentText": {
+    "message": "My Assignment",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "groupAssignmentText": {
+    "message": "This is a group assignment, please do it with group members",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "noticeText": {
+    "message": "Attention",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "assignmentComText": {
+    "message": "Upon completion of assignment, please select a representative to submit, other members do not need to submit",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "caseText": {
+    "message": "When doing submission, amendment, withdrawal of assignment must get the consensus of all members.  Do not amend and delete assignment any how, otherwise it will affect others' results.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "allowedText": {
+    "message": "Please not to paste, enter manually",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "teamMemberText": {
+    "message": "Members of the group will share the assignment result.  Make sure that your submission has been agreed by other members in the group.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "confirmSubmitText": {
+    "message": "Confirm submit",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "submitSuccessText": {
+    "message": "submission is successful!",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "saveSuccessText": {
+    "message": "Save successfully!",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "determinaWorkText": {
+    "message": "Confirm to withdraw the assignment?  Must have the agreement of other members in the group.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "revocationText": {
+    "message": "Confirm to withdraw",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "revokeSuccessText": {
+    "message": "Successfully withdrawn!",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "revokeFailText": {
+    "message": "Withdrawal failed!",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "uploadFileText": {
+    "message": "Upload project document first",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "errorLogText": {
+    "message": "Project is activated, please not to close this page.  Activation failed shows that there is an error log.",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "prejectStart": {
+    "message": "The project is being activated",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "startupSuccessText": {
+    "message": "Project activation succeeds",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "runFailText": {
+    "message": "Project run failure",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "startupFailText": {
+    "message": "Project activation fails",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "uploadContentText": {
+    "message": "What is the content you have uploaded",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "projectAbText": {
+    "message": "Abnormality in the project",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "uploadRecordText": {
+    "message": "Please upload recording",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "assignmentDescriptionText": {
+    "message": "The explanation of the assignment cannot exceed 1000 alphabets. Currently, it has exceeded {count} alphabets",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "pasteHereText": {
+    "message": "Paste it here",
+    "description": "homeworkGroupStuMain.js"
+  },
+  "assignmentText": {
+    "message": "Assignment must contain text content or an attachment",
+    "description": "homeworkGroupStu.js"
+  },
+  "charapterText": {
+    "message": "The text content should not exceed 5000 words",
+    "description": "homeworkGroupStu.js"
+  },
+  "workThanMoreText": {
+    "message": "The writing should not exceed 3000 words",
+    "description": "homeworkGroupStu.js"
+  },
+  "uploadFileText2": {
+    "message": "Please upload document",
+    "description": "homeworkGroupStu.js"
+  },
+  "teacherSetText": {
+    "message": "Your teacher has set automatic marking assignment. If your assignment contains less than 10 words, the system will regard it as {score} score, Do you want to submit your assignment?",
+    "description": "homeworkGroupStu.js"
+  },
+  "loginTimeOutText": {
+    "message": "Login timeout, please save important info locally and to re-login!",
+    "description": "homeworkGroupStu.js"
+  },
+  "answerText": {
+    "message": "Questions",
+    "description": "homeworkGroupStu.js"
+  },
+  "beScoreText": {
+    "message": "Grade Pending",
+    "description": "homeworkGroupStu.js"
+  },
+  "submitTimeText": {
+    "message": "Submit time: {time}",
+    "description": "homeworkGroupStu.js"
+  },
+  "assignmentScoreText": {
+    "message": "Assignment result",
+    "description": "homeworkGroupStu.js"
+  },
+  "meanScoreText": {
+    "message": "Mean score of peer evaluation: {text}",
+    "description": "homeworkGroupStu.js"
+  },
+  "meanScoreText2": {
+    "message": "Mean score of peer evaluation: {score} score",
+    "description": "homeworkGroupStu.js"
+  },
+  "studentEvaluationText": {
+    "message": " No student evaluation",
+    "description": "homeworkGroupStu.js"
+  },
+  "deductionText": {
+    "message": "Assignment score deduction: {score} score (the assignments assigned to you for evaluation are {count} no evaluation)",
+    "description": "homeworkGroupStu.js"
+  },
+  "myAssignmentText": {
+    "message": "My Assignment",
+    "description": "homeworkGroupStu.js"
+  },
+  "submitOnText": {
+    "message": "{name} submit on {time}",
+    "description": "homeworkGroupStu.js"
+  },
+  "groupText": {
+    "message": "Group {group} assignment",
+    "description": "homeworkGroupStu.js"
+  },
+  "lateText": {
+    "message": "[ Late submission ]",
+    "description": "homeworkGroupStu.js"
+  },
+  "submitDeadlineText": {
+    "message": "Submission deadline is over",
+    "description": "homeworkGroupStu.js"
+  },
+  "completeText": {
+    "message": "Completed",
+    "description": "homeworkGroupStu.js"
+  },
+  "evaluateTimeText": {
+    "message": "Evaluation time: {time}",
+    "description": "homeworkGroupStu.js"
+  },
+  "teacherScoreText": {
+    "message": "Teacher marking: {score}",
+    "description": "homeworkGroupStu.js"
+  },
+  "teacherCommentText": {
+    "message": "Teacher’s comments: {comment}",
+    "description": "homeworkGroupStu.js"
+  },
+  "reDoText": {
+    "message": "Be rewritten",
+    "description": "homeworkGroupStu.js"
+  },
+  "systemScoreText": {
+    "message": "System marking",
+    "description": "homeworkGroupStu.js"
+  },
+  "mutualAvgScoreText": {
+    "message": "Average score of students’ peer evaluation: {score} score",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintText": {
+    "message": " Complaint is in process",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintFailText": {
+    "message": " Complaint fails",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintAfterText": {
+    "message": "Teacher does markeing after the complaint：{score} score",
+    "description": "homeworkGroupStu.js"
+  },
+  "checkComplaintText": {
+    "message": "Check complaint reason",
+    "description": "homeworkGroupStu.js"
+  },
+  "fileSizeText": {
+    "message": "Size of file: {size}",
+    "description": "homeworkGroupStu.js"
+  },
+  "myComplaintText": {
+    "message": " I want to complain",
+    "description": "homeworkGroupStu.js"
+  },
+  "fillReasonText": {
+    "message": "Fill in complaint reason",
+    "description": "homeworkGroupStu.js"
+  },
+  "dissatisfiedText": {
+    "message": " Tell the teacher why you are not happy with the score, should not exceed 1000 words",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintConText": {
+    "message": "Complaint content should not exceed 1000 words",
+    "description": "homeworkGroupStu.js"
+  },
+  "complaintSubmintText": {
+    "message": "Complaint submission is successful, pending teacher to deal with it",
+    "description": "homeworkGroupStu.js"
+  },
+  "studentEvaluationsText": {
+    "message": "Peer evaluation",
+    "description": "homeworkGroupStu.js"
+  },
+  "anonymousText": {
+    "message": "Anonymous",
+    "description": "homeworkGroupStu.js"
+  },
+  "mediaDocText": {
+    "message": "Media document",
+    "description": "homeworkGroupStu.js"
+  },
+  "textFile": {
+    "message": "Text file",
+    "description": "homeworkGroupStu.js"
+  },
+  "mutualReviewText": {
+    "message": "Peer evaluation has ended, you did not make evaluation on time.  Your score is <span> deducted {score} score </span>(5% of the assignment’s total scores)",
+    "description": "homeworkGroupStu.js"
+  },
+  "scoresText": {
+    "message": "marking",
+    "description": "homeworkGroupStu.js"
+  },
+  "totalScoresText": {
+    "message": "Total score: {score} score",
+    "description": "homeworkGroupStu.js"
+  },
+  "addEvaluationText": {
+    "message": "To add comment",
+    "description": "homeworkGroupStu.js"
+  },
+  "testGrammarText": {
+    "message": "The assignment contains less than 10 English words, so the system cannot conduct grammar checking",
+    "description": "homeworkGroupStu.js"
+  },
+  "compositionText": {
+    "message": "The writing is too long, the words exceed 500!",
+    "description": "homeworkGroupStu.js"
+  },
+  "beCheckText": {
+    "message": " Checking now",
+    "description": "homeworkGroupStu.js"
+  },
+  "AmendText": {
+    "message": "Amendment opinion",
+    "description": "homeworkGroupStu.js"
+  },
+  "mutiTimesScoreTipText": {
+    "message": "Take the highest score in multiple answers",
+    "description": "homeworkStu.js"
+  }
+}

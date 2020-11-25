@@ -1,0 +1,66 @@
+{
+  "receivedMessage": {
+    "message": "Messages Received",
+    "description": "1.0 message.js"
+  },
+  "sendedMessage": {
+    "message": "Messages Sent",
+    "description": "1.0 message.js"
+  },
+  "invalidDelete": {
+    "message": "To delete a message, you need to select it first.",
+    "description": "1.0 message.js"
+  },
+  "messageList": {
+    "message": "Message History",
+    "description": "1.0 message.js"
+  },
+  "inputKeyWords": {
+    "message": "Key in within 500 characters",
+    "description": "1.0 message.js"
+  },
+  "submiting": {
+    "message": "Submitting",
+    "description": "1.0 message.js"
+  },
+  "confirmBeforeDelete": {
+    "message": "Are you sure you want to delete this message?",
+    "description": "1.0 message.js"
+  },
+  "inputkeyLimit": {
+    "message": "Exceeding the word limit, please delete part of the content ",
+    "description": "1.0 message.js"
+  },
+  "fileType": {
+    "message": "File Type",
+    "description": "1.0 message.js"
+  },
+  "sendMessage": {
+    "message": "Compose Message",
+    "description": "1.0 message.js"
+  },
+  "selectContact": {
+    "message": "Please choose the person from the contact person list on the right side",
+    "description": "1.0 message.js"
+  },
+  "messageLimit": {
+    "message": "You can send up 300 messages at most",
+    "description": "1.0 message.js"
+  },
+  "messageSend": {
+    "message": "Message is sent",
+    "description": "1.0 message.js"
+  },
+  "searchName": {
+    "message": "Key in name to search...",
+    "description": "1.0 message.js"
+  },
+  "admin": {
+    "message": "administrator; ",
+    "description": "1.0 message.js"
+  },
+  "otherTeacher": {
+    "message": "Other teachers in this institute; ",
+    "description": "1.0 message.js"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "selectCourseFirst": {
+    "message": "Select Course",
+    "description": "1.0 unitSelector.js"
+  },
+  "loadCourse": {
+    "message": "Loading course",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnit": {
+    "message": "Select Module",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnitTip": {
+    "message": "Select a course from the left pane to populate all modules",
+    "description": "1.0 unitSelector.js"
+  },
+  "pleaseSelect": {
+    "message": "Select Course and Module",
+    "description": "1.0 unitSelector.js"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "exportDetails": {
+    "message": "Export Details",
+    "description": "2.0 classroom.js"
+  },
+  "classAlign": {
+    "message": "Re-open",
+    "description": "2.0 classroom.js"
+  },
+  "classroomReport": {
+    "message": "Report",
+    "description": "2.0 classroom.js"
+  },
+  "attendance": {
+    "message": "Session Attendance",
+    "description": "2.0 classroom.js"
+  },
+  "interactionInClass": {
+    "message": "Session Interactive Activities",
+    "description": "2.0 classroom.js"
+  },
+  "participationPoints": {
+    "message": "Participation Points",
+    "description": "2.0 classroom.js"
+  },
+  "integralInClass": {
+    "message": "Session Points Earned",
+    "description": "2.0 classroom.js"
+  },
+  "comprehensivePerformance": {
+    "message": "Student Session Performance - Total Points Earned",
+    "description": "2.0 classroom.js"
+  },
+  "more": {
+    "message": "More >>",
+    "description": "2.0 classroom.js"
+  },
+  "summary": {
+    "message": "Session Summary",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip": {
+    "message": "Click the Edit button to summarize this session for your course.",
+    "description": "2.0 classroom.js"
+  },
+  "reStartFail": {
+    "message": "Failed to re-open!",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip1": {
+    "message": "Cannot exceed 2000 characters",
+    "description": "2.0 classroom.js"
+  },
+  "rankList": {
+    "message": "Ranking",
+    "description": "2.0 classroom.js"
+  },
+  "rankListInClass": {
+    "message": "Class Ranking by Points Earned",
+    "description": "2.0 classroom.js"
+  },
+  "viewClassStatistics": {
+    "message": "View Classroom Statistics",
+    "description": "2.0 classroom.js"
+  },
+  "myRate": {
+    "message": "My Ranking",
+    "description": "2.0 classroom.js"
+  },
+  "myPerformance": {
+    "message": "My Cass Performance",
+    "description": "2.0 classroom.js"
+  },
+  "scoreInClass": {
+    "message": "Class Points Earned",
+    "description": "2.0 classroom.js"
+  },
+  "totalScore": {
+    "message": "Total Points",
+    "description": "2.0 classroom.js",
+    "oldValue": "Total Points: {count}"
+  },
+  "rankInClass": {
+    "message": "Class Ranking",
+    "description": "2.0 classroom.js"
+  },
+  "interaction": {
+    "message": "Classroom Interactions",
+    "description": "2.0 classroom.js"
+  },
+  "answered": {
+    "message": "Answered",
+    "description": "2.0 classroom.js"
+  },
+  "notAnswer": {
+    "message": "Not Answered",
+    "description": "2.0 classroom.js"
+  },
+  "selected": {
+    "message": "Selected",
+    "description": "2.0 classroom.js"
+  },
+  "joined": {
+    "message": "Participated",
+    "description": "2.0 classroom.js"
+  },
+  "notJoin": {
+    "message": "Not Participated",
+    "description": "2.0 classroom.js"
+  },
+  "score": {
+    "message": "Total Score",
+    "description": "2.0 classroom.js"
+  },
+  "classroomCount": {
+    "message": "Number of sessions",
+    "description": "2.0 classroom.js"
+  },
+  "activity": {
+    "message": "Activities",
+    "description": "2.0 classroom.js"
+  },
+  "classroomList": {
+    "message": "Sessions",
+    "description": "2.0 classroom.js"
+  },
+  "createClassroom": {
+    "message": "Create Session",
+    "description": "2.0 classroom.js"
+  },
+  "studentPerformance": {
+    "message": "Student Performance",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStatistics": {
+    "message": "Session Statistics",
+    "description": "2.0 classroom.js"
+  },
+  "classroomName": {
+    "message": "Session Name",
+    "description": "2.0 classroom.js"
+  },
+  "classTime": {
+    "message": "Start Time",
+    "description": "2.0 classroom.js"
+  },
+  "classesInClassroom": {
+    "message": "Classes",
+    "description": "2.0 classroom.js"
+  },
+  "inClass": {
+    "message": "In progress",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroom": {
+    "message": "Open",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroom": {
+    "message": "Duplicate",
+    "description": "2.0 classroom.js"
+  },
+  "noClassroom": {
+    "message": "No sessions found.",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroomName": {
+    "message": "Enter the session name",
+    "description": "2.0 classroom.js"
+  },
+  "noClass1": {
+    "message": "No classes found.",
+    "description": "2.0 classroom.js"
+  },
+  "lastClass": {
+    "message": "Previously Selected",
+    "description": "2.0 classroom.js"
+  },
+  "startClass": {
+    "message": "Start Now",
+    "description": "2.0 classroom.js"
+  },
+  "notClass": {
+    "message": "Start Later",
+    "description": "2.0 classroom.js"
+  },
+  "allClassroom": {
+    "message": "All sessions",
+    "description": "2.0 classroom.js"
+  },
+  "deleteClassroom": {
+    "message": "Delete Session",
+    "description": "2.0 classroom.js"
+  },
+  "confirmDeleteClassroom": {
+    "message": "Are you sure you want to delete this session",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomToClass": {
+    "message": "Duplicate Session",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomTip": {
+    "message": "Duplicated activities are inactive. You can activate these activities after the session starts. Roll Call and Random Pick activities cannot be duplicated.",
+    "description": "2.0 classroom.js"
+  },
+  "copySuccess": {
+    "message": "Duplicated successfully!",
+    "description": "2.0 classroom.js"
+  },
+  "copyFailed": {
+    "message": "Failed to duplicate!",
+    "description": "2.0 classroom.js"
+  },
+  "editClassroom": {
+    "message": "Edit Session",
+    "description": "2.0 classroom.js"
+  },
+  "classErrorTip": {
+    "message": "Select at least one class",
+    "description": "2.0 classroom.js"
+  },
+  "faceAuthentication": {
+    "message": "Face Verification",
+    "description": "2.0 classroom.js"
+  },
+  "auditTips2": {
+    "message": "Face verification is on. Student facial photos need to be uploaded in advance. Photos can be imported in bulk by the teacher or uploaded by students. If a facial photo is uploaded by the student, it has to be reviewed and approved by the teacher.",
+    "description": "2.0 classroom.js"
+  }
+}

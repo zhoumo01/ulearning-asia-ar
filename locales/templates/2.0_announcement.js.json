@@ -1,0 +1,58 @@
+{
+  "announcement": {
+    "message": "Announcements",
+    "description": "2.0 announcement.js"
+  },
+  "close": {
+    "message": "Close",
+    "description": "2.0 announcement.js"
+  },
+  "schoolAnnouncement": {
+    "message": "School Announcements",
+    "description": "2.0 announcement.js"
+  },
+  "systemAnnouncement": {
+    "message": "System Announcements",
+    "description": "2.0 announcement.js"
+  },
+  "publishedIn": {
+    "message": "Date Posted",
+    "description": "2.0 announcement.js"
+  },
+  "download": {
+    "message": "Download",
+    "description": "2.0 announcement.js"
+  },
+  "fold": {
+    "message": "Collapse",
+    "description": "2.0 announcement.js"
+  },
+  "unfold": {
+    "message": "Expand",
+    "description": "2.0 announcement.js"
+  },
+  "noAnnouncement": {
+    "message": "No announcements found",
+    "description": "2.0 announcement.js"
+  },
+  "homePage": {
+    "message": "Home Page",
+    "description": "2.0 announcement.js"
+  },
+  "lastPage": {
+    "message": "Last Page",
+    "description": "2.0 announcement.js"
+  },
+  "frontPage": {
+    "message": "Previous Page",
+    "description": "2.0 announcement.js"
+  },
+  "backPage": {
+    "message": "New Page",
+    "description": "2.0 announcement.js"
+  },
+  "jumpPage": {
+    "message": "Jump",
+    "description": "2.0 announcement.js"
+  }
+}

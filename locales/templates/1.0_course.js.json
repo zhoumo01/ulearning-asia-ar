@@ -1,0 +1,98 @@
+{
+  "previewCourse": {
+    "message": "Preview",
+    "description": "网页的标题"
+  },
+  "startStudy": {
+    "message": "Start",
+    "description": "一个按钮"
+  },
+  "joinCourse": {
+    "message": "This course is offered by your School. Enroll the course by scanning QR code or entering the class code provided by your teacher.",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "logintitle": {
+    "message": "Login",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "username": {
+    "message": "Username",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "usernameOrPhoneNo": {
+    "message": "Username/phone number",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "password": {
+    "message": "Password",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordtile": {
+    "message": "Enter password",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "forgetPassword": {
+    "message": "Forgot password?",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "register": {
+    "message": "Register now",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "wxLogin": {
+    "message": " ",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "errorTitle": {
+    "message": "User name or password incorrect",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginMsg": {
+    "message": "The username field is required",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordMsg": {
+    "message": "The password field is required",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "confirm": {
+    "message": "Got it",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputTip": {
+    "message": "Please enter username/phone number",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "inputLimitTip": {
+    "message": "You have already tried 5 times. Try again after three minutes.",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "dynamicCode": {
+    "message": "6-digit security code",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtect": {
+    "message": "Login protection",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtectTip": {
+    "message": "Login protection has been enabled for your account. Check the text message sent to your phone.",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputCode": {
+    "message": "Enter the security code",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "codeError": {
+    "message": "Incorrect security code",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "sendCode": {
+    "message": "Send verification code",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "reSendCode": {
+    "message": "Re-send",
+    "description": "1.0 umooc-web courseDetail"
+  }
+}

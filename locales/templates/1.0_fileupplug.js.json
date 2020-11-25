@@ -1,0 +1,130 @@
+{
+  "uploadFile": {
+    "message": "Upload File",
+    "description": "1.0 fileupplug.js"
+  },
+  "referenceFile": {
+    "message": "Link",
+    "description": "1.0 fileupplug.js"
+  },
+  "selectFile": {
+    "message": "Select File",
+    "description": "1.0 fileupplug.js"
+  },
+  "attachment": {
+    "message": "Upload Attachment",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileProcess": {
+    "message": "Please wait while the file is processing...",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploading": {
+    "message": "Uploading...",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileLessThan": {
+    "message": "Upload files are less than {size}",
+    "description": "注意：花括号( 即 {} ) 里面的值是插值，不要改，大小写也不能变化"
+  },
+  "netError": {
+    "message": "Network error,Please check the network",
+    "description": "1.0 fileupplug.js"
+  },
+  "failText": {
+    "message": "Upload files failed",
+    "description": "1.0 fileupplug.js"
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "1.0 fileupplug.js"
+  },
+  "Delete": {
+    "message": "Delete",
+    "description": "1.0 fileupplug.js"
+  },
+  "cancelUpload": {
+    "message": "Cancel Upload",
+    "description": "1.0 fileupplug.js"
+  },
+  "fileCountLimit": {
+    "message": "Upload {count} attachments at most",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr1": {
+    "message": "Upload error, can not upload the same file!",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr2": {
+    "message": "Upload error, File size exceeded limit!",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadErr3": {
+    "message": "Upload error, Please check file or network status and try again later!",
+    "description": "1.0 fileupplug.json"
+  },
+  "uploadFileLimit": {
+    "message": "Up to {count} attachments",
+    "description": "1.0 fileupplug.js"
+  },
+  "docFailText": {
+    "message": "Document conversion failed!",
+    "description": "1.0 fileupplug.js"
+  },
+  "docConversionErrorText": {
+    "message": "Document conversion format error!",
+    "description": "1.0 fileupplug.js"
+  },
+  "videoFailText": {
+    "message": "Video clip conversion failed!",
+    "description": "1.0 fileupplug.js"
+  },
+  "videoConversionErrorText": {
+    "message": "Video clip  conversion format error!",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadingStr": {
+    "message": "There are files being uploaded",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadComplete": {
+    "message": "Upload completed",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadFail": {
+    "message": "Upload fail",
+    "description": "1.0 fileupplug.js"
+  },
+  "onlyUpload": {
+    "message": "Only upload {file} Files",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadcomponentFail": {
+    "message": "Upload component initialization failed, please change a browser try, under resolution.",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadFileFail": {
+    "message": "Upload file fail",
+    "description": "1.0 fileupplug.js"
+  },
+  "contentFile": {
+    "message": "Please don't upload the same file",
+    "description": "1.0 fileupplug.js"
+  },
+  "contentFile2": {
+    "message": "Unable to upload same document",
+    "description": "1.0 fileupplug.js"
+  },
+  "addSubtitles": {
+    "message": "Add track",
+    "description": "1.0 fileupplug.js"
+  },
+  "confirmDelete": {
+    "message": "Confirm to delete?",
+    "description": "1.0 fileupplug.js"
+  },
+  "uploadAttach": {
+    "message": "Upload Attachment",
+    "description": "1.0 fileupplug.js"
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "allStudentsList": {
+    "message": "All students",
+    "description": "2.0 certification.js "
+  },
+  "passStuList": {
+    "message": "Achievement students",
+    "description": "2.0 certification.js "
+  },
+  "excellenceStuList": {
+    "message": "Excellence students",
+    "description": "2.0 certification.js "
+  },
+  "unqualifiedStuList": {
+    "message": "Unqualified students",
+    "description": "2.0 certification.js "
+  },
+  "allClasses": {
+    "message": "All classes",
+    "description": "2.0 certification.js "
+  },
+  "pass": {
+    "message": "Qualified",
+    "description": "2.0 certification.js "
+  },
+  "certificateConfirm": {
+    "message": "Are you sure you want to issue the certificates?",
+    "description": "2.0 certificate.js"
+  },
+  "certificateIssuedSuccess": {
+    "message": "Issued successfully!",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificateFailed": {
+    "message": "Failed to issue the certificates!",
+    "description": "2.0 certification.js "
+  },
+  "batchIssueCertificates": {
+    "message": "Batch Issue Certificates",
+    "description": "2.0 certification.js "
+  },
+  "batchTip": {
+    "message": "Are you sure you want to issue certificates to all eligible students? Please be aware that once certificates are issued, it can’t be modified or recalled",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificate": {
+    "message": "Issue Certificate",
+    "description": "2.0 certification.js "
+  },
+  "refreshFailed": {
+    "message": "Failed to refresh",
+    "description": "2.0 certification.js "
+  },
+  "excellent": {
+    "message": "Excellent",
+    "description": "2.0 certification.js "
+  },
+  "certificateManagement": {
+    "message": "Certificate Management",
+    "description": "2.0 certification.js "
+  },
+  "certificateMaTip": {
+    "message": "Only course teachers or admin can manage and issue certificates",
+    "description": "2.0 certification.js "
+  },
+  "certificateSettings": {
+    "message": "Certificate Settings",
+    "description": "2.0 certification.js "
+  },
+  "refreshGrade": {
+    "message": "Refresh Results",
+    "description": "2.0 certification.js "
+  },
+  "exportList": {
+    "message": "Export Results",
+    "description": "2.0 certification.js "
+  },
+  "allStu": {
+    "message": "Total ",
+    "description": "2.0 certification.js "
+  },
+  "person": {
+    "message": " |",
+    "description": "2.0 certification.js "
+  },
+  "passConditions": {
+    "message": "Qualified ",
+    "description": "2.0 certification.js "
+  },
+  "unqualifiedNum": {
+    "message": "Unqualified",
+    "description": "2.0 certification.js "
+  },
+  "passRate": {
+    "message": "Achievement Rate ",
+    "description": "2.0 certification.js "
+  },
+  "excellentRate": {
+    "message": "| Excellence Rate ",
+    "description": "2.0 certification.js "
+  },
+  "type": {
+    "message": "Certificate",
+    "description": "2.0 certification.js "
+  },
+  "certificateRequest": {
+    "message": "Qualifications",
+    "description": "2.0 certification.js "
+  },
+  "passNum": {
+    "message": "Student Counts",
+    "description": "2.0 certification.js "
+  },
+  "proportion": {
+    "message": "Percentage",
+    "description": "2.0 certification.js "
+  },
+  "conformityCertificate": {
+    "message": "Certificate of Achievement",
+    "description": "2.0 certification.js "
+  },
+  "sample": {
+    "message": "Click to View",
+    "description": "2.0 certification.js "
+  },
+  "courseAssessmentScore": {
+    "message": "Final grade",
+    "description": "2.0 certification.js "
+  },
+  "score": {
+    "message": "points",
+    "description": "2.0 certification.js "
+  },
+  "excellenceCertificate": {
+    "message": "Certificate of Excellence",
+    "description": "2.0 certification.js "
+  },
+  "unqualified": {
+    "message": "Unqualified",
+    "description": "2.0 certification.js "
+  },
+  "studentList": {
+    "message": "Student List",
+    "description": "2.0 certification.js "
+  },
+  "lastCertificateIssued": {
+    "message": "Last Issued:",
+    "description": "2.0 certification.js "
+  },
+  "username": {
+    "message": "Username",
+    "description": "2.0 certification.js "
+  },
+  "actualName": {
+    "message": "Student Name",
+    "description": "2.0 certification.js "
+  },
+  "explanation": {
+    "message": "more >>",
+    "description": "2.0 certification.js "
+  },
+  "explanationContent": {
+    "message": "Based on the final grade when the certificate was issued. Updated final grade won't change the qualifications and type of certificate already issued.",
+    "description": "2.0 certification.js "
+  },
+  "certificateType": {
+    "message": "Certificate",
+    "description": "2.0 certification.js "
+  },
+  "certificateIssued": {
+    "message": "Certificates Issued",
+    "description": "2.0 certification.js "
+  },
+  "NoResults": {
+    "message": "No results found!",
+    "description": "2.0 certification.js "
+  },
+  "noCourseAssessment": {
+    "message": "The certificates cannot be issued for the courses which have not set the grading rules.",
+    "description": "2.0 certification.js "
+  },
+  "clickToSet": {
+    "message": "Click to set >>",
+    "description": "2.0 certification.js "
+  },
+  "noCertificate": {
+    "message": "Certificates haven't yet been set",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip1": {
+    "message": " The certificate has been issued and modification of the certificate settings is not supported ",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip2": {
+    "message": "Notes: Grading rules have to be set before you set up certificates.",
+    "description": "2.0 certification.js "
+  },
+  "courseSummaryScore": {
+    "message": "Final grade",
+    "description": "2.0 certification.js "
+  },
+  "canGetPassCer": {
+    "message": "for Certificate of Achievement",
+    "description": "2.0 certification.js "
+  },
+  "setPass": {
+    "message": "Certificate of Achievement Only",
+    "description": "2.0 certification.js "
+  },
+  "setPassAndExcellence": {
+    "message": "Both Certificate of Achievement and Certificate of Excellence",
+    "description": "2.0 certification.js "
+  },
+  "but": {
+    "message": "but",
+    "description": "2.0 certification.js "
+  },
+  "canGetExcellenceCer": {
+    "message": "for Certificate of Excellence",
+    "description": "2.0 certification.js "
+  },
+  "enterScore": {
+    "message": "Enter score here",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip": {
+    "message": "Enter the correct score with only one decimal place",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip1": {
+    "message": "The score entered should not exceed the possible points set for the final grade.",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip2": {
+    "message": "Achievement score cannot be higher than excellence score",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip3": {
+    "message": "Only the class admin can set certificates",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip4": {
+    "message": "Some certificates have already been issued. Certificate qualifications cannot be modified.",
+    "description": "2.0 certification.js "
+  },
+  "save": {
+    "message": "Save",
+    "description": "2.0 certification.js "
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "2.0 certification.js "
+  },
+  "close": {
+    "message": "Close",
+    "description": "2.0 certification.js "
+  },
+  "certificate": {
+    "message": "Certificate",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip5": {
+    "message": "Saved successfully!",
+    "description": "2.0 certification.js "
+  },
+  "studentID": {
+    "message": "Student ID",
+    "description": "2.0 certification.js "
+  },
+  "school": {
+    "message": "School",
+    "description": "2.0 certification.js "
+  },
+  "certificateContent1": {
+    "message": "Congratulations for having successfully completed the course of ",
+    "description": "2.0 certification.js "
+  },
+  "certificateContent2": {
+    "message": ". ",
+    "description": "2.0 certification.js "
+  },
+  "certificateContent3": {
+    "message": "You are awarded  ",
+    "description": "2.0 certification.js "
+  },
+  "certificateNo": {
+    "message": "Certificate No.",
+    "description": "2.0 certification.js "
+  },
+  "issueDate": {
+    "message": "Date",
+    "description": "2.0 certification.js "
+  },
+  "certificateReq": {
+    "message": "Certificate Qualifications: ",
+    "description": "2.0 certification.js "
+  },
+  "viewExample": {
+    "message": "View Sample",
+    "description": "2.0 certification.js "
+  },
+  "myCertificate": {
+    "message": "My Certificates",
+    "description": "2.0 certification.js "
+  },
+  "certificateStuTip1": {
+    "message": "You have reached the minimum course score required for ",
+    "description": "2.0 certification.js "
+  },
+  "certificateStuTip2": {
+    "message": " and satisfied the certificate qualifications. Congratulations!",
+    "description": "2.0 certification.js "
+  },
+  "certificateStuTip": {
+    "message": "Notes: Certificates won't be updated once they are issued, even if your course grade was changed.",
+    "description": "2.0 certification.js "
+  },
+  "downloadCertificate": {
+    "message": "Download Certificate",
+    "description": "2.0 certification.js "
+  },
+  "noCerTip": {
+    "message": "No certificates found",
+    "description": "2.0 certification.js "
+  },
+  "noCerTip1": {
+    "message": "To assure accuracy of the information on the certificates, please ",
+    "description": "2.0 certification.js "
+  },
+  "noCerTip2": {
+    "message": "complete your profile information (if you haven't done yet).",
+    "description": "2.0 certification.js "
+  },
+  "notSetCerTip": {
+    "message": "Your teacher has not set up any course certificate.",
+    "description": "2.0 certification.js "
+  },
+  "pass1": {
+    "message": "the Certificate of Achievement",
+    "description": "2.0 certification.js "
+  },
+  "excellent1": {
+    "message": "the Certificate of Excellence",
+    "description": "2.0 certification.js "
+  },
+  "juhao": {
+    "message": ".",
+    "description": "2.0 certification.js "
+  },
+  "shuminghao1": {
+    "message": " ",
+    "description": "2.0 certification.js "
+  },
+  "shuminghao2": {
+    "message": " ",
+    "description": "2.0 certification.js "
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "qLibrary": {
+    "message": "Question Bank",
+    "description": "1.0 public.js"
+  },
+  "singleQ": {
+    "message": "Multiple Choice",
+    "description": "1.0 public.js"
+  },
+  "moreQ": {
+    "message": "Multiple Response",
+    "description": "1.0 public.js"
+  },
+  "yesNoQ": {
+    "message": "True/False",
+    "description": "1.0 public.js"
+  },
+  "fillQ": {
+    "message": "Fill in the Blank",
+    "description": "1.0 public.js"
+  },
+  "JQuiz": {
+    "message": "Short Answer",
+    "description": "1.0 public.js"
+  },
+  "SequenceQ": {
+    "message": "Sequence",
+    "description": "1.0 public.js"
+  },
+  "vocabularyTest": {
+    "message": "Word Bank",
+    "description": "1.0 public.js"
+  },
+  "writeEnglish": {
+    "message": "Write english",
+    "description": "1.0 public.js"
+  },
+  "drop": {
+    "message": "Multiple Drop-down",
+    "description": "1.0 public.js"
+  },
+  "clozeTest": {
+    "message": "Cloze Test ",
+    "description": "1.0 public.js"
+  },
+  "spokenReadQ": {
+    "message": "Language - Read Aloud",
+    "description": "1.0 public.js"
+  },
+  "subOral": {
+    "message": "Language - Oral",
+    "description": "1.0 public.js"
+  },
+  "formulaCalc": {
+    "message": "Calculated Formula",
+    "description": "1.0 public.js"
+  },
+  "synthesis": {
+    "message": "Combination",
+    "description": "1.0 public.js"
+  },
+  "single": {
+    "message": "Single choice",
+    "description": "1.0 public.js"
+  },
+  "multiple": {
+    "message": "Multiple choice",
+    "description": "1.0 public.js"
+  },
+  "judge": {
+    "message": "True/False",
+    "description": "1.0 public.js"
+  },
+  "fill": {
+    "message": "Fill in the blank",
+    "description": "1.0 public.js"
+  },
+  "shortAnswer": {
+    "message": "Short answer",
+    "description": "1.0 public.js"
+  },
+  "sort": {
+    "message": "Sort",
+    "description": "1.0 public.js"
+  },
+  "fillBlank": {
+    "message": "Fill in the blank with choices",
+    "description": "1.0 public.js"
+  },
+  "dropDown": {
+    "message": "Drop-down multiple choice",
+    "description": "1.0 public.js"
+  },
+  "cloze": {
+    "message": "Cloze",
+    "description": "1.0 public.js"
+  },
+  "spokenRead": {
+    "message": "Oral-reading",
+    "description": "1.0 public.js"
+  },
+  "subSpoken": {
+    "message": "Oral-subjective question",
+    "description": "1.0 public.js"
+  },
+  "saveText": {
+    "message": "Save",
+    "description": "1.0 public.js"
+  },
+  "deleteText": {
+    "message": "Delete",
+    "description": "1.0 public.js"
+  },
+  "edit": {
+    "message": "Edit",
+    "description": "1.0 public.js"
+  },
+  "cancelText": {
+    "message": "Cancel",
+    "description": "1.0 public.js"
+  },
+  "OK": {
+    "message": "OK",
+    "description": "1.0 public.js"
+  },
+  "submitText": {
+    "message": "Submit",
+    "description": "1.0 public.js"
+  },
+  "tag": {
+    "message": "Tag",
+    "description": "1.0 public.js"
+  },
+  "upload": {
+    "message": "Upload",
+    "description": "1.0 public.js"
+  },
+  "answer": {
+    "message": "Answer",
+    "description": "1.0 public.js"
+  },
+  "analysis": {
+    "message": "Answer Explanation",
+    "description": "1.0 public.js"
+  },
+  "appointedTeacher": {
+    "message": "Selected teachers",
+    "description": "1.0 public.js"
+  },
+  "schoolTeacher": {
+    "message": "School teachers",
+    "description": "1.0 public.js"
+  },
+  "allTeacher": {
+    "message": "All teachers",
+    "description": "1.0 public.js"
+  },
+  "scoreUnit": {
+    "message": "{count} Scores Total",
+    "description": "1.0 public.js"
+  },
+  "selectAll": {
+    "message": "Select all",
+    "description": "1.0 public.js"
+  },
+  "all": {
+    "message": "All",
+    "description": "1.0 public.js"
+  },
+  "uploadFile": {
+    "message": "Upload File",
+    "description": "1.0 public.js"
+  },
+  "addAttachment": {
+    "message": "Add Attachment",
+    "description": "1.0 public.js"
+  },
+  "uploading": {
+    "message": "Uploading...",
+    "description": "1.0 public.js"
+  },
+  "size": {
+    "message": "Size",
+    "description": "1.0 public.js"
+  },
+  "selectClass": {
+    "message": "Select Class",
+    "description": "1.0 public.js"
+  },
+  "point": {
+    "message": "Alert",
+    "description": "1.0 public.js"
+  },
+  "know": {
+    "message": "I kown",
+    "description": "1.0 public.js"
+  },
+  "checkNoResult": {
+    "message": "Check no results, please check the query conditions!",
+    "description": "1.0 public.js"
+  },
+  "pleaseInput": {
+    "message": "Please Input",
+    "description": "1.0 public.js"
+  },
+  "gotoTop": {
+    "message": "Back Top",
+    "description": "1.0 public.js"
+  },
+  "preview": {
+    "message": "Preview",
+    "description": "1.0 public.js"
+  },
+  "dialogDefaultContent": {
+    "message": "Edit material successfully",
+    "description": "1.0 public.js"
+  },
+  "close": {
+    "message": "Close",
+    "description": "1.0 public.js"
+  },
+  "download": {
+    "message": "Download",
+    "description": "1.0 public.js"
+  },
+  "paste": {
+    "message": "Paste",
+    "description": "1.0 public.js"
+  },
+  "flashVersionTip": {
+    "message": "Flash version should be at least 11.1.0",
+    "description": "1.0 public.js"
+  },
+  "getFlash": {
+    "message": "Get Adobe Flash player",
+    "description": "1.0 public.js"
+  },
+  "recordTime": {
+    "message": "Recording time: {duration} Second",
+    "description": "recorde.js"
+  },
+  "initializing": {
+    "message": "Initializing, please wait...",
+    "description": "recorde.js"
+  },
+  "recordError": {
+    "message": "Recording failed",
+    "description": "recorde.js"
+  }
+}
