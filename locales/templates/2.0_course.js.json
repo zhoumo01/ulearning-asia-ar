@@ -195,6 +195,10 @@
     "message": "Videos",
     "description": "2.0 course.js"
   },
+  "totalDurationOf": {
+    "message": "Total Length: {count} min",
+    "description": "2.0 course.js"
+  },
   "document": {
     "message": "Documents",
     "description": "2.0 course.js"
@@ -383,6 +387,10 @@
     "message": "Students Picked: ",
     "description": "2.0 course.js"
   },
+  "examTimes": {
+    "message": "Exam Sessions: {n}",
+    "description": "2.0 course.js"
+  },
   "usePaperNumber": {
     "message": "Exams Used: ",
     "description": "2.0 course.js"
@@ -450,6 +458,10 @@
   "totalTimes": {
     "message": "Total: {n} ",
     "description": "2.0 course.js"
+  },
+  "totalTimes2": {
+    "message": "Total: {n} ",
+    "description": "教师账号 -> 课程分析"
   },
   "totalAttendanceRate": {
     "message": "Attendance Rate: ",
@@ -595,9 +607,9 @@
     "message": "No data found",
     "description": "2.0 course.js"
   },
-  "week": {
-    "message": "week(s)",
-    "description": "2.0 course.js"
+  "weekOf": {
+    "message": "{count} weeks(s)",
+    "description": "登录ua后 - 创建或查看一门课程 -> 左侧导航栏 -> 学期管理 -> 添加学期"
   },
   "weekIndex": {
     "message": "Week {n} ",
@@ -617,6 +629,18 @@
   },
   "teacher2": {
     "message": "Teacher",
+    "description": "2.0 course.js"
+  },
+  "specialTeacherBefore1": {
+    "message": " ",
+    "description": "2.0 course.js"
+  },
+  "specialTeacherBefore2": {
+    "message": " ",
+    "description": "2.0 course.js"
+  },
+  "specialTeacherBefore3": {
+    "message": " ",
     "description": "2.0 course.js"
   },
   "specialTeacherAfter": {
@@ -659,13 +683,9 @@
     "message": "All colleges",
     "description": "2.0 course.js"
   },
-  "stuLibImportTips5": {
-    "message": "Selected ",
-    "description": "2.0 course.js"
-  },
-  "stuLibImportTips6": {
-    "message": " classes",
-    "description": "2.0 course.js"
+  "stuLibSelectTip1": {
+    "message": "Selected {count} classes",
+    "description": "教师账号 -> 成员 -> 班级管理 -> 批量导入班级 -> 从学生库导入 -> 弹框左下角"
   },
   "grade": {
     "message": "Year",
@@ -675,13 +695,9 @@
     "message": "College",
     "description": "2.0 course.js"
   },
-  "stuLibImportTips7": {
-    "message": "Selected ",
-    "description": "2.0 course.js"
-  },
-  "stuLibImportTips8": {
-    "message": " student(s)",
-    "description": "2.0 course.js"
+  "stuLibSelectTip2": {
+    "message": "Selected {count} student(s)",
+    "description": "教师账号 -> 成员 -> 班级管理 -> 添加学生 -> 弹框左下角"
   },
   "stuLibImportTips9": {
     "message": "Notes: It will import only the students who aren't yet in the course. If a class with the same name already exists in the course, only the students will be imported.",
@@ -799,13 +815,13 @@
     "message": "Published by",
     "description": "2.0 course.js"
   },
-  "peopleReaded": {
-    "message": "students viewed",
-    "description": "2.0 course.js"
+  "readedOf": {
+    "message": "{count} student(s) viewed",
+    "description": "教师账号 -> 公告"
   },
-  "classColon": {
-    "message": "Class: ",
-    "description": "2.0 course.js"
+  "classesOf": {
+    "message": "Classes: {classes}",
+    "description": "教师账号 -> 公告"
   },
   "download": {
     "message": "Download ",
@@ -971,6 +987,10 @@
     "message": "{stuName}: {count} point(s) ",
     "description": "2.0 course.js"
   },
+  "points": {
+    "message": "{count} point(s) ",
+    "description": "2.0 course.js"
+  },
   "scoreCol": {
     "message": "Points possible ",
     "description": "2.0 course.js"
@@ -999,36 +1019,40 @@
     "message": "View Gradable Modules",
     "description": "2.0 course.js"
   },
+  "studyScoreOf": {
+    "message": "Courseware Learning Result: {percent}%",
+    "description": "2.0 course.js"
+  },
   "averageScoreByChapter": {
-    "message": "By avg score per selected module",
+    "message": "By average score of selected modules ",
     "description": "2.0 course.js"
   },
   "studyTimeColon": {
-    "message": "Learning Time：",
+    "message": "Courseware Learning Time: {percent}%",
     "description": "2.0 course.js"
   },
   "totalStudyTimeAchieve": {
-    "message": "Cumulative learning time reaches ",
+    "message": "The cumulative learning time reaches {max} minutes for total possible; less than {min} minutes for 0 points",
     "description": "2.0 course.js"
   },
   "chapterStudyTimeAchieve": {
-    "message": "Learning time of each module reaches ",
+    "message": "The module learning time reaches {max} minutes for total possible; less than {min} minutes for 0 points",
     "description": "2.0 course.js"
   },
   "sectionStudyTimeAchieve": {
-    "message": "Learning time of each topic reaches ",
+    "message": "The topic learning time reaches {max} minutes for total possible; less than {min} minutes for 0 points",
     "description": "2.0 course.js"
   },
   "studyProgressColon": {
-    "message": "Learning Progress: ",
+    "message": "Courseware Learning Progress: {percent}%",
     "description": "2.0 course.js"
   },
   "totalStudyProgress": {
-    "message": "Cumulative learning progress reaches ",
+    "message": "Cumulative learning progress reaches {max}% for total possible; less than {min}% for 0 points",
     "description": "2.0 course.js"
   },
   "chapterStudyProgress": {
-    "message": "Learning progress of each module reaches ",
+    "message": "Learning progress of each module reaches {max}% for total possible; less than {min}% for 0 points",
     "description": "2.0 course.js"
   },
   "noParticipants": {
@@ -1099,13 +1123,13 @@
     "message": "End",
     "description": "2.0 course.js"
   },
-  "etc": {
-    "message": "...",
-    "description": "2.0 course.js"
+  "unfoldAllClasses": {
+    "message": "Expand all {count} classes",
+    "description": "教师账号 -> 考核 -> 查看策略 \n 教师账号 -> 考核 -> 查看成绩 (汇总成绩后才会出现查看成绩这个按钮)"
   },
-  "classes": {
-    "message": " classes",
-    "description": "2.0 course.js"
+  "classesEtc": {
+    "message": "{classes}, ... -  {count} classes",
+    "description": "教师账号 -> 考核 \n 教师账号 -> 课堂 \n 教师账号 -> 成员 -> 教学团队"
   },
   "classesLink": {
     "message": "{count} classes >>",
@@ -1165,10 +1189,6 @@
   },
   "assessmentClass": {
     "message": "Class for Grading",
-    "description": "2.0 course.js"
-  },
-  "unfoldAll": {
-    "message": "Expand",
     "description": "2.0 course.js"
   },
   "deadline": {
@@ -1284,7 +1304,7 @@
     "description": "2.0 course.js"
   },
   "createStrTips3": {
-    "message": "(The grading rules strategy already exist)",
+    "message": "(The grading rules already exist)",
     "description": "2.0 course.js"
   },
   "createStrTips4": {
@@ -1316,7 +1336,7 @@
     "description": "2.0 course.js"
   },
   "createStrTips7": {
-    "message": "Notes: Select at least one grading item, and the total weight of the selected grading item(s) must be 100%",
+    "message": "Note: Select at least one grading item, and the total weight of the selected grading item(s) must be 100%",
     "description": "2.0 course.js"
   },
   "studyScore": {
@@ -1596,7 +1616,7 @@
     "description": "2.0 course.js"
   },
   "contentValidateTips1": {
-    "message": "Title name should be between 4-200 characters",
+    "message": "Title name should be between 2-100 characters",
     "description": "2.0 course.js"
   },
   "switchingChapters": {
@@ -1813,6 +1833,14 @@
   },
   "detail": {
     "message": "Details ",
+    "description": "2.0 course.js"
+  },
+  "homeworkBetweenTime": {
+    "message": "Assignment Availability: {startTime} to {endTime} ",
+    "description": "2.0 course.js"
+  },
+  "betweenTime": {
+    "message": "{startTime} to {endTime} ",
     "description": "2.0 course.js"
   },
   "commitEnd": {
@@ -2371,13 +2399,9 @@
     "message": "The following students are already in the class. The import list will not show these students.",
     "description": "2.0 course.js"
   },
-  "let": {
-    "message": "Move",
-    "description": "2.0 course.js"
-  },
-  "replaceTo": {
-    "message": "to:",
-    "description": "2.0 course.js"
+  "batchReplaceStudents": {
+    "message": "Move {students} to {classesForm}",
+    "description": "教师账号 -> 成员 -> 学生管理 -> 更换班级"
   },
   "appointClassForTeacher": {
     "message": "Assign Class",
@@ -2612,7 +2636,7 @@
     "description": "2.0 course.js"
   },
   "memberSpocValidateTips15": {
-    "message": " class names exceed 200 characters!",
+    "message": "The class name of No {n} class exceed 200 characters!",
     "description": "2.0 course.js"
   },
   "memberSpocValidateTips16": {
@@ -2787,13 +2811,9 @@
     "message": "Group Leader",
     "description": "2.0 course.js"
   },
-  "randomDivide": {
-    "message": "Randomly divide into ",
-    "description": "2.0 course.js"
-  },
-  "group2": {
-    "message": " groups",
-    "description": "2.0 course.js"
+  "randomDivideGroup": {
+    "message": "Randomly divided into {inputCount} groups",
+    "description": "教师账号 -> 成员 -> 班级小组方案 -> 随机分组"
   },
   "classGroupTips3": {
     "message": "The class already has groups. Are you sure you want to replace the existing groups?",
@@ -3361,7 +3381,7 @@
   },
   "yuan": {
     "message": " RMB",
-    "description": "2.0 course.js"
+    "description": "相关代码已注释，可以先不用翻译"
   },
   "selectFile": {
     "message": "Select File",
@@ -3583,6 +3603,14 @@
     "message": "Non-Video Content",
     "description": "2.0 course.js"
   },
+  "semesterRichText": {
+    "message": "Courseware Rich Contents: {n} ",
+    "description": "2.0 course.js"
+  },
+  "semesterResource": {
+    "message": "Courseware Resources: {n} ",
+    "description": "2.0 course.js"
+  },
   "quantityCl": {
     "message": "Total: ",
     "description": "2.0 course.js"
@@ -3591,8 +3619,24 @@
     "message": "Assignments/Quizzes",
     "description": "2.0 course.js"
   },
+  "testQueNumberOf": {
+    "message": "Quiz Questions: {n} ",
+    "description": "2.0 course.js"
+  },
+  "testQueNumberTip": {
+    "message": "(Only quiz assignments have questions)",
+    "description": "2.0 course.js"
+  },
+  "participantsPeopleOf": {
+    "message": "Participants: {n} ",
+    "description": "2.0 course.js"
+  },
   "discussAndCommunication": {
     "message": "Discussions",
+    "description": "2.0 course.js"
+  },
+  "topicTotalNumberOf": {
+    "message": "Discussion Topics: {n} ",
     "description": "2.0 course.js"
   },
   "semesterTips7": {
@@ -3601,6 +3645,14 @@
   },
   "participantsDiscussNumberCl": {
     "message": "Active Participants: ",
+    "description": "2.0 course.js"
+  },
+  "examQueNumberOf": {
+    "message": "Exam Questions: {n} ",
+    "description": "2.0 course.js"
+  },
+  "passPeopleOf": {
+    "message": "Students Who Passed Exam: {n} ",
     "description": "2.0 course.js"
   },
   "outsideSchoolClass": {
@@ -3788,7 +3840,7 @@
     "description": "2.0 course.js"
   },
   "remaining": {
-    "message": " ",
+    "message": "{n} days left  ",
     "description": "2.0 course.js"
   },
   "progress": {
@@ -3817,6 +3869,18 @@
   },
   "mobileTerminal": {
     "message": "Mobile",
+    "description": "2.0 course.js"
+  },
+  "browserTip": {
+    "message": "If you use a PC to access ULearning, we recommend to use {chrome} or {qqBrowser} browser.",
+    "description": "{chrome} 插值见 chrome 字段，qqBrowser 插值见 qqBrowser 字段"
+  },
+  "chrome": {
+    "message": "Google Chrome (Download) ",
+    "description": "2.0 course.js"
+  },
+  "qqBrowser": {
+    "message": "QQ Browser (Download) ",
     "description": "2.0 course.js"
   },
   "canStudyTime": {
@@ -4116,7 +4180,7 @@
     "description": "2.0 course.js"
   },
   "remainingStudyTime": {
-    "message": "Remaining Learning Days",
+    "message": "Remaining Learning Days: {n}",
     "description": "2.0 course.js"
   },
   "textbookTips38": {
@@ -4380,11 +4444,11 @@
     "description": "2.0 course.js"
   },
   "scoreItemType1": {
-    "message": "Courseware Learning",
+    "message": "Courseware Learning Result",
     "description": "2.0 course.js"
   },
   "scoreItemType1Option1": {
-    "message": "Average score per module (selected modules)",
+    "message": "Average module score (selected modules)",
     "description": "2.0 course.js"
   },
   "scoreItemType2": {
@@ -4404,15 +4468,15 @@
     "description": "2.0 course.js"
   },
   "scoreItemType2Option1": {
-    "message": "The learning time reaches {max} minutes for total possible; less than {min} minutes for 0 points",
+    "message": "The cumulative learning time reaches {max} minutes for total possible; less than {min} minutes for 0 points",
     "description": "2.0 course.js"
   },
   "scoreItemType2Option2": {
-    "message": "The learning time reaches {max} minutes for total possible; less than {min} minutes for 0 points",
+    "message": "The learning time per module reaches {max} minutes for total possible; less than {min} minutes for 0 points",
     "description": "2.0 course.js"
   },
   "scoreItemType2Option3": {
-    "message": "The learning time reaches {max} minutes for total possible; less than {min} minutes for 0 points",
+    "message": "The learning time per topic reaches {max} minutes for total possible; less than {min} minutes for 0 points",
     "description": "2.0 course.js"
   },
   "scoreItemType3": {
@@ -4436,7 +4500,7 @@
     "description": "2.0 course.js"
   },
   "scoreItemType3Option2": {
-    "message": "Average score per module (selected modules)",
+    "message": "Average module score  (selected modules)",
     "description": "2.0 course.js"
   },
   "scoreItemType3Option3": {
@@ -4444,7 +4508,7 @@
     "description": "2.0 course.js"
   },
   "scoreItemType4Rule1": {
-    "message": "Average score per assignment (selected assignments)",
+    "message": "Average assignment score (selected assignments)",
     "description": "2.0 course.js"
   },
   "scoreItemType4Rule2": {
@@ -4452,7 +4516,7 @@
     "description": "2.0 course.js"
   },
   "scoreItemType5Rule1": {
-    "message": "Average score per exam (selected exams)",
+    "message": "Average exam score (selected exams)",
     "description": "2.0 course.js"
   },
   "scoreItemType5Rule2": {
@@ -4935,9 +4999,9 @@
     "message": "Chats ",
     "description": "2.0 course.js"
   },
-  "speechUnit": {
-    "message": " ",
-    "description": "2.0 course.js"
+  "speechUnitOf": {
+    "message": "{n} ",
+    "description": "教师账号 -> 直播 -> 直播统计 -> 发言数"
   },
   "viewTerminal": {
     "message": "Access Device ",
@@ -5075,9 +5139,9 @@
     "message": "There is a delay in playback data. If inaccurate, click on the top right corner of the page to refresh.",
     "description": "2.0 course.js"
   },
-  "poll": {
-    "message": " Votes",
-    "description": "2.0 course.js"
+  "pollOf": {
+    "message": "{n} votes - {percent}%",
+    "description": "教师账号 -> 直播 -> 直播统计 -> 直播互动 -> 问卷 (非拓课云直播才有直播互动数据)"
   },
   "liveAnalysisTips": {
     "message": "In progress of generating the live session data, please check it 30 minutes after the live session ended.",
@@ -5219,6 +5283,10 @@
     "message": "If the courseware does not support the statistical data of courseware learning progress, remove either the courseware learning progress from the grading or the courseware from the course.",
     "description": "2.0 course.js"
   },
+  "weights": {
+    "message": "{percent}%, {count} pts",
+    "description": "2.0 course.js"
+  },
   "importBBCourse": {
     "message": "Import Blackboard Content",
     "description": "2.0 course.js"
@@ -5261,6 +5329,10 @@
   },
   "videoViewTime": {
     "message": "View the length of the video",
+    "description": "2.0 course.js"
+  },
+  "videoViewTime2": {
+    "message": "View the length of the video (min) ",
     "description": "2.0 course.js"
   },
   "docViewNum": {

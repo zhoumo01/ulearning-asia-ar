@@ -76,9 +76,8 @@
     "description": "2.0 classroom.js"
   },
   "totalScore": {
-    "message": "Total Points",
-    "description": "2.0 classroom.js",
-    "oldValue": "Total Points: {count}"
+    "message": "Total Points: {count} ",
+    "description": "2.0 classroom.js"
   },
   "rankInClass": {
     "message": "Class Ranking",

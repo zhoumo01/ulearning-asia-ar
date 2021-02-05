@@ -203,9 +203,9 @@
     "message": "Select the session for the exam",
     "description": "2.0 exam.js"
   },
-  "to": {
-    "message": " to ",
-    "description": "2.0 exam.js"
+  "betweenTime": {
+    "message": "{startTime} to {endTime}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> “全部场次”选择框 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考(要求当前没有批次) -> 添加批次 \n 教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 -> 添加场次"
   },
   "confirm": {
     "message": "Confirm",
@@ -595,20 +595,16 @@
     "message": "Absence rate",
     "description": "2.0 exam.js"
   },
-  "day": {
-    "message": "Day",
-    "description": "2.0 exam.js"
-  },
   "hour": {
     "message": "Hour",
     "description": "2.0 exam.js"
   },
   "minute": {
-    "message": " min",
+    "message": "{count} min",
     "description": "2.0 exam.js"
   },
-  "seconds": {
-    "message": " Second",
+  "timeLength": {
+    "message": "{days} days {hours} hours {minutes} minutes {seconds} seconds",
     "description": "2.0 exam.js"
   },
   "scoringRate": {
@@ -700,11 +696,15 @@
     "description": "2.0 exam.js"
   },
   "examDurationCl": {
-    "message": "Exam Duration: ",
+    "message": "Exam Duration: {count} min",
     "description": "2.0 exam.js"
   },
   "lateTime": {
-    "message": "Late Start: ",
+    "message": "Late Start: {count}",
+    "description": "2.0 exam.js"
+  },
+  "lateTimeSet": {
+    "message": "Late Start",
     "description": "2.0 exam.js"
   },
   "myself": {
@@ -731,9 +731,9 @@
     "message": "No sessions",
     "description": "2.0 exam.js"
   },
-  "part": {
-    "message": " ",
-    "description": "2.0 exam.js"
+  "partOf": {
+    "message": "{n} set(s)",
+    "description": "教师账号 -> 考试"
   },
   "randomGroupPaper": {
     "message": "Random Exam",
@@ -779,9 +779,9 @@
     "message": "Show ",
     "description": "2.0 exam.js"
   },
-  "dayShow": {
-    "message": " day(s) after the exam",
-    "description": "2.0 exam.js"
+  "dayShowExam": {
+    "message": "{n} days after the exam ended",
+    "description": "学生账号 -> 考试"
   },
   "examTips5": {
     "message": "The results are not published for the time being",
@@ -837,6 +837,22 @@
   },
   "remarkTips1": {
     "message": "Notes: If multiple attempts allowed, the last response record is displayed by default.",
+    "description": "2.0 exam.js"
+  },
+  "totalQue": {
+    "message": "Total {n} ",
+    "description": "2.0 exam.js"
+  },
+  "queOf": {
+    "message": "{n} ",
+    "description": "2.0 exam.js"
+  },
+  "queIndex": {
+    "message": "Question {n} ",
+    "description": "2.0 exam.js"
+  },
+  "answeringCount": {
+    "message": "Attempt {n}  ",
     "description": "2.0 exam.js"
   },
   "seeDetails": {
@@ -1063,9 +1079,9 @@
     "message": "The score cannot be larger than the total possible",
     "description": "2.0 exam.js"
   },
-  "times": {
-    "message": " time(s)",
-    "description": "2.0 exam.js"
+  "timesOf": {
+    "message": "{n} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息 \n 教师账号 -> 考试 -> 考试监控 -> 列表形式 -> 异常记录"
   },
   "baseInformation": {
     "message": "Basic Information",
@@ -1076,12 +1092,12 @@
     "description": "2.0 exam.js"
   },
   "answerDurationCl": {
-    "message": "Exam Duration: ",
+    "message": "Exam Time Used: {count} ",
     "description": "2.0 exam.js"
   },
-  "answerTimesCl": {
-    "message": "Exam Attempts: ",
-    "description": "2.0 exam.js"
+  "answerTimesOf": {
+    "message": "Attempts: {count}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
   },
   "passScoreCl": {
     "message": "Passing Score: ",
@@ -1161,10 +1177,6 @@
   },
   "commitImmediatelyShow": {
     "message": "Immediately",
-    "description": "2.0 exam.js"
-  },
-  "dayAfterShow": {
-    "message": " day(s) after the exam",
     "description": "2.0 exam.js"
   },
   "cannotAllForbidden": {
@@ -1323,17 +1335,13 @@
     "message": "Enter the exam through verification code",
     "description": "2.0 exam.js"
   },
-  "studentNOCl": {
-    "message": "Student ID: ",
-    "description": "2.0 exam.js"
-  },
   "studentNOCl2": {
     "message": "Student ID: {no}",
     "description": "2.0 {filename}"
   },
-  "classCl": {
-    "message": "Class: ",
-    "description": "2.0 exam.js"
+  "classOf": {
+    "message": "Class: {className}",
+    "description": "此功能已被替换，但代码还在，为了安全，所以重构了插值。"
   },
   "waitApproved": {
     "message": "Pending",
@@ -1479,6 +1487,14 @@
     "message": "Session",
     "description": "2.0 exam.js"
   },
+  "batchNo": {
+    "message": "Sessions: {n} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 \n 教师账号 -> 考试 -> 查看成绩 -> 考试监控 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "batchNoTime": {
+    "message": "Session {n}: {startTime} to {endTime} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
   "clearExamRoomPlan": {
     "message": "Remove Facility Schedule",
     "description": "2.0 exam.js"
@@ -1511,13 +1527,17 @@
     "message": "Proctor",
     "description": "2.0 exam.js"
   },
-  "etc": {
-    "message": ", etc.",
-    "description": "2.0 exam.js"
+  "etcOfPeople": {
+    "message": "{name}..., {n} students",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
   },
-  "people": {
-    "message": "examinees",
-    "description": "2.0 exam.js"
+  "etcOf": {
+    "message": "{name}...",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 (当学生单独参加考试，没有在班级中时，才会出现这个)"
+  },
+  "peopleOf": {
+    "message": "[{n}]",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
   },
   "empty": {
     "message": "Empty",
@@ -1656,7 +1676,7 @@
     "description": "2.0 exam.js"
   },
   "batchExpand": {
-    "message": "Extend",
+    "message": "Session extends {count} min ",
     "description": "2.0 exam.js"
   },
   "roomTips8": {
@@ -2295,17 +2315,17 @@
     "message": "Select the exam facility for each session. # of available seats for each session should be larger than # of students.",
     "description": "2.0 exam.js"
   },
-  "seat": {
-    "message": " seats",
-    "description": "2.0 exam.js"
+  "seatOf": {
+    "message": "{n} seats",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
   },
-  "examStudent": {
-    "message": "Examinees",
-    "description": "2.0 exam.js"
+  "examStudentOf": {
+    "message": "{n} examinees",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
   },
-  "seats": {
-    "message": " seats",
-    "description": "2.0 exam.js"
+  "seatsOf": {
+    "message": "{n} seats",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
   },
   "roomEditorTips5": {
     "message": "The seats are automatically assigned by the system. You can manually edit the seats assignment.",
@@ -2331,18 +2351,6 @@
     "message": "You can move the whole class or some students to another exam facility.",
     "description": "2.0 exam.js"
   },
-  "roomEditorTips8": {
-    "message": "(Total # of Students: ",
-    "description": "2.0 exam.js"
-  },
-  "roomEditorTips9": {
-    "message": ") among them, ",
-    "description": "2.0 exam.js"
-  },
-  "roomEditorTips10": {
-    "message": " students can be moved to the following exam facility: ",
-    "description": "2.0 exam.js"
-  },
   "roomEditorTips11": {
     "message": "Are you sure you want to delete this exam facility?",
     "description": "2.0 exam.js"
@@ -2363,9 +2371,9 @@
     "message": "Select exam facility",
     "description": "2.0 exam.js"
   },
-  "roomEditorTips16": {
-    "message": "The number of seats is less than the number of students",
-    "description": "2.0 exam.js"
+  "roomEditorTip16": {
+    "message": "The number of Session {n}'s available seats is less than the number of examinees",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
   },
   "roomEditorTips17": {
     "message": "The number of students to be moved cannot be zero",
@@ -2423,9 +2431,9 @@
     "message": "Immediately",
     "description": "2.0 exam.js"
   },
-  "daysAfterShow": {
-    "message": " day(s) after the exam",
-    "description": "2.0 exam.js"
+  "afterDaysShow": {
+    "message": "Displays after {n} days",
+    "description": "教师账号 -> 考试 -> 添加考试"
   },
   "weekAfterShow": {
     "message": "{count} week(s) after the exam",
@@ -2667,13 +2675,17 @@
     "message": "Reject",
     "description": "2.0 exam.js"
   },
-  "remain": {
-    "message": "Seats available: ",
-    "description": "2.0 exam.js"
+  "remainSeatOf": {
+    "message": "{n} seats remaining",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
   },
-  "let": {
-    "message": "Let ",
-    "description": "2.0 exam.js"
+  "remainSeatOf2": {
+    "message": "{roomName} ({n} seats remaining)",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "modifyRoomTip": {
+    "message": "Move {n} students from {className} (total students: {total}) to the following exam facility: ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
   },
   "objectivesQ": {
     "message": "Auto-Grading Questions",
@@ -2835,9 +2847,9 @@
     "message": "Leave",
     "description": "2.0 exam.js"
   },
-  "examHeadTips3": {
+  "examHeadTips4": {
     "message": "Please {detectEnv} before the exam to confirm that the network, equipment, browser, etc. are normal.",
-    "description": "minuteTip 的插值是 检测考试环境，就是下面的 detectEnv"
+    "description": "detectEnv 的插值是“检测考试环境”，就是下面的 detectEnv 字段"
   },
   "detectEnv": {
     "message": "Exam Device Compliance Check",
@@ -2903,10 +2915,6 @@
     "message": "{n} days after the exam ended",
     "description": "2.0 {filename}"
   },
-  "daysPublish": {
-    "message": "{n} days after the exam ended",
-    "description": "2.0 exam.js"
-  },
   "weekPublish": {
     "message": "{n} weeks after the exam ended",
     "description": "2.0 exam.js"
@@ -2919,9 +2927,9 @@
     "message": "Delete Session",
     "description": "2.0 exam.js"
   },
-  "examEnd": {
-    "message": "The exam ended",
-    "description": "2.0 exam.js"
+  "examDaysPublish": {
+    "message": "Exam results display {n} days after the exam ends",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
   },
   "auditTipsClassroom": {
     "message": "Face verification is on. Student facial photos need to be uploaded in advance. Photos can be imported in bulk by the teacher or uploaded by students. If a facial photo is uploaded by the student, it has to be reviewed and approved by the teacher.",
@@ -2946,5 +2954,213 @@
   "findExamTip": {
     "message": "If you don't find the exam you need to take in the exam list below, check sure if you're signed in to the correct account or if you're in the correct class.",
     "description": "2.0 {filename}"
+  },
+  "faceServiceTipsNew": {
+    "message": "Face verification and camera monitoring are not enabled for your institute (optional services with extra charge). Contact your LMS admin for details.",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWeb": {
+    "message": "Only web",
+    "description": "2.0 exam.js"
+  },
+  "onlyMobile": {
+    "message": "Only ULearning app",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExe": {
+    "message": "Only lockdown browser",
+    "description": "2.0 exam.js"
+  },
+  "unlimit": {
+    "message": "No restriction",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips": {
+    "message": "To take an exam using {PCExe}, students cannot leave the exam screen during the exam, which is suitable for high-stakes tests, or for the exams delivered in a test center or computer lab.",
+    "description": "2.0 exam.js"
+  },
+  "PCExe": {
+    "message": "Lockdown browser",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips1": {
+    "message": "For this option, the client PC must install the ULearning lockdown browser before the exam. ULearning lockdown browser currently only supports Win7 or above system, does not support Mac. To make sure the system works, it is recommended that you test the system before the formal exam.",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration": {
+    "message": "Exam Time Used",
+    "description": "2.0 exam.js"
+  },
+  "resultPublic": {
+    "message": "Publication Scope",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorItem": {
+    "message": "Enable the camera monitoring, including snapshot taking, gesture detecting, and suspicious behavior recording. ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorTips": {
+    "message": "Students are required to turn on their device's front-facing camera and keep it stable - only supports the exams via PC.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent": {
+    "message": "Camera monitoring includes: ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent1": {
+    "message": "1. Snapshots: Taking the photo of the student and/or the environment in front of the camera every 1 minute.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent2": {
+    "message": "2. AI-powered Gesture Detection: Monitoring the students' gestures via camera and detecting and making notes of suspicious behaviors such as leaving seat, long-time deviated eye focuses, talking with others, etc.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent3": {
+    "message": "3. Suspicious Behavior Recording: Recording suspicious behaviors and uploading the video for later review.",
+    "description": "2.0 exam.js"
+  },
+  "cameraMonitor": {
+    "message": "Camera Monitoring",
+    "description": "2.0 exam.js"
+  },
+  "PCExe1": {
+    "message": "ULearning Lockdown Browser",
+    "description": "2.0 exam.js"
+  },
+  "PCweb": {
+    "message": "Web",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips5": {
+    "message": "Here are all the exams published by the teacher, please take a closer look at the details of each exam before entering the exam.",
+    "description": "2.0 exam.js"
+  },
+  "downloadPCExe": {
+    "message": "Download ULearning lockdown browser",
+    "description": "2.0 exam.js"
+  },
+  "webEnvTest": {
+    "message": "Computer Compliance Check",
+    "description": "2.0 exam.js"
+  },
+  "examFaceVerification": {
+    "message": "Exam Face Verification",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeBtnTips": {
+    "message": "Please take the exam via ULearning lockdown browser",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWebBtnTips": {
+    "message": "Please take the exam via your device's web browser",
+    "description": "2.0 exam.js"
+  },
+  "monitorRecords": {
+    "message": "Monitoring Records",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminder": {
+    "message": "Suspicious Behavior Notifications",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderFilter": {
+    "message": "Filter suspicious behaviors",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle1": {
+    "message": "Suspicious exam answering patterns",
+    "description": "2.0 exam.js"
+  },
+  "mobileExam": {
+    "message": "Exam via ULearning app",
+    "description": "2.0 exam.js"
+  },
+  "exception1": {
+    "message": "The duration of leaving the exam screen > 5 seconds ",
+    "description": "2.0 exam.js"
+  },
+  "exception2": {
+    "message": "The exam will be involuntarily submitted by the system",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle2": {
+    "message": "Suspicious Gestures",
+    "description": "2.0 exam.js"
+  },
+  "leaveSeat": {
+    "message": "Leaving Seat",
+    "description": "2.0 exam.js"
+  },
+  "deviation": {
+    "message": "The duration of deviated eye focus > 2 seconds",
+    "description": "2.0 exam.js"
+  },
+  "deviation1": {
+    "message": "Deviated eye focus",
+    "description": "2.0 exam.js"
+  },
+  "talk": {
+    "message": "Talking with others",
+    "description": "2.0 exam.js"
+  },
+  "examMonitorRecords": {
+    "message": "Exam Monitoring Records",
+    "description": "2.0 exam.js"
+  },
+  "answerTrack": {
+    "message": "Exam Answering Pattern",
+    "description": "2.0 exam.js"
+  },
+  "clearfixMonitorRecords": {
+    "message": "Remove Monitoring Records",
+    "description": "2.0 exam.js"
+  },
+  "normalState": {
+    "message": "Normal Status",
+    "description": "2.0 exam.js"
+  },
+  "confirmClearMonitorRecords": {
+    "message": "Are you sure you want to remove the monitoring records?",
+    "description": "2.0 exam.js"
+  },
+  "timeDay": {
+    "message": "{days} days ",
+    "description": "2.0 exam.js"
+  },
+  "timeHour": {
+    "message": "{hours} hours ",
+    "description": "2.0 exam.js"
+  },
+  "timeSecond": {
+    "message": "{seconds} seconds",
+    "description": "2.0 exam.js"
+  },
+  "UTestName": {
+    "message": "U-Test Exam System",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputName": {
+    "message": "Please enter the username",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputPsd": {
+    "message": "Please enter the password",
+    "description": "2.0 exam.js"
+  },
+  "UTestLoginErr": {
+    "message": "Wrong username and/or password!",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogin": {
+    "message": "Log In",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogout": {
+    "message": "Log Out",
+    "description": "2.0 exam.js"
+  },
+  "UTestDesc": {
+    "message": "Note: ULearning Lockdown Browser is used for taking exam only. User registration and course enrollment have to be done via ULearning platform or ULearning app.",
+    "description": "2.0 exam.js"
   }
 }
