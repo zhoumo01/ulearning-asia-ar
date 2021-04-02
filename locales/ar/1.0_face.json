@@ -1,0 +1,50 @@
+{
+  "title": {
+    "message": "التعرف على الوجه.",
+    "description": "1.0 face.json"
+  },
+  "page-title": {
+    "message": "التحقق من الوجه",
+    "description": "1.0 face.json"
+  },
+  "close": {
+    "message": "اغلاق",
+    "description": "1.0 face.json"
+  },
+  "notice": {
+    "message": "يرجى مواجهة الكاميرا وتأكد من وجود ما يكفي من الضوء",
+    "description": "1.0 face.json"
+  },
+  "didNotPass": {
+    "message": "لم نتمكن من التحقق من الوجه",
+    "description": "1.0 face.json"
+  },
+  "retry": {
+    "message": "المحاولة مرة أخرى",
+    "description": "1.0 face.json"
+  },
+  "captcha": {
+    "message": "لم نتمكن من التحقق من الوجه؟ اضغط هنا لاستخدام رمز التحقق",
+    "description": "1.0 face.json"
+  },
+  "pass": {
+    "message": "يتم التحقق من هوية وجهك وسيبدأ الامتحان في ٣ ثوان.",
+    "description": "1.0 face.json"
+  },
+  "show-captcha": {
+    "message": "اسأل معلمك عن رمز التحقق وأدخل الرمز أدناه.",
+    "description": "1.0 face.json"
+  },
+  "captcha-error": {
+    "message": "رمز التحقق غير صحيح.",
+    "description": "1.0 face.json"
+  },
+  "exam-captcha": {
+    "message": "رمز التحقق من الامتحان",
+    "description": "1.0 face.json"
+  },
+  "face-verify": {
+    "message": "في انتظار التحقق...",
+    "description": "1.0 face.json"
+  }
+}

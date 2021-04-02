@@ -1,0 +1,250 @@
+{
+  "qLibrary": {
+    "message": "بنك الأسئلة",
+    "description": "1.0 public.js"
+  },
+  "singleQ": {
+    "message": "الاختيار من متعدد",
+    "description": "1.0 public.js"
+  },
+  "moreQ": {
+    "message": "استجابة متعددة",
+    "description": "1.0 public.js"
+  },
+  "yesNoQ": {
+    "message": "صواب/خطأ",
+    "description": "1.0 public.js"
+  },
+  "fillQ": {
+    "message": "تعبئة الفراغ",
+    "description": "1.0 public.js"
+  },
+  "JQuiz": {
+    "message": "إجابة قصيرة",
+    "description": "1.0 public.js"
+  },
+  "SequenceQ": {
+    "message": "التسلسل",
+    "description": "1.0 public.js"
+  },
+  "vocabularyTest": {
+    "message": "بنك الكلمات",
+    "description": "1.0 public.js"
+  },
+  "writeEnglish": {
+    "message": "كتابة اللغة الإنجليزية",
+    "description": "1.0 public.js"
+  },
+  "drop": {
+    "message": "قائمة منسدلة متعددة",
+    "description": "1.0 public.js"
+  },
+  "clozeTest": {
+    "message": "إغلق الاختبار",
+    "description": "1.0 public.js"
+  },
+  "spokenReadQ": {
+    "message": "اللغة - قراءة بصوت مسموع",
+    "description": "1.0 public.js"
+  },
+  "subOral": {
+    "message": "اللغة - شفهي",
+    "description": "1.0 public.js"
+  },
+  "formulaCalc": {
+    "message": "معادلة محسوبة",
+    "description": "1.0 public.js"
+  },
+  "synthesis": {
+    "message": "تركيب",
+    "description": "1.0 public.js"
+  },
+  "single": {
+    "message": "اختيار واحد",
+    "description": "1.0 public.js"
+  },
+  "multiple": {
+    "message": "الاختيار من متعدد",
+    "description": "1.0 public.js"
+  },
+  "judge": {
+    "message": "صواب/خطأ",
+    "description": "1.0 public.js"
+  },
+  "fill": {
+    "message": "تعبئة الفراغ",
+    "description": "1.0 public.js"
+  },
+  "shortAnswer": {
+    "message": "إجابة قصيرة",
+    "description": "1.0 public.js"
+  },
+  "sort": {
+    "message": "رتب",
+    "description": "1.0 public.js"
+  },
+  "fillBlank": {
+    "message": "تعبئة الفراغ مع الاختيارات",
+    "description": "1.0 public.js"
+  },
+  "dropDown": {
+    "message": "اختيار متعدد من قائمة منسدلة",
+    "description": "1.0 public.js"
+  },
+  "cloze": {
+    "message": "اغلاق",
+    "description": "1.0 public.js"
+  },
+  "spokenRead": {
+    "message": "قراءة شفوية",
+    "description": "1.0 public.js"
+  },
+  "subSpoken": {
+    "message": "سؤال شفوي",
+    "description": "1.0 public.js"
+  },
+  "saveText": {
+    "message": "حفظ",
+    "description": "1.0 public.js"
+  },
+  "deleteText": {
+    "message": "حذف",
+    "description": "1.0 public.js"
+  },
+  "edit": {
+    "message": "تعديل",
+    "description": "1.0 public.js"
+  },
+  "cancelText": {
+    "message": "إلغاء",
+    "description": "1.0 public.js"
+  },
+  "OK": {
+    "message": "موافق",
+    "description": "1.0 public.js"
+  },
+  "submitText": {
+    "message": "إرسال",
+    "description": "1.0 public.js"
+  },
+  "tag": {
+    "message": "علامة",
+    "description": "1.0 public.js"
+  },
+  "upload": {
+    "message": "رفع",
+    "description": "1.0 public.js"
+  },
+  "answer": {
+    "message": "إجابة",
+    "description": "1.0 public.js"
+  },
+  "analysis": {
+    "message": "شرح الإجابة",
+    "description": "1.0 public.js"
+  },
+  "appointedTeacher": {
+    "message": "المعلمون المختارون",
+    "description": "1.0 public.js"
+  },
+  "schoolTeacher": {
+    "message": "معلمو المدرسة",
+    "description": "1.0 public.js"
+  },
+  "allTeacher": {
+    "message": "جميع المعلمين",
+    "description": "1.0 public.js"
+  },
+  "scoreUnit": {
+    "message": "{count} درجة",
+    "description": "1.0 public.js"
+  },
+  "selectAll": {
+    "message": "إختيار الكل",
+    "description": "1.0 public.js"
+  },
+  "all": {
+    "message": "الجميع",
+    "description": "1.0 public.js"
+  },
+  "uploadFile": {
+    "message": "رفع ملف",
+    "description": "1.0 public.js"
+  },
+  "addAttachment": {
+    "message": "إضافة مرفق",
+    "description": "1.0 public.js"
+  },
+  "uploading": {
+    "message": "جار الرفع...",
+    "description": "1.0 public.js"
+  },
+  "size": {
+    "message": "الحجم",
+    "description": "1.0 public.js"
+  },
+  "selectClass": {
+    "message": "حدد الفصل",
+    "description": "1.0 public.js"
+  },
+  "point": {
+    "message": "تنبيه",
+    "description": "1.0 public.js"
+  },
+  "know": {
+    "message": "أعرف",
+    "description": "1.0 public.js"
+  },
+  "checkNoResult": {
+    "message": "تحقق من عدم وجود نتائج، يرجى التحقق من شروط الاستعلام!",
+    "description": "1.0 public.js"
+  },
+  "pleaseInput": {
+    "message": "يرجى إدخال",
+    "description": "1.0 public.js"
+  },
+  "gotoTop": {
+    "message": "الرجوع لأعلى",
+    "description": "1.0 public.js"
+  },
+  "preview": {
+    "message": "معاينة",
+    "description": "1.0 public.js"
+  },
+  "dialogDefaultContent": {
+    "message": "تعديل المواد بنجاح",
+    "description": "1.0 public.js"
+  },
+  "close": {
+    "message": "اغلاق",
+    "description": "1.0 public.js"
+  },
+  "download": {
+    "message": "تحميل",
+    "description": "1.0 public.js"
+  },
+  "paste": {
+    "message": "لصق",
+    "description": "1.0 public.js"
+  },
+  "flashVersionTip": {
+    "message": "يجب أن يكون الإصدار فلاش على الأقل 11.1.0",
+    "description": "1.0 public.js"
+  },
+  "getFlash": {
+    "message": "أحصل على مشغل أدوبي فلاش",
+    "description": "1.0 public.js"
+  },
+  "recordTime": {
+    "message": "وقت التسجيل: {duration} ثانية",
+    "description": "recorde.js"
+  },
+  "initializing": {
+    "message": "جار البدء، الرجاء الانتظار...",
+    "description": "recorde.js"
+  },
+  "recordError": {
+    "message": "فشل التسجيل",
+    "description": "recorde.js"
+  }
+}

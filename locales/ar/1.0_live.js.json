@@ -1,0 +1,90 @@
+{
+  "createLive": {
+    "message": "إنشاء بث مباشر",
+    "description": "1.0 live.json"
+  },
+  "requiredVal": {
+    "message": "لا يمكن {0} أن يكون فارغاً",
+    "description": "1.0 live.json"
+  },
+  "maxlengthVal": {
+    "message": "لا يمكن أن يكون أكثر من {0} حرف",
+    "description": "1.0 live.json"
+  },
+  "regVal": {
+    "message": "لا يمكن أن يحتوي المحتوى على أحرف خاصة /:*\" <> |&[] #",
+    "description": "1.0 live.json"
+  },
+  "classNameTxt": {
+    "message": "اسم البث المباشر ",
+    "description": "1.0 live.json"
+  },
+  "startTimeTxt": {
+    "message": "وقت البدء",
+    "description": "1.0 live.json"
+  },
+  "chooseClassTxt": {
+    "message": "الرجاء اختيار الفصول الدراسية",
+    "description": "1.0 live.json"
+  },
+  "modSuccess": {
+    "message": "تم التعديل بنجاح",
+    "description": "1.0 live.json"
+  },
+  "modFail": {
+    "message": "فشل التعديل",
+    "description": "1.0 live.json"
+  },
+  "createSuccess": {
+    "message": "تم الإنشاء بنجاح",
+    "description": "1.0 live.json"
+  },
+  "createFail": {
+    "message": "فشل الإنشاء",
+    "description": "1.0 live.json"
+  },
+  "selectClassTxt": {
+    "message": "إختيار الفصل",
+    "description": "1.0 live.json"
+  },
+  "liveIntroTxt": {
+    "message": "مقدمة البث المباشر ",
+    "description": "1.0 live.json"
+  },
+  "speakerTxt": {
+    "message": "اسم مقدم العرض ",
+    "description": "1.0 live.json"
+  },
+  "submitingTxt": {
+    "message": "جارٍ الإرسال...",
+    "description": "1.0 live.json"
+  },
+  "timeText": {
+    "message": "لا يمكن أن يكون وقت البدء أقدم من الوقت الحالي",
+    "description": "1.0 live.json"
+  },
+  "errTip1": {
+    "message": "يوجد بث مباشر لم ينته، يرجى الانتهاء قبل إنشاء",
+    "description": "1.0 live.json"
+  },
+  "errorTip2": {
+    "message": "لم تتم تسوية تكاليف آخر بث مباشر، يرجى الإنشاء لاحقًا",
+    "description": "1.0 live.json"
+  },
+  "errorTip3": {
+    "message": "الرصيد 0 و لا يكفي لإنشاء بث مباشر، رجاء أعد ملئ الرصيد",
+    "description": "1.0 live.json"
+  },
+  "saveStr": {
+    "message": "حفظ",
+    "description": "1.0 live.json"
+  },
+  "createStr": {
+    "message": "انشاء",
+    "description": "1.0 live.json"
+  },
+  "notSupport": {
+    "message": "لا يمكن أن يحتوي اسم البث المباشر على أحرف ",
+    "description": "1.0 live.json"
+  }
+}

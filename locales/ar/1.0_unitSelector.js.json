@@ -1,0 +1,22 @@
+{
+  "selectCourseFirst": {
+    "message": "إختيار مقرر دراسي",
+    "description": "1.0 unitSelector.js"
+  },
+  "loadCourse": {
+    "message": "جارى تحميل المقرر الدراسي",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnit": {
+    "message": "حدد الوحدة",
+    "description": "1.0 unitSelector.js"
+  },
+  "selectUnitTip": {
+    "message": "تحديد مقرر دراسي من الجزء الأيسر لتعبئة جميع الوحدات",
+    "description": "1.0 unitSelector.js"
+  },
+  "pleaseSelect": {
+    "message": "حدد المقرر الدراسي والوحدة",
+    "description": "1.0 unitSelector.js"
+  }
+}

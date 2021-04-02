@@ -1,0 +1,106 @@
+{
+  "allCourse": {
+    "message": "جميع الدورات",
+    "description": "1.0 questionIndex.js"
+  },
+  "allUnit": {
+    "message": "جميع الوحدات",
+    "description": "1.0 questionIndex.js"
+  },
+  "getUnitError": {
+    "message": "خطأ في الوحدة...",
+    "description": "1.0 questionIndex.js"
+  },
+  "serialNo": {
+    "message": "كود: {id}",
+    "description": "1.0 questionIndex.js"
+  },
+  "difficulty": {
+    "message": "صعوبه:",
+    "description": "1.0 questionIndex.js"
+  },
+  "unitEtc": {
+    "message": "... وحدات",
+    "description": "1.0 questionIndex.js"
+  },
+  "creator": {
+    "message": "منشئ المحتوى:{creator}",
+    "description": "1.0 questionIndex.js"
+  },
+  "lastModifyTime": {
+    "message": "آخر تحديث:{time}",
+    "description": "1.0 questionIndex.js"
+  },
+  "details": {
+    "message": "تفاصيل",
+    "description": "1.0 questionIndex.js"
+  },
+  "modify": {
+    "message": "تعديل",
+    "description": "1.0 questionIndex.js"
+  },
+  "move": {
+    "message": "نقل",
+    "description": "1.0 questionIndex.js"
+  },
+  "copy": {
+    "message": "نسخ",
+    "description": "1.0 questionIndex.js"
+  },
+  "share": {
+    "message": "مشاركه",
+    "description": "1.0 questionIndex.js"
+  },
+  "rename": {
+    "message": "إعادة تسمية",
+    "description": "1.0 questionIndex.js"
+  },
+  "selectPage": {
+    "message": "تحديد الكل في هذه الصفحة",
+    "description": "1.0 questionIndex.js"
+  },
+  "selected": {
+    "message": "{count} عنصر محدد",
+    "description": "1.0 questionIndex.js"
+  },
+  "cancelSelect": {
+    "message": "إلغاء التحديد المتعدد",
+    "description": "1.0 questionIndex.js"
+  },
+  "examQues": {
+    "message": "سؤال",
+    "description": "1.0 questionIndex.js"
+  },
+  "parseError": {
+    "message": "خطأ في التحليل",
+    "description": "1.0 questionIndex.js"
+  },
+  "checkDetailText": {
+    "message": "تفاصيل",
+    "description": "1.0 questionIndex.js"
+  },
+  "editQ": {
+    "message": "تعديل السؤال",
+    "description": "1.0 questionIndex.js"
+  },
+  "personal": {
+    "message": "خاص",
+    "description": "1.0 questionIndex.js"
+  },
+  "lackQTip": {
+    "message": "تلميح: لا توجد أية أسئلة ذات صلة في الدليل الحالي",
+    "description": "1.0 questionIndex.js"
+  },
+  "clickAddTip": {
+    "message": "انقر زر إضافة سؤال لإدخال صفحة الأسئلة.",
+    "description": "1.0 questionIndex.js"
+  },
+  "checkDetail2": {
+    "message": "تفاصيل",
+    "description": "1.0 questionIndex.js"
+  },
+  "collapseDetail": {
+    "message": "طي",
+    "description": "1.0 questionIndex.js"
+  }
+}
