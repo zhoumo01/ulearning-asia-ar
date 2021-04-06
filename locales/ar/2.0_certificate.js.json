@@ -1,322 +1,322 @@
 {
   "allStudentsList": {
-    "message": "كل الطلاب",
+    "message": "All students",
     "description": "2.0 certification.js "
   },
   "passStuList": {
-    "message": "طلاب منجزون",
+    "message": "Achievement students",
     "description": "2.0 certification.js "
   },
   "excellenceStuList": {
-    "message": "طلاب متفوقون",
+    "message": "Excellence students",
     "description": "2.0 certification.js "
   },
   "unqualifiedStuList": {
-    "message": "الطلاب غير المؤهلين",
+    "message": "Unqualified students",
     "description": "2.0 certification.js "
   },
   "allClasses": {
-    "message": "كل الفصول",
+    "message": "All classes",
     "description": "2.0 certification.js "
   },
   "pass": {
-    "message": "مؤهل",
+    "message": "Qualified",
     "description": "2.0 certification.js "
   },
   "certificateConfirm": {
-    "message": "هل تريد إصدار الشهادات؟",
+    "message": "Are you sure you want to issue the certificates?",
     "description": "2.0 certificate.js"
   },
   "certificateIssuedSuccess": {
-    "message": "تم الإصدار بنجاح!",
+    "message": "Issued successfully!",
     "description": "2.0 certification.js "
   },
   "issueCertificateFailed": {
-    "message": "تعذر إصدار الشهادات!",
+    "message": "Failed to issue the certificates!",
     "description": "2.0 certification.js "
   },
   "batchIssueCertificates": {
-    "message": "إصدار شهادات دفعة",
+    "message": "Batch Issue Certificates",
     "description": "2.0 certification.js "
   },
   "batchTip": {
-    "message": "هل تريد إصدار شهادات لجميع الطلاب المؤهلين؟ يرجى العلم أنه بمجرد إصدار الشهادات، لا يمكن تعديلها أو طلبها من أخرى",
+    "message": "Are you sure you want to issue certificates to all eligible students? Please be aware that once certificates are issued, it can’t be modified or recalled",
     "description": "2.0 certification.js "
   },
   "issueCertificate": {
-    "message": "إصدار الشهادة",
+    "message": "Issue Certificate",
     "description": "2.0 certification.js "
   },
   "refreshFailed": {
-    "message": "تعذر التحديث",
+    "message": "Failed to refresh",
     "description": "2.0 certification.js "
   },
   "excellent": {
-    "message": "ممتاز",
+    "message": "Excellent",
     "description": "2.0 certification.js "
   },
   "certificateManagement": {
-    "message": "إدارة الشهادات",
+    "message": "Certificate Management",
     "description": "2.0 certification.js "
   },
   "certificateMaTip": {
-    "message": "فقط معلمي المقرر الدراسي أو المسؤول يمكنهم إدارة الشهادات وإصدارها",
+    "message": "Only course teachers or admin can manage and issue certificates",
     "description": "2.0 certification.js "
   },
   "certificateSettings": {
-    "message": "إعدادات الشهادة",
+    "message": "Certificate Settings",
     "description": "2.0 certification.js "
   },
   "refreshGrade": {
-    "message": "تحديث النتائج",
+    "message": "Refresh Results",
     "description": "2.0 certification.js "
   },
   "exportList": {
-    "message": "إصدار النتائج",
+    "message": "Export Results",
     "description": "2.0 certification.js "
   },
   "certSummary": {
-    "message": "المجموع: {total} | المؤهلون: {qualified} | غير مؤهلون: {unqualified} | معدل الإنجاز: {rate}٪",
+    "message": "Total: {total} | Qualified: {qualified} | Unqualified: {unqualified} | Achievement Rate: {rate}%",
     "description": "教师账户 -> 考核 -> 证书管理"
   },
   "certSummary2": {
-    "message": "المجموع: {total} | المؤهلون: {qualified} | غير مؤهلون: {unqualified} | معدل الإنجاز: {rate}٪ | معدل التفوق: {excellent}٪",
+    "message": "Total: {total} | Qualified: {qualified} | Unqualified: {unqualified} | Achievement Rate: {rate}% | Excellence Rate: {excellent}%\n",
     "description": "教师账户 -> 考核 -> 证书管理"
   },
   "type": {
-    "message": "شهادة",
+    "message": "Certificate",
     "description": "2.0 certification.js "
   },
   "certificateRequest": {
-    "message": "المؤهلات",
+    "message": "Qualifications",
     "description": "2.0 certification.js "
   },
   "passNum": {
-    "message": "عدد الطلاب",
+    "message": "Student Counts",
     "description": "2.0 certification.js "
   },
   "proportion": {
-    "message": "النسبة",
+    "message": "Percentage",
     "description": "2.0 certification.js "
   },
   "conformityCertificate": {
-    "message": "شهادة الإنجاز",
+    "message": "Certificate of Achievement",
     "description": "2.0 certification.js "
   },
   "sample": {
-    "message": "انقر للعرض",
+    "message": "Click to View",
     "description": "2.0 certification.js "
   },
   "courseAssessmentScore": {
-    "message": "التقدير النهائي",
+    "message": "Final grade",
     "description": "2.0 certification.js "
   },
   "assessRule1": {
-    "message": "التقدير النهائي ≥ {min} درجة و  < {max} درجة\n",
+    "message": "Final grade ≥ {min} points and  < {max} points\n",
     "description": "教师账户 -> 考核 -> 证书管理 \n 学生账户 -> 考核 -> 课程证书"
   },
   "assessRule2": {
-    "message": "التقدير النهائي ≥ {n} درجة",
+    "message": "Final grade ≥ {n} points",
     "description": "教师账户 -> 考核 -> 证书管理 \n 学生账户 -> 考核 -> 课程证书"
   },
   "assessRule3": {
-    "message": "التقدير النهائي  < {n} درجة",
+    "message": "Final grade  < {n} points",
     "description": "教师账户 -> 考核 -> 证书管理"
   },
   "excellenceCertificate": {
-    "message": "شهادة التفوق",
+    "message": "Certificate of Excellence",
     "description": "2.0 certification.js "
   },
   "unqualified": {
-    "message": "غير مؤهل",
+    "message": "Unqualified",
     "description": "2.0 certification.js "
   },
   "studentList": {
-    "message": "قائمة الطلاب",
+    "message": "Student List",
     "description": "2.0 certification.js "
   },
   "lastCertificateIssued": {
-    "message": "آخر إصدار:",
+    "message": "Last Issued:",
     "description": "2.0 certification.js "
   },
   "username": {
-    "message": "اسم المستخدم",
+    "message": "Username",
     "description": "2.0 certification.js "
   },
   "actualName": {
-    "message": "اسم الطالب",
+    "message": "Legal Name",
     "description": "2.0 certification.js "
   },
   "explanation": {
-    "message": "مزيد>>",
+    "message": "more >>",
     "description": "2.0 certification.js "
   },
   "explanationContent": {
-    "message": "لا يمكن تعديل تقدير الشهادة أو نوعها بعد صدورها",
+    "message": "Based on the final grade when the certificate was issued. Updated final grade won't change the qualifications and type of certificate already issued.",
     "description": "2.0 certification.js "
   },
   "certificateType": {
-    "message": "شهادة",
+    "message": "Certificate",
     "description": "2.0 certification.js "
   },
   "certificateIssued": {
-    "message": "الشهادات الصادرة",
+    "message": "Certificates Issued",
     "description": "2.0 certification.js "
   },
   "NoResults": {
-    "message": "لا توجد نتائج",
+    "message": "No results found!",
     "description": "2.0 certification.js "
   },
   "noCourseAssessment": {
-    "message": "لا يمكن إصدار الشهادات للدورات التي لم تحدد لها قواعد التقدير.",
+    "message": "The certificates cannot be issued for the courses which have not set the grading rules.",
     "description": "2.0 certification.js "
   },
   "clickToSet": {
-    "message": "انقر للتعيين >>",
+    "message": "Click to set >>",
     "description": "2.0 certification.js "
   },
   "noCertificate": {
-    "message": "لم يتم تعيين شهادات بعد",
+    "message": "Certificates haven't yet been set",
     "description": "2.0 certification.js "
   },
   "certificateTip1": {
-    "message": " تم إصدار الشهادة ولا يمكن تعديل إعداداتها",
+    "message": " The certificate has been issued and modification of the certificate settings is not supported ",
     "description": "2.0 certification.js "
   },
   "certificateTip2": {
-    "message": "ملاحظة: يجب تحديد قواعد التقدير قبل إعداد الشهادات.",
+    "message": "Notes: Grading rules have to be set before you set up certificates.",
     "description": "2.0 certification.js "
   },
   "gradeRule1": {
-    "message": "التقدير النهائي ≥ {input} درجة لشهادة الإنجاز",
+    "message": "Final grade ≥ {input} points for Certificate of Achievement\n",
     "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
   },
   "gradeRule2": {
-    "message": "التقدير النهائي ≥ {inputLow} درجة ولكن < {inputHigh} درجة لشهادة الإنجاز\n",
+    "message": "Final grade ≥ {inputLow} points but < {inputHigh} points for Certificate of Achievement\n",
     "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
   },
   "gradeRule3": {
-    "message": "التقدير النهائي ≥ {input} درجة لشهادة التفوق",
+    "message": "Final grade ≥ {input} points for Certificate of Excellence\n",
     "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
   },
   "setPass": {
-    "message": "شهادة الإنجاز فقط",
+    "message": "Certificate of Achievement Only",
     "description": "2.0 certification.js "
   },
   "setPassAndExcellence": {
-    "message": "كل من شهادة الإنجاز وشهادة التفوق",
+    "message": "Both Certificate of Achievement and Certificate of Excellence",
     "description": "2.0 certification.js "
   },
   "enterScore": {
-    "message": "أدخل الدرجة هنا",
+    "message": "Enter score here",
     "description": "2.0 certification.js "
   },
   "enterScoreTip": {
-    "message": "أدخل النتيجة الصحيحة مع رقم عشري واحد فقط",
+    "message": "Enter the correct score with only one decimal place",
     "description": "2.0 certification.js "
   },
   "enterScoreTip1": {
-    "message": "يجب ألا تكون الدرجة التي تم إدخالها أكبر من الدرجة النهائية.",
+    "message": "The score entered should not exceed the possible points set for the final grade.",
     "description": "2.0 certification.js "
   },
   "enterScoreTip2": {
-    "message": "لا يمكن أن تكون درجة الإنجاز أكبر من درجة التفوق",
+    "message": "Achievement score cannot be higher than excellence score",
     "description": "2.0 certification.js "
   },
   "enterScoreTip3": {
-    "message": "يمكن لمسؤول الفصل فقط تعيين الشهادات",
+    "message": "Only the class admin can set certificates",
     "description": "2.0 certification.js "
   },
   "enterScoreTip4": {
-    "message": "تم بالفعل إصدار بعض الشهادات. لا يمكن تعديل مؤهلات الشهادة.",
+    "message": "Some certificates have already been issued. Certificate qualifications cannot be modified.",
     "description": "2.0 certification.js "
   },
   "save": {
-    "message": "حفظ",
+    "message": "Save",
     "description": "2.0 certification.js "
   },
   "cancel": {
-    "message": "إلغاء",
+    "message": "Cancel",
     "description": "2.0 certification.js "
   },
   "close": {
-    "message": "إغلاق",
+    "message": "Close",
     "description": "2.0 certification.js "
   },
   "certificate": {
-    "message": "شهادة",
+    "message": "Certificate",
     "description": "2.0 certification.js "
   },
   "enterScoreTip5": {
-    "message": "تم الحفظ بنجاح!",
+    "message": "Saved successfully!",
     "description": "2.0 certification.js "
   },
   "studentID": {
-    "message": "كود الطالب",
+    "message": "Student ID",
     "description": "2.0 certification.js "
   },
   "school": {
-    "message": "الأكاديمية",
+    "message": "School",
     "description": "2.0 certification.js "
   },
   "qualifiedCert2": {
-    "message": "تهانينا على إكمال دورة {coursename} بنجاح. لقد حصلت على شهادة الإنجاز.",
+    "message": "Congratulations for having successfully completed the course of {coursename}. You are awarded the Certificate of Achievement.",
     "description": "2.0 certificate.js"
   },
   "excellentCert2": {
-    "message": "تهانينا على إكمال دورة {coursename} بنجاح. لقد حصلت على شهادة التفوق.",
+    "message": "Congratulations for having successfully completed the course of  {coursename}. You are awarded the Certificate of Excellence.\n",
     "description": "2.0 certificate.js"
   },
   "certificateNo": {
-    "message": "رقم الشهادة",
+    "message": "Certificate No.",
     "description": "2.0 certification.js "
   },
   "issueDate": {
-    "message": "التاريخ",
+    "message": "Date",
     "description": "2.0 certification.js "
   },
   "certificateReq": {
-    "message": "مؤهلات الشهادة: ",
+    "message": "Certificate Qualifications: ",
     "description": "2.0 certification.js "
   },
   "viewExample": {
-    "message": "عرض النموذج",
+    "message": "View Sample",
     "description": "2.0 certification.js "
   },
   "myCertificate": {
-    "message": "شهاداتي",
+    "message": "My Certificates",
     "description": "2.0 certification.js "
   },
   "qualifiedNotice": {
-    "message": "تهانينا. لقد وصلت للحد الأدنى من الدرجات و توافقت مؤهلاتك مع شروط الحصول على شهادة الإنجاز",
+    "message": "You have reached the minimum course score required for the Certificate of Achievement and satisfied the certificate qualifications. Congratulations!",
     "description": "学生账户 -> 考核 -> 课程证书 (教师发放证书后，才会显示)"
   },
   "excellentNotice": {
-    "message": "تهانينا. لقد وصلت للحد الأدنى من الدرجات و توافقت مؤهلاتك مع شروط الحصول على شهادة التفوق",
+    "message": "You have reached the minimum course score required for the Certificate of Excellence and satisfied the certificate qualifications. Congratulations!",
     "description": "学生账户 -> 考核 -> 课程证书 (教师发放证书后，才会显示)"
   },
   "certificateStuTip": {
-    "message": "ملاحظة: لا يمكن تعديل الشهادات بمجرد إصدارها حتى لو تغيير التقدير.",
+    "message": "Notes: Certificates won't be updated once they are issued, even if your course grade was changed.",
     "description": "2.0 certification.js "
   },
   "downloadCertificate": {
-    "message": "تحميل الشهادة",
+    "message": "Download Certificate",
     "description": "2.0 certification.js "
   },
   "noCerTip": {
-    "message": "لا توجد شهادات",
+    "message": "No certificates found",
     "description": "2.0 certification.js "
   },
   "certTip": {
-    "message": "لضمان دقة المعلومات بالشهادات، يرجى {informLink} ",
+    "message": "To assure accuracy of the information on the certificates, please {informLink} ",
     "description": "学生账户 -> 考核 -> 课程证书 (还未发放证书时，才会显示)"
   },
   "informLink": {
-    "message": "استكمال معلومات ملفك الشخصي (إذا لم تكن قد أكملتها بعد).",
+    "message": "complete your profile information (if you haven't done yet).",
     "description": "2.0 certificate.js"
   },
   "notSetCerTip": {
-    "message": "لم يقم المعلم بإعداد شهادة للمقرر الدراسي.",
+    "message": "Your teacher has not set up any course certificate.",
     "description": "2.0 certification.js "
   }
 }

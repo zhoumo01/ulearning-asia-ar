@@ -1,10 +1,90 @@
 {
+  "learningTips1": {
+    "message": "You are not logged in and your learning records will not be saved.",
+    "description": "2.0 learning.js"
+  },
+  "LoginImmediately": {
+    "message": "Log in Now",
+    "description": "2.0 learning.js"
+  },
   "exit": {
-    "message": "خروج",
+    "message": "Exit",
+    "description": "2.0 learning.js"
+  },
+  "collectDirectories": {
+    "message": "Collapse catalog",
+    "description": "2.0 learning.js"
+  },
+  "expandDirectories": {
+    "message": "Expand catalog",
+    "description": "2.0 learning.js"
+  },
+  "watched": {
+    "message": "Viewed",
+    "description": "2.0 learning.js"
+  },
+  "finished": {
+    "message": "Completed",
+    "description": "2.0 learning.js"
+  },
+  "learningTips2": {
+    "message": "Only if the video viewing time is larger than 80% of the video length, the page will be marked as \"Completed.\"",
+    "description": "2.0 learning.js"
+  },
+  "description": {
+    "message": "Description",
+    "description": "2.0 learning.js"
+  },
+  "fullScreen": {
+    "message": "Full Screen",
+    "description": "2.0 learning.js"
+  },
+  "learningTips3": {
+    "message": "This link cannot be opened directly, please copy the following link address to your browser to open it",
+    "description": "2.0 learning.js"
+  },
+  "noNore": {
+    "message": "No more",
+    "description": "2.0 learning.js"
+  },
+  "lastPage": {
+    "message": "Previous Page",
+    "description": "2.0 learning.js"
+  },
+  "menu": {
+    "message": "Catalog",
+    "description": "2.0 learning.js"
+  },
+  "nextPage": {
+    "message": "Next Page",
+    "description": "2.0 learning.js"
+  },
+  "learningTips4": {
+    "message": "Topic Completion Status",
+    "description": "2.0 learning.js"
+  },
+  "studyProgress": {
+    "message": "Learning Progress",
+    "description": "2.0 learning.js"
+  },
+  "studyTime": {
+    "message": "Learning Time",
+    "description": "2.0 learning.js"
+  },
+  "learningTips5": {
+    "message": "Congratulations on completing this topic!",
+    "description": "2.0 learning.js"
+  },
+  "learningTips6": {
+    "message": "You haven't completed learning the following pages in this topic: ",
+    "description": "2.0 learning.js"
+  },
+  "nextUnit": {
+    "message": "Next Topic",
     "description": "2.0 learning.js"
   },
   "chapterStatistics": {
-    "message": "إحصائيات الوحدة",
+    "message": "Module Statistics",
     "description": "2.0 learning.js"
   }
 }

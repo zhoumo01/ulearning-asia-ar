@@ -1,58 +1,58 @@
 {
   "announcement": {
-    "message": "إشعارات",
+    "message": "Announcements",
     "description": "2.0 announcement.js"
   },
   "close": {
-    "message": "إغلاق",
+    "message": "Close",
     "description": "2.0 announcement.js"
   },
   "schoolAnnouncement": {
-    "message": "إشعارات الأكاديمية",
+    "message": "School Announcements",
     "description": "2.0 announcement.js"
   },
   "systemAnnouncement": {
-    "message": "إشعارات الموقع",
+    "message": "System Announcements",
     "description": "2.0 announcement.js"
   },
   "publishedIn": {
-    "message": "تاريخ النشر",
+    "message": "Date Posted",
     "description": "2.0 announcement.js"
   },
   "download": {
-    "message": "تحميل",
+    "message": "Download",
     "description": "2.0 announcement.js"
   },
   "fold": {
-    "message": "طي",
+    "message": "Collapse",
     "description": "2.0 announcement.js"
   },
   "unfold": {
-    "message": "توسيع",
+    "message": "Expand",
     "description": "2.0 announcement.js"
   },
   "noAnnouncement": {
-    "message": "لا توجد إشعارات",
+    "message": "No announcements found",
     "description": "2.0 announcement.js"
   },
   "homePage": {
-    "message": "الصفحة الرئيسية",
+    "message": "Home Page",
     "description": "2.0 announcement.js"
   },
   "lastPage": {
-    "message": "آخر صفحة",
+    "message": "Last Page",
     "description": "2.0 announcement.js"
   },
   "frontPage": {
-    "message": "الصفحة السابقة",
+    "message": "Previous Page",
     "description": "2.0 announcement.js"
   },
   "backPage": {
-    "message": "الصفحة التالية",
+    "message": "Next Page",
     "description": "2.0 announcement.js"
   },
   "jumpPage": {
-    "message": "إذهب إلى",
+    "message": "Jump",
     "description": "2.0 announcement.js"
   }
 }

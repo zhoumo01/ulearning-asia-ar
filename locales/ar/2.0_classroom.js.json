@@ -1,226 +1,230 @@
 {
+  "exportDetails": {
+    "message": "Export Details",
+    "description": "2.0 classroom.js"
+  },
   "classAlign": {
-    "message": "إعادة فتح",
+    "message": "Re-open",
     "description": "2.0 classroom.js"
   },
   "classroomReport": {
-    "message": "تقرير",
+    "message": "Report",
     "description": "2.0 classroom.js"
   },
   "attendance": {
-    "message": "حضور المحاضرة",
+    "message": "Session Attendance",
     "description": "2.0 classroom.js"
   },
   "interactionInClass": {
-    "message": "أنشطة المحاضرة التفاعلية",
+    "message": "Session Interactive Activities",
     "description": "2.0 classroom.js"
   },
   "participationPoints": {
-    "message": "درجات المشاركة",
+    "message": "Participation Points",
     "description": "2.0 classroom.js"
   },
   "integralInClass": {
-    "message": "درجات المحاضرة المحصلة",
+    "message": "Session Points Earned",
     "description": "2.0 classroom.js"
   },
   "comprehensivePerformance": {
-    "message": "أداء الطالب بالمحاضرة - مجموع الدرجات المحصلة",
+    "message": "Student Session Performance - Total Points Earned",
     "description": "2.0 classroom.js"
   },
   "more": {
-    "message": "مزيد>>",
+    "message": "More >>",
     "description": "2.0 classroom.js"
   },
   "summary": {
-    "message": "ملخص المحاضرة",
+    "message": "Session Summary",
     "description": "2.0 classroom.js"
   },
   "summaryTip": {
-    "message": "انقر على الزر التعديل لتلخيص المحاضرة.",
+    "message": "Click the Edit button to summarize this session for your course.",
     "description": "2.0 classroom.js"
   },
   "reStartFail": {
-    "message": "تعذر إعادة الفتح!",
+    "message": "Failed to re-open!",
     "description": "2.0 classroom.js"
   },
   "summaryTip1": {
-    "message": "لا يمكن أن تتجاوز 2000 حرف",
+    "message": "Cannot exceed 2000 characters",
     "description": "2.0 classroom.js"
   },
   "rankList": {
-    "message": "الترتيب",
+    "message": "Ranking",
     "description": "2.0 classroom.js"
   },
   "rankListInClass": {
-    "message": "ترتيب الفصل حسب الدرجات المحصلة",
+    "message": "Class Ranking by Points Earned",
     "description": "2.0 classroom.js"
   },
   "viewClassStatistics": {
-    "message": "عرض إحصائيات الفصل",
+    "message": "View Classroom Statistics",
     "description": "2.0 classroom.js"
   },
   "myRate": {
-    "message": "ترتيبي",
+    "message": "My Ranking",
     "description": "2.0 classroom.js"
   },
   "myPerformance": {
-    "message": "أدائي",
+    "message": "My Class Performance",
     "description": "2.0 classroom.js"
   },
   "scoreInClass": {
-    "message": "درجات الفصل المحصلة",
+    "message": "Class Points Earned",
     "description": "2.0 classroom.js"
   },
   "totalScore": {
-    "message": "مجموع الدرجات: {count} ",
+    "message": "Total Points: {count} ",
     "description": "2.0 classroom.js"
   },
   "rankInClass": {
-    "message": "ترتيب الفصل",
+    "message": "Class Ranking",
     "description": "2.0 classroom.js"
   },
   "interaction": {
-    "message": "التفاعل بالفصل",
+    "message": "Classroom Interactions",
     "description": "2.0 classroom.js"
   },
   "answered": {
-    "message": "تمت الإجابة",
+    "message": "Answered",
     "description": "2.0 classroom.js"
   },
   "notAnswer": {
-    "message": "لم تتم الإجابة",
+    "message": "Not Answered",
     "description": "2.0 classroom.js"
   },
   "selected": {
-    "message": "تم الأختيار",
+    "message": "Selected",
     "description": "2.0 classroom.js"
   },
   "joined": {
-    "message": "مشارك",
+    "message": "Participated",
     "description": "2.0 classroom.js"
   },
   "notJoin": {
-    "message": "لم يشارك",
+    "message": "Not Participated",
     "description": "2.0 classroom.js"
   },
   "score": {
-    "message": "مجموع الدرجات",
+    "message": "Total Score",
     "description": "2.0 classroom.js"
   },
   "classroomCount": {
-    "message": "عدد المحاضرات",
+    "message": "Number of sessions",
     "description": "2.0 classroom.js"
   },
   "activity": {
-    "message": "الأنشطة",
+    "message": "Activities",
     "description": "2.0 classroom.js"
   },
   "classroomList": {
-    "message": "المحاضرات",
+    "message": "Sessions",
     "description": "2.0 classroom.js"
   },
   "createClassroom": {
-    "message": "إنشاء محاضرة",
+    "message": "Create Session",
     "description": "2.0 classroom.js"
   },
   "studentPerformance": {
-    "message": "أداء الطالب",
+    "message": "Student Performance",
     "description": "2.0 classroom.js"
   },
   "classroomStatistics": {
-    "message": "إحصائيات المحاضرة",
+    "message": "Session Statistics",
     "description": "2.0 classroom.js"
   },
   "classroomName": {
-    "message": "اسم المحاضرة",
+    "message": "Session Name",
     "description": "2.0 classroom.js"
   },
   "classTime": {
-    "message": "وقت البدء",
+    "message": "Start Time",
     "description": "2.0 classroom.js"
   },
   "classesInClassroom": {
-    "message": "الفصول",
+    "message": "Classes",
     "description": "2.0 classroom.js"
   },
   "inClass": {
-    "message": "قيد التنفيذ",
+    "message": "In progress",
     "description": "2.0 classroom.js"
   },
   "enterClassroom": {
-    "message": "فتح",
+    "message": "Open",
     "description": "2.0 classroom.js"
   },
   "copyClassroom": {
-    "message": "تكرار",
+    "message": "Duplicate",
     "description": "2.0 classroom.js"
   },
   "noClassroom": {
-    "message": "لا توجد جلسات.",
+    "message": "No sessions found.",
     "description": "2.0 classroom.js"
   },
   "enterClassroomName": {
-    "message": "أدخل اسم المحاضرة",
+    "message": "Enter the session name",
     "description": "2.0 classroom.js"
   },
   "noClass1": {
-    "message": "لا يوجد فصول",
+    "message": "No classes found.",
     "description": "2.0 classroom.js"
   },
   "lastClass": {
-    "message": "تم أختيارها مسبقاً",
+    "message": "Previously Selected",
     "description": "2.0 classroom.js"
   },
   "startClass": {
-    "message": "البدء الآن",
+    "message": "Start Now",
     "description": "2.0 classroom.js"
   },
   "notClass": {
-    "message": "البدء لاحقاً",
+    "message": "Start Later",
     "description": "2.0 classroom.js"
   },
   "allClassroom": {
-    "message": "كل المحاضرات",
+    "message": "All sessions",
     "description": "2.0 classroom.js"
   },
   "deleteClassroom": {
-    "message": "حذف محاضرة",
+    "message": "Delete Session",
     "description": "2.0 classroom.js"
   },
   "confirmDeleteClassroom": {
-    "message": "هل تريد حذف هذه المحاضرة",
+    "message": "Are you sure you want to delete this session",
     "description": "2.0 classroom.js"
   },
   "copyClassroomToClass": {
-    "message": "محاضرة مكررة",
+    "message": "Duplicate Session",
     "description": "2.0 classroom.js"
   },
   "copyClassroomTip": {
-    "message": "الأنشطة المكررة غير نشطة. يمكنك تنشيط هذه الأنشطة بعد بدء المحاضرة. لا يمكن تكرار أنشطة الاستدعاء أو الاختيار العشوائي",
+    "message": "Duplicated activities are inactive. You can activate these activities after the session starts. Roll Call and Random Pick activities cannot be duplicated.",
     "description": "2.0 classroom.js"
   },
   "copySuccess": {
-    "message": "تم التكرار بنجاح!",
+    "message": "Duplicated successfully!",
     "description": "2.0 classroom.js"
   },
   "copyFailed": {
-    "message": "تعذر التكرار!",
+    "message": "Failed to duplicate!",
     "description": "2.0 classroom.js"
   },
   "editClassroom": {
-    "message": "تعديل محاضرة",
+    "message": "Edit Session",
     "description": "2.0 classroom.js"
   },
   "classErrorTip": {
-    "message": "اختر فصل واحدة على الأقل",
+    "message": "Select at least one class",
     "description": "2.0 classroom.js"
   },
   "faceAuthentication": {
-    "message": "التحقق من الوجه",
+    "message": "Face Verification",
     "description": "2.0 classroom.js"
   },
   "auditTips2": {
-    "message": "التحقق من الوجه قيد تشغيل. يجب رفع صور أوجه الطلاب مسبقًا. يمكن رفع الصور من قبل المعلم أو الطلاب. إذا تم رفع صورة الوجه من قبل الطالب يجب مراجعتها وموافقة المعلم عليها.",
+    "message": "Face verification is on. Student facial photos need to be uploaded in advance. Photos can be imported in bulk by the teacher or uploaded by students. If a facial photo is uploaded by the student, it has to be reviewed and approved by the teacher.",
     "description": "2.0 classroom.js"
   }
 }
