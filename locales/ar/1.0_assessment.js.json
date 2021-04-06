@@ -271,6 +271,30 @@
     "message": " خطأ فى النقر!",
     "description": "1.0 assessment.json"
   },
+  "assessRequired1": {
+    "message": "التقدم التراكمي لدراسة الوحدات يصل إلى {inputMax}٪ لإجمالي؛ أقل من {inputMin}٪ للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired2": {
+    "message": "المعدل التراكمي لدراسة الوحدات يصل إلى {inputMax}٪ لإجمالي؛ أقل من {inputMin}٪ للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired3": {
+    "message": "معدل الوقت التراكمي لدراسة الوحدات يصل إلى {inputMax} دقيقة من الاجمالى المتاح ؛ أقل من {inputMin} دقيقة للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired4": {
+    "message": "معدل الوقت التراكمي لدراسة الوحدات يصل إلى {inputMax} دقيقة من الاجمالى المتاح ؛ أقل من {inputMin} دقيقة للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "assessRequired5": {
+    "message": "معدل الوقت التراكمي لدراسة المقرر يصل إلى {inputMax} دقيقة من الاجمالى المتاح ؛ أقل من {inputMin} دقيقة للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation3": {
+    "message": "(يشير اللون الأحمر إلى أن هذا المقطع يظهر فقط في إصدار الكمبيوتر الشخصي \"PC\")",
+    "description": "1.0 assessment.json"
+  },
   "associatePaper": {
     "message": "الامتحانات المرتبطة",
     "description": "1.0 assessment.json"
@@ -369,6 +393,26 @@
   },
   "othersTxt": {
     "message": "أخرى",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt1": {
+    "message": "التقدم الدراسى لهذة الوحدات يصل إلى {max}٪ من الاجمالى ؛ أقل من {min}٪ للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt2": {
+    "message": "التقدم الدراسى لهذة الوحدات يصل إلى {max}٪ من الاجمالى ؛ أقل من {min}٪ للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt3": {
+    "message": "التقدم الدراسى لهذة الوحدات يصل إلى {max}٪ من الاجمالى ؛ أقل من {min}٪ للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt4": {
+    "message": "التقدم الدراسى لهذة الوحدات يصل إلى {max}٪ من الاجمالى ؛ أقل من {min}٪ للدرجة 0",
+    "description": "1.0 assessment.json"
+  },
+  "ruleTxt5": {
+    "message": "معدل الوقت التراكمي لدراسة المقرر يصل إلى {max} دقيقة من الاجمالى المتاح ؛ أقل من {min} دقيقة للدرجة 0",
     "description": "1.0 assessment.json"
   },
   "editTxt": {

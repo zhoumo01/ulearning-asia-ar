@@ -1,6 +1,6 @@
 {
   "welcome": {
-    "message": "مرحبا بكم في U-Learning",
+    "message": "مرحبا بكم في  منصة U-Learning",
     "description": "1.0 portal.js"
   },
   "tip": {
@@ -52,7 +52,7 @@
     "description": "insureance.jsp"
   },
   "passwordTip": {
-    "message": "يجب أن تكون كلمة المرور بين 8-16 حرفاً، يجب أن تحتوي على حروف و أرقام و أحرف كبيرة",
+    "message": "يجب أن تكون كلمة المرور بين ٨ - ١٦ حرفاً، يجب أن تحتوي على حروف و أرقام و أحرف كبيرة",
     "description": "insureance.jsp"
   },
   "plzOldPassword": {
@@ -72,7 +72,7 @@
     "description": "insureance.jsp"
   },
   "passwordNotSame": {
-    "message": " كلمتي المرور ليستا متطابقتين",
+    "message": "كلمتي المرور ليستا متطابقتين",
     "description": "insureance.jsp"
   },
   "modifySuccessed": {

@@ -16,15 +16,15 @@
     "description": "1.0 questionIndex2.js"
   },
   "folderMore": {
-    "message": "الحد الأقصى 5 طبقات للمجلد الواحد",
+    "message": "الحد الأقصى ٥ طبقات للمجلد الواحد",
     "description": "1.0 questionIndex2.js"
   },
   "folderNameEmpty": {
-    "message": "اسم المجلد غير فارغ!",
+    "message": "لا يمكن لاسم المجلد ان يترك فارغ!",
     "description": "1.0 questionIndex2.js"
   },
   "createFolder": {
-    "message": "فشل إنشاء مجلد. الرجاء المحاولة مرة أخرى لاحقاً",
+    "message": "لم نتمكن من إنشاء المجلد. الرجاء المحاولة مرة أخرى لاحقاً",
     "description": "1.0 questionIndex2.js"
   },
   "editFolderName": {
@@ -32,15 +32,11 @@
     "description": "1.0 questionIndex2.js"
   },
   "folderNameIllegal": {
-    "message": "اسم المجلد غير قانوني",
-    "description": "1.0 questionIndex2.js"
-  },
-  "parameterError": {
-    "message": "خطأ في المعاملات",
+    "message": "اسم المجلد غير صالح!",
     "description": "1.0 questionIndex2.js"
   },
   "rootDirectory": {
-    "message": "الدليل الاساسي",
+    "message": "المجلد الاساسي",
     "description": "1.0 questionIndex2.js"
   },
   "selectAddFolder": {
@@ -48,55 +44,195 @@
     "description": "1.0 questionIndex2.js"
   },
   "moveSuccess": {
-    "message": "نجاح المحمول!",
+    "message": "تم النقل بنجاح!",
     "description": "1.0 questionIndex2.js"
   },
   "deleteSuccess": {
-    "message": "تم حذف السؤال بنجاح",
+    "message": "تم الحذف بنجاح!",
     "description": "1.0 questionIndex2.js"
   },
   "deleteFail": {
-    "message": "فشل حذف السؤال",
+    "message": "لم نتمكن من حذف السؤال",
     "description": "1.0 questionIndex2.js"
   },
   "No": {
-    "message": "المعرف: {ID}",
+    "message": "رقم: {ID}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "noTest": {
+    "message": "السؤال غير موجود!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "notCreator": {
+    "message": "من اضاف السؤال هو المسؤل عن تعديل السؤال!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "cannotEdit": {
+    "message": "هذا السؤال قيد الاستخدام ولا يمكن حذفه!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "notGet": {
+    "message": "هذا السؤال قيد الاستخدام ولا يمكن حذفه!",
     "description": "1.0 questionIndex2.js"
   },
   "deleteFail1": {
-    "message": "فشل الحذف",
+    "message": "لم نتمكن من الحذف",
     "description": "1.0 questionIndex2.js"
   },
   "allDelete": {
     "message": "حذف الجميع",
     "description": "1.0 questionIndex2.js"
   },
+  "keepOnly": {
+    "message": "حذف المجلد، ولكن الاحتفاظ بالأسئلة",
+    "description": "1.0 questionIndex2.js"
+  },
+  "confirmDeleteFolder": {
+    "message": " حذف الكل يعنى حذف كافة الاسئلة في المجلد. إذا تم استخدام السؤال (الأسئلة) المحذوفة في الامتحان، فلن يكون الامتحان متاحًا بعد الآن.",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteAfter": {
+    "message": "لا يمكن استرداد البيانات بعد الحذف - هل تريد حذفها؟",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTopic": {
+    "message": "مشاركة إلى: ",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareFolder": {
+    "message": "مشاركة إلى:",
+    "description": "1.0 questionIndex2.js"
+  },
   "onlyMe": {
-    "message": "أنا فقط",
+    "message": "خاص",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareAppointTeacher": {
+    "message": "المعلمون المختارون",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareAllTeacher": {
+    "message": "جميع معلمي المدارس",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTeacher": {
+    "message": "جميع المعلمين",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareTips": {
+    "message": "مشاركة الأسئلة",
     "description": "1.0 questionIndex2.js"
   },
   "share2": {
-    "message": "مشاركة",
+    "message": "تأكيد",
+    "description": "1.0 questionIndex2.js"
+  },
+  "noSelectTeacher": {
+    "message": "لم يتم اختيار أي معلم!",
     "description": "1.0 questionIndex2.js"
   },
   "shareSuccess": {
-    "message": "تمت المشاركة بنجاح",
+    "message": "تمت مشاركتها بنجاح!",
     "description": "1.0 questionIndex2.js"
   },
   "shareFail": {
-    "message": "فشل المشاركة",
+    "message": "لم نتمكن من المشاركة",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selectTeacher": {
+    "message": "إختيار المعلم",
+    "description": "1.0 questionIndex2.js"
+  },
+  "enterTeacher": {
+    "message": "أدخل اسم المعلم للبحث",
+    "description": "1.0 questionIndex2.js"
+  },
+  "continueSelect": {
+    "message": "إختيار المزيد",
     "description": "1.0 questionIndex2.js"
   },
   "selected": {
-    "message": "‏‏تم التحديد",
+    "message": "تم الأختيار",
+    "description": "1.0 questionIndex2.js"
+  },
+  "action": {
+    "message": "اضافة الأسئلة بالجملة",
+    "description": "1.0 questionIndex2.js"
+  },
+  "downloadModel": {
+    "message": "تحميل القالب وإنشاء الأسئلة عليه",
     "description": "1.0 questionIndex2.js"
   },
   "model": {
     "message": "تحميل قالب",
     "description": "1.0 questionIndex2.js"
   },
+  "uploadFile2": {
+    "message": "رفع الملف المكتمل",
+    "description": "1.0 questionIndex2.js"
+  },
+  "cellError": {
+    "message": "خطأ في البيانات {r} في الصف{ {c} بيانات: {msg}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "importNormal": {
+    "message": "تم استيرادها بنجاح!",
+    "description": "1.0 questionIndex2.js"
+  },
   "importSuccess": {
-    "message": "تم الاستيراد بنجاح",
+    "message": "تم استيرادها بنجاح!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copyQuestion": {
+    "message": "تكرار السؤال {id} ...، الرجاء الانتظار!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copySuccess": {
+    "message": "يتم تكرار السؤال بنجاح في  فى الملف الرئيسى الخاص بك!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "systemBusy": {
+    "message": "النظام مشغول. الرجاء المحاولة مرة أخرى لاحقاً!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "exportNote": {
+    "message": "تصدير أسئلة",
+    "description": "1.0 questionIndex2.js"
+  },
+  "copyRightRequire": {
+    "message": "نظرًا لامتلاك حقوق الطبع والنشر، يمكن تصدير الأسئلة التي أنشأها معلمو مدرستك فقط.",
+    "description": "1.0 questionIndex2.js"
+  },
+  "leaveEmail": {
+    "message": "نظراً إلى كمية كبيرة من البيانات في بنك السؤال، فإن التصدير سوف تستغرق وقتاً طويلاً. يرجى ترك البريد الإلكتروني الخاص بك. بعد الانتهاء من التصدير، وسوف نقوم بإرسال رسالة إلكترونية لك الأسئلة المصدرة.",
+    "description": "1.0 questionIndex2.js"
+  },
+  "ipuntEmail": {
+    "message": "انقر لإدخال بريدك الإلكتروني",
+    "description": "1.0 questionIndex2.js"
+  },
+  "pleaseInputEmail": {
+    "message": "الرجاء إدخال بريد إلكتروني صحيح",
+    "description": "1.0 questionIndex2.js"
+  },
+  "inputEmailAd": {
+    "message": "الرجاء إدخال بريدك الإلكتروني",
+    "description": "1.0 questionIndex2.js"
+  },
+  "queueBusy": {
+    "message": "الاستعلام  غير متاح الان!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "parameterError2": {
+    "message": "لم نتمكن من الاستعلام!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "checkEmail": {
+    "message": "تم التصدير بنجاح - يرجى التحقق من البريد الإلكتروني الخاص بك!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "exportFail2": {
+    "message": "لم نتمكن من التصدير - يرجى الاتصال بخدمة العملاء!",
     "description": "1.0 questionIndex2.js"
   }
 }

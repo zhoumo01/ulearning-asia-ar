@@ -3,14 +3,6 @@
     "message": "جارى الإرسال...",
     "description": "1.0 autoexam.js"
   },
-  "unitContentText": {
-    "message": "محتوى وحدة {0}",
-    "description": "1.0 autoexam.js"
-  },
-  "allUnitContentText": {
-    "message": "محتويات جميع الوحدات",
-    "description": "1.0 autoexam.js"
-  },
   "selectQBankRange": {
     "message": "حدد نطاق بنك الاسئلة",
     "description": "1.0 autoexam.js"
@@ -87,10 +79,6 @@
     "message": "استمرار",
     "description": "1.0 autoexam.js"
   },
-  "pleaseEnterName": {
-    "message": "الرجاء إدخال أسماء  حتى {0} حرف",
-    "description": "1.0 autoexam.js"
-  },
   "pleaseEnterTemplateName": {
     "message": "الرجاء إدخال الاسم أقل من ٢٠ حرفاً",
     "description": "1.0 autoexam.js"
@@ -117,10 +105,6 @@
   },
   "deleteTemplateError": {
     "message": "خطأ في حذف القالب",
-    "description": "1.0 autoexam.js"
-  },
-  "partNum": {
-    "message": "القسم {0}",
     "description": "1.0 autoexam.js"
   },
   "totalScoreLabel": {

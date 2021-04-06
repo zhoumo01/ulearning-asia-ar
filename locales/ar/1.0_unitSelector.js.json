@@ -1,10 +1,10 @@
 {
   "selectCourseFirst": {
-    "message": "إختيار مقرر دراسي",
+    "message": "إختيار دورات دراسية",
     "description": "1.0 unitSelector.js"
   },
   "loadCourse": {
-    "message": "جارى تحميل المقرر الدراسي",
+    "message": "جارى تحميل الدورات الدراسية",
     "description": "1.0 unitSelector.js"
   },
   "selectUnit": {
@@ -12,11 +12,11 @@
     "description": "1.0 unitSelector.js"
   },
   "selectUnitTip": {
-    "message": "تحديد مقرر دراسي من الجزء الأيسر لتعبئة جميع الوحدات",
+    "message": "تحديد دورة دراسية من الجزء الأيسر لتعبئة جميع الوحدات",
     "description": "1.0 unitSelector.js"
   },
   "pleaseSelect": {
-    "message": "حدد المقرر الدراسي والوحدة",
+    "message": "حدد الدورة الدراسية والوحدة",
     "description": "1.0 unitSelector.js"
   }
 }

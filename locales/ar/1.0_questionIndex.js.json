@@ -20,7 +20,7 @@
     "description": "1.0 questionIndex.js"
   },
   "unitEtc": {
-    "message": "... وحدات",
+    "message": " بالاضافة الى وحدات أخرى",
     "description": "1.0 questionIndex.js"
   },
   "creator": {
@@ -64,7 +64,7 @@
     "description": "1.0 questionIndex.js"
   },
   "cancelSelect": {
-    "message": "إلغاء التحديد المتعدد",
+    "message": "إلغاء تحديد الكل",
     "description": "1.0 questionIndex.js"
   },
   "examQues": {
@@ -72,7 +72,7 @@
     "description": "1.0 questionIndex.js"
   },
   "parseError": {
-    "message": "خطأ في التحليل",
+    "message": "خطأ في الانشاء",
     "description": "1.0 questionIndex.js"
   },
   "checkDetailText": {

@@ -1,10 +1,10 @@
 {
   "editHomework": {
-    "message": "تعديل واجبات مجموعة",
+    "message": "تحرير تعيين المجموعة",
     "description": "1.0 homework.json"
   },
   "addHomework": {
-    "message": "إنشاء واجبات مجموعة",
+    "message": "إنشاء واجبات المجموعة",
     "description": "1.0 homework.json"
   },
   "kindTips": {
@@ -48,7 +48,7 @@
     "description": "1.0 homework.json"
   },
   "adjustGroupingTxt": {
-    "message": "إنذار",
+    "message": "تنبيه",
     "description": "1.0 homework.json"
   },
   "adjustGroupingTipTxt": {
@@ -80,19 +80,19 @@
     "description": "1.0 homework.json"
   },
   "importSucTxt": {
-    "message": "تم تلقيها بنجاح",
+    "message": "تم استيرادها بنجاح!",
     "description": "1.0 homework.json"
   },
   "submiting": {
-    "message": "جار الإرسال",
+    "message": "جارى الإرسال...",
     "description": "1.0 homework.json"
   },
   "groupTitle": {
-    "message": "تجميع الواجبات",
+    "message": "مجموعات الواجبات",
     "description": "1.0 homework.json"
   },
   "editGroup": {
-    "message": "تعديل التجميع",
+    "message": "تحرير المجموعات",
     "description": "1.0 homework.json"
   },
   "noStuTip": {
@@ -108,7 +108,7 @@
     "description": "1.0 homework.json"
   },
   "point": {
-    "message": "نقطة",
+    "message": "تنبيه",
     "description": "1.0 homework.json"
   },
   "confirmDelete": {
@@ -116,19 +116,19 @@
     "description": "1.0 homework.json"
   },
   "topicNoEmpty": {
-    "message": "لا يمكن أن يكون موضوع الواجب فارغ",
+    "message": "لا يمكن أن يكون عنوان الواجب فارغ",
     "description": "1.0 homework.json"
   },
   "topicThanMore": {
-    "message": "لا يمكن أن يكون عنوان الواجب أقل من 3 حروف و لا يزيد عن 50 حرف",
+    "message": "لا يمكن أن يكون عنوان الواجب أقل من ٣ حروف و لا يزيد عن ٥٠ حرف",
     "description": "1.0 homework.json"
   },
   "topicExist": {
-    "message": "موضوع الواجب موجود بالفعل",
+    "message": "عنوان الواجب موجود بالفعل",
     "description": "1.0 homework.json"
   },
   "inputFullScore": {
-    "message": "يرجى إدخال مجموع النقاط كاملا",
+    "message": "أدخل مجموع الدرجات الاقصى",
     "description": "1.0 homework.json"
   },
   "inputThanMore": {
@@ -136,31 +136,31 @@
     "description": "1.0 homework.json"
   },
   "inputThanLess": {
-    "message": "يرجى إدخال عدد صحيح أقل من 999",
+    "message": "يرجى إدخال عدد صحيح أقل من ٩٩٩",
     "description": "1.0 homework.json"
   },
   "inputThanMores": {
-    "message": "يرجى إدخال عدد صحيح أكبرمن 1",
+    "message": "يرجى إدخال عدد صحيح أكبرمن ١",
     "description": "1.0 homework.json"
   },
   "selectStartTime": {
-    "message": "الرجاء تحديد وقت البدء",
+    "message": "برجاء تحديد وقت البدء",
     "description": "1.0 homework.json"
   },
   "selectEndTime": {
-    "message": "قم بتعيين تاريخ الاستحقاق",
+    "message": "قم باضافة موعد نهائي للتقديم",
     "description": "1.0 homework.json"
   },
   "inputCountEach": {
-    "message": "يرجى إدخال عدد كل مجموعة",
+    "message": "يرجى اضافة عدد الطلبة فى كل مجموعة",
     "description": "1.0 homework.json"
   },
   "countMax": {
-    "message": "تحوي كل مجموعة 20 شخص على الأكثر",
+    "message": "تحوي كل مجموعة ٢٠ شخص على الأكثر",
     "description": "1.0 homework.json"
   },
   "countMin": {
-    "message": "تحوي كل مجموعة شخصين على الأقل",
+    "message": "الحد الأدنى لعدد الطلاب لكل مجموعة هو ٢",
     "description": "1.0 homework.json"
   },
   "uploadComplete": {
@@ -168,11 +168,11 @@
     "description": "1.0 homework.json"
   },
   "uploadFail": {
-    "message": "فشل عملية الرفع",
+    "message": "لم نتمكن من الرفع",
     "description": "1.0 homework.json"
   },
   "charRequired": {
-    "message": "لقد تجاوزت الحد الأقصى للنص، الحد الأقصى 5000 حرف",
+    "message": "لقد تجاوزت الحد الأقصى للنص، الحد الأقصى هو ٥٠٠٠ حرف",
     "description": "1.0 homework.json"
   },
   "saveDraft": {
@@ -180,23 +180,23 @@
     "description": "1.0 homework.json"
   },
   "netError": {
-    "message": "عطب بالشبكة",
+    "message": "خطأ الشبكة!",
     "description": "1.0 homework.json"
   },
   "sureAbandon": {
-    "message": "هل ترغب في التخلي عن إعدادات الواجب؟",
+    "message": "هل ترغب في إلغاء إعدادات الواجب للمجموعة ؟",
     "description": "1.0 homework.json"
   },
   "delQuestion": {
-    "message": "حذف السؤال",
+    "message": "حذف هذا الواجب",
     "description": "1.0 homework.json"
   },
   "topicNoempty": {
-    "message": "لا يمكن أن يكون موضوع الواجب فارغ",
+    "message": "لا يمكن أن يكون عنوان الواجب فارغ",
     "description": "1.0 homework.json"
   },
   "assignmentCharacter": {
-    "message": "لا يمكن أن يكون عنوان الواجب أقل من 3 حروف و لا يزيد عن 50 حرف",
+    "message": "لا يمكن أن يكون عنوان الواجب أقل من ٣ حروف و لا يزيد عن ٥٠ حرف",
     "description": "1.0 homework.json"
   },
   "fileType": {
@@ -204,15 +204,15 @@
     "description": "1.0 homework.json"
   },
   "uploadNoempty": {
-    "message": "لا يمكن للطالب رفع ملف فارغ",
+    "message": "حقل رفع الملفات لا يمكن ان يترك فارغ ",
     "description": "1.0 homework.json"
   },
   "uploadSize": {
-    "message": "الحجم لنوع الملف المرفوع بواسطة الطالب مناسب",
+    "message": "الحجم الملف يجب ان يكون عدد صحيح",
     "description": "1.0 homework.json"
   },
   "uploadThan": {
-    "message": "لا يمكن للطالب رفع ملف أكبر من 30 ميجا بايت",
+    "message": "لا يمكن للطالب رفع ملف أكبر من ٣٠٠ ميجا بايت",
     "description": "1.0 homework.json"
   },
   "onlyNo": {
@@ -220,11 +220,11 @@
     "description": "1.0 homework.json"
   },
   "noThan": {
-    "message": "لا يمكن تجاوز أكثر من 100 علامة",
+    "message": "لا يمكن تجاوز أكثر من ١٠٠ درجة",
     "description": "1.0 homework.json"
   },
   "assignmentRequired": {
-    "message": "لقد تجاوزت الحد الأقصى للنص، الحد الأقصى 5000 حرف",
+    "message": "لقد تجاوزت الحد الأقصى للنص، الحد الأقصى ٥٠٠٠ حرف",
     "description": "1.0 homework.json"
   },
   "selectQ": {
@@ -236,7 +236,7 @@
     "description": "1.0 homework.json"
   },
   "saveDraftFail": {
-    "message": "فشل حفظ المسودة",
+    "message": "لم نتمكن من حفظ المسودة",
     "description": "1.0 homework.json"
   },
   "size": {
@@ -244,7 +244,7 @@
     "description": "1.0 homework.json"
   },
   "scoreProfileTitle": {
-    "message": "سجل النقاط",
+    "message": "نظام الدرجات",
     "description": "1.0 homework.json"
   },
   "scoreProfile": {
@@ -252,23 +252,23 @@
     "description": "1.0 homework.json"
   },
   "scoreDescTitle": {
-    "message": "إشعار",
+    "message": "ملاحظه",
     "description": "1.0 homework.json"
   },
   "scoreDesc": {
-    "message": "حاليا نظام التقييم تلقائيا محدد بـ 200 كلمة فقط للقراءة بصوت مسموع خلال دقيقتين لاسباب تقنية. تجاوز أحد الحدين سيؤدي إلى فشل عملية التقييم التلقائي. الرجاء عدم إدخال أكثر من 200 كلمة في عمود القراءة.",
+    "message": "حاليا نظام التقييم تلقائيا محدد بـ ٢٠٠ كلمة فقط للقراءة بصوت مسموع خلال دقيقتين لاسباب تقنية. تجاوز أحد الحدين سيؤدي إلى فشل عملية التقييم التلقائي. الرجاء عدم إدخال أكثر من ٢٠٠ كلمة في عمود القراءة.",
     "description": "1.0 homework.json"
   },
   "assignHomework": {
-    "message": "إنشاء اختبار",
+    "message": "إنشاء واجب",
     "description": "1.0 homework.json"
   },
   "assignmentScore": {
-    "message": "نقاط الواجب",
+    "message": "درجات الواجب",
     "description": "1.0 homework.json"
   },
   "gradeRule": {
-    "message": "درجات الواجب = متوسط درجة المراجعة - عدد درجات الواجب الغير مسجلة * 5% * مجموع درجة الواجب، على سبيل المثال: للحصول على 100%، إذا حصل الطالب في إحدى المراجعات على 80 درجة، و لكنها كانت مراجعة واحدة من 4 مراجعات مطلوبة منه، 3 * 5% * 100% يجب أن تخصم من درجاته، و بالتالي فإن النتيجة الإجمالية للطالب هي: 80 - 3 * 5% * 100% = 65 درجة.",
+    "message": "درجات الواجب = متوسط درجة المراجعة - عدد درجات الواجب الغير مسجلة * ٥٪ * مجموع درجة الواجب، على سبيل المثال: للحصول على١٠٠٪، إذا حصل الطالب في إحدى المراجعات على ٨٠ درجة، و لكنها كانت مراجعة واحدة من 4 مراجعات مطلوبة منه، ٣ * ٥٪ * ١٠٠٪ يجب أن تخصم من درجاته، و بالتالي فإن النتيجة الإجمالية للطالب هي: ٨٠ - ٣ * ٥٪ *١٠٠٪ = ٦٥ درجة.",
     "description": "1.0 homework.json"
   },
   "appeal": {
@@ -280,15 +280,15 @@
     "description": "1.0 homework.json"
   },
   "stuAppealContent": {
-    "message": "في حالة عدم رضا الطالب عن متوسط درجاته، يمكن للطالب رفع شكوى للمعلم و يقوم المعلم بعملية التقييم. و ستكون الدرجة النهائية هي درجة المعلم - الواجبات التي سيتم تقييمها * 5% * جمالي درجة الواجب.",
+    "message": "في حالة عدم رضا الطالب عن متوسط درجاته، يمكن للطالب رفع شكوى للمعلم و يقوم المعلم بعملية التقييم. و ستكون الدرجة النهائية هي درجة المعلم - الواجبات التي سيتم تقييمها * ٥٪ * جمالي درجة الواجب.",
     "description": "homeworkGroupStu.js"
   },
   "selectClass": {
-    "message": "حدد الفصل",
+    "message": "حدد الفصل الدراسى",
     "description": "1.0 homework.json"
   },
   "homeworkStart": {
-    "message": "بدأ الواجب",
+    "message": "وقت البدء",
     "description": "1.0 homework.json"
   },
   "timePlaceholder": {
@@ -308,15 +308,15 @@
     "description": "1.0 homework.json"
   },
   "selectTime": {
-    "message": "الرجاء اختيار وقت",
+    "message": "برجاء اختيار وقت",
     "description": "1.0 homework.json"
   },
   "answerRequire": {
-    "message": "الرجاء إدخال أوقات الإجابة",
+    "message": "برجاء إدخال أوقات الإجابة",
     "description": "1.0 homework.json"
   },
   "answerDigits": {
-    "message": "الرجاء إدخال عدد صحيح بين 1 - 100",
+    "message": "الرجاء إدخال عدد صحيح بين ١ - ١٠٠",
     "description": "1.0 homework.json"
   },
   "answerDay": {
@@ -324,7 +324,7 @@
     "description": "1.0 homework.json"
   },
   "autoRemark": {
-    "message": "الرجاء اختيار طريقة تقدير",
+    "message": "الرجاء اختيار طريقة حساب التقدير",
     "description": "1.0 homework.json"
   },
   "peerReviewCount": {
@@ -348,7 +348,7 @@
     "description": "1.0 homework.json"
   },
   "plzSelectClass": {
-    "message": "الرجاء اختيار الفصل",
+    "message": "برجاء اختيار الفصل الدراسى",
     "description": "1.0 homework.json"
   },
   "warnTip": {
@@ -360,11 +360,11 @@
     "description": "1.0 homework.json"
   },
   "assignmentFail": {
-    "message": "فشل نشر الواجب",
+    "message": "لم نتمكن من النشر",
     "description": "1.0 homework.json"
   },
   "publishSetting": {
-    "message": "نشر",
+    "message": "الإعدادات النشر",
     "description": "1.0 homework.json"
   },
   "noMark": {
@@ -372,15 +372,15 @@
     "description": "1.0 homework.json"
   },
   "kown": {
-    "message": "أعرف",
+    "message": "فهمت ذلك!",
     "description": "1.0 homework.json"
   },
   "evaluated": {
-    "message": "قام الطالب بتقييم عدد من الواجبات",
+    "message": "عدد الواجبات التي قام الطالب بمراجعتها",
     "description": "1.0 homework.json"
   },
   "evaluation": {
-    "message": "عدد من الواجبات التي قام المعلم بتقييمها",
+    "message": "عدد الواجبات التي قام الطالب بمراجعتها",
     "description": "1.0 homework.json"
   },
   "expandText": {
@@ -408,7 +408,7 @@
     "description": "教师批阅小组作业页面"
   },
   "checkAllMemebers": {
-    "message": "عرض جميع الأعضاء 12>>",
+    "message": "عرض جميع  الأعضاء  ١٢ >>",
     "description": "教师批阅小组作业页面"
   },
   "comment": {
@@ -416,15 +416,15 @@
     "description": "教师批阅小组作业页面"
   },
   "noComment": {
-    "message": "Ta لم تقيم الواجب",
+    "message": "لم يعلق على هذا الواجب",
     "description": "教师批阅小组作业页面"
   },
   "noEvaluation": {
-    "message": "Ta لا تقيم الآخرين",
+    "message": "هو/هي لم يعلق على الآخرين",
     "description": "教师批阅小组作业页面"
   },
   "scoreText": {
-    "message": "Pts ممكن: {score}",
+    "message": "درجات ممكنة: {score}",
     "description": "教师批阅小组作业页面"
   },
   "systemAdvice": {
@@ -432,39 +432,67 @@
     "description": "教师批阅小组作业页面"
   },
   "shortWord": {
-    "message": "عدد الكلمات في الواجبات أقل من 10",
+    "message": "عدد الكلمات في الواجبات أقل من ١٠",
     "description": "教师批阅小组作业页面"
   },
   "plzInputPoint": {
-    "message": "يرجى مفتاح في النتيجة",
+    "message": "أدخل الدرجات",
     "description": "教师批阅小组作业页面"
   },
   "commentCountLimit": {
-    "message": "يجب ألا تتجاوز التعليقات 1000 حرف",
+    "message": "يجب ألا تتجاوز التعليق ١٠٠٠ حرف",
     "description": "教师批阅小组作业页面"
   },
   "submitHomeworkFail": {
-    "message": "فشل إرسال الواجب",
+    "message": "لم نتمكن من إرسال الواجب",
     "description": "教师批阅小组作业页面"
   },
   "frontPartTip": {
-    "message": "المقدمة فارغة",
+    "message": "نكتفى بهذا القدر",
     "description": "教师批阅小组作业页面"
   },
   "backPartTip": {
-    "message": "لا مزيد في الظهر",
+    "message": "نكتفى بهذا القدر",
+    "description": "教师批阅小组作业页面"
+  },
+  "validateNumber": {
+    "message": "برجاء ادخال درجة  صحيحة تحتوى على رقم عشري واحد فقط",
+    "description": "教师批阅小组作业页面"
+  },
+  "validateScore": {
+    "message": "لا يمكن للدرجات ان تتجاوز اقصى درجة ممكنة!",
+    "description": "教师批阅小组作业页面"
+  },
+  "referSuggest": {
+    "message": "المعلومات التالية هي للإشارة فقط: ",
+    "description": "教师批阅小组作业页面"
+  },
+  "sentenceError1": {
+    "message": "حدث خطاء فى [ المفردات \\ الكلمات ] {message}.",
+    "description": "教师批阅小组作业页面"
+  },
+  "sentenceError2": {
+    "message": "حدث خطاء فى [ المفردات \\ الكلمات ] {message} نوصى باستخدام {replace}.",
+    "description": "教师批阅小组作业页面"
+  },
+  "syntaxError": {
+    "message": "حدث خطاء فى [الأخطاء النحوية]  {message}.",
+    "description": "教师批阅小组作业页面"
+  },
+  "noError": {
+    "message": "مقال جيد! لم يتم العثور على أخطاء فى  قواعد اللغة - استمر في ذلك!",
     "description": "教师批阅小组作业页面"
   },
   "imageLoading": {
-    "message": "تحميل الصورة",
+    "message": "جار تحميل الصورة",
     "description": "homeworkPreview.js"
   },
   "imageLoadError": {
-    "message": "فشل تحميل الصور، يرجى عمل تحديث وإعادة المحاولة!",
+    "message": "لم نتمكن من تحميل الصور، يرجى تحديث المتصفح وإعادة المحاولة!",
     "description": "homeworkPreview.js"
   },
   "documentLoading": {
-    "message": " تحميل مستند المصادر",
+    "message": "يتم الآن تحميل موارد المستند...",
     "description": "homeworkPreview.js"
   },
   "compressedPack": {
@@ -475,12 +503,16 @@
     "message": "مستند مضغوط",
     "description": "homeworkPreview.js"
   },
+  "videoTranscoding": {
+    "message": "تحويل شفرة الفيديو...",
+    "description": "homeworkPreview.js"
+  },
   "automaticText": {
     "message": "سيتم التقييم تلقائيا. يجب إنهاء قراءة جميع الأجزاء خلال دقيقتين، و إلا ستفشل عملية التقييم التلقائي.",
     "description": "homeworkGroupStuMain.js"
   },
   "actionDesriptionText": {
-    "message": " وصف العملية",
+    "message": "إرشادات",
     "description": "homeworkGroupStuMain.js"
   },
   "clickText": {
@@ -508,23 +540,23 @@
     "description": "homeworkGroupStuMain.js"
   },
   "pleaseEnterScoreText": {
-    "message": "الرجاء إدخال درجات أصغر من مجموع الدرجات",
+    "message": "رجاء إدخال درجات أصغر من الحد الاقصى للدرجات",
     "description": "homeworkGroupStuMain.js"
   },
   "commentSuccessText": {
-    "message": " تعليق ناجح",
+    "message": "تم التعليق بناجح",
     "description": "homeworkGroupStuMain.js"
   },
   "myAsssignmentText": {
-    "message": "واجبي",
+    "message": "واجباتي",
     "description": "homeworkGroupStuMain.js"
   },
   "groupAssignmentText": {
-    "message": "هذا هو واجب مجموعة، يرجى القيام به مع أعضاء المجموعة",
+    "message": "هذا الواجب للمجموعة، يرجى القيام به مع أعضاء المجموعة",
     "description": "homeworkGroupStuMain.js"
   },
   "noticeText": {
-    "message": "انتباه",
+    "message": "ملاحظه",
     "description": "homeworkGroupStuMain.js"
   },
   "assignmentComText": {
@@ -568,7 +600,7 @@
     "description": "homeworkGroupStuMain.js"
   },
   "revokeFailText": {
-    "message": "فشل عملية السحب!",
+    "message": "لم نتمكن من عملية السحب!",
     "description": "homeworkGroupStuMain.js"
   },
   "uploadFileText": {
@@ -576,7 +608,7 @@
     "description": "homeworkGroupStuMain.js"
   },
   "errorLogText": {
-    "message": "يتم تنشيط المشروع، الرجاء عدم إغلاق الصفحة.  فشل التنشيط يظهر وجود خطأ تسجيل.",
+    "message": "يتم تنشيط المشروع، الرجاء عدم إغلاق الصفحة. فشل التنشيط يظهر وجود خطأ تسجيل.",
     "description": "homeworkGroupStuMain.js"
   },
   "prejectStart": {
@@ -588,11 +620,11 @@
     "description": "homeworkGroupStuMain.js"
   },
   "runFailText": {
-    "message": "فشل تشغيل المشروع",
+    "message": "لم نتمكن من تشغيل المشروع",
     "description": "homeworkGroupStuMain.js"
   },
   "startupFailText": {
-    "message": "فشل تنشيط المشروع",
+    "message": "لم نتمكن من تنشيط المشروع",
     "description": "homeworkGroupStuMain.js"
   },
   "uploadContentText": {
@@ -604,11 +636,11 @@
     "description": "homeworkGroupStuMain.js"
   },
   "uploadRecordText": {
-    "message": "يرجى رفع التسجيل",
+    "message": "يرجى رفع التسجيل الصوتى",
     "description": "homeworkGroupStuMain.js"
   },
   "assignmentDescriptionText": {
-    "message": "لا يمكن أن يتجاوز شرح التعيين 1000 حرف. حالياً تجاوز {count} حرف",
+    "message": "لا يمكن أن يتجاوز شرح الواجبات ١٠٠٠ حرف. حالياً تجاوز {count} حرف",
     "description": "homeworkGroupStuMain.js"
   },
   "pasteHereText": {
@@ -620,11 +652,11 @@
     "description": "homeworkGroupStu.js"
   },
   "charapterText": {
-    "message": "يجب ألا يتجاوز محتوى النص 5000 كلمة",
+    "message": "يجب ألا يتجاوز محتوى النص ٥٠٠٠ كلمة",
     "description": "homeworkGroupStu.js"
   },
   "workThanMoreText": {
-    "message": "يجب ألا تتجاوز الكتابة 3000 كلمة",
+    "message": "يجب ألا تتجاوز مقال البحث ٣٠٠٠ كلمة",
     "description": "homeworkGroupStu.js"
   },
   "uploadFileText2": {
@@ -632,7 +664,7 @@
     "description": "homeworkGroupStu.js"
   },
   "teacherSetText": {
-    "message": "قام معلمك بتعيين واجب يقييم تلقائيا. إذا احتوى الواجب على أقل من 10 كلمات فسيعتبر النظام النتيجة {score} درجة، هل تريد إرسال الواجب؟",
+    "message": "قام معلمك باضافة واجب يقييم تلقائيا. إذا احتوى الواجب على أقل من ١٠ كلمات فسيعتبر النظام النتيجة {score} درجة، هل تريد إرسال الواجب؟",
     "description": "homeworkGroupStu.js"
   },
   "loginTimeOutText": {
@@ -644,7 +676,7 @@
     "description": "homeworkGroupStu.js"
   },
   "beScoreText": {
-    "message": "التقييم معلق",
+    "message": " التقدير معلق",
     "description": "homeworkGroupStu.js"
   },
   "submitTimeText": {
@@ -652,7 +684,7 @@
     "description": "homeworkGroupStu.js"
   },
   "assignmentScoreText": {
-    "message": "نتيجة الواجب",
+    "message": "درجات الواجب",
     "description": "homeworkGroupStu.js"
   },
   "meanScoreText": {
@@ -668,11 +700,11 @@
     "description": "homeworkGroupStu.js"
   },
   "deductionText": {
-    "message": "خصم نقاط الواجب: {score} درجة (الواجبات المعينة لك للتقييم هي {count} بدون تقييم)",
+    "message": "خصم درجات الواجب: {score} درجة (الواجبات المعينة لك للتقييم هي {count} بدون تقييم)",
     "description": "homeworkGroupStu.js"
   },
   "myAssignmentText": {
-    "message": "واجبي",
+    "message": "واجباتي",
     "description": "homeworkGroupStu.js"
   },
   "submitOnText": {
@@ -680,15 +712,15 @@
     "description": "homeworkGroupStu.js"
   },
   "groupText": {
-    "message": "واجب {group}",
+    "message": "واجبات جماعية لـ {group}",
     "description": "homeworkGroupStu.js"
   },
   "lateText": {
-    "message": "[ تأخر التقديم ]",
+    "message": "[تأخر تقديم الطلب] ",
     "description": "homeworkGroupStu.js"
   },
   "submitDeadlineText": {
-    "message": "انتهاء الموعد النهائي للتقديم",
+    "message": " لقد انتهى الموعد النهائي للتقديم",
     "description": "homeworkGroupStu.js"
   },
   "completeText": {
@@ -700,7 +732,7 @@
     "description": "homeworkGroupStu.js"
   },
   "teacherScoreText": {
-    "message": "تقييم المعلم: {score}",
+    "message": "النتيجة حسب المعلم: {score}",
     "description": "homeworkGroupStu.js"
   },
   "teacherCommentText": {
@@ -708,7 +740,7 @@
     "description": "homeworkGroupStu.js"
   },
   "reDoText": {
-    "message": "إعادة الكتابة",
+    "message": "يحتاج إلى إعادة صياغة",
     "description": "homeworkGroupStu.js"
   },
   "systemScoreText": {
@@ -748,11 +780,11 @@
     "description": "homeworkGroupStu.js"
   },
   "dissatisfiedText": {
-    "message": " أخبر المعلم لماذا أنت غير راض عن النتيجة، يجب ألا تتجاوز 1000 كلمة",
+    "message": " أخبر المعلم لماذا أنت غير راض عن النتيجة، يجب ألا تتجاوز ١٠٠٠ كلمة",
     "description": "homeworkGroupStu.js"
   },
   "complaintConText": {
-    "message": "يجب ألا يتجاوز محتوى الشكوى 1000 كلمة",
+    "message": "يجب ألا يتجاوز محتوى الشكوى ١٠٠٠ كلمة",
     "description": "homeworkGroupStu.js"
   },
   "complaintSubmintText": {
@@ -792,11 +824,11 @@
     "description": "homeworkGroupStu.js"
   },
   "testGrammarText": {
-    "message": "يحتوي الواجب على أقل من 10 كلمات باللغة الإنجليزية، لذلك لا يمكن للنظام إجراء التدقيق النحوي",
+    "message": "يحتوي الواجب على أقل من ١٠ كلمات، لذلك لا يمكن للنظام إجراء التدقيق النحوي",
     "description": "homeworkGroupStu.js"
   },
   "compositionText": {
-    "message": "الكتابة طويلة جدا، وعدد الكلمات تتجاوز 500!",
+    "message": "الكتابة طويلة جدا، وعدد الكلمات تتجاوز ٥٠٠!",
     "description": "homeworkGroupStu.js"
   },
   "beCheckText": {
@@ -804,11 +836,15 @@
     "description": "homeworkGroupStu.js"
   },
   "AmendText": {
-    "message": "رأي التعديل",
+    "message": "رأى فى مقترح التعديل",
     "description": "homeworkGroupStu.js"
   },
   "mutiTimesScoreTipText": {
     "message": "أخذ أعلى درجة في إجابات متعددة",
     "description": "homeworkStu.js"
+  },
+  "startRecord": {
+    "message": "بدء التسجيل",
+    "description": "homeworkGroupStuMain.js"
   }
 }

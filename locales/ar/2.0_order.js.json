@@ -1,0 +1,114 @@
+{
+  "myOrder": {
+    "message": "طلباتي",
+    "description": "2.0_order.js"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "2.0_order.js"
+  },
+  "orderTotalNum": {
+    "message": "مجموع الطلبات: ",
+    "description": "2.0_order.js"
+  },
+  "unpaidOrder": {
+    "message": "طلبات غير مدفوعة: ",
+    "description": "2.0_order.js"
+  },
+  "finishedOrder": {
+    "message": "الطلبات المكتملة:",
+    "description": "2.0_order.js"
+  },
+  "cancelOrderCl": {
+    "message": "الطلبات الملغاة: ",
+    "description": "2.0_order.js"
+  },
+  "orderCode": {
+    "message": "طلب #: ",
+    "description": "2.0_order.js"
+  },
+  "discount": {
+    "message": "خصم: ",
+    "description": "2.0_order.js"
+  },
+  "placeAnOrder": {
+    "message": "مكان الطلب",
+    "description": "2.0_order.js"
+  },
+  "unpaid": {
+    "message": "غير مدفوعة",
+    "description": "2.0_order.js"
+  },
+  "cancelOrder": {
+    "message": "إلغاء الطلب",
+    "description": "2.0_order.js"
+  },
+  "goToPay": {
+    "message": "الدفع",
+    "description": "2.0_order.js"
+  },
+  "finished": {
+    "message": "مكتمل",
+    "description": "2.0_order.js"
+  },
+  "viewActivationcode": {
+    "message": "عرض رمز التفعيل",
+    "description": "2.0_order.js"
+  },
+  "canceled": {
+    "message": "تم الإلغاء",
+    "description": "2.0_order.js"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "2.0_order.js"
+  },
+  "orderTips1": {
+    "message": "لم تقم بشراء أي مناهج دراسية على الموقع.",
+    "description": "2.0_order.js"
+  },
+  "used": {
+    "message": "مستخدم",
+    "description": "2.0_order.js"
+  },
+  "orderTips2": {
+    "message": "يمكن استخدام رموز التنشيط مرة واحدة فقط.",
+    "description": "2.0_order.js"
+  },
+  "orderCode2": {
+    "message": "طلب #: ",
+    "description": "2.0_order.js"
+  },
+  "recipient": {
+    "message": "المستلم: ",
+    "description": "2.0_order.js"
+  },
+  "orderProduct": {
+    "message": "المنتج المطلوب: ",
+    "description": "2.0_order.js"
+  },
+  "productNumber": {
+    "message": "العدد:",
+    "description": "2.0_order.js"
+  },
+  "orderMoney": {
+    "message": "المبلغ المطلوب: ",
+    "description": "2.0_order.js"
+  },
+  "contactEmail": {
+    "message": "البريد الإلكتروني: ",
+    "description": "2.0_order.js"
+  },
+  "orderTips3": {
+    "message": " (تم إرسال رمز التفعيل إلى البريد الإلكتروني)",
+    "description": "2.0_order.js"
+  },
+  "deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "2.0_order.js"
+  },
+  "deleteFailed": {
+    "message": "تعذر الحذف",
+    "description": "2.0_order.js"
+  }
+}

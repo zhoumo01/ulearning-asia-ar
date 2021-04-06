@@ -7,6 +7,14 @@
     "message": "تم ارسال الرسائل",
     "description": "1.0 message.js"
   },
+  "deleteMsgSuccess": {
+    "message": "تم حذفها بنجاح!",
+    "description": "1.0 message.js"
+  },
+  "deleteMsgFail": {
+    "message": "لم نتمكن من الحذف - الرجاء إعادة المحاولة لاحقًا!",
+    "description": "1.0 message.js"
+  },
   "invalidDelete": {
     "message": "لحذف رسالة، قم بتحديدها أولاً.",
     "description": "1.0 message.js"
@@ -16,11 +24,11 @@
     "description": "1.0 message.js"
   },
   "inputKeyWords": {
-    "message": "مفتاح داخل 500 حرف",
+    "message": "مفتاح داخل ٥٠٠ حرف",
     "description": "1.0 message.js"
   },
   "submiting": {
-    "message": "جار الإرسال",
+    "message": "جارى الإرسال...",
     "description": "1.0 message.js"
   },
   "confirmBeforeDelete": {
@@ -44,7 +52,7 @@
     "description": "1.0 message.js"
   },
   "messageLimit": {
-    "message": "يمكنك إرسال 300 رسالة على الأكثر",
+    "message": "يمكنك إرسال ٣٠٠ رسالة على الأكثر",
     "description": "1.0 message.js"
   },
   "messageSend": {
@@ -60,7 +68,7 @@
     "description": "1.0 message.js"
   },
   "otherTeacher": {
-    "message": "معلمون آخرون في هذا المعهد",
+    "message": "معلمون آخرون ",
     "description": "1.0 message.js"
   }
 }

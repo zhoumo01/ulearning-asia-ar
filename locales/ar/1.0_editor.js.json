@@ -12,11 +12,11 @@
     "description": "1.0 editor.js"
   },
   "haveText": {
-    "message": "يوجد {n} لم يتم حفظها",
+    "message": "يوجد {n} سؤال لم يتم حفظها",
     "description": "1.0 editor.js"
   },
   "goToCheck": {
-    "message": "عودة من اجل التحقق؟",
+    "message": "تحقق الآن!",
     "description": "1.0 editor.js"
   },
   "quesParseError": {
@@ -28,7 +28,7 @@
     "description": "1.0 editor.js"
   },
   "createQues": {
-    "message": "اختيار المراد إنشائه",
+    "message": "إختيار المراد إنشائه",
     "description": "1.0 editor.js"
   },
   "allTypeQues": {
@@ -52,7 +52,7 @@
     "description": "1.0 editor.js"
   },
   "questionTitle": {
-    "message": "اختر",
+    "message": "إختر",
     "description": "1.0 editor.js"
   },
   "questionDetailDesc": {
@@ -80,7 +80,7 @@
     "description": "1.0 editor.js"
   },
   "scoreText": {
-    "message": "النتيجة {score}",
+    "message": "الدرجات {score}",
     "description": "注意，这个指的是某道题目的分值，不是得了多少分，在试题编辑器 -> 批量导入 -> 导入习题后，每个习题的标题的左侧有一个括号，括号内标有题目的分值"
   },
   "correct": {
@@ -93,10 +93,6 @@
   },
   "singleQ2": {
     "message": "الاختيار المتعدد",
-    "description": "1.0 editor.js"
-  },
-  "moreQ2": {
-    "message": "استجابة المتعددة",
     "description": "1.0 editor.js"
   },
   "yesNoQ2": {
@@ -112,23 +108,23 @@
     "description": "1.0 editor.js"
   },
   "analysisTit": {
-    "message": "اضغط هنا لإدخال الشرح  ( اختياري )",
+    "message": "اضغط هنا لإدخال الشرح - ( اختياري )",
     "description": "1.0 editor.js"
   },
   "saveSuccessTips": {
-    "message": "تم بنجاح",
+    "message": "تم الحفظ بنجاح",
     "description": "1.0 editor.js"
   },
   "saveErrorTips": {
-    "message": "خطأ",
+    "message": "لم نتنكن من الحفظ",
     "description": "1.0 editor.js"
   },
   "saveErrorTips2": {
-    "message": "فشل في حفظ البعض",
+    "message": "فشلت في حفظ بعض الأسئلة!",
     "description": "1.0 editor.js"
   },
   "numExceededTips": {
-    "message": "لا يزيد عدد المدخلات عن  ٢٠٠ في المرة الواحدة",
+    "message": "لا يزيد عدد المدخلات عن ٢٠٠ في المرة الواحدة",
     "description": "1.0 editor.js"
   },
   "incompleteMessage1": {

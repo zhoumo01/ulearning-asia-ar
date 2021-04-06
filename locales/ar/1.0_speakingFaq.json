@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "المشاكل العامة في الامتحان الشفوي",
+    "message": "الأسئلة الشائعة لاختبار اللغة الإنجليزية الشفوي",
     "description": "1.0 speakingFaq.json"
   },
   "section1": {
-    "message": "١- ماهى الاشياء التى تحتاج إلى إعداد قبل الامتحان؟",
+    "message": "١- ماهى الاشياء التى تحتاج إلى إعدادها قبل الامتحان؟",
     "description": "1.0 speakingFaq.json"
   },
   "section1-p1": {
@@ -73,6 +73,94 @@
   },
   "section1-p17": {
     "message": "الضغط على ايكونة مكبر الصوت في الزاوية اليمنى السفلية، وسوف تظهر قائمة:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p18": {
+    "message": "انقر فوق إعدادات ضبط خصائص الصوت، وستظهر النافذة المنبثقة التالية:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p19": {
+    "message": "يوجد خيار تسجيل مستوى الصوت ضمن القائمة الصوتية. انقر فوق زر مستوى الصوت.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p20": {
+    "message": "ضبط مستوى الصوت إلى الحد الأقصى، ثم صوت التسجيل سيكون أعلى صوتا.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p21": {
+    "message": "أو يمكنك النقر بزر الماوس الأيمن فوق أيقونة السماعة في الزاوية السفلية اليسرى، وستظهر قائمة:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p22": {
+    "message": "انقر على القائمة جهاز التسجيل كما هو موضح أدناه:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p23": {
+    "message": "بعد تحديد الميكروفون، انقر على الزر خصائص",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p24": {
+    "message": "في المربع المنبثق، حدد قائمة مستوى الصوت وقم بضبط مستوى صوت الميكروفون إلى الحد الأقصى",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p25": {
+    "message": "١.٨ كيفية تثبيت المكونات \"plug-in\" في المتصفح؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p26": {
+    "message": "بالنسبة لأجهزة الكمبيوتر التى  لا تحتوى على المكون \"plug-in\"، يرجى تنزيل المكون \"plug-in\" من الصفحة الرئيسية.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2": {
+    "message": "٢ كيفية إعداد التسجيل الصوتى ؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2-p1": {
+    "message": "عندما يدخل الطلاب اختبار اللغة الإنجليزية المنطوقة، سيظهر مربع حوار كما يلي:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section2-p2": {
+    "message": "يحتاج الطلاب إلى التحقق من المربع الحوارى ثم انقر فوق الزر تشغيل قبل البدء في التسجيل.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3": {
+    "message": "٣ ماذا لو توقف الامتحان؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3-p1": {
+    "message": "إذا توقف الامتحان بسبب فشل المعدات أو لأسباب أخرى، أغلق جميع نوافذ المستعرض. ثم، أعد فتح المتصفح، قم بتسجيل الدخول إلى منصة ULearning في مدرستك، ثم أعد تشغيل الامتحان. سوف يكون لدى شاشة الامتحان مطالبة لاستعادة إجاباتك، كما هو موضح أدناه:",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section3-p2": {
+    "message": "يحتاج الطلاب إلى النقر على الزر استعادة الإجابات للتأكيد. ولكن تجدر الإشارة إلى أن <font class=\"red\">النظام يمكن استعادة فقط إجاباتك المحفوظة منذ 5 دقائق. بالإضافة إلى ذلك، بالنسبة للأسئلة المنطوقة باللغة الإنجليزية، يمكن فقط إعادة تشغيل التسجيل المستعاد، ولا يمكن إعادة حفظه أو إعادة تحميله. </font>",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section4": {
+    "message": "٤ كيفية حفظ التسجيلات الصوتية؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section4-p1": {
+    "message": "بعد إتمام الطلاب سؤال الاختبار الشفوي، يرجى حفظ التسجيل أولاً. انقر فوق الزر حفظ لحفظ التسجيل محلياً للنسخ الاحتياطي.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section5": {
+    "message": "٥ كيفية تحميل التسجيل؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section5-p1": {
+    "message": "بعد إتمام الطلاب سؤال الاختبار الشفهي، انقر على الزر تحميل لتحميل التسجيل إلى النظام الأساسي.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section6": {
+    "message": "٦ كيف أعرف ما إذا كان قد تم تحميل التسجيل بنجاح؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section6-p1": {
+    "message": "بعد النقر على الزر \"تحميل\"، تحتاج إلى الانتظار لبضع ثوان (كلما كان التسجيل أطول، كلما كان وقت الانتظار أطول). عند ظهور المطالبة \"تم تحميل ناجحة\"، فهذا يعني أنه تم تحميل التسجيل بنجاح.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "closeWindow": {
+    "message": "إغلاق النافذة",
     "description": "1.0 speakingFaq.json"
   }
 }

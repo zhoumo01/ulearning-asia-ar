@@ -7,16 +7,12 @@
     "message": "الاختيار من متعدد",
     "description": "1.0 public.js"
   },
-  "moreQ": {
-    "message": "استجابة متعددة",
-    "description": "1.0 public.js"
-  },
   "yesNoQ": {
     "message": "صواب/خطأ",
     "description": "1.0 public.js"
   },
   "fillQ": {
-    "message": "تعبئة الفراغ",
+    "message": "تعبئة الفراغات",
     "description": "1.0 public.js"
   },
   "JQuiz": {
@@ -60,10 +56,6 @@
     "description": "1.0 public.js"
   },
   "single": {
-    "message": "اختيار واحد",
-    "description": "1.0 public.js"
-  },
-  "multiple": {
     "message": "الاختيار من متعدد",
     "description": "1.0 public.js"
   },
@@ -196,7 +188,7 @@
     "description": "1.0 public.js"
   },
   "checkNoResult": {
-    "message": "تحقق من عدم وجود نتائج، يرجى التحقق من شروط الاستعلام!",
+    "message": "لم يتم العثور على أي نتائج - برجاء التحقق محتوى البحث!",
     "description": "1.0 public.js"
   },
   "pleaseInput": {

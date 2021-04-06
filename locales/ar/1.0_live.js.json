@@ -32,7 +32,7 @@
     "description": "1.0 live.json"
   },
   "modFail": {
-    "message": "فشل التعديل",
+    "message": " لم نتمكن من التعديل",
     "description": "1.0 live.json"
   },
   "createSuccess": {
@@ -40,7 +40,7 @@
     "description": "1.0 live.json"
   },
   "createFail": {
-    "message": "فشل الإنشاء",
+    "message": "لم نتمكن من الإنشاء",
     "description": "1.0 live.json"
   },
   "selectClassTxt": {
@@ -48,11 +48,11 @@
     "description": "1.0 live.json"
   },
   "liveIntroTxt": {
-    "message": "مقدمة البث المباشر ",
+    "message": "وصف البث المباشر ",
     "description": "1.0 live.json"
   },
   "speakerTxt": {
-    "message": "اسم مقدم العرض ",
+    "message": "اسم مقدم البث المباشر ",
     "description": "1.0 live.json"
   },
   "submitingTxt": {
@@ -64,7 +64,7 @@
     "description": "1.0 live.json"
   },
   "errTip1": {
-    "message": "يوجد بث مباشر لم ينته، يرجى الانتهاء قبل إنشاء",
+    "message": "يوجد بث مباشر لم ينته، يرجى الانتهاء قبل إنشاء بث جديد",
     "description": "1.0 live.json"
   },
   "errorTip2": {
@@ -72,7 +72,7 @@
     "description": "1.0 live.json"
   },
   "errorTip3": {
-    "message": "الرصيد 0 و لا يكفي لإنشاء بث مباشر، رجاء أعد ملئ الرصيد",
+    "message": "الرصيد 0 دولار و لا يكفي لإنشاء بث مباشر، رجاء أعد تعبئة الرصيد",
     "description": "1.0 live.json"
   },
   "saveStr": {
@@ -84,7 +84,7 @@
     "description": "1.0 live.json"
   },
   "notSupport": {
-    "message": "لا يمكن أن يحتوي اسم البث المباشر على أحرف ",
+    "message": "لا يمكن أن يحتوي اسم البث المباشر على رموز",
     "description": "1.0 live.json"
   }
 }

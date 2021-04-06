@@ -8,11 +8,11 @@
     "description": "1.0 question.js"
   },
   "totalScore": {
-    "message": "مجموع النقاط:",
+    "message": "مجموع الدرجات:",
     "description": "1.0 question.js"
   },
   "score": {
-    "message": "‏‏النقاط",
+    "message": "الدرجات",
     "description": "1.0 question.js"
   },
   "easy": {
@@ -40,7 +40,7 @@
     "description": "1.0 question.js"
   },
   "supportDecimalPlace": {
-    "message": "دعم واحد عشري",
+    "message": "يدعم الارقام العشرية",
     "description": "1.0 question.js"
   },
   "tabKeyCreateBlank": {
@@ -76,15 +76,15 @@
     "description": "1.0 question.js"
   },
   "blankStudentAnswerTip": {
-    "message": "تم ترتيب الإجابات المدخلة ولا يلزم مطابقة ترتيب التعبئة في الفراغات",
+    "message": "ترتيب الإجابات التي تم إدخالها و ترتيب تعبئة الفراغات لا تحتاج الى ان تكون متطابقة",
     "description": "1.0 question.js"
   },
   "systemMark": {
-    "message": "تقدير النظام",
+    "message": "نظام التقديرات",
     "description": "1.0 question.js"
   },
   "systemMarkTip": {
-    "message": "عندما يكون هناك أقل من 20 كلمة في واجب الطالب اللغة الإنجليزية، فإن النظام سوف يقدرها بصفر",
+    "message": "عندما يكون هناك أقل من ٢٠ كلمة في واجب الطالب اللغة الإنجليزية، فإن النظام سوف يقدرها بصفر",
     "description": "1.0 question.js"
   },
   "referenceAnswer": {
@@ -104,7 +104,7 @@
     "description": "1.0 question.js"
   },
   "followReadingFormat": {
-    "message": "صيغة mp3 / حتى 3 ميجابايت",
+    "message": "صيغة mp3 / حتى ٣ ميجابايت",
     "description": "1.0 question.js"
   },
   "readOriginal": {
@@ -116,7 +116,7 @@
     "description": "1.0 question.js"
   },
   "enterReadContent": {
-    "message": "انقر لإدخال محتوى للقراءة بصوت مسموع حتى 200 كلمة. إذا كان التقييم التلقائي للغة الإنجليزية، لا تدخل أي كلمات أخرى غير الإنجليزية.",
+    "message": "انقر لإدخال محتوى للقراءة بصوت مسموع حتى ٢٠٠ كلمة. إذا كان التقييم التلقائي للغة الإنجليزية، لا تدخل أي كلمات أخرى غير الإنجليزية.",
     "description": "1.0 question.js"
   },
   "addContentItem": {
@@ -128,7 +128,7 @@
     "description": "1.0 question.js"
   },
   "difficulty": {
-    "message": "صعوبه",
+    "message": "الصعوبه",
     "description": "1.0 question.js"
   },
   "selectedTeacher": {
@@ -140,7 +140,11 @@
     "description": "1.0 question.js"
   },
   "continueSelect": {
-    "message": "متابعة التحديد",
+    "message": "استمرار",
+    "description": "1.0 question.js"
+  },
+  "enterKeyTip": {
+    "message": "ما يصل إلى ١٠ أحرف، اضغط أدخل لإضافة، ما يصل إلى ٣ علامات",
     "description": "1.0 question.js"
   },
   "enterkey": {
@@ -148,7 +152,7 @@
     "description": "1.0 question.js"
   },
   "enterTagErrTip": {
-    "message": "حتى 3 علامات",
+    "message": "حتى ٣ علامات",
     "description": "1.0 question.js"
   },
   "relatedUnit": {
@@ -156,7 +160,7 @@
     "description": "1.0 question.js"
   },
   "selectUnit": {
-    "message": "حدد وحدة",
+    "message": "إختيار الوحدة",
     "description": "1.0 question.js"
   },
   "addSubtitle": {
@@ -164,7 +168,7 @@
     "description": "1.0 question.js"
   },
   "scoreValue": {
-    "message": "درجة",
+    "message": " درجة",
     "description": "1.0 question.js"
   },
   "eneterAnswerFormat": {
@@ -180,7 +184,7 @@
     "description": "1.0 question.js"
   },
   "varPrecision": {
-    "message": "دقة",
+    "message": "الدقة",
     "description": "1.0 question.js"
   },
   "addVar": {
@@ -204,15 +208,15 @@
     "description": "1.0 question.js"
   },
   "optionContent": {
-    "message": "يرجى إضافة الاختيارات، أو حذف الاختيارات الزائدة عن الحاجة",
+    "message": "انقر لإدخال الاختيار أو حذف الخيارات الإضافية",
     "description": "1.0 question.js"
   },
   "confirmAnswer": {
-    "message": "تأكيد الإجابة غير فارغ",
+    "message": "الاجابة الصحيحة لا يمكن أن تكون فارغة",
     "description": "1.0 question.js"
   },
   "confirmAnswerContent": {
-    "message": "خيارات الإجابة الصحيحة للمحتوى فارغة",
+    "message": "خيارات الإجابة الصحيحة في المحتوى فارغة",
     "description": "1.0 question.js"
   },
   "confirmReferenceAnswerContent": {
@@ -220,15 +224,19 @@
     "description": "1.0 question.js"
   },
   "error": {
-    "message": "خطأ.",
+    "message": "عفوا، حدث خطأ ما!",
     "description": "1.0 question.js"
   },
   "topicNoEmpty": {
-    "message": "الموضوع غير فارغ",
+    "message": "لا يمكن أن يكون العنوان فارغ",
+    "description": "1.0 question.js"
+  },
+  "complexEmpty": {
+    "message": "يجب أن يكون السؤال الجمع مكون من اسئلة فرعية!",
     "description": "1.0 question.js"
   },
   "confirmSave": {
-    "message": "هل تحققت من أنك لم تملأ نص العنوان وتواصل حفظه؟",
+    "message": " لقد اكتشفنا أنك لم تملأ عنوان السؤال. هل تريد متابعة حفظه؟",
     "description": "1.0 question.js"
   },
   "noMore": {
@@ -244,11 +252,11 @@
     "description": "1.0 question.js"
   },
   "limitlable1": {
-    "message": "30 حرف كحد أقصى لتسميه الملصقات",
+    "message": "مسموح بعلامات بحد اقصى يصل إلى 30 حرفًا",
     "description": "1.0 question.js"
   },
   "limitLable2": {
-    "message": "حتى 3 علامات",
+    "message": "حتى ٣ علامات",
     "description": "1.0 question.js"
   },
   "selectTeacher2": {
@@ -260,7 +268,7 @@
     "description": "1.0 question.js"
   },
   "keyTeacher": {
-    "message": "أدخل اسم المعلم",
+    "message": "أدخل اسم المعلم للبحث",
     "description": "1.0 question.js"
   },
   "getDate": {
@@ -284,11 +292,11 @@
     "description": "1.0 question.js"
   },
   "keyTab": {
-    "message": "انقر لإدخال السؤال. لإضافة تعبئة الفراغ، اضغط على مفتاح \"Tab\" من لوحة المفاتيح.",
+    "message": "انقر لإدخال السؤال. لإضافة تعبئة الفراغات، اضغط على مفتاح \"Tab\" من لوحة المفاتيح.",
     "description": "1.0 question.js"
   },
   "writeRead": {
-    "message": "يرجى ملء المحتوى التالي",
+    "message": "انقر لإدخال محتوى القراءة  الصوتية",
     "description": "1.0 question.js"
   },
   "formarError": {
@@ -296,7 +304,7 @@
     "description": "1.0 question.js"
   },
   "noExpand": {
-    "message": "الحد الأقصى 200 كلمة",
+    "message": "الحد الأقصى ٢٠٠ كلمة",
     "description": "1.0 question.js"
   },
   "current": {
@@ -308,7 +316,7 @@
     "description": "1.0 question.js"
   },
   "subQues": {
-    "message": "سؤال {n}",
+    "message": "{n} سؤال فرعى",
     "description": "1.0 question.js"
   },
   "keyContent": {
@@ -316,7 +324,7 @@
     "description": "1.0 question.js"
   },
   "subQues2": {
-    "message": "سؤال",
+    "message": "السؤال فرعي",
     "description": "1.0 question.js"
   },
   "fillSubQTitle": {
@@ -326,6 +334,10 @@
   "selectAdd": {
     "message": "إضافة أسئلة فرعية",
     "description": "1.0 question.js"
+  },
+  "DaoText": {
+    "message": "{inputCount} أسئلة فرعية",
+    "description": "这里要求用户输入题目的数量，{inputCount}插值处是一个输入框，用于输入题目的数量，道是单位"
   },
   "formulaCheck": {
     "message": "معادلة للاختبار",
@@ -348,15 +360,15 @@
     "description": "1.0 question.js"
   },
   "formulaInputError": {
-    "message": "لا يمكن حساب الإجابة",
+    "message": "لا يمكن حساب الإجابة - برجاء مراجعة المعادلة",
     "description": "1.0 question.js"
   },
   "formulaInputPlaceholder": {
-    "message": "الرجاء إدخال المعادلة للإجابة",
+    "message": "انقر على أيقونة المعادلة على اليمين لإدخال الصيغة",
     "description": "1.0 question.js"
   },
   "formulaInputDemo": {
-    "message": "عرض توضيحي لإدخال معادلة",
+    "message": "صيغ التنسيقات",
     "description": "1.0 question.js"
   },
   "keyboardBack": {
@@ -365,6 +377,22 @@
   },
   "keyboardClear": {
     "message": "مسح",
+    "description": "1.0 question.js"
+  },
+  "addFormulaTip": {
+    "message": "أدخل المعادلة!",
+    "description": "1.0 question.js"
+  },
+  "varRangeTip": {
+    "message": "يجب إدخال نطاق المتغير برقم!",
+    "description": "1.0 question.js"
+  },
+  "checkFormulaTip": {
+    "message": "يرجى التحقق من المعادلة والتأكد من أنها بصيغة صحيحة!",
+    "description": "1.0 question.js"
+  },
+  "deviationTip": {
+    "message": "يجب أن يكون الخطأ المسموح به للنتيجة رقماً!",
     "description": "1.0 question.js"
   }
 }

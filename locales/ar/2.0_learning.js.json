@@ -1,10 +1,10 @@
 {
   "learningTips1": {
-    "message": "You are not logged in and your learning records will not be saved.",
+    "message": "لم يتم تسجيل دخولك ولن يتم حفظ سجلات التعلم الخاصة بك.",
     "description": "2.0 learning.js"
   },
   "LoginImmediately": {
-    "message": "Log in Now",
+    "message": "سجل الدخول الآن",
     "description": "2.0 learning.js"
   },
   "exit": {
@@ -12,75 +12,75 @@
     "description": "2.0 learning.js"
   },
   "collectDirectories": {
-    "message": "Collapse catalog",
+    "message": "طي القائمة",
     "description": "2.0 learning.js"
   },
   "expandDirectories": {
-    "message": "Expand catalog",
+    "message": "توسيع القائمة",
     "description": "2.0 learning.js"
   },
   "watched": {
-    "message": "Viewed",
+    "message": "تم العرض",
     "description": "2.0 learning.js"
   },
   "finished": {
-    "message": "Completed",
+    "message": "مكتمل",
     "description": "2.0 learning.js"
   },
   "learningTips2": {
-    "message": "Only if the video viewing time is larger than 80% of the video length, the page will be marked as \"Completed.\"",
+    "message": "إذا تم عرض 80%  أو أكثر من وقت الفيديو ستوضع علامة بالصفحة على أنه مكتمل",
     "description": "2.0 learning.js"
   },
   "description": {
-    "message": "Description",
+    "message": "الوصف",
     "description": "2.0 learning.js"
   },
   "fullScreen": {
-    "message": "Full Screen",
+    "message": "ملء الشاشة",
     "description": "2.0 learning.js"
   },
   "learningTips3": {
-    "message": "This link cannot be opened directly, please copy the following link address to your browser to open it",
+    "message": "لا يمكن فتح هذا الرابط مباشرة، لفتح الرابط يرجى نسخه إلى المتصفح",
     "description": "2.0 learning.js"
   },
   "noNore": {
-    "message": "No more",
+    "message": "كفاية",
     "description": "2.0 learning.js"
   },
   "lastPage": {
-    "message": "Previous Page",
+    "message": "الصفحة السابقة",
     "description": "2.0 learning.js"
   },
   "menu": {
-    "message": "Catalog",
+    "message": "القائمة",
     "description": "2.0 learning.js"
   },
   "nextPage": {
-    "message": "Next Page",
+    "message": "الصفحة التالية",
     "description": "2.0 learning.js"
   },
   "learningTips4": {
-    "message": "Topic Completion Status",
+    "message": "حالة إكمال الموضوع",
     "description": "2.0 learning.js"
   },
   "studyProgress": {
-    "message": "Learning Progress",
+    "message": "تقدم عملية التعلم",
     "description": "2.0 learning.js"
   },
   "studyTime": {
-    "message": "Learning Time",
+    "message": "وقت التعلم",
     "description": "2.0 learning.js"
   },
   "learningTips5": {
-    "message": "Congratulations on completing this topic!",
+    "message": "تهانينا. لقد أننهيت هذا الموضوع!",
     "description": "2.0 learning.js"
   },
   "learningTips6": {
-    "message": "You haven't completed learning the following pages in this topic: ",
+    "message": "لم تكمل بعد تعلم هذه الصفحة",
     "description": "2.0 learning.js"
   },
   "nextUnit": {
-    "message": "Next Topic",
+    "message": "الموضوع التالي",
     "description": "2.0 learning.js"
   },
   "chapterStatistics": {

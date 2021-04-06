@@ -1,0 +1,66 @@
+{
+  "editModule": {
+    "message": "تعديل وحدة",
+    "description": "2.0 portal.js"
+  },
+  "hideModule": {
+    "message": "إخفاء وحدة",
+    "description": "2.0 portal.js"
+  },
+  "addModule": {
+    "message": "إضافة وحدة",
+    "description": "2.0 portal.js"
+  },
+  "delModule": {
+    "message": "حذف وحدة",
+    "description": "2.0 portal.js"
+  },
+  "moduleType2": {
+    "message": "الصورة",
+    "description": "2.0 portal.js"
+  },
+  "moduleType3": {
+    "message": "مقطع فيديو",
+    "description": "2.0 portal.js"
+  },
+  "externalLinkType": {
+    "message": "رابط خارجي",
+    "description": "2.0 portal.js"
+  },
+  "menuContentPlaceholder": {
+    "message": "انقر لإدخال المحتوى",
+    "description": "2.0 portal.js"
+  },
+  "linkNamePlaceholder": {
+    "message": "انقر لإدخال اسم الرابط",
+    "description": "2.0 portal.js"
+  },
+  "addLinkAddr": {
+    "message": "إضافة رابط",
+    "description": "2.0 portal.js"
+  },
+  "typeCodePlacehoder": {
+    "message": "أدخل الكود",
+    "description": "2.0 portal.js"
+  },
+  "uploadImage": {
+    "message": "رفع صورة",
+    "description": "2.0 portal.js"
+  },
+  "uploadVideo": {
+    "message": "رفع مقطع فيديو",
+    "description": "2.0 portal.js"
+  },
+  "collegeLogo": {
+    "message": "شعار المدرسة",
+    "description": "2.0 portal.js"
+  },
+  "friendLink": {
+    "message": "الروابط",
+    "description": "2.0 portal.js"
+  },
+  "customFooter": {
+    "message": "الهامش",
+    "description": "2.0 portal.js"
+  }
+}

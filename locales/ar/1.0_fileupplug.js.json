@@ -20,7 +20,7 @@
     "description": "1.0 fileupplug.js"
   },
   "uploading": {
-    "message": "يتم التحميل الآن…",
+    "message": "جار الرفع...",
     "description": "1.0 fileupplug.js"
   },
   "fileLessThan": {
@@ -32,7 +32,7 @@
     "description": "1.0 fileupplug.js"
   },
   "failText": {
-    "message": "لقد فشلت عملية رفع الملفات",
+    "message": "لم نتمكن عملية رفع الملفات",
     "description": "1.0 fileupplug.js"
   },
   "cancel": {
@@ -52,35 +52,35 @@
     "description": "1.0 fileupplug.json"
   },
   "uploadErr1": {
-    "message": "حدث خطأ، لا يمكن رفع نفس الملف!",
+    "message": "لم نتمكن من رفع الملف، لا يمكن رفع نفس الملف!",
     "description": "1.0 fileupplug.json"
   },
   "uploadErr2": {
-    "message": "حدث خطأ في الرفع، الملف تجاوز الحد المسموح!",
+    "message": "لم نتمكن من رفع الملف ، الملف تجاوز الحد المسموح!",
     "description": "1.0 fileupplug.json"
   },
   "uploadErr3": {
-    "message": "خطأ في الرفع، الرجاء التحقق من حالة الملف و الشبكة وحاول مرة أخرى في وقت لاحق!",
+    "message": "لم نتمكن من رفع الملف، الرجاء التحقق من حالة الملف و الشبكة وحاول مرة أخرى في وقت لاحق!",
     "description": "1.0 fileupplug.json"
   },
   "uploadFileLimit": {
-    "message": "حتى {count} المرفق",
+    "message": "حتى {count} مرفقات",
     "description": "1.0 fileupplug.js"
   },
   "docFailText": {
-    "message": "فشل تحويل المستند!",
+    "message": "لم نتمكن تحويل المستند!",
     "description": "1.0 fileupplug.js"
   },
   "docConversionErrorText": {
-    "message": "حدث خطأ فى تحويل المستند!",
+    "message": "لم نتمكن فى تحويل المستند!",
     "description": "1.0 fileupplug.js"
   },
   "videoFailText": {
-    "message": "حدث فشل فى تحويل مقطع الفيديو!",
+    "message": "لم نتمكن من تحويل مقطع الفيديو!",
     "description": "1.0 fileupplug.js"
   },
   "videoConversionErrorText": {
-    "message": "حدث فشل فى تحويل امتداد مقطع الفيديو!",
+    "message": "لم نتمكن من تحويل امتداد مقطع الفيديو!",
     "description": "1.0 fileupplug.js"
   },
   "uploadingStr": {
@@ -92,7 +92,7 @@
     "description": "1.0 fileupplug.js"
   },
   "uploadFail": {
-    "message": "فشل الرفع",
+    "message": "لم نتمكن من الرفع",
     "description": "1.0 fileupplug.js"
   },
   "onlyUpload": {
@@ -100,19 +100,19 @@
     "description": "1.0 fileupplug.js"
   },
   "uploadcomponentFail": {
-    "message": "فشل فى مكون الرفع، الرجاء تغيير المتصفح وتقليل الجودة.",
+    "message": "لم نتمكن من رفع الملفات بسبب عدم توافق المتصفح ، الرجاء تغيير المتصفح وتقليل الجودة.",
     "description": "1.0 fileupplug.js"
   },
   "uploadFileFail": {
-    "message": "لقد فشلت عملية رفع الملفات",
+    "message": "لم نتمكن من اتمام عملية رفع الملفات",
     "description": "1.0 fileupplug.js"
   },
   "contentFile": {
-    "message": "الرجاء عدم رفع نفس الملف",
+    "message": "من فضلك لا تقم بتحميل نفس الملف عدة مرات!",
     "description": "1.0 fileupplug.js"
   },
   "contentFile2": {
-    "message": "تعذر رفع نفس المستند",
+    "message": "لا يمكن رفع نفس الملف",
     "description": "1.0 fileupplug.js"
   },
   "addSubtitles": {

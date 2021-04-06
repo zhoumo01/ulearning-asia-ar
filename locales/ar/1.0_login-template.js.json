@@ -1,6 +1,6 @@
 {
   "webBgTitle": {
-    "message": "صور خلفية الموقع (اختر صورة واحدة أو أكثر، حتى 5 صور)",
+    "message": "صور خلفية الموقع (اختر صورة واحدة أو أكثر، حتى ٥ صور)",
     "description": "1.0 login-template.js"
   },
   "customPic": {
@@ -16,7 +16,7 @@
     "description": "1.0 login-template.js"
   },
   "bannerLimitTip": {
-    "message": "لا أكثر من 5.",
+    "message": "لا أكثر من ٥.",
     "description": "1.0 login-template.js"
   },
   "error": {
@@ -24,7 +24,7 @@
     "description": "1.0 login-template.js"
   },
   "linkTip": {
-    "message": "ملحوظة: يمكنك إضافة ما يصل إلى 10 روابط؛ اسم الرابط لا يزيد عن 20 حرفًا. يمكنك السحب لنقل الروابط و إعادة ترتيبها.",
+    "message": "ملحوظة: يمكنك إضافة ما يصل إلى ١٠ روابط؛ اسم الرابط لا يزيد عن ٢٠ حرفًا. يمكنك السحب لنقل الروابط و إعادة ترتيبها.",
     "description": "1.0 login-template.js"
   },
   "addLink": {
@@ -40,11 +40,11 @@
     "description": "1.0 login-template.js"
   },
   "linkWordsTip": {
-    "message": "لا يزيد عن 40 حرفاً",
+    "message": "لا يزيد عن ٤٠ حرفاً",
     "description": "1.0 login-template.js"
   },
   "linkAccountTip": {
-    "message": "حتى 10 روابط",
+    "message": "حتى ١٠ روابط",
     "description": "1.0 login-template.js"
   },
   "resetConfirm": {
