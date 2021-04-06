@@ -1,0 +1,226 @@
+{
+  "classAlign": {
+    "message": "إعادة فتح",
+    "description": "2.0 classroom.js"
+  },
+  "classroomReport": {
+    "message": "تقرير",
+    "description": "2.0 classroom.js"
+  },
+  "attendance": {
+    "message": "حضور المحاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "interactionInClass": {
+    "message": "أنشطة المحاضرة التفاعلية",
+    "description": "2.0 classroom.js"
+  },
+  "participationPoints": {
+    "message": "درجات المشاركة",
+    "description": "2.0 classroom.js"
+  },
+  "integralInClass": {
+    "message": "درجات المحاضرة المحصلة",
+    "description": "2.0 classroom.js"
+  },
+  "comprehensivePerformance": {
+    "message": "أداء الطالب بالمحاضرة - مجموع الدرجات المحصلة",
+    "description": "2.0 classroom.js"
+  },
+  "more": {
+    "message": "مزيد>>",
+    "description": "2.0 classroom.js"
+  },
+  "summary": {
+    "message": "ملخص المحاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip": {
+    "message": "انقر على الزر التعديل لتلخيص المحاضرة.",
+    "description": "2.0 classroom.js"
+  },
+  "reStartFail": {
+    "message": "تعذر إعادة الفتح!",
+    "description": "2.0 classroom.js"
+  },
+  "summaryTip1": {
+    "message": "لا يمكن أن تتجاوز 2000 حرف",
+    "description": "2.0 classroom.js"
+  },
+  "rankList": {
+    "message": "الترتيب",
+    "description": "2.0 classroom.js"
+  },
+  "rankListInClass": {
+    "message": "ترتيب الفصل حسب الدرجات المحصلة",
+    "description": "2.0 classroom.js"
+  },
+  "viewClassStatistics": {
+    "message": "عرض إحصائيات الفصل",
+    "description": "2.0 classroom.js"
+  },
+  "myRate": {
+    "message": "ترتيبي",
+    "description": "2.0 classroom.js"
+  },
+  "myPerformance": {
+    "message": "أدائي",
+    "description": "2.0 classroom.js"
+  },
+  "scoreInClass": {
+    "message": "درجات الفصل المحصلة",
+    "description": "2.0 classroom.js"
+  },
+  "totalScore": {
+    "message": "مجموع الدرجات: {count} ",
+    "description": "2.0 classroom.js"
+  },
+  "rankInClass": {
+    "message": "ترتيب الفصل",
+    "description": "2.0 classroom.js"
+  },
+  "interaction": {
+    "message": "التفاعل بالفصل",
+    "description": "2.0 classroom.js"
+  },
+  "answered": {
+    "message": "تمت الإجابة",
+    "description": "2.0 classroom.js"
+  },
+  "notAnswer": {
+    "message": "لم تتم الإجابة",
+    "description": "2.0 classroom.js"
+  },
+  "selected": {
+    "message": "تم الأختيار",
+    "description": "2.0 classroom.js"
+  },
+  "joined": {
+    "message": "مشارك",
+    "description": "2.0 classroom.js"
+  },
+  "notJoin": {
+    "message": "لم يشارك",
+    "description": "2.0 classroom.js"
+  },
+  "score": {
+    "message": "مجموع الدرجات",
+    "description": "2.0 classroom.js"
+  },
+  "classroomCount": {
+    "message": "عدد المحاضرات",
+    "description": "2.0 classroom.js"
+  },
+  "activity": {
+    "message": "الأنشطة",
+    "description": "2.0 classroom.js"
+  },
+  "classroomList": {
+    "message": "المحاضرات",
+    "description": "2.0 classroom.js"
+  },
+  "createClassroom": {
+    "message": "إنشاء محاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "studentPerformance": {
+    "message": "أداء الطالب",
+    "description": "2.0 classroom.js"
+  },
+  "classroomStatistics": {
+    "message": "إحصائيات المحاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "classroomName": {
+    "message": "اسم المحاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "classTime": {
+    "message": "وقت البدء",
+    "description": "2.0 classroom.js"
+  },
+  "classesInClassroom": {
+    "message": "الفصول",
+    "description": "2.0 classroom.js"
+  },
+  "inClass": {
+    "message": "قيد التنفيذ",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroom": {
+    "message": "فتح",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroom": {
+    "message": "تكرار",
+    "description": "2.0 classroom.js"
+  },
+  "noClassroom": {
+    "message": "لا توجد جلسات.",
+    "description": "2.0 classroom.js"
+  },
+  "enterClassroomName": {
+    "message": "أدخل اسم المحاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "noClass1": {
+    "message": "لا يوجد فصول",
+    "description": "2.0 classroom.js"
+  },
+  "lastClass": {
+    "message": "تم أختيارها مسبقاً",
+    "description": "2.0 classroom.js"
+  },
+  "startClass": {
+    "message": "البدء الآن",
+    "description": "2.0 classroom.js"
+  },
+  "notClass": {
+    "message": "البدء لاحقاً",
+    "description": "2.0 classroom.js"
+  },
+  "allClassroom": {
+    "message": "كل المحاضرات",
+    "description": "2.0 classroom.js"
+  },
+  "deleteClassroom": {
+    "message": "حذف محاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "confirmDeleteClassroom": {
+    "message": "هل تريد حذف هذه المحاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomToClass": {
+    "message": "محاضرة مكررة",
+    "description": "2.0 classroom.js"
+  },
+  "copyClassroomTip": {
+    "message": "الأنشطة المكررة غير نشطة. يمكنك تنشيط هذه الأنشطة بعد بدء المحاضرة. لا يمكن تكرار أنشطة الاستدعاء أو الاختيار العشوائي",
+    "description": "2.0 classroom.js"
+  },
+  "copySuccess": {
+    "message": "تم التكرار بنجاح!",
+    "description": "2.0 classroom.js"
+  },
+  "copyFailed": {
+    "message": "تعذر التكرار!",
+    "description": "2.0 classroom.js"
+  },
+  "editClassroom": {
+    "message": "تعديل محاضرة",
+    "description": "2.0 classroom.js"
+  },
+  "classErrorTip": {
+    "message": "اختر فصل واحدة على الأقل",
+    "description": "2.0 classroom.js"
+  },
+  "faceAuthentication": {
+    "message": "التحقق من الوجه",
+    "description": "2.0 classroom.js"
+  },
+  "auditTips2": {
+    "message": "التحقق من الوجه قيد تشغيل. يجب رفع صور أوجه الطلاب مسبقًا. يمكن رفع الصور من قبل المعلم أو الطلاب. إذا تم رفع صورة الوجه من قبل الطالب يجب مراجعتها وموافقة المعلم عليها.",
+    "description": "2.0 classroom.js"
+  }
+}

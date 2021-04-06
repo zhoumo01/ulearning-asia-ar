@@ -1,0 +1,182 @@
+{
+  "saveOutText": {
+    "message": " ليس لديك مشاكل فى الحفظ؟",
+    "description": "1.0 editor.js"
+  },
+  "CreatedText": {
+    "message": "تم إنشاء {count} الأسئلة",
+    "description": "1.0 editor.js"
+  },
+  "returnListText": {
+    "message": "العودة إلى القائمة",
+    "description": "1.0 editor.js"
+  },
+  "haveText": {
+    "message": "يوجد {n} لم يتم حفظها",
+    "description": "1.0 editor.js"
+  },
+  "goToCheck": {
+    "message": "عودة من اجل التحقق؟",
+    "description": "1.0 editor.js"
+  },
+  "quesParseError": {
+    "message": "حدثت مشكلة فى تخليق السؤال {title} ",
+    "description": "1.0 editor.js"
+  },
+  "batchCreate": {
+    "message": "إنشاء",
+    "description": "1.0 editor.js"
+  },
+  "createQues": {
+    "message": "اختيار المراد إنشائه",
+    "description": "1.0 editor.js"
+  },
+  "allTypeQues": {
+    "message": "الجميع",
+    "description": "1.0 editor.js"
+  },
+  "gotoSubQues": {
+    "message": "انقر على السؤال من اجل للانتقال إليه",
+    "description": "1.0 editor.js"
+  },
+  "changeScoreText": {
+    "message": "برجاء تاكيد التعين؟",
+    "description": "1.0 editor.js"
+  },
+  "scoreTips": {
+    "message": "الرجاء إدخال درجات صحيحة",
+    "description": "1.0 editor.js"
+  },
+  "setScoreTips": {
+    "message": "إنشاء مسودة للاسئلة اولا",
+    "description": "1.0 editor.js"
+  },
+  "questionTitle": {
+    "message": "اختر",
+    "description": "1.0 editor.js"
+  },
+  "questionDetailDesc": {
+    "message": "مساعدة",
+    "description": "1.0 editor.js"
+  },
+  "questionReferenceAnswerText": {
+    "message": "الإجابة المرجعية: {content}",
+    "description": "1.0 editor.js"
+  },
+  "analysis": {
+    "message": "شرح الإجابة: {content}",
+    "description": "1.0 public.js"
+  },
+  "answer": {
+    "message": "الإجابة: {content}",
+    "description": "1.0 public.js"
+  },
+  "completionAnswerTips": {
+    "message": "ملاحظة: الإجابات الفارغة لهذا السؤال قابلة للتبديل طالما أن المحتوى صحيحة",
+    "description": "1.0 editor.js"
+  },
+  "batchSetScoreText": {
+    "message": "تعديل الدرجات",
+    "description": "1.0 editor.js"
+  },
+  "scoreText": {
+    "message": "النتيجة {score}",
+    "description": "注意，这个指的是某道题目的分值，不是得了多少分，在试题编辑器 -> 批量导入 -> 导入习题后，每个习题的标题的左侧有一个括号，括号内标有题目的分值"
+  },
+  "correct": {
+    "message": "صحيح",
+    "description": "指判断题的答案，如果答案是true，则显示“正确”"
+  },
+  "incorrect": {
+    "message": "غير صحيحه",
+    "description": "指判断题的答案，如果答案是false，则显示“错误”"
+  },
+  "singleQ2": {
+    "message": "الاختيار المتعدد",
+    "description": "1.0 editor.js"
+  },
+  "moreQ2": {
+    "message": "استجابة المتعددة",
+    "description": "1.0 editor.js"
+  },
+  "yesNoQ2": {
+    "message": "صواب/خطأ",
+    "description": "1.0 editor.js"
+  },
+  "fillQ2": {
+    "message": "تعبئة الفراغات",
+    "description": "1.0 editor.js"
+  },
+  "JQuiz2": {
+    "message": "إجابات قصيرة",
+    "description": "1.0 editor.js"
+  },
+  "analysisTit": {
+    "message": "اضغط هنا لإدخال الشرح  ( اختياري )",
+    "description": "1.0 editor.js"
+  },
+  "saveSuccessTips": {
+    "message": "تم بنجاح",
+    "description": "1.0 editor.js"
+  },
+  "saveErrorTips": {
+    "message": "خطأ",
+    "description": "1.0 editor.js"
+  },
+  "saveErrorTips2": {
+    "message": "فشل في حفظ البعض",
+    "description": "1.0 editor.js"
+  },
+  "numExceededTips": {
+    "message": "لا يزيد عدد المدخلات عن  ٢٠٠ في المرة الواحدة",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage1": {
+    "message": "الموضوع غير فارغ",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage2": {
+    "message": "احتفظ بخيارين على الأقل",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage3": {
+    "message": "الاختيارات ليست أكثر من ٢٠",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage4": {
+    "message": "الإجابة الصحيحة ليست فارغة",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage5": {
+    "message": "الإجابة الصحيحة في المحتوى غير فارغة",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage6": {
+    "message": "يرجى إضافة الاختيارات، أو حذف الاختيارات الزائدة عن الحاجة",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage7": {
+    "message": "يجب ألا يتجاوز عدد الإجابات الصحيحة عدد الاختيارات",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage8": {
+    "message": "لا يمكن أن تظهر عناصر غير اختيارية في الإجابة الصحيحة",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage9": {
+    "message": "هناك تكرارات في الإجابة الصحيحة",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage10": {
+    "message": "يجب ألا تكون الإجابات المرجعية فارغة",
+    "description": "1.0 editor.js"
+  },
+  "incompleteMessage11": {
+    "message": "يجب ألا يكون عدد الإجابات الصحيحة أقل من عدد الإجابات الفارغة",
+    "description": "1.0 editor.js"
+  },
+  "quesOrder": {
+    "message": " سؤال {n}، ",
+    "description": "1.0 editor.js"
+  }
+}

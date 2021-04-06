@@ -1,0 +1,102 @@
+{
+  "checkCount": {
+    "message": "خطأ عند الاستعلام عن الكمية",
+    "description": "1.0 questionIndex2.js"
+  },
+  "currentFolder": {
+    "message": "المجلد الحالي يتضمن",
+    "description": "1.0 questionIndex2.js"
+  },
+  "fileStats": {
+    "message": "المجلد: {count}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "quesStats": {
+    "message": "الأسئلة: {count}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderMore": {
+    "message": "الحد الأقصى 5 طبقات للمجلد الواحد",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderNameEmpty": {
+    "message": "اسم المجلد غير فارغ!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "createFolder": {
+    "message": "فشل إنشاء مجلد. الرجاء المحاولة مرة أخرى لاحقاً",
+    "description": "1.0 questionIndex2.js"
+  },
+  "editFolderName": {
+    "message": "تعديل اسم المجلد بنجاح",
+    "description": "1.0 questionIndex2.js"
+  },
+  "folderNameIllegal": {
+    "message": "اسم المجلد غير قانوني",
+    "description": "1.0 questionIndex2.js"
+  },
+  "parameterError": {
+    "message": "خطأ في المعاملات",
+    "description": "1.0 questionIndex2.js"
+  },
+  "rootDirectory": {
+    "message": "الدليل الاساسي",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selectAddFolder": {
+    "message": "الرجاء تحديد المجلد الذي تريد",
+    "description": "1.0 questionIndex2.js"
+  },
+  "moveSuccess": {
+    "message": "نجاح المحمول!",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteSuccess": {
+    "message": "تم حذف السؤال بنجاح",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteFail": {
+    "message": "فشل حذف السؤال",
+    "description": "1.0 questionIndex2.js"
+  },
+  "No": {
+    "message": "المعرف: {ID}",
+    "description": "1.0 questionIndex2.js"
+  },
+  "deleteFail1": {
+    "message": "فشل الحذف",
+    "description": "1.0 questionIndex2.js"
+  },
+  "allDelete": {
+    "message": "حذف الجميع",
+    "description": "1.0 questionIndex2.js"
+  },
+  "onlyMe": {
+    "message": "أنا فقط",
+    "description": "1.0 questionIndex2.js"
+  },
+  "share2": {
+    "message": "مشاركة",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareSuccess": {
+    "message": "تمت المشاركة بنجاح",
+    "description": "1.0 questionIndex2.js"
+  },
+  "shareFail": {
+    "message": "فشل المشاركة",
+    "description": "1.0 questionIndex2.js"
+  },
+  "selected": {
+    "message": "‏‏تم التحديد",
+    "description": "1.0 questionIndex2.js"
+  },
+  "model": {
+    "message": "تحميل قالب",
+    "description": "1.0 questionIndex2.js"
+  },
+  "importSuccess": {
+    "message": "تم الاستيراد بنجاح",
+    "description": "1.0 questionIndex2.js"
+  }
+}

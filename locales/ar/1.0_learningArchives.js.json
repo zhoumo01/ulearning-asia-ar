@@ -1,0 +1,22 @@
+{
+  "courseArchive": {
+    "message": "سجلات الدورة",
+    "description": "1.0 learningArchives.js"
+  },
+  "learningStats": {
+    "message": "تعلم {count} الدورة",
+    "description": "1.0 learningArchives.js"
+  },
+  "submmitStats": {
+    "message": "ارسلت الواجبات {count} مرات",
+    "description": "1.0 learningArchives.js"
+  },
+  "partinStats": {
+    "message": "شارك في {count} الامتحانات",
+    "description": "1.0 learningArchives.js"
+  },
+  "publishStats": {
+    "message": "ارسل  {count} مواضيع ، ويوجد {reply} رد",
+    "description": "1.0 learningArchives.js"
+  }
+}

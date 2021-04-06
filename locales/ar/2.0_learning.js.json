@@ -1,0 +1,10 @@
+{
+  "exit": {
+    "message": "خروج",
+    "description": "2.0 learning.js"
+  },
+  "chapterStatistics": {
+    "message": "إحصائيات الوحدة",
+    "description": "2.0 learning.js"
+  }
+}

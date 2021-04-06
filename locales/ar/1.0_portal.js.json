@@ -1,0 +1,90 @@
+{
+  "welcome": {
+    "message": "مرحبا بكم في U-Learning",
+    "description": "1.0 portal.js"
+  },
+  "tip": {
+    "message": "لا تمتلك حساب حتى الآن؟",
+    "description": "1.0 portal.js"
+  },
+  "register": {
+    "message": "تسجيل",
+    "description": "1.0 portal.js"
+  },
+  "loginName": {
+    "message": "اسم المستخدم/ البريد الإلكتروني",
+    "description": "1.0 portal.js"
+  },
+  "loginPlaceholder": {
+    "message": "الرجاء إدخال اسم المستخدم أو رقم الهاتف",
+    "description": "1.0 portal.js"
+  },
+  "loginTip": {
+    "message": "الرجاء إدخال اسم المستخدم أو كلمة المرور",
+    "description": "1.0 portal.json.js"
+  },
+  "loginErrorTip": {
+    "message": "اسم مستخدم أو كلمة مرور غير صحيحة",
+    "description": "1.0 portal.json.js"
+  },
+  "loginTryLimit": {
+    "message": "لقد حاولت الدخول ٥ مرات. حاول مرة أخرى بعد ثلاث دقائق.",
+    "description": "1.0 portal.json.js"
+  },
+  "password": {
+    "message": "كلمه المرور",
+    "description": "1.0 portal.js"
+  },
+  "passwordPlaceholder": {
+    "message": "كلمة المرور",
+    "description": "1.0 portal.js"
+  },
+  "login": {
+    "message": "تسجيل دخول",
+    "description": "1.0 portal.js"
+  },
+  "forgotPassword": {
+    "message": "نسيت كلمة المرور؟",
+    "description": "1.0 portal.js"
+  },
+  "userAndPasswordTip": {
+    "message": " لا يمكن أن يكون اسم المستخدم وكلمة المرور متطابقتين",
+    "description": "insureance.jsp"
+  },
+  "passwordTip": {
+    "message": "يجب أن تكون كلمة المرور بين 8-16 حرفاً، يجب أن تحتوي على حروف و أرقام و أحرف كبيرة",
+    "description": "insureance.jsp"
+  },
+  "plzOldPassword": {
+    "message": "الرجاء إدخال كلمة المرور القديمة ",
+    "description": "insureance.jsp"
+  },
+  "plzRightOldPassword": {
+    "message": "الرجاء إدخال كلمة مرور قديمة صحيحة ",
+    "description": "insureance.jsp"
+  },
+  "plzNewPassword": {
+    "message": "الرجاء إدخال كلمة مرور جديدة",
+    "description": "insureance.jsp"
+  },
+  "confirmPassword": {
+    "message": "الرجاء إدخال كلمة المرور الصحيحة",
+    "description": "insureance.jsp"
+  },
+  "passwordNotSame": {
+    "message": " كلمتي المرور ليستا متطابقتين",
+    "description": "insureance.jsp"
+  },
+  "modifySuccessed": {
+    "message": "تم التعديل بنجاح",
+    "description": "insureance.jsp"
+  },
+  "modifyFailed": {
+    "message": "فشل تعديل كلمة المرور الخاصة بك، يرجى التحقق من كلمة المرور القديمة!",
+    "description": "insureance.jsp"
+  },
+  "modifyError": {
+    "message": "خطأ",
+    "description": "insureance.jsp"
+  }
+}

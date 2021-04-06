@@ -1,0 +1,78 @@
+{
+  "title": {
+    "message": "المشاكل العامة في الامتحان الشفوي",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1": {
+    "message": "١- ماهى الاشياء التى تحتاج إلى إعداد قبل الامتحان؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p1": {
+    "message": "١.١ هل الكمبيوتر في حالة جيدة ؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p2": {
+    "message": "تحقق عمل الكمبيوتر . بعد التشغيل ، تحقق من لوحة المفاتيح والماوس وسماعات الأذن.  إن وجدت اى اعطال ، يرجى ابلاغ مسؤول معمل الكمبيوتر",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p3": {
+    "message": "١.٢ التحقق من بيئة برامج الكمبيوتر الشخصي و القدرة على الوفاء بمتطلبات الامتحان؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p4": {
+    "message": " فتح الموقع الرسمي <a href=\"http://www.longmanenglish.cn\">http://www.longmanenglish.cn،</a>اضغط على \"دراسة بيئة الاختيار\" في الصفحة الرئيسية، لمعرفة ما إذا كانت البيئة المحلية يمكن أن تلبي متطلبات الامتحان.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p5": {
+    "message": "بعد النقر، إذا كانت جميع البنود في حالة جيدة، فهذا يعني أن جهاز الكمبيوتر يمكن أن يعمل بشكل جيد. إعادة تعيين جهاز الكمبيوتر فى حالة فشل أي من العناصر بعد التحقق.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p6": {
+    "message": "١.٣ إذا كان يمكنك الدخول إلى منصة U-Learning",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p7": {
+    "message": "فتح الموقع الرسمي <a href=\"http://www.ulearning.cn\">http://www.longmanenglish.cn</a>، وادخل اسم الطالب وكلمة المرور للتحقق مما إذا كان يمكن الدخول إلى منصة.  إذا فشل، يرجى تسجيل في الصفحة الرئيسية اسم المدرسة، اسم الطالب، رقم الطالب.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p8": {
+    "message": "١.٤ إذا كنت تريد الانضمام إلى صفوف المعلم",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p9": {
+    "message": "بعد الدخول إلى الموقع الإلكتروني، تحقق مما إذا كنت قد انضممت إلى صف معلمك، إن لم يكن، انضم إلى صف المعلم في أسرع وقت ممكن.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p10": {
+    "message": "1.5 هل يمكنك سماع الصوت؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p11": {
+    "message": "تحقق من سماع الصوت في سماعة الأذن. انقر فوق: ",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p12": {
+    "message": "في ملاحظات الامتحان, يجب اختبار مقطع الصوت، إذا لم يكن الصوت يعمل ، قم بتغيير سماعة الأذن على الفور.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p13": {
+    "message": "١.٦ إذا كان يمكن تسجيل الصوت",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p14": {
+    "message": "انقر على \"القائمة ابدأ --جميع النظم --مرفق\" الذي يحتوي على برنامج تسجيل مصغرة واستخدام هذا البرنامج لاختبار ما إذا كان التسجيل يعمل.",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p15": {
+    "message": "1.7 مذا نفعل إذا كان الصوت المسجل منخفض جدا؟",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p16": {
+    "message": "مقسمة إلى نظامين: ",
+    "description": "1.0 speakingFaq.json"
+  },
+  "section1-p17": {
+    "message": "الضغط على ايكونة مكبر الصوت في الزاوية اليمنى السفلية، وسوف تظهر قائمة:",
+    "description": "1.0 speakingFaq.json"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "deleteAll": {
+    "message": "حذف الكل",
+    "description": "1.0 question.js"
+  },
+  "share": {
+    "message": "مشاركه",
+    "description": "1.0 question.js"
+  },
+  "totalScore": {
+    "message": "مجموع النقاط:",
+    "description": "1.0 question.js"
+  },
+  "score": {
+    "message": "‏‏النقاط",
+    "description": "1.0 question.js"
+  },
+  "easy": {
+    "message": "سهل جدا",
+    "description": "1.0 question.js"
+  },
+  "justSo": {
+    "message": "سهل",
+    "description": "1.0 question.js"
+  },
+  "medium": {
+    "message": "متوسط",
+    "description": "1.0 question.js"
+  },
+  "moreDiffcult": {
+    "message": "صعب",
+    "description": "1.0 question.js"
+  },
+  "diffcult": {
+    "message": "صعب جدا",
+    "description": "1.0 question.js"
+  },
+  "eachQuestionScore": {
+    "message": "‏‏النقاط",
+    "description": "1.0 question.js"
+  },
+  "supportDecimalPlace": {
+    "message": "دعم واحد عشري",
+    "description": "1.0 question.js"
+  },
+  "tabKeyCreateBlank": {
+    "message": "اضغط مفتاح من لوح المفاتيح\"Tab\" للبدء في ملئ الفراغات أدناه",
+    "description": "1.0 question.js"
+  },
+  "jquizTips": {
+    "message": "ملاحظة: بالنسبة إلى الأسئلة المتعلقة بالعلوم والهندسة، يمكن للطلاب رسم الصور أو كتابة إجابات على الورق و رفعها كمرفقات (يمكن للهاتف المحمول فقط دعم التقاط الصور). يمكنك السماح أو منع الطلاب من استخدام هذه الميزة.",
+    "description": "1.0 question.js"
+  },
+  "tabKeyPosition": {
+    "message": "مفتاح Tab بجوار الحرف \"Q\" على لوحة المفاتيح",
+    "description": "1.0 question.js"
+  },
+  "enterAnswerAnalyze": {
+    "message": "انقر لإدخال شرح الإجابة",
+    "description": "1.0 question.js"
+  },
+  "enterAnswerTip": {
+    "message": "ملاحظة: الإجابات الفارغة لهذا السؤال قابلة للتبديل طالما أن تطابق المحتوى صحيح",
+    "description": "1.0 question.js"
+  },
+  "enterItemContent": {
+    "message": "انقر لإدخال الاختيار",
+    "description": "1.0 question.js"
+  },
+  "addItem": {
+    "message": "إضافة عنصر",
+    "description": "1.0 question.js"
+  },
+  "blankAnswerTip": {
+    "message": "الإجابات الفارغة في هذا السؤال قابلة للتبديل",
+    "description": "1.0 question.js"
+  },
+  "blankStudentAnswerTip": {
+    "message": "تم ترتيب الإجابات المدخلة ولا يلزم مطابقة ترتيب التعبئة في الفراغات",
+    "description": "1.0 question.js"
+  },
+  "systemMark": {
+    "message": "تقدير النظام",
+    "description": "1.0 question.js"
+  },
+  "systemMarkTip": {
+    "message": "عندما يكون هناك أقل من 20 كلمة في واجب الطالب اللغة الإنجليزية، فإن النظام سوف يقدرها بصفر",
+    "description": "1.0 question.js"
+  },
+  "referenceAnswer": {
+    "message": "الإجابة المرجعية",
+    "description": "1.0 question.js"
+  },
+  "enterReferenceAnswer": {
+    "message": "انقر لإدخال الإجابة المرجعية",
+    "description": "1.0 question.js"
+  },
+  "demonstrationPronunciation": {
+    "message": "النطق التجريبي",
+    "description": "1.0 question.js"
+  },
+  "notRequired": {
+    "message": "غير مطلوب",
+    "description": "1.0 question.js"
+  },
+  "followReadingFormat": {
+    "message": "صيغة mp3 / حتى 3 ميجابايت",
+    "description": "1.0 question.js"
+  },
+  "readOriginal": {
+    "message": "قراءة المحتوى بصوت مسموع",
+    "description": "1.0 question.js"
+  },
+  "wordCountCheck": {
+    "message": "عدد الكلمات",
+    "description": "1.0 question.js"
+  },
+  "enterReadContent": {
+    "message": "انقر لإدخال محتوى للقراءة بصوت مسموع حتى 200 كلمة. إذا كان التقييم التلقائي للغة الإنجليزية، لا تدخل أي كلمات أخرى غير الإنجليزية.",
+    "description": "1.0 question.js"
+  },
+  "addContentItem": {
+    "message": "إضافة عنصر",
+    "description": "1.0 question.js"
+  },
+  "addSmallQuestion": {
+    "message": "إضافة أسئلة فرعية",
+    "description": "1.0 question.js"
+  },
+  "difficulty": {
+    "message": "صعوبه",
+    "description": "1.0 question.js"
+  },
+  "selectedTeacher": {
+    "message": "المعلم المختار",
+    "description": "1.0 question.js"
+  },
+  "selectTeacher": {
+    "message": "المعلم المختار",
+    "description": "1.0 question.js"
+  },
+  "continueSelect": {
+    "message": "متابعة التحديد",
+    "description": "1.0 question.js"
+  },
+  "enterkey": {
+    "message": "للإضافة إضغط مفتاح Enter من لوحة المفاتيح",
+    "description": "1.0 question.js"
+  },
+  "enterTagErrTip": {
+    "message": "حتى 3 علامات",
+    "description": "1.0 question.js"
+  },
+  "relatedUnit": {
+    "message": "وحدة ذات صلة",
+    "description": "1.0 question.js"
+  },
+  "selectUnit": {
+    "message": "حدد وحدة",
+    "description": "1.0 question.js"
+  },
+  "addSubtitle": {
+    "message": "إضافة العنوان الفرعي",
+    "description": "1.0 question.js"
+  },
+  "scoreValue": {
+    "message": "درجة",
+    "description": "1.0 question.js"
+  },
+  "eneterAnswerFormat": {
+    "message": "للحصول على إجابات صحيحة متعددة، يرجى استخدام \"//\" للفصل بينهم، على سبيل المثال، بكين/ العاصمة",
+    "description": "1.0 question.js"
+  },
+  "formulaVarRange": {
+    "message": "عرف نطاق المتغيرات",
+    "description": "1.0 question.js"
+  },
+  "randomValue": {
+    "message": "قيم عشوائية",
+    "description": "1.0 question.js"
+  },
+  "varPrecision": {
+    "message": "دقة",
+    "description": "1.0 question.js"
+  },
+  "addVar": {
+    "message": "إضافة متغير",
+    "description": "1.0 question.js"
+  },
+  "formulaHelp": {
+    "message": "مساعدة",
+    "description": "1.0 question.js"
+  },
+  "formulaUsedTip": {
+    "message": "سؤال المعادلة الحسابية تم اقتباسه، لا يمكن تعديله مؤقتاً",
+    "description": "1.0 question.js"
+  },
+  "personal": {
+    "message": "خاص",
+    "description": "1.0 question.js"
+  },
+  "keyTopic": {
+    "message": "انقر لإدخال السؤال",
+    "description": "1.0 question.js"
+  },
+  "optionContent": {
+    "message": "يرجى إضافة الاختيارات، أو حذف الاختيارات الزائدة عن الحاجة",
+    "description": "1.0 question.js"
+  },
+  "confirmAnswer": {
+    "message": "تأكيد الإجابة غير فارغ",
+    "description": "1.0 question.js"
+  },
+  "confirmAnswerContent": {
+    "message": "خيارات الإجابة الصحيحة للمحتوى فارغة",
+    "description": "1.0 question.js"
+  },
+  "confirmReferenceAnswerContent": {
+    "message": "محتوى الإجابة المرجعية فارغ",
+    "description": "1.0 question.js"
+  },
+  "error": {
+    "message": "خطأ.",
+    "description": "1.0 question.js"
+  },
+  "topicNoEmpty": {
+    "message": "الموضوع غير فارغ",
+    "description": "1.0 question.js"
+  },
+  "confirmSave": {
+    "message": "هل تحققت من أنك لم تملأ نص العنوان وتواصل حفظه؟",
+    "description": "1.0 question.js"
+  },
+  "noMore": {
+    "message": "ليس أكثر من 20 اختيار",
+    "description": "1.0 question.js"
+  },
+  "inputOptionContent": {
+    "message": "انقر لإدخال الاختيار",
+    "description": "1.0 question.js"
+  },
+  "leastOption": {
+    "message": "احتفظ بخيارين على الأقل",
+    "description": "1.0 question.js"
+  },
+  "limitlable1": {
+    "message": "30 حرف كحد أقصى لتسميه الملصقات",
+    "description": "1.0 question.js"
+  },
+  "limitLable2": {
+    "message": "حتى 3 علامات",
+    "description": "1.0 question.js"
+  },
+  "selectTeacher2": {
+    "message": "المعلم المختار",
+    "description": "1.0 question.js"
+  },
+  "teacher": {
+    "message": "المعلم المختار",
+    "description": "1.0 question.js"
+  },
+  "keyTeacher": {
+    "message": "أدخل اسم المعلم",
+    "description": "1.0 question.js"
+  },
+  "getDate": {
+    "message": "خطأ في الحصول على بيانات المعلم",
+    "description": "1.0 question.js"
+  },
+  "getDateFormat": {
+    "message": "خطأ في تنسيق البيانات، اتصل بخدمة العملاء",
+    "description": "1.0 question.js"
+  },
+  "confirmDelete": {
+    "message": "هل تريد حذف هذا السؤال؟",
+    "description": "1.0 question.js"
+  },
+  "deleteQuestionSuccess": {
+    "message": "تم حذف السؤال بنجاح",
+    "description": "1.0 question.js"
+  },
+  "deleteQuestionFail": {
+    "message": "فشل حذف السؤال",
+    "description": "1.0 question.js"
+  },
+  "keyTab": {
+    "message": "انقر لإدخال السؤال. لإضافة تعبئة الفراغ، اضغط على مفتاح \"Tab\" من لوحة المفاتيح.",
+    "description": "1.0 question.js"
+  },
+  "writeRead": {
+    "message": "يرجى ملء المحتوى التالي",
+    "description": "1.0 question.js"
+  },
+  "formarError": {
+    "message": "خطأ في التنسيق",
+    "description": "1.0 question.js"
+  },
+  "noExpand": {
+    "message": "الحد الأقصى 200 كلمة",
+    "description": "1.0 question.js"
+  },
+  "current": {
+    "message": "العدد الحالي لـ",
+    "description": "1.0 question.js"
+  },
+  "enterTopic": {
+    "message": "انقر لإدخال السؤال",
+    "description": "1.0 question.js"
+  },
+  "subQues": {
+    "message": "سؤال {n}",
+    "description": "1.0 question.js"
+  },
+  "keyContent": {
+    "message": "يرجى إدخال الخيارات",
+    "description": "1.0 question.js"
+  },
+  "subQues2": {
+    "message": "سؤال",
+    "description": "1.0 question.js"
+  },
+  "fillSubQTitle": {
+    "message": "انقر لإدخال وصف السؤال",
+    "description": "1.0 question.js"
+  },
+  "selectAdd": {
+    "message": "إضافة أسئلة فرعية",
+    "description": "1.0 question.js"
+  },
+  "formulaCheck": {
+    "message": "معادلة للاختبار",
+    "description": "1.0 question.js"
+  },
+  "answerPrecision": {
+    "message": "دقة الإجابة",
+    "description": "1.0 question.js"
+  },
+  "deviation": {
+    "message": "خطأ مسموح به",
+    "description": "1.0 question.js"
+  },
+  "answer": {
+    "message": "إجابة",
+    "description": "1.0 question.js"
+  },
+  "formulaInputPrompt": {
+    "message": "الرجاء إدخال المعادلة",
+    "description": "1.0 question.js"
+  },
+  "formulaInputError": {
+    "message": "لا يمكن حساب الإجابة",
+    "description": "1.0 question.js"
+  },
+  "formulaInputPlaceholder": {
+    "message": "الرجاء إدخال المعادلة للإجابة",
+    "description": "1.0 question.js"
+  },
+  "formulaInputDemo": {
+    "message": "عرض توضيحي لإدخال معادلة",
+    "description": "1.0 question.js"
+  },
+  "keyboardBack": {
+    "message": "مسافة للخلف",
+    "description": "1.0 question.js"
+  },
+  "keyboardClear": {
+    "message": "مسح",
+    "description": "1.0 question.js"
+  }
+}

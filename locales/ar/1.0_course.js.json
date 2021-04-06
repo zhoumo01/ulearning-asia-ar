@@ -1,0 +1,98 @@
+{
+  "previewCourse": {
+    "message": "معاينة",
+    "description": "网页的标题"
+  },
+  "startStudy": {
+    "message": "إبدأ",
+    "description": "一个按钮"
+  },
+  "joinCourse": {
+    "message": "هذه الدورة من مدرستك. قم بالتسجيل عن طريق مسح رمز الاستجابة السريعة أو إدخال رمز الفصل الذي يقدمه معلمك.",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "logintitle": {
+    "message": "تسجيل الدخول",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "username": {
+    "message": "اسم المستخدم",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "usernameOrPhoneNo": {
+    "message": "اسم المستخدم/ رقم الهاتف",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "password": {
+    "message": "كلمه المرور",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordtile": {
+    "message": "أدخل كلمة المرور",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "forgetPassword": {
+    "message": "نسيت كلمة المرور؟",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "register": {
+    "message": "سجل الآن",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "wxLogin": {
+    "message": " ",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "errorTitle": {
+    "message": "اسم المستخدم أو كلمة المرور غير صحيحة",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginMsg": {
+    "message": "حقل اسم المستخدم مطلوب",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "passwordMsg": {
+    "message": "حقل كلمة المرور مطلوب",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "confirm": {
+    "message": "فهمت ذلك",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputTip": {
+    "message": "الرجاء إدخال اسم المستخدم/ رقم الهاتف",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "inputLimitTip": {
+    "message": "لقد حاولت بالفعل ٥ مرات. حاول مرة أخرى بعد ثلاث دقائق.",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "dynamicCode": {
+    "message": "رمز أمان مكون من ٦ أرقام",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtect": {
+    "message": "حماية تسجيل الدخول",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "loginProtectTip": {
+    "message": "تم تفعيل نظام حماية تسجيل الدخول لحسابك. تحقق من الرسالة النصية المرسلة إلى هاتفك.",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "plzInputCode": {
+    "message": "أدخل رمز الحماية",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "codeError": {
+    "message": "رمز حماية غير صحيح",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "sendCode": {
+    "message": "إرسال رمز التحقق",
+    "description": "1.0 umooc-web courseDetail"
+  },
+  "reSendCode": {
+    "message": "إعادة الإرسال",
+    "description": "1.0 umooc-web courseDetail"
+  }
+}
