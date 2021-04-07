@@ -7,6 +7,10 @@
     "message": "الاختيار من متعدد",
     "description": "1.0 public.js"
   },
+  "moreQ": {
+    "message": "الردود المتعددة",
+    "description": "1.0 public.js"
+  },
   "yesNoQ": {
     "message": "صواب/خطأ",
     "description": "1.0 public.js"
@@ -57,6 +61,10 @@
   },
   "single": {
     "message": "الاختيار من متعدد",
+    "description": "1.0 public.js"
+  },
+  "multiple": {
+    "message": "الردود المتعددة",
     "description": "1.0 public.js"
   },
   "judge": {
@@ -236,7 +244,7 @@
     "description": "recorde.js"
   },
   "recordError": {
-    "message": "فشل التسجيل",
+    "message": "لم نتمكن من  التسجيل",
     "description": "recorde.js"
   }
 }

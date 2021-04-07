@@ -35,6 +35,10 @@
     "message": "اسم المجلد غير صالح!",
     "description": "1.0 questionIndex2.js"
   },
+  "parameterError": {
+    "message": "خطأ في المعاملات",
+    "description": "1.0 questionIndex2.js"
+  },
   "rootDirectory": {
     "message": "المجلد الاساسي",
     "description": "1.0 questionIndex2.js"

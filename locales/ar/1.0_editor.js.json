@@ -95,6 +95,10 @@
     "message": "الاختيار المتعدد",
     "description": "1.0 editor.js"
   },
+  "moreQ2": {
+    "message": "الردود المتعددة",
+    "description": "1.0 editor.js"
+  },
   "yesNoQ2": {
     "message": "صواب/خطأ",
     "description": "1.0 editor.js"
@@ -120,11 +124,11 @@
     "description": "1.0 editor.js"
   },
   "saveErrorTips2": {
-    "message": "فشلت في حفظ بعض الأسئلة!",
+    "message": " لم نتمكن من حفظ بعض الأسئلة!",
     "description": "1.0 editor.js"
   },
   "numExceededTips": {
-    "message": "لا يزيد عدد المدخلات عن ٢٠٠ في المرة الواحدة",
+    "message": "لا يمكن أن يتجاوز عدد الأسئلة التي تم إدخالها في كل مرة ٢٠٠",
     "description": "1.0 editor.js"
   },
   "incompleteMessage1": {

@@ -16,7 +16,7 @@
     "description": "1.0 assessment.json"
   },
   "deleteSucTxt": {
-    "message": "تم حذفها بنجاح!",
+    "message": "تم الحذف بنجاح!",
     "description": "1.0 assessment.json"
   },
   "failDeleteTxt": {
@@ -28,7 +28,7 @@
     "description": "1.0 assessment.json"
   },
   "summarizingTipsTxt4": {
-    "message": "خطأ الخادم - فشل تلخيص التقديرات!",
+    "message": "خطأ فى الخادم - لم نتمكن من تلخيص التقديرات!",
     "description": "1.0 assessment.json"
   },
   "serviceErrorTxt": {
@@ -232,7 +232,7 @@
     "description": "1.0 assessment.json"
   },
   "confirmDeleteTxt": {
-    "message": "هل تريد بالتأكيد حذف هذا التقدير؟",
+    "message": "هل تريد بالتأكيد حذف عنصر التقدير هذا؟",
     "description": "1.0 assessment.json"
   },
   "scoreTipsTxt1": {
@@ -256,7 +256,7 @@
     "description": "1.0 assessment.json"
   },
   "createFailTxt": {
-    "message": "فشل في إنشاء!",
+    "message": "لم نتمكن من الإنشاء!",
     "description": "1.0 assessment.json"
   },
   "confirmCancelTxt": {
@@ -291,6 +291,14 @@
     "message": "معدل الوقت التراكمي لدراسة المقرر يصل إلى {inputMax} دقيقة من الاجمالى المتاح ؛ أقل من {inputMin} دقيقة للدرجة 0",
     "description": "1.0 assessment.json"
   },
+  "assessExplanation1": {
+    "message": "يختلف محتوى هذه البرامج التدريبية بين إصدار الموقع وإصدار ULearning App. إذا كان الطلاب قد تم الوصول إلى المحتوى على كل من الموقع وتطبيق ULearning ، سيتم حساب وقت التعلم على أساس المجموع الإجمالي لكليهما.",
+    "description": "1.0 assessment.json"
+  },
+  "assessExplanation2": {
+    "message": "يتم حساب درجات المنهج الدراسى بشكل منفصل على الموقع والتطبيق ULearning. يتم احتساب الدرجة الأعلى لكل وحدة دراسية / موضوع دراسى فى التقيم النهائى للدورة. أيضا يتم احتساب درجات لمحتوى الموقع فقط (المحتوى غير متوفر لـ ULearning App) فى التقيم النهائي ",
+    "description": "1.0 assessment.json"
+  },
   "assessExplanation3": {
     "message": "(يشير اللون الأحمر إلى أن هذا المقطع يظهر فقط في إصدار الكمبيوتر الشخصي \"PC\")",
     "description": "1.0 assessment.json"
@@ -305,6 +313,10 @@
   },
   "setCourseTime": {
     "message": "تحديد وقت دراسة المقرر الدراسي",
+    "description": "1.0 assessment.json"
+  },
+  "setCourseGrade": {
+    "message": "تقدير الدورة الدراسية",
     "description": "1.0 assessment.json"
   },
   "operationSetps1": {
@@ -353,6 +365,10 @@
   },
   "scoreRuleTxt": {
     "message": "قواعد التقدير",
+    "description": "1.0 assessment.json"
+  },
+  "weightTxt": {
+    "message": "النسبة المئوية للوزن",
     "description": "1.0 assessment.json"
   },
   "fullMarkTxt": {
@@ -415,6 +431,10 @@
     "message": "معدل الوقت التراكمي لدراسة المقرر يصل إلى {max} دقيقة من الاجمالى المتاح ؛ أقل من {min} دقيقة للدرجة 0",
     "description": "1.0 assessment.json"
   },
+  "ruleTxt6": {
+    "message": "تقيم بواسطة متوسط درجات المواد الدراسية",
+    "description": "1.0 assessment.json"
+  },
   "editTxt": {
     "message": "تحرير",
     "description": "1.0 assessment.json"
@@ -425,6 +445,10 @@
   },
   "studyTimeTxt": {
     "message": "وقت الدراسة",
+    "description": "1.0 assessment.json"
+  },
+  "studyProgressTxt": {
+    "message": "التقدم فى الدراسة",
     "description": "1.0 assessment.json"
   },
   "courseResultTxt": {

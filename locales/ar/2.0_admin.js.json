@@ -16,7 +16,7 @@
     "description": "2.0 admin.js"
   },
   "screenDynamicText": {
-    "message": "عرض البيانات ",
+    "message": "عرض البيانات",
     "description": "2.0 admin.js"
   },
   "dataCenterText": {
@@ -200,31 +200,31 @@
     "description": "2.0 admin.js"
   },
   "watchVideoAverCompletionRate": {
-    "message": "Avg. Video Completion Rate",
+    "message": "متوسط معدل إنجاز الفيديو",
     "description": "2.0 admin.js"
   },
   "nearly15days": {
-    "message": "Last 15 Days",
+    "message": "آخر 15 يوما",
     "description": "2.0 admin.js"
   },
   "nearly30days": {
-    "message": "Last 30 Days",
+    "message": "آخر 30 يوم",
     "description": "2.0 admin.js"
   },
   "lastMonth": {
-    "message": "Last Month",
+    "message": "الشهر الماضي",
     "description": "2.0 admin.js"
   },
   "mobileTerminal": {
-    "message": "Mobile App",
+    "message": "تطبيق الجوال",
     "description": "2.0 admin.js"
   },
   "computerTerminal": {
-    "message": "PC version",
+    "message": "إصدار الكمبيوتر",
     "description": "2.0 admin.js"
   },
   "teacherNum": {
-    "message": "Teachers",
+    "message": "المعلمين",
     "description": "2.0 admin.js"
   },
   "studentNum": {
@@ -300,7 +300,7 @@
     "description": "2.0 admin.js"
   },
   "deleteRoleTips": {
-    "message": "Are you sure you want to delete the role? Deleting role won't delete the user account. You can assign another role to the user.",
+    "message": "هل تريد بالتأكيد حذف الدور؟ لن يؤدي حذف الدور إلى حذف حساب المستخدم. يمكنك تعيين دور آخر للمستخدم.",
     "description": "2.0 admin.js"
   },
   "onlySystemTips": {
@@ -308,7 +308,7 @@
     "description": "2.0 admin.js"
   },
   "permissionTips1": {
-    "message": "Course Management: School Course Management (Merge Courses/Transfer Course, Open Course, View Course Analysis)",
+    "message": "إدارة الدورة: إدارة المقررات الدراسية (دورات دمج/ دورة نقل، دورة مفتوحة، عرض تحليل الدورة)",
     "description": "2.0 admin.js"
   },
   "permissionTips2": {
@@ -328,135 +328,135 @@
     "description": "2.0 admin.js"
   },
   "permissionTips6": {
-    "message": "Administrative Class Management (Add/Edit/Delete Class)",
+    "message": "التحكم الإداري في الفصل الدراسي (إضافة/تحرير/حذف الفصل الدراسي)",
     "description": "2.0 admin.js"
   },
   "permissionTips7": {
-    "message": "Announcements (Publish/Edit/Delete Announcement)",
+    "message": "الإعلانات (نشر / تحرير / حذف الإعلان)",
     "description": "2.0 admin.js"
   },
   "permissionTips8": {
-    "message": "Role Privilege Settings (Add/Edit/Delete Role, Set Role Privileges)",
+    "message": "إعدادات امتيازات الدور (إضافة/تحرير/حذف دور، تعيين امتيازات الدور)",
     "description": "2.0 admin.js"
   },
   "permissionTips9": {
-    "message": "Admin Settings (Add/Edit/Delete Admin, Assign Role)",
+    "message": "إعدادات المشرف (إضافة /تحرير/ حذف المسؤول، تعيين دور)",
     "description": "2.0 admin.js"
   },
   "permissionTips10": {
-    "message": "View and Manage Sub-system",
+    "message": "عرض وإدارة النظام الفرعي",
     "description": "2.0 admin.js"
   },
   "addAdminTips1": {
-    "message": "Select Role",
+    "message": "تحديد دور",
     "description": "2.0 admin.js"
   },
   "addAdminTips2": {
-    "message": "Select at least one college",
+    "message": "اختر كلية واحدة على الأقل",
     "description": "2.0 admin.js"
   },
   "saveSuccess": {
-    "message": "Saved successfully!",
+    "message": "تم الحفظ بنجاح!",
     "description": "2.0 admin.js"
   },
   "saveFailed": {
-    "message": "Save failed",
+    "message": "لم نتمكن من الحفظ",
     "description": "2.0 admin.js"
   },
   "subsystem.mobileEvaluation": {
-    "message": "Mobile Teaching Evaluation",
+    "message": "تقييم التدريس المتنقل",
     "description": "2.0 admin.js"
   },
   "subsystem.wordSpelling": {
-    "message": "English Word Spelling",
+    "message": "إملاء الكلمات الإنجليزية",
     "description": "2.0 admin.js"
   },
   "subsystem.oralTest": {
-    "message": "Spoken English Test",
+    "message": "اختبار اللغة الإنجليزية المنطوقة",
     "description": "2.0 admin.js"
   },
   "subsystem.excellentCourses": {
-    "message": "Selected Course Portal Site",
+    "message": "موقع المقرر الدراسي المحدد",
     "description": "2.0 admin.js"
   },
   "subsystem.DigitalMarx": {
-    "message": "Digital Marx College",
+    "message": "كلية ماركس الرقمية",
     "description": "2.0 admin.js"
   },
   "subsystem.mobileTest": {
-    "message": "Mobile Exam",
+    "message": "امتحان الجوال",
     "description": "2.0 admin.js"
   },
   "subsystem.live": {
-    "message": "Live Sessions",
+    "message": "محاضرات مباشرة",
     "description": "2.0 admin.js"
   },
   "subsystem.competitionActivities": {
-    "message": "Competition Activities",
+    "message": "أنشطة تنافسية",
     "description": "2.0 admin.js"
   },
   "subsystem.practiceTeaching": {
-    "message": "Practical Teaching",
+    "message": "تدريس عملي",
     "description": "2.0 admin.js"
   },
   "screenDynamic.semesterActiveUsers": {
-    "message": "Active users in this semester",
+    "message": "المستخدمين النشطين في هذا الفصل الدراسي",
     "description": "2.0 admin.js"
   },
   "screenDynamic.weekLoginUsers": {
-    "message": "Login users this week",
+    "message": "تسجيل دخول المستخدمين هذا الأسبوع",
     "description": "2.0 admin.js"
   },
   "screenDynamic.todayLoginUsers": {
-    "message": "Login users today",
+    "message": "مستخدمون تسجيل الدخول اليوم",
     "description": "2.0 admin.js"
   },
   "screenDynamic.thisSemester": {
-    "message": "Current Semester",
+    "message": "الفصل الدراسي الحالي",
     "description": "2.0 admin.js"
   },
   "screenDynamic.activityRanking": {
-    "message": "Top 10 Most Active",
+    "message": "أعلي 10 الأكثر نشاطا",
     "description": "2.0 admin.js"
   },
   "screenDynamic.thisWeek": {
-    "message": "This week",
+    "message": "هذا الأسبوع",
     "description": "2.0 admin.js"
   },
   "screenDynamic.activeOrganizationTop": {
-    "message": "Top 10 Most Active Institutes",
+    "message": "أعلي 10 معاهد نشطاً",
     "description": "2.0 admin.js"
   },
   "screenDynamic.activeTeacherTop": {
-    "message": "Top 10 Most Active Teachers",
+    "message": "أعلي 10 معلمين أكثر نشاطاً",
     "description": "2.0 admin.js"
   },
   "screenDynamic.activeCourseClassTop": {
-    "message": "Top 10 Most Active courses",
+    "message": "أعلي 10 دورات أكثر نشاطاً",
     "description": "2.0 admin.js"
   },
   "dataCenter.attendanceTotalNum": {
-    "message": "Roll Calls",
+    "message": "أسماء الحضور",
     "description": "2.0 admin.js"
   },
   "dataCenter.voteTotalNum": {
-    "message": "Polls",
+    "message": "استطلاعات الراي",
     "description": "2.0 admin.js"
   },
   "dataCenter.answerTotalNum": {
-    "message": "Compete to Answers",
+    "message": "تنافس على الإجابات",
     "description": "2.0 admin.js"
   },
   "dataCenter.attendanceAnalysis": {
-    "message": "Roll Call Analysis",
+    "message": "تحليل أسماء الحضور",
     "description": "2.0 admin.js"
   },
   "dataCenter.voteAnalysis": {
-    "message": "Poll Analysis",
+    "message": "تحليل استطلاعات الرأي",
     "description": "2.0 admin.js"
   },
   "dataCenter.answerAnalysis": {
-    "message": "Compete to Answer Analysis",
+    "message": "تحليل التنافس على الإجابة",
     "description": "2.0 admin.js"
   },
   "dataCenter.participantsTeacherNum": {
@@ -608,191 +608,191 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.loginNumTips": {
-    "message": "Total logins since 2018-6-8",
+    "message": "إجمالي عمليات تسجيل الدخول منذ 2018-6-8",
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherLoginTrend": {
-    "message": "Teacher Login Trends",
+    "message": "سلوك تسجيل دخول المعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.totalTeacherNum": {
-    "message": "Total No. of Teachers",
+    "message": "مجموع عدد المعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.totalTeacherTimes": {
-    "message": "Total Teacher Logins",
+    "message": "إجمالي تسجيلات دخول المعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.studentLoginTrend": {
-    "message": "Student Login Trends",
+    "message": "سلوك تسجيل دخول الطالب",
     "description": "2.0 admin.js"
   },
   "dataCenter.totalStudentNum": {
-    "message": "Total No. of Students",
+    "message": "مجموع عدد الطلاب",
     "description": "2.0 admin.js"
   },
   "dataCenter.totalStudentTimes": {
-    "message": "Total Student Logins",
+    "message": "إجمالي تسجيلات دخول الطالب",
     "description": "2.0 admin.js"
   },
   "dataCenter.todayLogin": {
-    "message": "Logins Today",
+    "message": "تسجيلات الدخول اليوم",
     "description": "2.0 admin.js"
   },
   "dataCenter.refreshTip": {
-    "message": "The data is updated every 5 minutes from 0 to 24 o'clock.",
+    "message": "يتم تحديث البيانات كل 5 دقائق من 0 إلى 24.00.",
     "description": "2.0 admin.js"
   },
   "dataCenter.courseActivityRankingTop": {
-    "message": "TOP 30 Most Active Courses",
+    "message": "أعلي 30 دورة أكثر نشاطاً",
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherActivityRankingTop": {
-    "message": "TOP 30 Most Active Teachers",
+    "message": "أعلي 30 معلم أكثر نشاطاً",
     "description": "2.0 admin.js"
   },
   "dataCenter.studentActivityRankingTop": {
-    "message": "TOP 30 Most Active Students",
+    "message": "أعلي 30 طالب أكثر نشاطاً",
     "description": "2.0 admin.js"
   },
   "dataCenter.comeInCourseAsViewed": {
-    "message": "Opening the course page is counted as one course view",
+    "message": "يتم احتساب فتح صفحة المقرر الدراسي كمشاهدة واحدة للمقرر الدراسي",
     "description": "2.0 admin.js"
   },
   "dataCenter.courseName": {
-    "message": "Course Name",
+    "message": "إسم الدورة الدراسية",
     "description": "2.0 admin.js"
   },
   "dataCenter.chargeTeacher": {
-    "message": "Teacher in charge",
+    "message": "المعلم المسؤول",
     "description": "2.0 admin.js"
   },
   "dataCenter.studentViewTimes": {
-    "message": "Student Views",
+    "message": "مشاهدات الطلاب",
     "description": "2.0 admin.js"
   },
   "dataCenter.chargeCourse": {
-    "message": "Responsible for the course",
+    "message": "مسؤول عن الدورة",
     "description": "2.0 admin.js"
   },
   "dataCenter.loginTimes": {
-    "message": "Logins",
+    "message": "تسجيلات الدخول",
     "description": "2.0 admin.js"
   },
   "dataCenter.loginPeople": {
-    "message": "Total Logins",
+    "message": "إجمالي تسجيلات الدخول",
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherTimes": {
-    "message": "Teacher Logins",
+    "message": "تسجيلات دخول المعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.studentTimes": {
-    "message": "Students Logins",
+    "message": "تسجيلات دخول الطلاب",
     "description": "2.0 admin.js"
   },
   "dataCenter.announcementNum": {
-    "message": "Total Announcements",
+    "message": "إجمالي الإعلانات",
     "description": "2.0 admin.js"
   },
   "dataCenter.homeworkTotalNum": {
-    "message": "Total Assignments",
+    "message": "مجموع المهام",
     "description": "2.0 admin.js"
   },
   "dataCenter.discussTopic": {
-    "message": "Total Discussions",
+    "message": "مجموع المناقشات",
     "description": "2.0 admin.js"
   },
   "dataCenter.exam": {
-    "message": "Exams",
+    "message": "الامتحانات",
     "description": "2.0 admin.js"
   },
   "dataCenter.announcementPublishAnalysis": {
-    "message": "Announcement Analysis",
+    "message": "تحليل الإعلانات",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishAnnouncementTotalNum": {
-    "message": "Total Announcements",
+    "message": "إجمالي الإعلانات",
     "description": "2.0 admin.js"
   },
   "dataCenter.deleteAnnouncementTotalNum": {
-    "message": "Total Deleted Announcements",
+    "message": "إجمالي الإعلانات المحذوفة",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishAnnouncementTeacherNum": {
-    "message": "No. of teachers who have published announcements",
+    "message": "عدد المدرسين الذين نشروا إعلانات",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishAnnouncementTeacherRate": {
-    "message": "% of teachers who have published announcements",
+    "message": "النسبة المئوية للمعلمين الذين نشروا إعلانات",
     "description": "2.0 admin.js"
   },
   "dataCenter.announcementPublishRankingTop": {
-    "message": "Top 10 Teachers Publishing Announcement",
+    "message": "أعلي 10 معلمين نشرو إعلانات",
     "description": "2.0 admin.js"
   },
   "dataCenter.currentAnnouncementNum": {
-    "message": "No. of Current Announcements",
+    "message": "عدد الإعلانات الحالية",
     "description": "2.0 admin.js"
   },
   "dataCenter.homeworkPublishAnalysis": {
-    "message": "Assignment Analysis",
+    "message": "تحليل المهام",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishHomeworkTotalNum": {
-    "message": "Total No. of Assignments Published",
+    "message": "إجمالي عدد المهام المنشورة",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishHomeworkTeacherNum": {
-    "message": "No. of Teachers who have published assignments",
+    "message": "عدد المدرسين الذين نشروا مهام",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishHomeworkTeacherRate": {
-    "message": "% of teachers who have published assignments",
+    "message": "النسبة المئوية للمعلمين الذين نشروا مهام",
     "description": "2.0 admin.js"
   },
   "dataCenter.averageTestNum": {
-    "message": "Average No. of Quiz Questions",
+    "message": "متوسط عدد أسئلة الاختبار",
     "description": "2.0 admin.js"
   },
   "dataCenter.homeworkType": {
-    "message": "Assignment Type",
+    "message": "نوع المهام",
     "description": "2.0 admin.js"
   },
   "dataCenter.personalHomework": {
-    "message": "Individual Assignments",
+    "message": "المهام الفردية",
     "description": "2.0 admin.js"
   },
   "dataCenter.groupHomework": {
-    "message": "Group Assignments",
+    "message": "مهام جماعيه",
     "description": "2.0 admin.js"
   },
   "dataCenter.homeworkTest": {
-    "message": "Quiz",
+    "message": "اختبار",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishHomeworkRankingTop": {
-    "message": "Top 10 Teachers Publishing Assignments",
+    "message": "أعلي 10 معلمين نشرو مهام",
     "description": "2.0 admin.js"
   },
   "dataCenter.discussTopicAnalysis": {
-    "message": "Discussion Analysis",
+    "message": "تحليل المناقشة",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishDiscussTotalNum": {
-    "message": "Total Discussions",
+    "message": "مجموع المناقشات",
     "description": "2.0 admin.js"
   },
   "dataCenter.participantsDiscussTeacherNum": {
-    "message": "No. of Teacher Participants",
+    "message": "عدد المعلمين المشاركين",
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherParticipantionRate": {
-    "message": "% of Teacher Participants",
+    "message": "النسبة المئوية للمعلمين المشاركين",
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherRaplyDiscussNum": {
-    "message": "No. of Teacher Replies",
+    "message": "عدد ردود المعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.participantsDiscussStudentNum": {

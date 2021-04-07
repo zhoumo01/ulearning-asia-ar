@@ -3,6 +3,14 @@
     "message": "جارى الإرسال...",
     "description": "1.0 autoexam.js"
   },
+  "unitContentText": {
+    "message": "{0} الأقسام",
+    "description": "1.0 autoexam.js"
+  },
+  "allUnitContentText": {
+    "message": "جميع الأقسام",
+    "description": "1.0 autoexam.js"
+  },
   "selectQBankRange": {
     "message": "حدد نطاق بنك الاسئلة",
     "description": "1.0 autoexam.js"
@@ -52,7 +60,7 @@
     "description": "1.0 autoexam.js"
   },
   "QnumberText": {
-    "message": "مجموع الاسئلة قليل فى بنك الاسئلة",
+    "message": "مجموع الاسئلة اقل من الاسئلة المسجلة فى بنك الاسئلة",
     "description": "1.0 autoexam.js"
   },
   "addPaperQText": {
@@ -77,6 +85,10 @@
   },
   "continueMakeText": {
     "message": "استمرار",
+    "description": "1.0 autoexam.js"
+  },
+  "pleaseEnterName": {
+    "message": "الرجاء إدخال أسماء القسم حتى {0} حرف",
     "description": "1.0 autoexam.js"
   },
   "pleaseEnterTemplateName": {
@@ -105,6 +117,10 @@
   },
   "deleteTemplateError": {
     "message": "خطأ في حذف القالب",
+    "description": "1.0 autoexam.js"
+  },
+  "partNum": {
+    "message": "القسم {0}",
     "description": "1.0 autoexam.js"
   },
   "totalScoreLabel": {

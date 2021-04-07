@@ -1,0 +1,50 @@
+{
+  "backToCourseList": {
+    "message": "العودة إلى قائمة الدورة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "backToManageCenter": {
+    "message": "العودة إلى مركز الإدارة",
+    "description": "2.0 course.js"
+  },
+  "courseFinishedTips1": {
+    "message": "انتهت الدورة الدراسية. لم تعد قابلة للتحرير بعد الآن.",
+    "description": "2.0 course.js"
+  },
+  "courseFinishedTips2": {
+    "message": "انتهت الدورة. لا يمكنك المشاركة في أي نشاط في الفصل الدراسي بعد الآن.",
+    "description": "2.0 course.js"
+  },
+  "courseContent": {
+    "message": "محتوى المقرر الدراسي",
+    "description": "2.0 course.js"
+  },
+  "courseAnnouncement": {
+    "message": "إعلانات الدورة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "courseAnalysis": {
+    "message": "تحليل بيانات الدورة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "courseResourse": {
+    "message": "موارد الدورة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "courseAssessment": {
+    "message": "قواعد تقدير الدورة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "courseMember": {
+    "message": "أعضاء الدورة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "courseSetting": {
+    "message": "إعدادات الدورة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "courseDiscusstion": {
+    "message": "مناقشات الدورة الدراسية",
+    "description": "2.0 course.js"
+  }
+}

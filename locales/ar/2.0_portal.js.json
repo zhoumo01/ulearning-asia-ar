@@ -7,12 +7,24 @@
     "message": "إخفاء وحدة",
     "description": "2.0 portal.js"
   },
+  "showModule": {
+    "message": "إظهار الوحدة",
+    "description": "2.0 portal.js"
+  },
   "addModule": {
     "message": "إضافة وحدة",
     "description": "2.0 portal.js"
   },
   "delModule": {
     "message": "حذف وحدة",
+    "description": "2.0 portal.js"
+  },
+  "hidden": {
+    "message": " (مخفي)",
+    "description": "2.0 portal.js"
+  },
+  "moduleType1": {
+    "message": "الدورات(المناهج)",
     "description": "2.0 portal.js"
   },
   "moduleType2": {
@@ -23,16 +35,80 @@
     "message": "مقطع فيديو",
     "description": "2.0 portal.js"
   },
+  "imageExample": {
+    "message": "معاينة",
+    "description": "2.0 portal.js"
+  },
+  "friendLinkTip": {
+    "message": "إضافة اسم الرابط وعنوان URL",
+    "description": "2.0 portal.js"
+  },
+  "friendLinkLimitTip": {
+    "message": "يمكنك إضافة 10 روابط كحد أقصى",
+    "description": "2.0 portal.js"
+  },
+  "modulePlaceholder": {
+    "message": "انقر لإدخال اسم الوحدة",
+    "description": "2.0 portal.js"
+  },
+  "currentLogo": {
+    "message": "الشعار قيد الاستخدام: {image}",
+    "description": "2.0 portal.js"
+  },
+  "uploadLogo": {
+    "message": "رفع الشعار",
+    "description": "2.0 portal.js"
+  },
+  "uploadLogoTip": {
+    "message": "الصيغ: png, bmp, jpg, gif و الحجم: لا يتخطى 2 ميغابايت و اقتراح العرض × الارتفاع : 300x50 بكسل",
+    "description": "2.0 portal.js"
+  },
+  "displayedMenu": {
+    "message": "إظهار قائمة العناصر",
+    "description": "2.0 portal.js"
+  },
+  "addNavigation": {
+    "message": "إضافة قائمة عناصر",
+    "description": "2.0 portal.js"
+  },
+  "hiddenMenu": {
+    "message": "قائمة العناصر المخفية",
+    "description": "2.0 portal.js"
+  },
+  "menuEditTip": {
+    "message": "ملاحظة: يمكنك إضافة أو حذف عناصر القائمة، ولكنك تحتاج إلى الاحتفاظ بعنصرين على الأقل. يمكنك سحب و نقل العناصر لإعادة ترتيبها.",
+    "description": "2.0 portal.js"
+  },
   "externalLinkType": {
     "message": "رابط خارجي",
+    "description": "2.0 portal.js"
+  },
+  "menuName": {
+    "message": "اسم قائمة العناصر",
+    "description": "2.0 portal.js"
+  },
+  "menuNamePlaceholder": {
+    "message": "انقر لإدخال اسم قائمة العناصر",
     "description": "2.0 portal.js"
   },
   "menuContentPlaceholder": {
     "message": "انقر لإدخال المحتوى",
     "description": "2.0 portal.js"
   },
+  "linkAddress": {
+    "message": "قائمة عناوين URL",
+    "description": "2.0 portal.js"
+  },
   "linkNamePlaceholder": {
     "message": "انقر لإدخال اسم الرابط",
+    "description": "2.0 portal.js"
+  },
+  "linkAddrPlaceholder": {
+    "message": "أدخل عنوان URL",
+    "description": "2.0 portal.js"
+  },
+  "linkAddrPlaceholder2": {
+    "message": "انقر لإدخال عنوان URL بتنسيق http://",
     "description": "2.0 portal.js"
   },
   "addLinkAddr": {
@@ -47,8 +123,52 @@
     "message": "رفع صورة",
     "description": "2.0 portal.js"
   },
+  "displayedBanners": {
+    "message": "إظهار الصور",
+    "description": "2.0 portal.js"
+  },
+  "hiddenBanners": {
+    "message": "الصور المخفية",
+    "description": "2.0 portal.js"
+  },
+  "uploadBannerTip": {
+    "message": "ملاحظة: عند رفع أو تقديم عدة صورفإنها تتاح إفتراضيا بشكل دائري، و يمكنك سحب الصورة و نقلها لإعادة الترتيب، ترفع الصور بإحدى هذه الصيغ png, bmp, jpg, jpeg, gif و حجم الصورة:  لا يتخطى 2 ميغابايت و العرض × الارتفاع: 1170x320 بكسل",
+    "description": "2.0 portal.js"
+  },
+  "picNamePlaceholder": {
+    "message": "انقر لإدخال عنوان الصورة",
+    "description": "2.0 portal.js"
+  },
+  "picUploadTip": {
+    "message": "نسبة العرض إلى الارتفاع للصورة : 16:9بصيغ: png, jpg, gif, jpeg, bmp و حجم صورة الواحدة: لا يتخطى 2 ميغابايت",
+    "description": "2.0 portal.js"
+  },
+  "videoNamePlaceholder": {
+    "message": "انقر لإدخال عنوان الفيديو",
+    "description": "2.0 portal.js"
+  },
   "uploadVideo": {
     "message": "رفع مقطع فيديو",
+    "description": "2.0 portal.js"
+  },
+  "uploadVideoTip": {
+    "message": "نسبة العرض إلى الارتفاع لمقطع الفيديو: 16:9 بصيغ: mp4, flv و حجم الفيديو الواحد: لا يتخطى 500 ميغابايت",
+    "description": "2.0 portal.js"
+  },
+  "searchCourse": {
+    "message": "بحث عن دورة",
+    "description": "2.0 portal.js"
+  },
+  "selectedCourse": {
+    "message": "الدورات المختارة",
+    "description": "2.0 portal.js"
+  },
+  "searchDepartments": {
+    "message": "بحث عن كلية",
+    "description": "2.0 portal.js"
+  },
+  "selectedDepartments": {
+    "message": "الكليات المختارة",
     "description": "2.0 portal.js"
   },
   "collegeLogo": {
@@ -61,6 +181,10 @@
   },
   "customFooter": {
     "message": "الهامش",
+    "description": "2.0 portal.js"
+  },
+  "swiper": {
+    "message": "دائري",
     "description": "2.0 portal.js"
   }
 }

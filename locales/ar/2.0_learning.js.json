@@ -7,10 +7,6 @@
     "message": "سجل الدخول الآن",
     "description": "2.0 learning.js"
   },
-  "exit": {
-    "message": "Exit",
-    "description": "2.0 learning.js"
-  },
   "collectDirectories": {
     "message": "طي القائمة",
     "description": "2.0 learning.js"
@@ -81,10 +77,6 @@
   },
   "nextUnit": {
     "message": "الموضوع التالي",
-    "description": "2.0 learning.js"
-  },
-  "chapterStatistics": {
-    "message": "Module Statistics",
     "description": "2.0 learning.js"
   }
 }

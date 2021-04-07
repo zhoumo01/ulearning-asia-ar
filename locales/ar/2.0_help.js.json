@@ -1,0 +1,202 @@
+{
+  "examEnvironmentDetection": {
+    "message": "فحص توافق الكمبيوتر",
+    "description": "2.0 help.js"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "2.0 help.js"
+  },
+  "hardwareRequirements": {
+    "message": "متطلبات الأجهزة",
+    "description": "2.0 help.js"
+  },
+  "hardware": {
+    "message": "الأجهزة",
+    "description": "2.0 help.js"
+  },
+  "minimumRequirements": {
+    "message": "الحد الأدنى من المتطلبات",
+    "description": "2.0 help.js"
+  },
+  "internalMemory": {
+    "message": "RAM",
+    "description": "2.0 help.js"
+  },
+  "internalMemory2": {
+    "message": "ذاكرة 1 جيجابايت",
+    "description": "2.0 help.js"
+  },
+  "envTips1": {
+    "message": "2 جيجا هرتز أو أسرع",
+    "description": "2.0 help.js"
+  },
+  "envTips4": {
+    "message": "فحص سماعة الرأس",
+    "description": "2.0 help.js"
+  },
+  "envTips5": {
+    "message": "فحص إمكانية التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips7": {
+    "message": "فحص سرعة الشبكة",
+    "description": "2.0 help.js"
+  },
+  "envTips8": {
+    "message": "إعادة الفحص",
+    "description": "2.0 help.js"
+  },
+  "envTips9": {
+    "message": "يتم فحص سرعة التحميل... يرجى الانتظار.",
+    "description": "2.0 help.js"
+  },
+  "envTips10": {
+    "message": "سرعة التحميل: ",
+    "description": "2.0 help.js"
+  },
+  "envTips16": {
+    "message": "عدد المستخدمين ",
+    "description": "2.0 help.js"
+  },
+  "envTips20": {
+    "message": "500 مستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips21": {
+    "message": "حوالي 100 كيلو بايت / ثانية / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips22": {
+    "message": "حوالي 1 ميغابايت / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips23": {
+    "message": "حوالي 500 ميغابايت",
+    "description": "2.0 help.js"
+  },
+  "envTips24": {
+    "message": "1000 مستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips25": {
+    "message": "حوالي 100 كيلو بايت / ثانية / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips26": {
+    "message": "حوالي 1 ميغابايت / المستخدم",
+    "description": "2.0 help.js"
+  },
+  "envTips27": {
+    "message": "حوالي 1 جيجا بايت",
+    "description": "2.0 help.js"
+  },
+  "envTips28": {
+    "message": "المتصفح والمكونات الإضافية",
+    "description": "2.0 help.js"
+  },
+  "envTips29": {
+    "message": "فحص توافق المتصفح",
+    "description": "2.0 help.js"
+  },
+  "envTips30": {
+    "message": "إصدار المتصفح",
+    "description": "2.0 help.js"
+  },
+  "envTips31": {
+    "message": "إصدار فلاش",
+    "description": "2.0 help.js"
+  },
+  "envTips32": {
+    "message": "مشغل Adobe Flash غير مثبت",
+    "description": "2.0 help.js"
+  },
+  "envTips33": {
+    "message": "انقر للتثبيت",
+    "description": "2.0 help.js"
+  },
+  "envTips34": {
+    "message": "مساعدة",
+    "description": "2.0 help.js"
+  },
+  "envTips35": {
+    "message": "ملفات كوكيز",
+    "description": "2.0 help.js"
+  },
+  "envTips36": {
+    "message": "تم التمكين",
+    "description": "2.0 help.js"
+  },
+  "envTips37": {
+    "message": "‏‏معطل",
+    "description": "2.0 help.js"
+  },
+  "envTips38": {
+    "message": "متصفح JavaScript",
+    "description": "2.0 help.js"
+  },
+  "envTips39": {
+    "message": "المتصفح الموصى به",
+    "description": "2.0 help.js"
+  },
+  "chrome": {
+    "message": "Chrome",
+    "description": "2.0 help.js"
+  },
+  "firefox": {
+    "message": "Firefox",
+    "description": "2.0 help.js"
+  },
+  "envTips46": {
+    "message": "متصفح",
+    "description": "2.0 help.js"
+  },
+  "envTips47": {
+    "message": "متطلبات النظام",
+    "description": "2.0 help.js"
+  },
+  "envTips48": {
+    "message": "تحميل",
+    "description": "2.0 help.js"
+  },
+  "envTips49": {
+    "message": "ويندوز 7 أو أعلى، ويندوز XP",
+    "description": "2.0 help.js"
+  },
+  "envTips50": {
+    "message": "انقر للتحميل",
+    "description": "2.0 help.js"
+  },
+  "envTips51": {
+    "message": "مكونات إضافية",
+    "description": "2.0 help.js"
+  },
+  "envTips52": {
+    "message": "فحص سماعة الرأس",
+    "description": "2.0 help.js"
+  },
+  "envTips53": {
+    "message": "فحص إمكانية التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips54": {
+    "message": "ضع سماعات الرأس وانقر الصوت أدناه للتأكد من إمكانية سماع الصوت.",
+    "description": "2.0 help.js"
+  },
+  "envTips55": {
+    "message": "* إذا لم يكن هناك صوت: ",
+    "description": "2.0 help.js"
+  },
+  "envTips61": {
+    "message": "بدء التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips62": {
+    "message": "إيقاف التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips63": {
+    "message": "إعادة تشغيل",
+    "description": "2.0 help.js"
+  }
+}
