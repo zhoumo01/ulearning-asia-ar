@@ -20,7 +20,7 @@
     "description": "2.0 announcement.js"
   },
   "download": {
-    "message": "تحميل",
+    "message": "تنزيل",
     "description": "2.0 announcement.js"
   },
   "fold": {
@@ -52,7 +52,7 @@
     "description": "2.0 announcement.js"
   },
   "jumpPage": {
-    "message": "الانتقال إلى",
+    "message": "إذهب إلى",
     "description": "2.0 announcement.js"
   }
 }

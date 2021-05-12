@@ -56,11 +56,11 @@
     "description": "1.0 homework.json"
   },
   "downloadTemplateTipTxt": {
-    "message": "تحميل قوالب لتنظيم بيانات مجموعة طلاب",
+    "message": "تنزيل قوالب لتنظيم بيانات مجموعة طلاب",
     "description": "1.0 homework.json"
   },
   "downloadTemplateTxt": {
-    "message": "تحميل قوالب",
+    "message": "تنزيل قوالب",
     "description": "1.0 homework.json"
   },
   "uploadFileTipTxt": {
@@ -456,7 +456,7 @@
     "description": "教师批阅小组作业页面"
   },
   "validateNumber": {
-    "message": "برجاء ادخال درجة  صحيحة تحتوى على رقم عشري واحد فقط",
+    "message": "برجاء ادخال درجة صحيحة تحتوى على رقم عشري واحد فقط",
     "description": "教师批阅小组作业页面"
   },
   "validateScore": {
@@ -492,7 +492,7 @@
     "description": "homeworkPreview.js"
   },
   "documentLoading": {
-    "message": "يتم الآن تحميل موارد المستند...",
+    "message": "يتم الآن تحميل مصادر المستند...",
     "description": "homeworkPreview.js"
   },
   "compressedPack": {
@@ -756,7 +756,7 @@
     "description": "homeworkGroupStu.js"
   },
   "complaintFailText": {
-    "message": " فشل الشكوى",
+    "message": "لم نتمكن من تسجيل الشكوى",
     "description": "homeworkGroupStu.js"
   },
   "complaintAfterText": {

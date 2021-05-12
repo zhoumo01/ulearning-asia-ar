@@ -220,7 +220,7 @@
     "description": "1.0 public.js"
   },
   "download": {
-    "message": "تحميل",
+    "message": "تنزيل",
     "description": "1.0 public.js"
   },
   "paste": {
@@ -244,7 +244,7 @@
     "description": "recorde.js"
   },
   "recordError": {
-    "message": "لم نتمكن من  التسجيل",
+    "message": "لم نتمكن من التسجيل",
     "description": "recorde.js"
   }
 }

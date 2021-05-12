@@ -1,0 +1,498 @@
+{
+  "_name": {
+    "message": "‏‏الإنجليزية",
+    "description": "投屏"
+  },
+  "system.welcome": {
+    "message": " مرحبا بكم لاستخدام شاشة عرض وظائف Ulearning",
+    "description": "投屏"
+  },
+  "system.screenGuide": {
+    "message": " افتح تطبيق Ulearning، انقر فوق زر \"عرض الشاشة\" على صفحة  نشط / تفاصيل المصدر للحصول على رمز عرض الشاشة وأدخله أدناه.",
+    "description": "投屏"
+  },
+  "system.scanCode": {
+    "message": " المسح الضوئي لرمز المشاركة نشط",
+    "description": "投屏"
+  },
+  "system.remind": {
+    "message": " تذكير ",
+    "description": "投屏"
+  },
+  "system.confirm": {
+    "message": "تأكيد",
+    "description": "投屏"
+  },
+  "system.cancel": {
+    "message": "إلغاء",
+    "description": "投屏"
+  },
+  "system.previousPage": {
+    "message": "الصفحة السابقة",
+    "description": "投屏"
+  },
+  "system.nextPage": {
+    "message": "الصفحة التالية",
+    "description": "投屏"
+  },
+  "system.allClasses": {
+    "message": "كل الفصول",
+    "description": "投屏"
+  },
+  "system.back": {
+    "message": "رجوع",
+    "description": "投屏"
+  },
+  "system.teacher": {
+    "message": "المعلم",
+    "description": "投屏"
+  },
+  "system.waiting": {
+    "message": "عرض",
+    "description": "投屏"
+  },
+  "system.guide1": {
+    "message": "على تطبيق الجوالك، ابدأ حدثا لبدء عرض الشاشة.",
+    "description": "投屏"
+  },
+  "system.viewCode": {
+    "message": "انقر لإظهار رمز الاستجابة السريعة.",
+    "description": "投屏"
+  },
+  "system.followTip1": {
+    "message": "تابعنا على وسائل التواصل الاجتماعي لمتابعة المناسبات والتحديثات وآخر الأخبار.",
+    "description": "投屏"
+  },
+  "system.quitScreen": {
+    "message": "خروج",
+    "description": "投屏"
+  },
+  "system.followTip2": {
+    "message": "تابعنا على وسائل التواصل الاجتماعي لمتابعة المناسبات والتحديثات وآخر الأخبار.",
+    "description": "投屏"
+  },
+  "system.title": {
+    "message": "العنوان",
+    "description": "投屏"
+  },
+  "system.class": {
+    "message": "الفصل",
+    "description": "投屏"
+  },
+  "system.chooseClass": {
+    "message": "إختر الفصل",
+    "description": "投屏"
+  },
+  "system.tip1": {
+    "message": "{num} فصل",
+    "description": "投屏"
+  },
+  "system.tip2": {
+    "message": " لا توجد فصول . الرجاء إضافة الفصول أولا.",
+    "description": "投屏"
+  },
+  "system.peopleNum": {
+    "message": "عدد الطلاب",
+    "description": "投屏"
+  },
+  "system.people": {
+    "message": "الطلاب",
+    "description": "投屏"
+  },
+  "system.option": {
+    "message": "خيار",
+    "description": "投屏"
+  },
+  "system.tip3": {
+    "message": "إختر حتى {num} إختيار",
+    "description": "投屏"
+  },
+  "system.tip4": {
+    "message": " الرجاء إدخال الخيار أو قرار المعلم ",
+    "description": "投屏"
+  },
+  "system.object": {
+    "message": " أداة التقييم ",
+    "description": "投屏"
+  },
+  "system.scoreSubitem": {
+    "message": "التقدير حسب العنصر",
+    "description": "投屏"
+  },
+  "system.enterPoint": {
+    "message": "يرجى إدخال الدرجة.",
+    "description": "投屏"
+  },
+  "system.score": {
+    "message": "الدرجة",
+    "description": "投屏"
+  },
+  "system.addPoint": {
+    "message": "إضافة درجات",
+    "description": "投屏"
+  },
+  "system.tip5": {
+    "message": "الدرجة النهائية 100، الدرجة المتبقية",
+    "description": "投屏"
+  },
+  "system.startNow": {
+    "message": "ابدأ الآن",
+    "description": "投屏"
+  },
+  "system.student": {
+    "message": "الطالب",
+    "description": "投屏"
+  },
+  "system.group": {
+    "message": "مجموعة",
+    "description": "投屏"
+  },
+  "system.other": {
+    "message": "أخرى",
+    "description": "投屏"
+  },
+  "system.tip6": {
+    "message": "تصل الخيارات إلى 10 إختيارات",
+    "description": "投屏"
+  },
+  "system.tip7": {
+    "message": " الرجاء إدخال النتيجة الصحيحة. ",
+    "description": "投屏"
+  },
+  "system.tip8": {
+    "message": " يجب ألا تتجاوز النتيجة الدرجة النهائية. ",
+    "description": "投屏"
+  },
+  "system.tip9": {
+    "message": "يجب ألا يتجاوز العنوان 200 كلمة",
+    "description": "投屏"
+  },
+  "system.startFail": {
+    "message": "تعذر البدء",
+    "description": "投屏"
+  },
+  "system.tip10": {
+    "message": "يجب ألا يقل مجموع الدرجات عن الدرجة النهائية. ",
+    "description": "投屏"
+  },
+  "system.tip11": {
+    "message": " يجب ألا يكون أي عنصر فارغا ",
+    "description": "投屏"
+  },
+  "system.codeError": {
+    "message": " رمز عرض الشاشة غير صالح",
+    "description": "投屏"
+  },
+  "system.success": {
+    "message": "تم بنجاح",
+    "description": "投屏"
+  },
+  "system.xpeople": {
+    "message": "إلخ. {num} طالب",
+    "description": "投屏"
+  },
+  "system.ulearningScreen": {
+    "message": " عرض شاشة Ulearning ",
+    "description": "投屏"
+  },
+  "screen.cancelScreen": {
+    "message": " إلغاءعرض الشاشة ",
+    "description": "投屏"
+  },
+  "screen.endActivity": {
+    "message": " إنهاء الحدث ",
+    "description": "投屏"
+  },
+  "screen.scoreAgain": {
+    "message": "إعادة فتح مراجعة الأقران",
+    "description": "投屏"
+  },
+  "screen.activityQrcode": {
+    "message": "نشاط رمز الاستجابة السريع",
+    "description": "投屏"
+  },
+  "screen.startActivity": {
+    "message": "بدء النشاط",
+    "description": "投屏"
+  },
+  "screen.actGrade": {
+    "message": "مراجعات الأقران",
+    "description": "投屏"
+  },
+  "screen.actDiss": {
+    "message": "المناقشة",
+    "description": "投屏"
+  },
+  "screen.actResp": {
+    "message": "تنافس على الإجابة",
+    "description": "投屏"
+  },
+  "screen.actPick": {
+    "message": "اختيار عشوائي",
+    "description": "投屏"
+  },
+  "screen.actVote": {
+    "message": "استطلاعات الراي",
+    "description": "投屏"
+  },
+  "screen.actSign": {
+    "message": "اسم الحاضر",
+    "description": "投屏"
+  },
+  "screen.scanTip": {
+    "message": "دعم تطبيق Ulearning، رمز المسح الضوئي لدخولصفحة الفيسبوك",
+    "description": "投屏"
+  },
+  "screen.tip1": {
+    "message": "بعض الطلاب لم يتم تقديرهم وسوف يحصلون على صفر إذا قمت بإنهاء المنافسة للإجابة الآن. هل أنت متأكد من أنك تريد الإنهاء؟",
+    "description": "投屏"
+  },
+  "screen.tip2": {
+    "message": " تأكيد الانتهاء ",
+    "description": "投屏"
+  },
+  "screen.tip3": {
+    "message": "بعد إنهاء النشاط، لن يتمكن الطلاب (الذين لم يقوموا بمراجعة الأقران) من إجراء مراجعة الأقران. هل أنت متأكد من أنك تريد الإنهاء؟ ",
+    "description": "投屏"
+  },
+  "screen.randomAdd": {
+    "message": " إضافة عشوائية ",
+    "description": "投屏"
+  },
+  "screen.selectAdd": {
+    "message": " إضافة محددة ",
+    "description": "投屏"
+  },
+  "screen.addGroup": {
+    "message": "إضافة مجموعة",
+    "description": "投屏"
+  },
+  "screen.addObject": {
+    "message": " إضافة أداة تقييم ",
+    "description": "投屏"
+  },
+  "screen.actGradeDetail": {
+    "message": "تفاصيل مراجعة الأقران ",
+    "description": "投屏"
+  },
+  "screen.resource": {
+    "message": "مصدر",
+    "description": "投屏"
+  },
+  "sign.sign": {
+    "message": "اسم الحاضر",
+    "description": "投屏"
+  },
+  "sign.back": {
+    "message": " الرجوع إلى اسم الحاضر",
+    "description": "投屏"
+  },
+  "sign.alreadySign": {
+    "message": "تم تسجيل الدخول",
+    "description": "投屏"
+  },
+  "sign.notSign": {
+    "message": "لم يتم تسجيل الدخول",
+    "description": "投屏"
+  },
+  "sign.noOne": {
+    "message": " لم يقم أي طالب بتسجيل الدخول بعد ",
+    "description": "投屏"
+  },
+  "sign.allIn": {
+    "message": " قام كل الطلاب بتسجيل الدخول ",
+    "description": "投屏"
+  },
+  "sign.scanSign": {
+    "message": " مسح الرمز لتسجيل الدخول ",
+    "description": "投屏"
+  },
+  "sign.enlarge": {
+    "message": "تكبير",
+    "description": "投屏"
+  },
+  "sign.signNum": {
+    "message": " عدد الطلاب الذين سجلوا الدخول ",
+    "description": "投屏"
+  },
+  "sign.viewDetail": {
+    "message": " انقر للحصول على تفاصيل ",
+    "description": "投屏"
+  },
+  "sign.supportAPP": {
+    "message": "دعم تطبيق Ulearning",
+    "description": "投屏"
+  },
+  "vote.all": {
+    "message": "الكل",
+    "description": "投屏"
+  },
+  "vote.ticket": {
+    "message": " التصويت",
+    "description": "投屏"
+  },
+  "vote.notVote": {
+    "message": " لم يتم التصويت ",
+    "description": "投屏"
+  },
+  "vote.source": {
+    "message": " مصدر الوصول ",
+    "description": "投屏"
+  },
+  "grade.score": {
+    "message": "الدرجة",
+    "description": "投屏"
+  },
+  "grade.randomChoose": {
+    "message": "إختر {num} طالب عشوائيا",
+    "description": "投屏"
+  },
+  "grade.chooseStu": {
+    "message": "إختر طالب",
+    "description": "投屏"
+  },
+  "grade.stuNum": {
+    "message": "كود الطالب",
+    "description": "投屏"
+  },
+  "grade.noStu": {
+    "message": " لا يوجد طالب ",
+    "description": "投屏"
+  },
+  "grade.chooseGroup": {
+    "message": "إختر مجموعة",
+    "description": "投屏"
+  },
+  "grade.member": {
+    "message": "العضو:",
+    "description": "投屏"
+  },
+  "grade.class": {
+    "message": "الفصل:",
+    "description": "投屏"
+  },
+  "grade.noClass": {
+    "message": " لا يوجد فريق ",
+    "description": "投屏"
+  },
+  "grade.enterObject": {
+    "message": " يرجى إدخال أداة تقييم ",
+    "description": "投屏"
+  },
+  "grade.addObject": {
+    "message": " إضافة أداة تقييم ",
+    "description": "投屏"
+  },
+  "grade.tip1": {
+    "message": "المتبقي",
+    "description": "投屏"
+  },
+  "grade.tip2": {
+    "message": " الطلاب، يرجى إعادة إختيار عدد الطلاب",
+    "description": "投屏"
+  },
+  "grade.noMember": {
+    "message": " لا يوجد عضو ",
+    "description": "投屏"
+  },
+  "grade.gradeNum": {
+    "message": "عدد المراجعات الشخصية {num}",
+    "description": "投屏"
+  },
+  "grade.tip3": {
+    "message": "الرجاء إدخال عدد صحيح موجب",
+    "description": "投屏"
+  },
+  "grade.tip4": {
+    "message": " لا يمكن أن يكون الإدخال أقل من ",
+    "description": "投屏"
+  },
+  "grade.tip5": {
+    "message": " لا يمكن أن يكون الإدخال أكبر من ",
+    "description": "投屏"
+  },
+  "grade.tip6": {
+    "message": " انقر الزر الموجود على اليمين لإضافة أداة تقييم. ",
+    "description": "投屏"
+  },
+  "grade.tip7": {
+    "message": " التقييم المنتهي ",
+    "description": "投屏"
+  },
+  "grade.evaluated": {
+    "message": " تقييم ",
+    "description": "投屏"
+  },
+  "grade.unevaluated": {
+    "message": " لم يتم تقييمها ",
+    "description": "投屏"
+  },
+  "grade.startEva": {
+    "message": "إبدأ التقييم",
+    "description": "投屏"
+  },
+  "grade.stopEva": {
+    "message": "إنهاء التقييم",
+    "description": "投屏"
+  },
+  "grade.noEva": {
+    "message": "لا يوجد تقييم للطالب",
+    "description": "投屏"
+  },
+  "grade.noUneva": {
+    "message": "تم تقييم كل طلاب\n",
+    "description": "投屏"
+  },
+  "grade.tip8": {
+    "message": " تأكيد إنهاء التقييم ",
+    "description": "投屏"
+  },
+  "grade.tip9": {
+    "message": " انتهى التقييم ",
+    "description": "投屏"
+  },
+  "grade.noEndEva": {
+    "message": " لا يوجد تقييم منتهي ",
+    "description": "投屏"
+  },
+  "grade.evaDetail": {
+    "message": " تفاصيل التقييم ",
+    "description": "投屏"
+  },
+  "grade.reMark": {
+    "message": "إعادة فتح مراجعة الأقران",
+    "description": "投屏"
+  },
+  "discuss.anonymous": {
+    "message": " مجهول ",
+    "description": "投屏"
+  },
+  "discuss.goodNum": {
+    "message": "عدد الطلاب الذين يشيرون بإبهامهم لأعلى {num}",
+    "description": "投屏"
+  },
+  "discuss.noAnswer": {
+    "message": "الطالب لم يرد بعد",
+    "description": "投屏"
+  },
+  "pick.setScore": {
+    "message": "مراجعات الأقران",
+    "description": "投屏"
+  },
+  "pick.choosePeople": {
+    "message": "اختيار عشوائي",
+    "description": "投屏"
+  },
+  "pick.noAnswer": {
+    "message": "المتبقي {num}، أعد إختيار عدد الطلاب",
+    "description": "投屏"
+  },
+  "resource.notSupport": {
+    "message": "لا يتم دعم عرض الشاشة لهذا المصدر",
+    "description": "投屏"
+  },
+  "responder.wait": {
+    "message": "انتظر للانضمام",
+    "description": "投屏"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "deleteFail": {
+    "message": "لم نتمكن من الحذف، الرجاء التحقق من الاتصال بالشبكة ",
+    "description": "小应用"
+  },
+  "moveFailed": {
+    "message": "لم نتمكن من النقل",
+    "description": "小应用"
+  },
+  "operateFailed": {
+    "message": "لم نتمكن من العمل",
+    "description": "小应用"
+  },
+  "publishFailed": {
+    "message": "لم نتمكن من النشر",
+    "description": "小应用"
+  },
+  "getDataFail": {
+    "message": "لم نتمكن من الحصول على البيانات، الرجاء المحاولة مرة أخرى لاحقاً ",
+    "description": "小应用"
+  },
+  "saveFail": {
+    "message": "لم نتمكن من الحفظ، الرجاء المحاولة مرة أخرى لاحقاً ",
+    "description": "小应用"
+  },
+  "loadingTips2": {
+    "message": "جارٍ التحميل...",
+    "description": "小应用"
+  },
+  "loadFail": {
+    "message": "لم نتمكن من التحميل ",
+    "description": "小应用"
+  },
+  "startFail": {
+    "message": "لم نتمكن من بدء النشاط.",
+    "description": "小应用"
+  },
+  "screen.fail": {
+    "message": "لم نتمكن من بدء التشغيل و عرض الشاشة ",
+    "description": "小应用"
+  },
+  "attendance.endFail": {
+    "message": "لم نتمكن من إنهاء النشاط ",
+    "description": "小应用"
+  },
+  "download.title": {
+    "message": "تنزيل",
+    "description": "小应用"
+  },
+  "download.error": {
+    "message": " خطأ في التنزيل ",
+    "description": "小应用"
+  },
+  "upload.file": {
+    "message": "رفع ملف",
+    "description": "小应用"
+  },
+  "upload.success": {
+    "message": "تم الرفع بنجاح.",
+    "description": "小应用"
+  },
+  "upload.fail": {
+    "message": "لم نتمكن من الرفع",
+    "description": "小应用"
+  },
+  "upload.fail2": {
+    "message": "لم نتمكن من الرفع، الرجاء المحاولة مرة أخرى ",
+    "description": "小应用"
+  },
+  "upload.ing2": {
+    "message": "جارٍ التحميل...",
+    "description": "小应用"
+  },
+  "upload.retry": {
+    "message": "إعادة رفع",
+    "description": "小应用"
+  },
+  "answer.requestFail": {
+    "message": "لم نتمكن من الطلب، الرجاء المحاولة مرة أخرى ",
+    "description": "小应用"
+  },
+  "class.all": {
+    "message": "كل الفصول",
+    "description": "小应用"
+  },
+  "class.pleaseSelect": {
+    "message": "الرجاء اختيار الفصل",
+    "description": "小应用"
+  },
+  "class.createFailWarning": {
+    "message": "لم نتمكن من الإنشاء، الرجاء التحقق من الاتصال بالشبكة ",
+    "description": "小应用"
+  },
+  "class.saveFail": {
+    "message": "لم نتمكن من الحفظ، الرجاء المحاولة مرة أخرى لاحقاً ",
+    "description": "小应用"
+  },
+  "class.select": {
+    "message": "إختر الفصل",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips4": {
+    "message": "الواجب المنزلي",
+    "description": "小应用"
+  },
+  "resource.accessPermissionTips4": {
+    "message": "جميع فصولي الدراسية",
+    "description": "小应用"
+  },
+  "resource.chooseCourse": {
+    "message": "إختيار دورة دراسية",
+    "description": "小应用"
+  },
+  "course.removeFail": {
+    "message": "لم نتمكن من الحذف، الرجاء المحاولة مرة أخرى لاحقاً ",
+    "description": "小应用"
+  },
+  "course.resetFailTip": {
+    "message": "لم نتمكن من إعادة اضبط",
+    "description": "小应用"
+  },
+  "group.select": {
+    "message": "إختر مجموعة",
+    "description": "小应用"
+  },
+  "group.modifyFail": {
+    "message": " لم نتمكن من التعديل",
+    "description": "小应用"
+  },
+  "user.getFail": {
+    "message": "فشلت المحاولة",
+    "description": "小应用"
+  },
+  "user.sendFail": {
+    "message": "لم نتمكن من الإرسال",
+    "description": "小应用"
+  },
+  "user.findPassword": {
+    "message": "استعادة كلمة المرور",
+    "description": "小应用"
+  },
+  "user.findPasswordByPhone": {
+    "message": "استعادة رقم الهاتف",
+    "description": "小应用"
+  },
+  "user.findPasswordByMail": {
+    "message": "استعادة البريد الإلكتروني",
+    "description": "小应用"
+  },
+  "user.resetFail": {
+    "message": "لم نتمكن من إعادة الضبط",
+    "description": "小应用"
+  },
+  "user.inputUserNameTip": {
+    "message": "لا يمكن أن تحتوي على مسافات او رموز",
+    "description": "小应用"
+  },
+  "user.inputUserName": {
+    "message": "يرجى إدخال رقم الحساب",
+    "description": "小应用"
+  },
+  "user.inputUserNameTip1": {
+    "message": "اسم المستخدم/ رقم الهاتف/ البريد الإلكتروني",
+    "description": "小应用"
+  },
+  "user.userNameUsed": {
+    "message": "المستخدم موجود بالفعل",
+    "description": "小应用"
+  },
+  "user.registerFail": {
+    "message": "لم نتمكن من التسجيل",
+    "description": "小应用"
+  },
+  "user.registertip": {
+    "message": "ملاحظة: إذا تم إنشاء حساب المستخدم من قبل مدرستك، يرجى استخدام الحساب الذي توفره مدرستك لتسجيل الدخول.  لا تقم بإعادة تسجيل وإنشاء حساب مستخدم آخر. إذا كنت لا تعرف اسم المستخدم / كلمة المرور الخاصة بك، يرجى الاتصال بخدمة العملاء.",
+    "description": "小应用"
+  },
+  "classroom.startSuccess": {
+    "message": "لم نتمكن من بدء التشغيل",
+    "description": "小应用"
+  }
+}

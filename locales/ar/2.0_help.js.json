@@ -31,12 +31,24 @@
     "message": "2 جيجا هرتز أو أسرع",
     "description": "2.0 help.js"
   },
+  "envTips2": {
+    "message": "الأجهزة الملحقة",
+    "description": "2.0 help.js"
+  },
+  "envTips3": {
+    "message": "إذا كان الامتحان يحتوي على أسئلة تتطلب منك الاستماع وتسجيل مقطع صوتي، يجب أن يكون السماعة و الميكروفون جاهزان.",
+    "description": "2.0 help.js"
+  },
   "envTips4": {
     "message": "فحص سماعة الرأس",
     "description": "2.0 help.js"
   },
   "envTips5": {
     "message": "فحص إمكانية التسجيل",
+    "description": "2.0 help.js"
+  },
+  "envTips6": {
+    "message": "معدل نقل البيانات بالشبكة",
     "description": "2.0 help.js"
   },
   "envTips7": {
@@ -48,15 +60,35 @@
     "description": "2.0 help.js"
   },
   "envTips9": {
-    "message": "يتم فحص سرعة التحميل... يرجى الانتظار.",
+    "message": "يتم فحص سرعة التنزيل... يرجى الانتظار.",
     "description": "2.0 help.js"
   },
   "envTips10": {
-    "message": "سرعة التحميل: ",
+    "message": "سرعة التنزيل: ",
     "description": "2.0 help.js"
+  },
+  "envTips11": {
+    "message": "معدل نقل البيانات المقترح بالشبكة",
+    "description": "2.0 help.js"
+  },
+  "bandWidthHint": {
+    "message": "لسهولة أداء الإمتحان تأكد من تخصيص {totalBandWidth} كمعدل نقل للبيانات و أن تكون سرعة تنزيل كل جهاز كمبيوتر ({singleBandWidth} تقربيا كمعدل نقل للبيانات). إذا كان الإمتحان يتطلب منك الاستماع و تسجيل الصوت فيجب أن تكون سرعة الإنترنت الضعف.",
+    "description": "教师账号 -> 考试 -> 环境检测"
   },
   "envTips16": {
     "message": "عدد المستخدمين ",
+    "description": "2.0 help.js"
+  },
+  "envTips17": {
+    "message": "سرعة تزيل الشبكة",
+    "description": "2.0 help.js"
+  },
+  "envTips18": {
+    "message": "معدل نقل البيانات",
+    "description": "2.0 help.js"
+  },
+  "envTips19": {
+    "message": "إجمالي معدل نقل البيانات",
     "description": "2.0 help.js"
   },
   "envTips20": {
@@ -139,6 +171,14 @@
     "message": "المتصفح الموصى به",
     "description": "2.0 help.js"
   },
+  "browserHint": {
+    "message": " يوصى باستخدام متصفح  {chrome} او {firefox}  لإجراء الامتحان. لا ينصح  بمتصفحات أخرى.",
+    "description": "教师账号 -> 考试 -> 环境检测"
+  },
+  "qqBrowser": {
+    "message": "برنامج (QQ)",
+    "description": "2.0 help.js"
+  },
   "chrome": {
     "message": "Chrome",
     "description": "2.0 help.js"
@@ -156,7 +196,7 @@
     "description": "2.0 help.js"
   },
   "envTips48": {
-    "message": "تحميل",
+    "message": "تنزيل",
     "description": "2.0 help.js"
   },
   "envTips49": {
@@ -164,7 +204,7 @@
     "description": "2.0 help.js"
   },
   "envTips50": {
-    "message": "انقر للتحميل",
+    "message": "انقر للتنزيل",
     "description": "2.0 help.js"
   },
   "envTips51": {
@@ -187,6 +227,26 @@
     "message": "* إذا لم يكن هناك صوت: ",
     "description": "2.0 help.js"
   },
+  "envTips56": {
+    "message": "1.من فضلك تأكد ما إذا كانت سماعة الرأس متصلة بالكمبيوتر بشكل صحيح.",
+    "description": "2.0 help.js"
+  },
+  "envTips57": {
+    "message": "2. تأكد من أن مستوى صوت السماعة ليس منخفض جداً.",
+    "description": "2.0 help.js"
+  },
+  "envTips58": {
+    "message": "3. إذا كانت المشكلة لا تزال موجودة، استخدم سماعة رأس أخرى و إعد المحاولة.",
+    "description": "2.0 help.js"
+  },
+  "envTips59": {
+    "message": "انقر زر بدء التسجيل، اقرأ الفقرة التالية بصوت مسموع، ثم انقر فوق زر إنهاء التسجيل لإيقاف التسجيل. انقر فوق زر إعادة التشغيل للتأكد من نجاح عملية التسجيل.",
+    "description": "2.0 help.js"
+  },
+  "envTips60": {
+    "message": "انقر على تمكين أو تنزيل Flash",
+    "description": "2.0 help.js"
+  },
   "envTips61": {
     "message": "بدء التسجيل",
     "description": "2.0 help.js"
@@ -197,6 +257,18 @@
   },
   "envTips63": {
     "message": "إعادة تشغيل",
+    "description": "2.0 help.js"
+  },
+  "envTips64": {
+    "message": "1. تأكد من أن زيارتك للموقع من خلال https://...",
+    "description": "2.0 help.js"
+  },
+  "envTips65": {
+    "message": "2. تأكد من إن سماعة الرأس متصلة بشكل صحيح و أنه تم تمكين الميكروفون من قبل المتصفح.",
+    "description": "2.0 help.js"
+  },
+  "envTips66": {
+    "message": "3. تأكد من تنصيب و تمكين مكونات Flash الإضافية.",
     "description": "2.0 help.js"
   }
 }

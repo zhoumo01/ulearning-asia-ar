@@ -1,0 +1,386 @@
+{
+  "loading": {
+    "message": "جارٍ التحميل...",
+    "description": "UA播放器内层"
+  },
+  "backToCourse": {
+    "message": "خروج",
+    "description": "UA播放器内层"
+  },
+  "exit": {
+    "message": "خروج",
+    "description": "UA播放器内层"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "UA播放器内层"
+  },
+  "previousPage": {
+    "message": "الصفحة السابقة",
+    "description": "UA播放器内层"
+  },
+  "nextPage": {
+    "message": "الصفحة التالية",
+    "description": "UA播放器内层"
+  },
+  "noMore": {
+    "message": " ",
+    "description": "UA播放器内层"
+  },
+  "quizGuide": {
+    "message": "قواعد الاختبار",
+    "description": "UA播放器内层"
+  },
+  "quizGuideP1": {
+    "message": "يرجى النظر في إجاباتك بعناية من أجل تعميق فهمك.",
+    "description": "UA播放器内层"
+  },
+  "quizUlLi1": {
+    "message": "يرجى الانتباه إلى عدد الأسئلة و وقت الإجابة إذا كان الوقت محددا، يرجى التأكد من إرسال إجاباتك خلال هذا الوقت.",
+    "description": "UA播放器内层"
+  },
+  "quizUlLi2": {
+    "message": "سيعطيك النظام ملاحظات بعد الإجابة على كل سؤال. النقر على كل الدائرة الصغيرة يمكن أنن يعيد توجيهك إلى السؤال.",
+    "description": "UA播放器内层"
+  },
+  "videoQuizUlLi1": {
+    "message": "سيتم استئناف الفيديو بعد الانتهاء من التمرين.",
+    "description": "UA播放器内层"
+  },
+  "beginQuiz": {
+    "message": "إبدأ",
+    "description": "UA播放器内层"
+  },
+  "questionNumber1": {
+    "message": "مجموع:",
+    "description": "UA播放器内层"
+  },
+  "questionNumber2": {
+    "message": "الأسئلة",
+    "description": "UA播放器内层"
+  },
+  "questionNumber3": {
+    "message": "الأسئلة",
+    "description": "UA播放器内层"
+  },
+  "oneChance": {
+    "message": "مسموح بمحاولة واحدة",
+    "description": "UA播放器内层"
+  },
+  "manyChance": {
+    "message": "قابل للتكرار",
+    "description": "UA播放器内层"
+  },
+  "answerTime1": {
+    "message": "يرجى الإنهاء خلال",
+    "description": "UA播放器内层"
+  },
+  "submit": {
+    "message": "إرسال",
+    "description": "UA播放器内层"
+  },
+  "nextQuestion": {
+    "message": "التالي",
+    "description": "UA播放器内层"
+  },
+  "theEnd": {
+    "message": "النهاية",
+    "description": "UA播放器内层"
+  },
+  "redo": {
+    "message": "إعادة المحاولة",
+    "description": "UA播放器内层"
+  },
+  "answerRecord": {
+    "message": "سجل الإجابة",
+    "description": "UA播放器内层"
+  },
+  "answerRight": {
+    "message": "صحيح",
+    "description": "UA播放器内层"
+  },
+  "oneChanceWrong": {
+    "message": "غير صحيحه",
+    "description": "UA播放器内层"
+  },
+  "answered": {
+    "message": "مكتمل!",
+    "description": "UA播放器内层"
+  },
+  "oneChancePartialWrong": {
+    "message": "صحيح جزئيا!",
+    "description": "UA播放器内层"
+  },
+  "manyChanceWrong": {
+    "message": "غير صحيح، حاول مرة أخرى!",
+    "description": "UA播放器内层"
+  },
+  "manyChancePartialWrong": {
+    "message": "صحيح جزئيا، حاول مرة أخرى!",
+    "description": "UA播放器内层"
+  },
+  "viewAnalysis": {
+    "message": "راجع تحليل الإجابة",
+    "description": "UA播放器内层"
+  },
+  "answerRightTip": {
+    "message": "انتقل إلى السؤال التالي، أو ",
+    "description": "UA播放器内层"
+  },
+  "answerWrongTip": {
+    "message": "يمكنك ",
+    "description": "UA播放器内层"
+  },
+  "correctAnswer": {
+    "message": "الإجابة الصحيحة",
+    "description": "UA播放器内层"
+  },
+  "right": {
+    "message": "صحيح",
+    "description": "UA播放器内层"
+  },
+  "wrong": {
+    "message": "خطأ",
+    "description": "UA播放器内层"
+  },
+  "unviewed": {
+    "message": "لم تعرض",
+    "description": "UA播放器内层"
+  },
+  "watching": {
+    "message": "مشاهدة",
+    "description": "UA播放器内层"
+  },
+  "viewed": {
+    "message": "تم الانتهاء تقريبا",
+    "description": "UA播放器内层"
+  },
+  "finished": {
+    "message": "تم الانتهاء",
+    "description": "UA播放器内层"
+  },
+  "videoTip": {
+    "message": "يجب مشاهدة الفيديو كاملا ليتم وضع علامة \"مكتمل\" عليه .",
+    "description": "UA播放器内层"
+  },
+  "openSubtitle": {
+    "message": "فتح العنوان الفرعي",
+    "description": "UA播放器内层"
+  },
+  "closeSubtitle": {
+    "message": "إغلاق العنوان الفرعي",
+    "description": "UA播放器内层"
+  },
+  "finishVideoQuestion": {
+    "message": "لقد انتهيت من الإجابة. سيتم استئناف الفيديو في 3 ثوان.",
+    "description": "UA播放器内层"
+  },
+  "hiddenPage": {
+    "message": "لا يمكنك تعلم هذا الجزء لأن المحتوى مخفي حاليا من قبل معلمك.",
+    "description": "UA播放器内层"
+  },
+  "notAuditionPage": {
+    "message": "هذه الصفحة ليست للتجربة المجانية. المعاينة غير متوفرة.",
+    "description": "UA播放器内层"
+  },
+  "emptyPage": {
+    "message": "عفوا، لا يوجد شيء هنا. يرجى التحقق من صفحات أخرى.",
+    "description": "UA播放器内层"
+  },
+  "sectionSummary": {
+    "message": "ملخص المحاضرة",
+    "description": "UA播放器内层"
+  },
+  "completeSection": {
+    "message": "تهانينا، لقد إنتهيت من هذا القسم!",
+    "description": "UA播放器内层"
+  },
+  "incompleteSection1": {
+    "message": "هناك بعض الصفحات غير المكتملة في هذه الوحدة.",
+    "description": "UA播放器内层"
+  },
+  "incompleteSection2": {
+    "message": "يرجى التحقق من صفحة المحتوى والانتهاء من كلها لتحصل على تقديرك.",
+    "description": "UA播放器内层"
+  },
+  "nextSection": {
+    "message": "المحاضرة التالية",
+    "description": "UA播放器内层"
+  },
+  "reviewSection": {
+    "message": "مراجعة",
+    "description": "UA播放器内层"
+  },
+  "goNextSection": {
+    "message": "التالي",
+    "description": "UA播放器内层"
+  },
+  "studyProgress": {
+    "message": "تقدم عملية الدراسة",
+    "description": "UA播放器内层"
+  },
+  "sectionScore": {
+    "message": "درجة هذه المحاضرة",
+    "description": "UA播放器内层"
+  },
+  "studyTime": {
+    "message": "وقت الدراسة",
+    "description": "UA播放器内层"
+  },
+  "totalStudyTime": {
+    "message": "وقت الدراسة",
+    "description": "UA播放器内层"
+  },
+  "chapterSummary": {
+    "message": "ملخص الفصل",
+    "description": "UA播放器内层"
+  },
+  "completeChapter1": {
+    "message": "تهانينا! لقد أكملت هذه الوحدة.",
+    "description": "UA播放器内层"
+  },
+  "completeChapter2": {
+    "message": "إما أن تذهب إلى الوحدة التالية \"التالي\" أو \"ابق هنا\" لمراجعة هذه الوحدة.",
+    "description": "UA播放器内层"
+  },
+  "completeChapter3": {
+    "message": "تهانينا! لقد أكملت هذه الوحدة.",
+    "description": "UA播放器内层"
+  },
+  "incompleteChapter": {
+    "message": "لم يتم إكمال صفحة واحدة أو أكثر. لتحسين درجة إكمال هذه الوحدة، تحقق من المحتوى غير المكتمل وأكمله.",
+    "description": "UA播放器内层"
+  },
+  "incompleteChapter2": {
+    "message": "لم يتم إكمال صفحة واحدة أو أكثر. لتحسين درجة إكمال هذه الوحدة، تحقق من المحتوى غير المكتمل وأكمله.",
+    "description": "UA播放器内层"
+  },
+  "reviewChapter": {
+    "message": "مراجعة",
+    "description": "UA播放器内层"
+  },
+  "stayHere": {
+    "message": "ابق هنا",
+    "description": "UA播放器内层"
+  },
+  "nextChapter": {
+    "message": "التالي",
+    "description": "UA播放器内层"
+  },
+  "chapterScore": {
+    "message": "هذه الوحدة",
+    "description": "UA播放器内层"
+  },
+  "quizArea": {
+    "message": "ها هو الاختبار",
+    "description": "UA播放器内层"
+  },
+  "timeLeft": {
+    "message": "الوقت المتبقي:",
+    "description": "UA播放器内层"
+  },
+  "singleChoiceQuestion": {
+    "message": "الاختيار من متعدد",
+    "description": "UA播放器内层"
+  },
+  "multipleChoiceQuestion": {
+    "message": "إجابات متعددة",
+    "description": "UA播放器内层"
+  },
+  "judgeQuestion": {
+    "message": "صواب/خطأ",
+    "description": "UA播放器内层"
+  },
+  "blankQuestion": {
+    "message": "تعبئة الفراغ",
+    "description": "UA播放器内层"
+  },
+  "shortAnswerQuestion": {
+    "message": "إجابة قصيرة",
+    "description": "UA播放器内层"
+  },
+  "sequencingQuestion": {
+    "message": "التسلسل",
+    "description": "UA播放器内层"
+  },
+  "chooseFillBlankQuestion": {
+    "message": "بنك الكلمات",
+    "description": "UA播放器内层"
+  },
+  "dropDownQuestion": {
+    "message": "قائمة منسدلة متعددة",
+    "description": "UA播放器内层"
+  },
+  "clozeQuestion": {
+    "message": "إغلق الامتحان",
+    "description": "UA播放器内层"
+  },
+  "oralResponseQuestion": {
+    "message": "اللغة - شفهي",
+    "description": "UA播放器内层"
+  },
+  "readMaterialQuestion": {
+    "message": "اللغة - قراءة بصوت مسموع",
+    "description": "UA播放器内层"
+  },
+  "comprehensiveQuestion": {
+    "message": "تركيب",
+    "description": "UA播放器内层"
+  },
+  "oralRecordingTips": {
+    "message": "يرجى قراءة كل كلمة / جملة / فقرة ",
+    "description": "UA播放器内层"
+  },
+  "oralRecordingTipsCount": {
+    "message": "مرات",
+    "description": "UA播放器内层"
+  },
+  "oralRecording": {
+    "message": "أنت تقوم بالتسجل. الرجاء النقر للتوقف.",
+    "description": "UA播放器内层"
+  },
+  "exercise": {
+    "message": "تمرين",
+    "description": "UA播放器内层"
+  },
+  "exerciseScore": {
+    "message": "الدرجات",
+    "description": "UA播放器内层"
+  },
+  "yourAnswer": {
+    "message": "إجابتك: ",
+    "description": "UA播放器内层"
+  },
+  "explanation": {
+    "message": "شرح الإجابة:",
+    "description": "UA播放器内层"
+  },
+  "dropPCTip": {
+    "message": "اسحب عنصرا لإعادة الترتيب",
+    "description": "UA播放器内层"
+  },
+  "dropMobileTip1": {
+    "message": "انقر فوق عنصرين لتغيير تسلسلهما",
+    "description": "UA播放器内层"
+  },
+  "dropMobileTip2": {
+    "message": "إختر عنصر آخر لتغيير الترتيب",
+    "description": "UA播放器内层"
+  },
+  "catalog1": {
+    "message": "القائمة:",
+    "description": "UA播放器内层"
+  },
+  "unanswered": {
+    "message": "غير مجاب",
+    "description": "UA播放器内层"
+  },
+  "enterAnswer": {
+    "message": "الرجاء إدخال الإجابة",
+    "description": "UA播放器内层"
+  },
+  "inputedText": {
+    "message": "تم كتابة {count} كلمة",
+    "description": "UA播放器内层"
+  }
+}

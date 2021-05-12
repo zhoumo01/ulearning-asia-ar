@@ -1,6 +1,6 @@
 {
   "manageCenter": {
-    "message": "مركز المشرف",
+    "message": "ركن المشرف",
     "description": "2.0 admin.js"
   },
   "teachingManagement": {
@@ -20,7 +20,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenterText": {
-    "message": "البيانات والتقارير",
+    "message": "التقارير و البيانات",
     "description": "2.0 admin.js"
   },
   "courseDeclarationAdminText": {
@@ -28,7 +28,7 @@
     "description": "2.0 admin.js"
   },
   "liveManagement": {
-    "message": "الفصل الدراسي الافتراضي",
+    "message": "الفصول الدراسية",
     "description": "2.0 admin.js"
   },
   "systemAdminText": {
@@ -312,11 +312,11 @@
     "description": "2.0 admin.js"
   },
   "permissionTips2": {
-    "message": "إدارة الدورة التدريبية: الإدارة الداخلية للدورات الضخمة المفتوحة على شبكة الإنترنت MOOC (مراجعة النشر، تحرير الفئة، إعدادات عرض الويب)",
+    "message": "إدارة الدورات : الدورات الداخلية MOOCs (مراجعة النشر، تحرير الفئة، إعدادات عرض الويب)",
     "description": "2.0 admin.js"
   },
   "permissionTips3": {
-    "message": "إدارة الدورة: الإدارة الخارجية للدورات الضخمة المفتوحة على شبكة الإنترنت MOOC",
+    "message": "إدارة الدورات : الدورات الخارجية MOOCs (مراجعة النشر، تحرير الفئة، إعدادات عرض الويب)",
     "description": "2.0 admin.js"
   },
   "permissionTips4": {
@@ -552,7 +552,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.selectCourseware": {
-    "message": "إختيار مقرر دراسي",
+    "message": "إختيار المنهج الدراسي",
     "description": "2.0 admin.js"
   },
   "dataCenter.currentOverallLearningProgress": {
@@ -620,7 +620,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.totalTeacherTimes": {
-    "message": "إجمالي تسجيلات دخول المعلمين",
+    "message": "تسجيلات دخول للمعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.studentLoginTrend": {
@@ -684,11 +684,11 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherTimes": {
-    "message": "تسجيلات دخول المعلمين",
+    "message": "تسجيلات دخول للمعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.studentTimes": {
-    "message": "تسجيلات دخول الطلاب",
+    "message": "تسجيلات دخول للطلاب",
     "description": "2.0 admin.js"
   },
   "dataCenter.announcementNum": {
@@ -880,7 +880,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.uploadResource": {
-    "message": "تحميل الموارد",
+    "message": "رفع المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.createPractice": {
@@ -932,19 +932,19 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.resourceUploadAnalysis": {
-    "message": "تحليل الموارد",
+    "message": "تحليل المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.uploadResourceTotalNum": {
-    "message": "إجمالي عدد الموارد التي تم تحميلها",
+    "message": "إجمالي عدد الموارد التي تم رفعها",
     "description": "2.0 admin.js"
   },
   "dataCenter.uploadTeacherTotalNum": {
-    "message": "إجمالي عدد المعلمين الذين قاموا بتحميل الموارد",
+    "message": "إجمالي عدد المعلمين الذين قاموا برفع المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.resourceTypeDistribution": {
-    "message": "توزيع نوع المورد",
+    "message": "توزيع نوع المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.file": {
@@ -960,11 +960,11 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.resourceContributionTop": {
-    "message": "أعلي 10 معلمين من حيث مساهمات الموارد",
+    "message": "أعلي 10 معلمين من حيث مساهمات المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.uploadNum": {
-    "message": "عدد التحميلات",
+    "message": "عدد مرات الرفع",
     "description": "2.0 admin.js"
   },
   "dataCenter.practiceCreateAnalysis": {
@@ -1008,15 +1008,15 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.resourceType": {
-    "message": "أنواع الموارد",
+    "message": "أنواع المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.resourceNum": {
-    "message": "عدد الموارد",
+    "message": "عدد المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.uploadPeopleNum": {
-    "message": "رقم  المعلمين الذين يقومون بتحميل الموارد",
+    "message": "رقم  المعلمين الذين يقومون برفع المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.practiceNum": {
@@ -1060,19 +1060,19 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.teaLoginNum": {
-    "message": "المعلمون الذين سجلوا دخولهم",
+    "message": "معلم سجلوا دخولهم",
     "description": "2.0 admin.js"
   },
   "dataCenter.teaLoginCount": {
-    "message": "تسجيلات دخول المعلمين",
+    "message": "تسجيلات دخول للمعلمين",
     "description": "2.0 admin.js"
   },
   "dataCenter.stuLoginNum": {
-    "message": "الطلاب الذين تم تسجيل دخولهم",
+    "message": "طالب سجلوا دخولهم",
     "description": "2.0 admin.js"
   },
   "dataCenter.stuLoginCount": {
-    "message": "تسجيل دخول الطلاب",
+    "message": "تسجيلات دخول للطلاب",
     "description": "2.0 admin.js"
   },
   "dataCenter.publishHomework": {
@@ -1260,7 +1260,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips8": {
-    "message": "الأنشطة (بخلاف الإعلانات والبرامج الدراسية والموارد) أقل من 5",
+    "message": "الأنشطة (بخلاف الإعلانات والبرامج الدراسية و المصادر) أقل من 5",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips9": {
@@ -1380,35 +1380,35 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.resourceAnalysis": {
-    "message": "تحليل الموارد",
+    "message": "تحليل المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips26": {
-    "message": "الموارد التي تم تحميلها إلى مكتبة الموارد",
+    "message": "المصادر التي تم رفعها إلى مكتبة المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips27": {
-    "message": "الموارد المنشورة في المقررات",
+    "message": "المصادر المنشورة في المقررات",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips28": {
-    "message": "المعلمون الذين نشروا الموارد",
+    "message": "المعلمون الذين نشروا المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips29": {
-    "message": "مشاهدة الموارد من الطلاب",
+    "message": "مشاهدة المصادر من الطلاب",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips30": {
-    "message": "حساب الموارد التي تم تحميلها من قبل المعلمين فقط",
+    "message": "حساب المصادر التي تم رفعها من قبل المعلمين فقط",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips31": {
-    "message": "أفضل 5 معلمين - من حيث الموارد المنشورة",
+    "message": "أفضل 5 معلمين - من حيث المصادر المنشورة",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips32": {
-    "message": "أعلي 5 دورات - من حيث الموارد المنشورة",
+    "message": "أعلي 5 دورات - من حيث المصادر المنشورة",
     "description": "2.0 admin.js"
   },
   "dataCenter.homeworkAnalysis": {
@@ -1720,7 +1720,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.schoolCreatedCourse": {
-    "message": "الدورات المدرسية",
+    "message": "الدورات",
     "description": "2.0 admin.js"
   },
   "dataCenter.externalIntroduction": {
@@ -2220,7 +2220,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.inSchoolCourse": {
-    "message": "الدورات المدرسية",
+    "message": "الدورات",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.openCourse": {
@@ -2232,7 +2232,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.schoolCourse": {
-    "message": "الدورات المدرسية",
+    "message": "الدورات",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.nonschoolCourse": {
@@ -2364,11 +2364,11 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.downloadTemplate": {
-    "message": "تحميل قالب مستورد",
+    "message": "تنزيل قالب مستورد",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.uploadFile": {
-    "message": "تحميل ملف مستورد",
+    "message": "رفع ملف مستورد",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips7": {
@@ -2664,11 +2664,11 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.schoolMooc": {
-    "message": "دورة داخلية مفتوحة ضخمة على الإنترنت ",
+    "message": "الدورات الداخلية \"MOOCs\"",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.otherMooc": {
-    "message": "دورة خارجية مفتوحة ضخمة على الإنترنت ",
+    "message": "الدورات الخارجية \"MOOCs\"",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.confirmDelete": {
@@ -2828,7 +2828,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.naturalClass": {
-    "message": "الفئة الإدارية",
+    "message": "التصنيف الإداري",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.relateTextbook": {
@@ -2904,7 +2904,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.importTip5": {
-    "message": " انقر لتحميل قائمة الطلاب الذين لهم حسابات موجودة ",
+    "message": " انقر لتنزيل قائمة الطلاب الذين لهم حسابات موجودة ",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.importTip6": {

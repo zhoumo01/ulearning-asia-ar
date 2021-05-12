@@ -1,0 +1,78 @@
+{
+  "attachmentUploadQ": {
+    "message": "رفع الملف",
+    "description": "UA"
+  },
+  "download": {
+    "message": "تنزيل",
+    "description": "UA"
+  },
+  "noInnerBankeTips": {
+    "message": "لا توجد فصول دراسية",
+    "description": "UA"
+  },
+  "reload": {
+    "message": "إعادة التحميل",
+    "description": "UA"
+  },
+  "upload": {
+    "message": "رفع",
+    "description": "UA"
+  },
+  "uploadCover": {
+    "message": "رفع",
+    "description": "UA"
+  },
+  "uploadImage": {
+    "message": "رفع أفاتار",
+    "description": "UA"
+  },
+  "uploadImg": {
+    "message": "رفع صورة",
+    "description": "UA"
+  },
+  "uploaded": {
+    "message": "تم الرفع",
+    "description": "UA"
+  },
+  "uploader": {
+    "message": "الرافع",
+    "description": "UA"
+  },
+  "downloadTemplate": {
+    "message": "تنزيل قالب",
+    "description": "UA"
+  },
+  "uploadFile": {
+    "message": "رفع ملف",
+    "description": "UA"
+  },
+  "downloaded": {
+    "message": "تم التنزيل",
+    "description": "UA"
+  },
+  "passwordError": {
+    "message": "اسم مستخدم أو كلمة مرور غير صحيحة",
+    "description": "UA"
+  },
+  "confirmPublish": {
+    "message": "لا يوجد محتوى في فصل أو صفحة أدوات المناهج الدراسية. لمنع تشتيت الطلاب، سيقوم النظام بإخفاء الفصل أو الصفحة الفارغة عند نشر المناهج الدراسية. يمكنك تعديله ونشره مرة أخرى.",
+    "description": "UA"
+  },
+  "publishCourseTip": {
+    "message": " المناهج الدراسية جاهزة للنشر، لكنها لا تظهر في الموقع، وهذا لن يؤثر على استخدام المناهج الدراسية.",
+    "description": "UA"
+  },
+  "publishCourseTip1": {
+    "message": "سيتم تغيير حالة  المناهج الدراسية إلى \"منشور\" بعد النشر. إذا قمت أيضًا بتحديد ULearning Portal للنشر ، يجب أن تتم الموافقة عليه من قبل ULearning Admin لجعله يظهر على بوابة ULearning.",
+    "description": "UA"
+  },
+  "publishCourseTip2": {
+    "message": "لم تكمل جميع المعلومات الخاصة بـ المناهج الدراسية، مثل المعلومات الأساسية، مقدمة مفصلة، معلومات عضو التدريس، إلخ. إذا كنت لا تنوي إظهار  المناهج الدراسية في  لموقع، يمكنك اختيار عدم ملئها.",
+    "description": "UA"
+  },
+  "searchByUsernameTip": {
+    "message": "أدخل اسم المستخدم/ اسم للبحث",
+    "description": "UA"
+  }
+}

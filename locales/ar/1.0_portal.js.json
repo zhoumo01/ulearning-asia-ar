@@ -80,7 +80,7 @@
     "description": "insureance.jsp"
   },
   "modifyFailed": {
-    "message": "فشل تعديل كلمة المرور الخاصة بك، يرجى التحقق من كلمة المرور القديمة!",
+    "message": "لم نتمكن من تعديل كلمة المرور الخاصة بك، يرجى التحقق من كلمة المرور القديمة!",
     "description": "insureance.jsp"
   },
   "modifyError": {

@@ -36,7 +36,7 @@
     "description": "1.0 login-template.js"
   },
   "linkFormatPlaceholder": {
-    "message": "انقر لإدخال عنوان URL بتنسيق http://",
+    "message": "انقر لإدخال الرابط بتنسيق http://",
     "description": "1.0 login-template.js"
   },
   "linkWordsTip": {

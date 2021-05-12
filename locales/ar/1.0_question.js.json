@@ -288,7 +288,7 @@
     "description": "1.0 question.js"
   },
   "deleteQuestionFail": {
-    "message": "فشل حذف السؤال",
+    "message": "لم نتمكن من حذف السؤال",
     "description": "1.0 question.js"
   },
   "keyTab": {

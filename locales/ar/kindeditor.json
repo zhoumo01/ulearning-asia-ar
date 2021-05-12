@@ -1,0 +1,854 @@
+{
+  "kityformula": {
+    "message": "إدراج معادلة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "ctrlAction": {
+    "message": "حذف الفارغ",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertAction": {
+    "message": "إضافة سؤال",
+    "description": "kindeditor 编辑器组件"
+  },
+  "source": {
+    "message": "مصدر",
+    "description": "kindeditor 编辑器组件"
+  },
+  "preview": {
+    "message": "معاينة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "undo": {
+    "message": "تراجع (Ctrl+Z)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "redo": {
+    "message": "إعادة (Ctrl+Y)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "cut": {
+    "message": "قص (Ctrl+X)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "copy": {
+    "message": "نسخ (Ctrl+C)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "paste": {
+    "message": "لصق (Ctrl+V)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "plainpaste": {
+    "message": "الصق كنص عادي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "wordpaste": {
+    "message": "لصق من برنامج Word",
+    "description": "对应图片：https://www.ulearning.cn/static/kindeditor_4.1.4/themes/default/word.png"
+  },
+  "selectall": {
+    "message": "إختيار الكل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifyleft": {
+    "message": "محاذاة لليسار",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifycenter": {
+    "message": "محاذاة للوسط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifyright": {
+    "message": "محاذاة اليمين",
+    "description": "kindeditor 编辑器组件"
+  },
+  "justifyfull": {
+    "message": "محاذاة كاملة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertorderedlist": {
+    "message": "قائمة مرتبة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertunorderedlist": {
+    "message": "قائمة غير مرتبة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "indent": {
+    "message": "زيادة المسافة البادئة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "outdent": {
+    "message": "تقليل المسافة البادئة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "subscript": {
+    "message": "حرف تحتي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "superscript": {
+    "message": "حرف فوقي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock": {
+    "message": "تنسيق الفقرة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "fontname": {
+    "message": "نوع الخط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "fontsize": {
+    "message": "حجم الخط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "forecolor": {
+    "message": "لون النص",
+    "description": "kindeditor 编辑器组件"
+  },
+  "hilitecolor": {
+    "message": "تمييز باللون",
+    "description": "kindeditor 编辑器组件"
+  },
+  "bold": {
+    "message": "عريض (Ctrl+B)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "italic": {
+    "message": "مائل (Ctrl+I)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "underline": {
+    "message": "تحته خط (Ctrl+U)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "strikethrough": {
+    "message": "يتوسطه خط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "removeformat": {
+    "message": "إزالة التنسيق",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image": {
+    "message": "الصورة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "imageUpload": {
+    "message": "الصورة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage": {
+    "message": "صورة متعددة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash": {
+    "message": "فلاش",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media": {
+    "message": "الوسائط المضمنة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table": {
+    "message": "جدول",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecell": {
+    "message": "خلية",
+    "description": "kindeditor 编辑器组件"
+  },
+  "hr": {
+    "message": "إدراج خط أفقي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "emoticons": {
+    "message": "إدراج رمز تعبيري",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link": {
+    "message": "رابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "unlink": {
+    "message": "فك الارتباط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "fullscreen": {
+    "message": "تبديل وضع ملء الشاشة (Esc)",
+    "description": "kindeditor 编辑器组件"
+  },
+  "about": {
+    "message": "عن",
+    "description": "kindeditor 编辑器组件"
+  },
+  "print": {
+    "message": "طباعة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager": {
+    "message": "إدارة الملفات",
+    "description": "kindeditor 编辑器组件"
+  },
+  "code": {
+    "message": "إدراج كود",
+    "description": "kindeditor 编辑器组件"
+  },
+  "map": {
+    "message": "خرائط جوجل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap": {
+    "message": "خرائط Baidu",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight": {
+    "message": "ارتفاع الخط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "clearhtml": {
+    "message": "مسح أكواد HTML",
+    "description": "kindeditor 编辑器组件"
+  },
+  "pagebreak": {
+    "message": "إدراج فاصل صفحات",
+    "description": "kindeditor 编辑器组件"
+  },
+  "quickformat": {
+    "message": "تنسيق سريع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile": {
+    "message": "إدراج ملف",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template": {
+    "message": "إدراج قالب",
+    "description": "kindeditor 编辑器组件"
+  },
+  "anchor": {
+    "message": "أداة عمل الرابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "yes": {
+    "message": "موافق",
+    "description": "kindeditor 编辑器组件"
+  },
+  "no": {
+    "message": "إلغاء",
+    "description": "kindeditor 编辑器组件"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editImage": {
+    "message": "خصائص الصورة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteImage": {
+    "message": "حذف الصورة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editFlash": {
+    "message": "خصائص الفلاش",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteFlash": {
+    "message": "حذف الفلاش",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editMedia": {
+    "message": "خصائص الوسائط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteMedia": {
+    "message": "حذف الوسائط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "editLink": {
+    "message": "خصائص الرابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "deleteLink": {
+    "message": "فك الارتباط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tableprop": {
+    "message": "خصائص الجدول",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecellprop": {
+    "message": "خصائص الخلية",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tableinsert": {
+    "message": "إدراج جدول",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tabledelete": {
+    "message": "حذف الجدول",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolinsertleft": {
+    "message": "إدراج عمود يسارا",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolinsertright": {
+    "message": "إدراج عمود يمينا",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowinsertabove": {
+    "message": "إدراج صف أعلاه",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowinsertbelow": {
+    "message": "إدراج صف أدناه",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowmerge": {
+    "message": "دمج لأسفل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolmerge": {
+    "message": "دمج لليمين",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowsplit": {
+    "message": "تقسيم صف",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecolsplit": {
+    "message": "تقسيم عمود",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablecoldelete": {
+    "message": "حذف عمود",
+    "description": "kindeditor 编辑器组件"
+  },
+  "tablerowdelete": {
+    "message": "حذف صف",
+    "description": "kindeditor 编辑器组件"
+  },
+  "noColor": {
+    "message": "افتراضي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "pleaseSelectFile": {
+    "message": "يرجى اختيار ملف.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidImg": {
+    "message": "يرجى كتابة رابط صالح.\nصيغ الملف المسموح بها: jpg,gif,bmp,png",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidMedia": {
+    "message": "يرجى كتابة رابط صالح.\nصيغ الملف المسموح بها: swf,flv,mp3,wav,wma,wmv,mid,avi,mpg,asf,rm,rmvb",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidWidth": {
+    "message": "يجب أن يكون العرض رقما.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidHeight": {
+    "message": "يجب أن يكون الارتفاع رقما.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidBorder": {
+    "message": "يجب أن تكون الحدود رقما.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidUrl": {
+    "message": "يرجى كتابة رابط صالح.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidRows": {
+    "message": "صفوف غير صالحة.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidCols": {
+    "message": "أعمدة غير صالحة.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidPadding": {
+    "message": "يجب أن تكون المسافة بين الحدود و المحتوى رقما.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidSpacing": {
+    "message": "يجب أن يكون التباعد رقما.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "invalidJson": {
+    "message": "نص JSON غير صالحة.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "uploadSuccess": {
+    "message": "تم الرفع بنجاح.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "cutError": {
+    "message": "المستعرض لا يدعم هذا حاليا، إضغط (Ctrl+X) من لوحة المفاتيح بدلا من ذلك.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "copyError": {
+    "message": "المستعرض لا يدعم هذا حاليا، إضغط (Ctrl+C) من لوحة المفاتيح بدلا من ذلك.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "pasteError": {
+    "message": "المستعرض لا يدعم هذا حاليا، إضغط (Ctrl+V) من لوحة المفاتيح بدلا من ذلك.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "ajaxLoading": {
+    "message": "جارٍ التحميل...",
+    "description": "kindeditor 编辑器组件"
+  },
+  "uploadLoading": {
+    "message": "جار الرفع...",
+    "description": "kindeditor 编辑器组件"
+  },
+  "uploadError": {
+    "message": "خطأ في الرفع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "jme": {
+    "message": "إدراج معادلة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachImg": {
+    "message": "تم رفع الصورة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachVideo": {
+    "message": "تم رفع مقطع الفيديو",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachAudio": {
+    "message": "تم رفع المقطع الصوتي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertBlank": {
+    "message": "إضافة سؤال",
+    "description": "kindeditor 编辑器组件"
+  },
+  "attachFormula": {
+    "message": "صيغة الإدراج",
+    "description": "kindeditor 编辑器组件"
+  },
+  "addSubQues": {
+    "message": "السؤال {n} ",
+    "description": "kindeditorPlugins.js"
+  },
+  "plainpaste.comment": {
+    "message": "إضغط (Ctrl+V) من لوحة المفاتيح للصق النص في النافدة.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "wordpaste.comment": {
+    "message": "إضغط (Ctrl+V) من لوحة المفاتيح للصق النص في النافدة.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.url": {
+    "message": "رابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.linkType": {
+    "message": "الهدف",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.newWindow": {
+    "message": "نافذة جديدة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "link.selfWindow": {
+    "message": "نفس النافذة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.url": {
+    "message": "رابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.width": {
+    "message": "العرض",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.height": {
+    "message": "الارتفاع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.upload": {
+    "message": "تم الرفع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "flash.viewServer": {
+    "message": "تصفح",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.url": {
+    "message": "رابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.width": {
+    "message": "العرض",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.height": {
+    "message": "الارتفاع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.autostart": {
+    "message": "بدء التشغيل التلقائي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.upload": {
+    "message": "رفع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "media.viewServer": {
+    "message": "تصفح",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.remoteImage": {
+    "message": "إدراج رابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.localImage": {
+    "message": "رفع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.remoteUrl": {
+    "message": "رابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.localUrl": {
+    "message": "ملف",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.size": {
+    "message": "الحجم",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.width": {
+    "message": "العرض",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.height": {
+    "message": "الارتفاع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.resetSize": {
+    "message": "إعادة تعيين الأبعاد",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.align": {
+    "message": "محاذاة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.defaultAlign": {
+    "message": "افتراضي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.leftAlign": {
+    "message": "يسار",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.rightAlign": {
+    "message": "صحيح",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.imgTitle": {
+    "message": "العنوان",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.upload": {
+    "message": "تصفح",
+    "description": "kindeditor 编辑器组件"
+  },
+  "image.viewServer": {
+    "message": "تصفح",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.uploadDesc": {
+    "message": "السماح للمستخدمين برفع<٪=uploadLimit٪> صور، حجم الصورة الواحدة لا يتجاوز <٪=sizeLimit٪>",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.startUpload": {
+    "message": "بدء الرفع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.clearAll": {
+    "message": "مسح الكل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.insertAll": {
+    "message": "إدراج الكل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.queueLimitExceeded": {
+    "message": "تم تجاوز الحد الأقصى لقائمة الانتظار.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.fileExceedsSizeLimit": {
+    "message": "حجم الملف يتجاوز الحد المسموح به.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.zeroByteFile": {
+    "message": "الملف 0 بايت.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.invalidFiletype": {
+    "message": "نوع ملف غير صالح.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.unknownError": {
+    "message": "خطأ في الرفع غير معروف.",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.pending": {
+    "message": "معلقه...",
+    "description": "kindeditor 编辑器组件"
+  },
+  "multiimage.uploadError": {
+    "message": "خطأ في الرفع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.emptyFolder": {
+    "message": "فارغ",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.moveup": {
+    "message": "المجلد الأصل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.viewType": {
+    "message": "العرض:",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.viewImage": {
+    "message": "مصغرات",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.listImage": {
+    "message": "قائمة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.orderType": {
+    "message": "الترتيب:",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.fileName": {
+    "message": "حسب الاسم",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.fileSize": {
+    "message": "حسب الحجم",
+    "description": "kindeditor 编辑器组件"
+  },
+  "filemanager.fileType": {
+    "message": "حسب النوع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.url": {
+    "message": "رابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.title": {
+    "message": "العنوان",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.upload": {
+    "message": "رفع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "insertfile.viewServer": {
+    "message": "تصفح",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.cells": {
+    "message": "خلايا",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.rows": {
+    "message": "صفوف",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.cols": {
+    "message": "أعمدة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.size": {
+    "message": "أبعاد",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.width": {
+    "message": "العرض",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.height": {
+    "message": "الارتفاع",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.percent": {
+    "message": "%",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.px": {
+    "message": "بكسل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.space": {
+    "message": "مسافة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.padding": {
+    "message": "المسافة بين الحدود و المحتوى",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.spacing": {
+    "message": "تباعد",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.align": {
+    "message": "محاذاة",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.textAlign": {
+    "message": "أفقي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.verticalAlign": {
+    "message": "عمودي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignDefault": {
+    "message": "افتراضي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignLeft": {
+    "message": "يسار",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignCenter": {
+    "message": "توسيط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignRight": {
+    "message": "يمين",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignTop": {
+    "message": "أعلى",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignMiddle": {
+    "message": "منتصف",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignBottom": {
+    "message": "أسفل",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.alignBaseline": {
+    "message": "الحد",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.border": {
+    "message": "الحدود",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.borderWidth": {
+    "message": "العرض",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.borderColor": {
+    "message": "‏‏اللون",
+    "description": "kindeditor 编辑器组件"
+  },
+  "table.backgroundColor": {
+    "message": "الخلفية",
+    "description": "kindeditor 编辑器组件"
+  },
+  "map.address": {
+    "message": "العنوان:",
+    "description": "kindeditor 编辑器组件"
+  },
+  "map.search": {
+    "message": "بحث",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap.address": {
+    "message": "العنوان:",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap.search": {
+    "message": "بحث",
+    "description": "kindeditor 编辑器组件"
+  },
+  "baidumap.insertDynamicMap": {
+    "message": "خريطة ديناميكية",
+    "description": "kindeditor 编辑器组件"
+  },
+  "anchor.name": {
+    "message": "تسمية أداة عمل الرابط",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h1": {
+    "message": "العنوان الصفحة 1",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h2": {
+    "message": "العنوان الصفحة 2",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h3": {
+    "message": "العنوان الصفحة 3",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.h4": {
+    "message": "العنوان الصفحة 4",
+    "description": "kindeditor 编辑器组件"
+  },
+  "formatblock.formatBlock.p": {
+    "message": "عادي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[0].1": {
+    "message": "ارتفاع السطر 1",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[1].1.5": {
+    "message": "ارتفاع السطر 1.5",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[2].2": {
+    "message": "ارتفاع السطر 2",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[3].2.5": {
+    "message": "ارتفاع السطر 2.5",
+    "description": "kindeditor 编辑器组件"
+  },
+  "lineheight.lineHeight[4].3": {
+    "message": "ارتفاع السطر 3",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.selectTemplate": {
+    "message": "قالب",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.replaceContent": {
+    "message": "استبدال المحتوى الحالي",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.fileList.1.html": {
+    "message": "صورة ونص",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.fileList.2.html": {
+    "message": "جدول",
+    "description": "kindeditor 编辑器组件"
+  },
+  "template.fileList.3.html": {
+    "message": "قائمة",
+    "description": "kindeditor 编辑器组件"
+  }
+}

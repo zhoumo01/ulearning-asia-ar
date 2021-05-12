@@ -108,7 +108,7 @@
     "description": "2.0_order.js"
   },
   "deleteFailed": {
-    "message": "تعذر الحذف",
+    "message": "لم نتمكن من الحذف",
     "description": "2.0_order.js"
   }
 }

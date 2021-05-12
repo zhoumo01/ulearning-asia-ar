@@ -20,7 +20,7 @@
     "description": "1.0 assessment.json"
   },
   "failDeleteTxt": {
-    "message": "فشل في الحذف!",
+    "message": "لم نتمكن من الحذف",
     "description": "1.0 assessment.json"
   },
   "summarizingTipsTxt3": {
@@ -148,7 +148,7 @@
     "description": "1.0 assessment.json"
   },
   "loadDataTxt": {
-    "message": "فشل في تحميل البيانات - الرجاء التحقق من الشبكة!",
+    "message": "لم نتمكن من تحميل البيانات - الرجاء التحقق من الشبكة!",
     "description": "1.0 assessment.json"
   },
   "inputTipsTxt": {
@@ -292,7 +292,7 @@
     "description": "1.0 assessment.json"
   },
   "assessExplanation1": {
-    "message": "يختلف محتوى هذه البرامج التدريبية بين إصدار الموقع وإصدار ULearning App. إذا كان الطلاب قد تم الوصول إلى المحتوى على كل من الموقع وتطبيق ULearning ، سيتم حساب وقت التعلم على أساس المجموع الإجمالي لكليهما.",
+    "message": "يختلف محتوى هذه المنهج الدراسى بين إصدار الموقع وإصدار ULearning App. إذا كان الطلاب قد تم الوصول إلى المحتوى على كل من الموقع وتطبيق ULearning ، سيتم حساب وقت التعلم على أساس المجموع الإجمالي لكليهما.",
     "description": "1.0 assessment.json"
   },
   "assessExplanation2": {
@@ -328,7 +328,7 @@
     "description": "1.0 assessment.json"
   },
   "operationSetps3": {
-    "message": "تحميل قالب",
+    "message": "تنزيل قالب",
     "description": "1.0 assessment.json"
   },
   "operationSetps4": {

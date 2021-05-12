@@ -1,0 +1,3050 @@
+{
+  "close": {
+    "message": "إغلاق",
+    "description": "2.0 exam.js"
+  },
+  "examinationResults": {
+    "message": "نتائج الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "gradeSumCl": {
+    "message": "تلقائي/ يدوي/مجموع",
+    "description": "2.0 {filename}"
+  },
+  "examinationAnalysis": {
+    "message": "تحليل الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "allBatches": {
+    "message": "كل المحاضرات",
+    "description": "2.0 exam.js"
+  },
+  "allClasses": {
+    "message": "كل الفصول",
+    "description": "2.0 exam.js"
+  },
+  "allTeachers": {
+    "message": "كل المعلمين",
+    "description": "2.0 exam.js"
+  },
+  "submissionStatus": {
+    "message": "حالة التقديم",
+    "description": "2.0 exam.js"
+  },
+  "sort": {
+    "message": "رتب",
+    "description": "2.0 exam.js"
+  },
+  "studentNumUp": {
+    "message": "تصاعدي - كود الطالب",
+    "description": "2.0 exam.js"
+  },
+  "studentNumDown": {
+    "message": "تنازلي - كود الطالب",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreUp": {
+    "message": "تصاعدي - مجموع الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreDown": {
+    "message": "تنازلي - مجموع الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "export": {
+    "message": "تصدير",
+    "description": "2.0 exam.js"
+  },
+  "derivedAchievements": {
+    "message": "تصدير النتائج",
+    "description": "2.0 exam.js"
+  },
+  "exportAnswerRecords": {
+    "message": "تصدير إجابات الإمتحان",
+    "description": "2.0 exam.js"
+  },
+  "fastExport": {
+    "message": "تصدير النتائج",
+    "description": "2.0 exam.js"
+  },
+  "customExport": {
+    "message": "تصدير نتائج مخصصة",
+    "description": "2.0 exam.js"
+  },
+  "startRemark": {
+    "message": "التقدير",
+    "description": "2.0 exam.js"
+  },
+  "batchRemark": {
+    "message": "تقدير الدفعة",
+    "description": "2.0 exam.js"
+  },
+  "remarkByQuestion": {
+    "message": "تقدير الواحد تلو الآخر",
+    "description": "2.0 exam.js"
+  },
+  "all": {
+    "message": "الكل",
+    "description": "2.0 exam.js"
+  },
+  "notApproved": {
+    "message": "لم يتم تقييمه",
+    "description": "2.0 exam.js"
+  },
+  "readed": {
+    "message": "تم تقييمه",
+    "description": "2.0 exam.js"
+  },
+  "notSubmitted": {
+    "message": "لم يتم إرسالها",
+    "description": "2.0 exam.js"
+  },
+  "exception": {
+    "message": "تم وضع علامة",
+    "description": "2.0 exam.js"
+  },
+  "readTip1": {
+    "message": "معلقه ",
+    "description": "2.0 exam.js"
+  },
+  "serialNumber": {
+    "message": "#",
+    "description": "2.0 exam.js"
+  },
+  "studentNumber": {
+    "message": "كود الطالب",
+    "description": "2.0 exam.js"
+  },
+  "name": {
+    "message": "اسم",
+    "description": "2.0 exam.js"
+  },
+  "namePrefix": {
+    "message": "الاسم: {name}",
+    "description": "2.0 {filename}"
+  },
+  "accountPrefix": {
+    "message": "اسم المستخدم: {account}",
+    "description": "2.0 {filename}"
+  },
+  "schoolPrefix": {
+    "message": "المدرسة: {org}",
+    "description": "2.0 {filename}"
+  },
+  "certPrefix": {
+    "message": "رقم التقييم: {no}",
+    "description": "2.0 {filename}"
+  },
+  "totalScore": {
+    "message": "مجموع الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "objectiveQuestions": {
+    "message": "درجات تلقائية",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQuestions": {
+    "message": "درجات يدوية",
+    "description": "2.0 exam.js"
+  },
+  "examinationPapers": {
+    "message": "الامتحانات المستخدمة",
+    "description": "2.0 exam.js"
+  },
+  "status": {
+    "message": "الحالة",
+    "description": "2.0 exam.js"
+  },
+  "submissionTime": {
+    "message": "تم الإرسال",
+    "description": "2.0 exam.js"
+  },
+  "operation": {
+    "message": "الإجراءات",
+    "description": "2.0 exam.js"
+  },
+  "leaveExam": {
+    "message": "الخورج من الإمتحان",
+    "description": "2.0 exam.js"
+  },
+  "leaveExamTip": {
+    "message": "إذا ترك الطالب الامتحان أكثر من عدد المرات المسموح بها، سيتم تقديم الإمتحان تلقائيا. يمكنك ترتيب بنية الامتحان إذا لزم الأمر.",
+    "description": "2.0 exam.js"
+  },
+  "answerRecord": {
+    "message": "إجابات الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "markPapers": {
+    "message": "تصحيح الإمتحان",
+    "description": "2.0 exam.js"
+  },
+  "deleteRecords": {
+    "message": "حذف سجلات",
+    "description": "2.0 exam.js"
+  },
+  "noDataTip": {
+    "message": "لم يتم العثور على بيانات. يمكنك إضافة الطلاب إلى الامتحان أو تعديل معايير البحث لإعادة البحث.",
+    "description": "2.0 exam.js"
+  },
+  "chooseBatch": {
+    "message": "إختر محاضرة للامتحان",
+    "description": "2.0 exam.js"
+  },
+  "betweenTime": {
+    "message": "{وقت البدء} إلى {نهاية الوقت} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> “全部场次”选择框 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考(要求当前没有批次) -> 添加批次 \n 教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 -> 添加场次"
+  },
+  "confirm": {
+    "message": "تأكيد",
+    "description": "2.0 exam.js"
+  },
+  "cancel": {
+    "message": "إلغاء",
+    "description": "2.0 exam.js"
+  },
+  "toBeApproved": {
+    "message": "لم يتم تقييمه",
+    "description": "2.0 exam.js"
+  },
+  "notAttending": {
+    "message": "لم يبدأ",
+    "description": "2.0 exam.js"
+  },
+  "inExam": {
+    "message": "قيد التنفيذ",
+    "description": "2.0 exam.js"
+  },
+  "homePage": {
+    "message": "الصفحة الرئيسية",
+    "description": "2.0 exam.js"
+  },
+  "lastPage": {
+    "message": "آخر صفحة",
+    "description": "2.0 exam.js"
+  },
+  "upperPage": {
+    "message": "الصفحة السابقة",
+    "description": "2.0 exam.js"
+  },
+  "nextPage": {
+    "message": "الصفحة التالية",
+    "description": "2.0 exam.js"
+  },
+  "jumpPage": {
+    "message": "إذهب إلى",
+    "description": "2.0 exam.js"
+  },
+  "reTestTip2": {
+    "message": "لا توجد محاضرة امتحان متاحة، هل تريد إضافة محاضرة؟",
+    "description": "2.0 exam.js"
+  },
+  "deleteTip": {
+    "message": "لن تستطيع إسترداد نتيجة إمتحان إذا قمت بحذفها. هل تريد حذفها؟",
+    "description": "2.0 exam.js"
+  },
+  "exportTip": {
+    "message": "سيتم تصدير أعلى درجة فقط  لكل طالب. لتصدير درجة محددة، الرجاء اختيار تصدير نتائج مخصصة.",
+    "description": "2.0 exam.js"
+  },
+  "tips": {
+    "message": "تنبيه",
+    "description": "2.0 exam.js"
+  },
+  "chooseClass": {
+    "message": "إختر الفصل:",
+    "description": "2.0 exam.js"
+  },
+  "derivedExaminationAnalysis": {
+    "message": "تصدير تحليل التقارير",
+    "description": "2.0 exam.js"
+  },
+  "basicInformation": {
+    "message": "المعلومات الأساسية",
+    "description": "2.0 exam.js"
+  },
+  "quantity": {
+    "message": "مرة",
+    "description": "2.0 exam.js"
+  },
+  "proportion": {
+    "message": "%",
+    "description": "2.0 exam.js"
+  },
+  "examStuNum": {
+    "message": "{0} كامل",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "expectExamStuNum": {
+    "message": "مجموع الممتحنين: {0}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate": {
+    "message": "معدل الحضور",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate2": {
+    "message": "معدل الحضور: {0}٪ (معدل الاضطراب: {1}٪)",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "exceptionRate": {
+    "message": "معدل الاضطراب",
+    "description": "2.0 exam.js"
+  },
+  "averageAnswerTime": {
+    "message": "متوسط مدة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "maximumAnswerTime": {
+    "message": "أطول مدة امتحان",
+    "description": "2.0 exam.js"
+  },
+  "minimumAnswerTime": {
+    "message": "أقصر مدة امتحان",
+    "description": "2.0 exam.js"
+  },
+  "mobile": {
+    "message": "جهاز المحمول",
+    "description": "2.0 exam.js"
+  },
+  "PC": {
+    "message": "كمبيوتر شخصي",
+    "description": "2.0 exam.js"
+  },
+  "examinationAchievementsAnalysis": {
+    "message": "تحليل نتيجة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "averageAchievement": {
+    "message": "متوسط التقديرات",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviation": {
+    "message": "الانحراف المعياري",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviationTip": {
+    "message": "الانحراف المعياري يشير إلى درجة التشتت لدرجات أداء الطلاب. الانحراف المعياري الكبير يشير إلى وجود فرق كبير بين أكثر الدرجات ومتوسطها الحسابي. الانحراف المعياري الصغير يشير إلى أقرب الدرجات إلى الوسط الحسابي.",
+    "description": "2.0 exam.js"
+  },
+  "passRate": {
+    "message": "معدل النجاح",
+    "description": "2.0 exam.js"
+  },
+  "highestScore": {
+    "message": "أعلى درجة",
+    "description": "2.0 exam.js"
+  },
+  "minimumScore": {
+    "message": "أدنى درجة",
+    "description": "2.0 exam.js"
+  },
+  "scoreTip1": {
+    "message": "*ملاحظات: 1. تستثني بيانات الطلاب الذين فاتهم الامتحان أو لم يبدأوه.",
+    "description": "2.0 exam.js"
+  },
+  "fractionalStatistics": {
+    "message": "توزيع الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "noStuRecord": {
+    "message": "لا توجد سجلات إجابة للطالب",
+    "description": "2.0 exam.js"
+  },
+  "paperAnalysis": {
+    "message": "تحليل الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "chart": {
+    "message": "رسم بياني",
+    "description": "2.0 exam.js"
+  },
+  "form": {
+    "message": "جدول",
+    "description": "2.0 exam.js"
+  },
+  "personnel": {
+    "message": "{0} مرة / {1}%",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "personnel2": {
+    "message": "{count} مرة",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "detailedAnalysis": {
+    "message": "تفاصيل",
+    "description": "2.0 exam.js"
+  },
+  "scoreStatistics": {
+    "message": "إحصاء الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "paperName": {
+    "message": "اسم الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "proportion2": {
+    "message": "%",
+    "description": "2.0 exam.js"
+  },
+  "averageScore": {
+    "message": "متوسط الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "disabled": {
+    "message": "معطل",
+    "description": "2.0 exam.js"
+  },
+  "questionAnalysis": {
+    "message": "تحليل الأسئلة",
+    "description": "2.0 exam.js"
+  },
+  "previewPapers": {
+    "message": "معاينة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "quantity2": {
+    "message": "الأسئلة:",
+    "description": "2.0 exam.js"
+  },
+  "totalScore2": {
+    "message": "مجموع الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "paperPartAnalysis": {
+    "message": "قسم تحليل الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "pdfGeneration": {
+    "message": "يتم إنشاء ملف PDF...",
+    "description": "2.0 exam.js"
+  },
+  "choosePaper": {
+    "message": "اختر الامتحان: ",
+    "description": "2.0 exam.js"
+  },
+  "exportAllQuestion": {
+    "message": "تصدير الكل",
+    "description": "2.0 exam.js"
+  },
+  "exportCurrentQuestion": {
+    "message": "تصدير الصفحة الحالية",
+    "description": "2.0 exam.js"
+  },
+  "paperAccuracy": {
+    "message": "إحصائيات الدقة",
+    "description": "2.0 exam.js"
+  },
+  "questionNumSToL": {
+    "message": "رقم السؤال - من الأدنى إلى الأعلى",
+    "description": "2.0 exam.js"
+  },
+  "questionNumLToS": {
+    "message": "رقم السؤال - من الأعلى إلى الأدنى",
+    "description": "2.0 exam.js"
+  },
+  "questionNum": {
+    "message": "#",
+    "description": "2.0 exam.js"
+  },
+  "questionType": {
+    "message": "نوع",
+    "description": "2.0 exam.js"
+  },
+  "correctRate": {
+    "message": "دقة",
+    "description": "2.0 exam.js"
+  },
+  "correctAnswer": {
+    "message": "الإجابات الصحيحة",
+    "description": "2.0 exam.js"
+  },
+  "optionStuNum": {
+    "message": "عدد الإجابات",
+    "description": "2.0 exam.js"
+  },
+  "difficulty": {
+    "message": "مستوى الصعوبة",
+    "description": "2.0 exam.js"
+  },
+  "difficultyTip": {
+    "message": "غالبا ما تستند درجة الصعوبة إلى معدل دقة إجابات المختبرين. كلما زادت درجة الصعوبة  كان السؤال أبسط. كلما كانت القيمة أصغر كان السؤال أصعب. و بشكل عام درجة الصعوبة المناسبة للسؤال تتراوح بين 0.3 و 0.8.",
+    "description": "2.0 exam.js"
+  },
+  "difficulties": {
+    "message": "صعب",
+    "description": "2.0 exam.js"
+  },
+  "general": {
+    "message": "متوسط",
+    "description": "2.0 exam.js"
+  },
+  "easy": {
+    "message": "سهل",
+    "description": "2.0 exam.js"
+  },
+  "discrimination": {
+    "message": "مفاضلة",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip1": {
+    "message": "، مشيرا إلى أن الأسئلة متباينة بشكل جيد.",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip2": {
+    "message": "، يظهر تباين ضعيف، الرجاء تعديل.",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip3": {
+    "message": "تشير القيمة السلبية للتباين إلى أن السؤال أو الإجابة غير صحيحين.",
+    "description": "2.0 exam.js"
+  },
+  "noData": {
+    "message": "لم يتم العثور على بيانات",
+    "description": "2.0 exam.js"
+  },
+  "recommendedAnswer": {
+    "message": "مفتاح الإجابة: ",
+    "description": "2.0 exam.js"
+  },
+  "parsing": {
+    "message": "شرح الإجابة",
+    "description": "2.0 exam.js"
+  },
+  "previousQuestion": {
+    "message": "السؤال السابق",
+    "description": "2.0 exam.js"
+  },
+  "nextQuestion": {
+    "message": "السؤال التالي",
+    "description": "2.0 exam.js"
+  },
+  "previewQuestion": {
+    "message": "معاينة السؤال",
+    "description": "2.0 exam.js"
+  },
+  "searchTip": {
+    "message": "أدخل كلمة للبحث",
+    "description": "2.0 exam.js"
+  },
+  "submitByAPP": {
+    "message": "عبر التطبيق",
+    "description": "2.0 exam.js"
+  },
+  "submitByPC": {
+    "message": "عبر الويب",
+    "description": "2.0 exam.js"
+  },
+  "chooseExamBatch": {
+    "message": "إختر محاضرة للامتحان",
+    "description": "2.0 exam.js"
+  },
+  "unknown": {
+    "message": "غير معروف",
+    "description": "2.0 exam.js"
+  },
+  "points": {
+    "message": "{grade} درجة",
+    "description": "2.0 exam.js"
+  },
+  "paperPartName": {
+    "message": "اسم القسم",
+    "description": "2.0 exam.js"
+  },
+  "peopleNum": {
+    "message": "# من الممتحنين",
+    "description": "2.0 exam.js"
+  },
+  "abandonRate": {
+    "message": "معدل الغياب",
+    "description": "2.0 exam.js"
+  },
+  "hour": {
+    "message": "ساعة",
+    "description": "2.0 exam.js"
+  },
+  "minute": {
+    "message": "{count} دقيقة",
+    "description": "2.0 exam.js"
+  },
+  "timeLength": {
+    "message": "{days} يوم {hours} ساعة {minutes} دقيقة {seconds} ثانية",
+    "description": "2.0 exam.js"
+  },
+  "scoringRate": {
+    "message": "التقدير كنسبة مئوية",
+    "description": "2.0 exam.js"
+  },
+  "score": {
+    "message": "الدرجة",
+    "description": "2.0 exam.js"
+  },
+  "exam": {
+    "message": "الامتحانات",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips1": {
+    "message": "تظهر هنا جميع إمتحانات المقررات الدراسية. يستطيع مسئول المقرر الدراسي نشر / عرض الإمتحانات لكل الفصول بينما معلم المقرر الدراسي يمكنه نشر/ عرض الإمتحانات الخاصة به فقط.",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips2": {
+    "message": "جميع امتحانات المقرر الدراسي الخاصة بك مدرجة هنا. انتبه جيدا إلى وقت إتاحة الامتحان، وما إذا كان البدء المتأخر مسموحا به ومتى، و هل يسمح بمحاولات متعددة وكم عدد هذه المحاولات، ومدة الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "examTips1": {
+    "message": "إذا تم تمكين التحقق من الوجه للامتحان، قم برفع صورة رأسك قبل الامتحان لتجنب التأخير.",
+    "description": "2.0 exam.js"
+  },
+  "goToIdentify": {
+    "message": "إبدأ",
+    "description": "2.0 exam.js"
+  },
+  "addExam": {
+    "message": "إضافة امتحان لمقرر دراسي",
+    "description": "2.0 exam.js"
+  },
+  "examPaperLibrary": {
+    "message": "بنك الامتحانات",
+    "description": "2.0 exam.js"
+  },
+  "questionLibrary": {
+    "message": "بنك الأسئلة",
+    "description": "2.0 exam.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "فحص توافق الكمبيوتر",
+    "description": "2.0 exam.js"
+  },
+  "examName": {
+    "message": "اسم الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "field": {
+    "message": "المجموع {count} محاضرة",
+    "description": "指有多少场考试"
+  },
+  "creator": {
+    "message": "تم إنشاؤه من قبل",
+    "description": "2.0 exam.js"
+  },
+  "examTime": {
+    "message": "وقت الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "examPaper": {
+    "message": "الإصدارات",
+    "description": "2.0 exam.js"
+  },
+  "answerTimes": {
+    "message": "‏‏عدد المحاولات",
+    "description": "2.0 exam.js"
+  },
+  "answeredTimes": {
+    "message": "حاول / محاولات",
+    "description": "2.0 {filename}"
+  },
+  "achievement": {
+    "message": "الدرجة",
+    "description": "2.0 exam.js"
+  },
+  "noStart": {
+    "message": "لم يبدأ",
+    "description": "2.0 exam.js"
+  },
+  "onGoing": {
+    "message": "قيد التنفيذ",
+    "description": "2.0 exam.js"
+  },
+  "hasEnded": {
+    "message": "تم الإنهاء",
+    "description": "2.0 exam.js"
+  },
+  "examDurationCl": {
+    "message": "مدة الامتحان: {count} دقيقة",
+    "description": "2.0 exam.js"
+  },
+  "lateTime": {
+    "message": "بدأ متأخر: {count}",
+    "description": "2.0 exam.js"
+  },
+  "lateTimeSet": {
+    "message": "بدأ متأخر",
+    "description": "2.0 exam.js"
+  },
+  "myself": {
+    "message": "أنا",
+    "description": "2.0 exam.js"
+  },
+  "start": {
+    "message": "إبدأ",
+    "description": "2.0 exam.js"
+  },
+  "startDatePrefix": {
+    "message": "البدء: {time}",
+    "description": "2.0 {filename}"
+  },
+  "ended": {
+    "message": "الانتهاء",
+    "description": "2.0 exam.js"
+  },
+  "endDatePrefix": {
+    "message": "الإنتهاء: {time}",
+    "description": "2.0 {filename}"
+  },
+  "noBatch": {
+    "message": "لا توجد محاضرات",
+    "description": "2.0 exam.js"
+  },
+  "partOf": {
+    "message": "{n} مجموعة",
+    "description": "教师账号 -> 考试"
+  },
+  "randomGroupPaper": {
+    "message": "امتحان عشوائي",
+    "description": "2.0 exam.js"
+  },
+  "viewScore": {
+    "message": "عرض النتائج",
+    "description": "2.0 exam.js"
+  },
+  "previewExam": {
+    "message": "معاينة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "modifyExam": {
+    "message": "تعديل الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatch": {
+    "message": "تعديل محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "2.0 exam.js"
+  },
+  "startExam": {
+    "message": "إبدأ",
+    "description": "2.0 exam.js"
+  },
+  "examTips2": {
+    "message": "إجراء الامتحان عبر تطبيق Ulearning ",
+    "description": "2.0 exam.js"
+  },
+  "examTips3": {
+    "message": "لا يسمح لك بإجراء الامتحان حيث أنك قد اجتزت وقت البدء المتأخر المسموح به.",
+    "description": "2.0 exam.js"
+  },
+  "examTips4": {
+    "message": "الضيف/المضيف: ",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinished": {
+    "message": "عرض ",
+    "description": "2.0 exam.js"
+  },
+  "dayShowExam": {
+    "message": "{n} يوم قبل نهاية الامتحان",
+    "description": "学生账号 -> 考试"
+  },
+  "examTips5": {
+    "message": "لا يتم نشر النتائج في الوقت الحالي",
+    "description": "2.0 exam.js"
+  },
+  "examTips6": {
+    "message": "لا توجد إمتحانات حاليا.",
+    "description": "2.0 exam.js"
+  },
+  "noExam": {
+    "message": "لا توجد إمتحانات حاليا.",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips": {
+    "message": "خطأ في الشبكة، انقر",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips2": {
+    "message": "خطأ الشبكة! انقر {button} لإعادة الرفع.",
+    "description": "2.0 {filename}"
+  },
+  "loadErrorTips": {
+    "message": "خطأ في التحميل، انقر",
+    "description": "2.0 exam.js"
+  },
+  "reload": {
+    "message": "إعادة التحميل",
+    "description": "2.0 exam.js"
+  },
+  "unlimited": {
+    "message": "بلا حدود",
+    "description": "2.0 exam.js"
+  },
+  "examTips7": {
+    "message": "هل تريد حذف الامتحان؟",
+    "description": "2.0 exam.js"
+  },
+  "deletePaper": {
+    "message": "حذف امتحان",
+    "description": "2.0 exam.js"
+  },
+  "deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "2.0 exam.js"
+  },
+  "deleteFailed": {
+    "message": "لم نتمكن من الحذف",
+    "description": "2.0 exam.js"
+  },
+  "batchRemarkQue": {
+    "message": "تقدير الدفعة",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips1": {
+    "message": "ملاحظات: في حالة السماح بمحاولات متعددة، يتم عرض سجل الإجابة الأخير بشكل افتراضي.",
+    "description": "2.0 exam.js"
+  },
+  "totalQue": {
+    "message": "المجموع {n} ",
+    "description": "2.0 exam.js"
+  },
+  "queOf": {
+    "message": "{n} ",
+    "description": "2.0 exam.js"
+  },
+  "queIndex": {
+    "message": "السؤال {n} ",
+    "description": "2.0 exam.js"
+  },
+  "answeringCount": {
+    "message": "المحاولة {n}  ",
+    "description": "2.0 exam.js"
+  },
+  "seeDetails": {
+    "message": "عرض التفاصيل",
+    "description": "2.0 exam.js"
+  },
+  "allAnswer": {
+    "message": "كل الإجابات",
+    "description": "2.0 exam.js"
+  },
+  "thisQueFullScore": {
+    "message": "الدرجات المتاحة: {grade}",
+    "description": "2.0 exam.js"
+  },
+  "noMark": {
+    "message": "لم يتم تقييمه",
+    "description": "2.0 exam.js"
+  },
+  "hasMarked": {
+    "message": "تم تقييمه",
+    "description": "2.0 exam.js"
+  },
+  "batchScore": {
+    "message": "تقدير الدفعة",
+    "description": "2.0 exam.js"
+  },
+  "openedAnonymousMarking": {
+    "message": "التقدير المجهول متاح",
+    "description": "2.0 exam.js"
+  },
+  "preview": {
+    "message": "معاينة",
+    "description": "2.0 exam.js"
+  },
+  "download": {
+    "message": "تنزيل",
+    "description": "2.0 exam.js"
+  },
+  "modifyScore": {
+    "message": "تعديل الدرجة",
+    "description": "2.0 exam.js"
+  },
+  "approximateAnswerBatchScore": {
+    "message": "صف الدفعة للإجابات المتشابهة",
+    "description": "2.0 exam.js"
+  },
+  "inputScore": {
+    "message": "انقر لإدخال الدرجة",
+    "description": "2.0 exam.js"
+  },
+  "fullScore": {
+    "message": "المجموع المتاح",
+    "description": "2.0 exam.js"
+  },
+  "save": {
+    "message": "حفظ",
+    "description": "2.0 exam.js"
+  },
+  "noStudent": {
+    "message": "لا مزيد من الطلاب",
+    "description": "2.0 exam.js"
+  },
+  "commit": {
+    "message": "إرسال",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips2": {
+    "message": "لا مزيد من الأسئلة للتقييم",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips3": {
+    "message": "ملاحظات: يمكنك تقدير هذا السؤال لكل الطلاب، ثم تعديل النتيجة بشكل فردي لبعض الطلاب.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentPreview": {
+    "message": "معاينة المرفق",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips5": {
+    "message": "إجابات متشابهة. إذا قبلت نتائج البحث، فانقر زر موافق لحفظ النتيجة.",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[0]": {
+    "message": "الاختيار من متعدد",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[1]": {
+    "message": "إجابات متعددة",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[2]": {
+    "message": "تعبئة الفراغ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[3]": {
+    "message": "صواب/خطأ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[4]": {
+    "message": "إجابة قصيرة",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[5]": {
+    "message": "وصل",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[6]": {
+    "message": "قراءة",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[7]": {
+    "message": "استماع",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[8]": {
+    "message": "كتابة",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[9]": {
+    "message": "ترجمة",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[10]": {
+    "message": "إغلق الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[11]": {
+    "message": "تسلسل",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[12]": {
+    "message": "لشرح",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[13]": {
+    "message": "نحو",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[14]": {
+    "message": "المفردات",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[15]": {
+    "message": "اللغة - شفهي",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[16]": {
+    "message": "بنك الكلمات",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[17]": {
+    "message": "رفع الملف",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[18]": {
+    "message": "اللغة - قراءة بصوت مسموع",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[19]": {
+    "message": "قراءة - ملئ الفراغ",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[20]": {
+    "message": "مقال",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[21]": {
+    "message": "تحليل",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[22]": {
+    "message": "قائمة منسدلة متعددة",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[23]": {
+    "message": "تركيب",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[24]": {
+    "message": "معادلة محسوبة",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[0]": {
+    "message": "سهل جدا",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[1]": {
+    "message": "سهل",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[2]": {
+    "message": "متوسط",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[3]": {
+    "message": "صعب",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[4]": {
+    "message": "صعب جدا",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips6": {
+    "message": "الطالب لم يجاوب",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips7": {
+    "message": "لم يتم العثور على إجابات متشابهة بين الإجابات التي لم تقيم بعد",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips8": {
+    "message": "انقر لإدخال الدرجة",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips9": {
+    "message": "أدخل درجة صحيحة تحتوى على رقم عشري واحد فقط",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips10": {
+    "message": "لا يمكن للدرجات ان تتجاوز اقصى درجة ممكنة!",
+    "description": "2.0 exam.js"
+  },
+  "timesOf": {
+    "message": "{n} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息 \n 教师账号 -> 考试 -> 考试监控 -> 列表形式 -> 异常记录"
+  },
+  "baseInformation": {
+    "message": "المعلومات الأساسية",
+    "description": "2.0 exam.js"
+  },
+  "examNameCl": {
+    "message": "اسم الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "answerDurationCl": {
+    "message": "وقت الامتحان المستخدم: {count} ",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesOf": {
+    "message": "عدد المحاولات: {count}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "passScoreCl": {
+    "message": "درجة النجاح:",
+    "description": "2.0 exam.js"
+  },
+  "participtionWaysCl": {
+    "message": "الأجهزة المسموح بها: ",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicTimeCl": {
+    "message": "عرض النتيجة:",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicScopeCl": {
+    "message": "ما يجب عرضه: ",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationCl": {
+    "message": "التحقق من الوجه:",
+    "description": "2.0 exam.js"
+  },
+  "opened": {
+    "message": "تم التمكين",
+    "description": "2.0 exam.js"
+  },
+  "notOpened": {
+    "message": "غير ممكّنة",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCode": {
+    "message": "رمز التحقق البديل",
+    "description": "2.0 exam.js"
+  },
+  "detailTips1": {
+    "message": "١. استخدم هذا الرمز للسماح للطالب بإجراء الاختبار إذا فشل التحقق من الوجه أو لم يكن متاحًا.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips2": {
+    "message": "2. هذا الكود صالح لمدة 15 دقيقة. بعد 15 دقيقة ستحتاج إلى كود جديد.",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "التحقق من صورة وجه الطالب",
+    "description": "2.0 exam.js"
+  },
+  "sets": {
+    "message": " ",
+    "description": "2.0 exam.js"
+  },
+  "enabled": {
+    "message": "تم التمكين",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreCl": {
+    "message": "الدرجة النهائية",
+    "description": "2.0 exam.js"
+  },
+  "phone": {
+    "message": "أجهزة المحمول",
+    "description": "2.0 exam.js"
+  },
+  "pcAndMobile": {
+    "message": "جهاز الكمبيوتر وجهاز المحمول",
+    "description": "2.0 exam.js"
+  },
+  "commitImmediatelyShow": {
+    "message": "فوراً",
+    "description": "2.0 exam.js"
+  },
+  "cannotAllForbidden": {
+    "message": "احتفظ بامتحان واحد على الأقل",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthentication": {
+    "message": "التحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "myAuthenticationPhoto": {
+    "message": "صورتي للتحقق",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips1": {
+    "message": "انقر لرفع صورة الوجه",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips2": {
+    "message": "ملاحظات: ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips3": {
+    "message": "يتم استخدام صورة الوجه للتحقق من الوجه لإجراء الامتحان. تأكد من رفع صورة الوجه الخاصة بك. سيقوم المعلم بمراجعة والتحقق مما إذا كانت الصورة التي قمت برفعها هي صورتك الحقيقية. إذا لم يكن كذلك، سيتم التعامل معها على أنها غش. لن يسمح لك بدخول للامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips4": {
+    "message": " لا يمكن تحديث/استبدال الصورة بعد رفعها. ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips5": {
+    "message": "قبل رفعها، تأكد من أنها الصورة التي تريدها.",
+    "description": "2.0 exam.js"
+  },
+  "authenticatePhoto": {
+    "message": "صورة مختارة",
+    "description": "2.0 exam.js"
+  },
+  "reUpload": {
+    "message": "إعادة رفع",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips6": {
+    "message": "إختبر الصورة قبل رفعها.",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips7": {
+    "message": "انقر للاختبار",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips8": {
+    "message": "يرجى مواجهة الكاميرا وتأكد من وجود إضاءة مناسبة",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthenticateFailed": {
+    "message": "لم نتمكن من التحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "reTry": {
+    "message": "إعادة المحاولة",
+    "description": "2.0 exam.js"
+  },
+  "authenticateSuccess": {
+    "message": "تم التحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips9": {
+    "message": "اسأل معلمك عن رمز التحقق وأدخل الرمز أدناه.",
+    "description": "2.0 exam.js"
+  },
+  "verificationCodeError": {
+    "message": "رمز التحقق غير صحيح!",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips10": {
+    "message": "إقتصاص الصورة",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips11": {
+    "message": "اسحب الإطار/استخدم حدود الإطار لضبط الاقتصاص",
+    "description": "2.0 exam.js"
+  },
+  "auditor": {
+    "message": "مراجع: ",
+    "description": "2.0 exam.js"
+  },
+  "auditTimeCl": {
+    "message": "وقت المراجعة: ",
+    "description": "2.0 exam.js"
+  },
+  "refuseReasonCl": {
+    "message": "سبب الرفض: ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips12": {
+    "message": "الصورة لا تتطابق مع الشخص",
+    "description": "2.0 exam.js"
+  },
+  "waitTeaAudit": {
+    "message": "معلقة للمراجعة",
+    "description": "2.0 exam.js"
+  },
+  "auditPassed": {
+    "message": "تم القبول",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditPassVerb": {
+    "message": "قبول",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditFailed": {
+    "message": "تم الرفض",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips13": {
+    "message": "إختبر الصورة للتأكد من أنها تصلح للتحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips14": {
+    "message": "لا يمكن أن يتجاوز الحجم 10 ميغابايت",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips2": {
+    "message": "الامتحانات المخصصة لي: ",
+    "description": "2.0 exam.js"
+  },
+  "readedCl": {
+    "message": "تم تقييمه:",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedCl": {
+    "message": "لم يتم تقييمه:",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips3": {
+    "message": "منظم الامنتحانات يحدد عدد الامنتحانات التي سيتم تقييمها",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips4": {
+    "message": "دخول الامتحان من خلال التحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "toBeAudit": {
+    "message": "ليتم التحقق",
+    "description": "2.0 exam.js"
+  },
+  "thisTimeExamPhoto": {
+    "message": "صور لهذا الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips5": {
+    "message": "دخول الامتحان من خلال رمز التحقق",
+    "description": "2.0 exam.js"
+  },
+  "studentNOCl2": {
+    "message": "كود  الطالب: {no}",
+    "description": "2.0 {filename}"
+  },
+  "classOf": {
+    "message": "الفصل: {className}",
+    "description": "此功能已被替换，但代码还在，为了安全，所以重构了插值。"
+  },
+  "waitApproved": {
+    "message": "معلقه ",
+    "description": "2.0 exam.js"
+  },
+  "examinationBehaviorTrajectory": {
+    "message": "سجل الإجراءات",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips6": {
+    "message": "بما أن النظام اكتشف سلوكيات مريبة أكثر مما هو مسموح به، فقد تم إرسال امتحانك بشكل لا إرادي.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips7": {
+    "message": "عندما ينتهي الامتحان، سيقوم النظام بإرسال الامتحان تلقائيا",
+    "description": "2.0 exam.js"
+  },
+  "computerTerminal": {
+    "message": "كمبيوتر شخصي",
+    "description": "2.0 exam.js"
+  },
+  "mobileTerminal": {
+    "message": "جوال",
+    "description": "2.0 exam.js"
+  },
+  "mobileApp": {
+    "message": "تطبيق الجوال",
+    "description": "2.0 exam.js"
+  },
+  "leavePage": {
+    "message": "الصفحة اليسرى",
+    "description": "2.0 exam.js"
+  },
+  "commitExam": {
+    "message": "تم ارسال الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "batchArrangement": {
+    "message": "المحاضرات",
+    "description": "2.0 exam.js"
+  },
+  "examRoomArrangement": {
+    "message": "مقرات",
+    "description": "2.0 exam.js"
+  },
+  "markExamArrangement": {
+    "message": "التقييم",
+    "description": "2.0 exam.js"
+  },
+  "markingTips1": {
+    "message": "الامتحانات التي تحتوي على أسئلة التقدير اليدوي: ",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumberCl": {
+    "message": "لم يتم تقييمه:",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumberCl": {
+    "message": "تم تقييمه:",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumber": {
+    "message": "لم يتم تقييمه",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumber": {
+    "message": "تم تقييمه",
+    "description": "2.0 exam.js"
+  },
+  "closeAnonymousMarking": {
+    "message": "تعطيل التقدير المجهول",
+    "description": "2.0 exam.js"
+  },
+  "openAnonymousMarking": {
+    "message": "تمكين التقدير المجهول",
+    "description": "2.0 exam.js"
+  },
+  "teacher": {
+    "message": "المعلم",
+    "description": "2.0 exam.js"
+  },
+  "markingTips3": {
+    "message": "المصحح",
+    "description": "2.0 exam.js"
+  },
+  "participants": {
+    "message": "نعم",
+    "description": "2.0 exam.js"
+  },
+  "noParticipants": {
+    "message": "لا",
+    "description": "2.0 exam.js"
+  },
+  "finished": {
+    "message": "مكتمل",
+    "description": "2.0 exam.js"
+  },
+  "markRecord": {
+    "message": "سجلات التقييم",
+    "description": "2.0 exam.js"
+  },
+  "teacherCl": {
+    "message": "المعلم:",
+    "description": "2.0 exam.js"
+  },
+  "markTime": {
+    "message": "تم التقدير في",
+    "description": "2.0 exam.js"
+  },
+  "viewMarkDetail": {
+    "message": "عرض التفاصيل",
+    "description": "2.0 exam.js"
+  },
+  "markingTips5": {
+    "message": "لا يمكن أن يتجاوز عدد الامتحانات المعينة عدد الامتحانات التي تحتوي على أسئلة التقدير اليدوي",
+    "description": "2.0 exam.js"
+  },
+  "arrangingExamRoom": {
+    "message": "جدول مواعيد مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "exportTable": {
+    "message": "تصدير جدول المواعيد",
+    "description": "2.0 exam.js"
+  },
+  "batch": {
+    "message": "محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "batchNo": {
+    "message": "المحاضرات: {n}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 \n 教师账号 -> 考试 -> 查看成绩 -> 考试监控 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "batchNoTime": {
+    "message": "المحاضرة {n}: {startTime} إلى {endTime}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "clearExamRoomPlan": {
+    "message": "حذف جدول مواعيد المقر",
+    "description": "2.0 exam.js"
+  },
+  "noDesignatedExamRoom": {
+    "message": "-لا يوجد حاليا جدول مواعيد للمقر الامتحان-",
+    "description": "2.0 exam.js"
+  },
+  "examRoom": {
+    "message": "مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "classAndStudent": {
+    "message": "الفصل / الطالب",
+    "description": "2.0 exam.js"
+  },
+  "seatNumber": {
+    "message": "# من المقاعد",
+    "description": "2.0 exam.js"
+  },
+  "examStuNumber": {
+    "message": "الممتحنين",
+    "description": "2.0 exam.js"
+  },
+  "remainSeat": {
+    "message": "المقاعد المتاحة",
+    "description": "2.0 exam.js"
+  },
+  "invigilator": {
+    "message": "المسئول",
+    "description": "2.0 exam.js"
+  },
+  "etcOfPeople": {
+    "message": "{name}..., {n} طالب",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "etcOf": {
+    "message": "{name}...",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 (当学生单独参加考试，没有在班级中时，才会出现这个)"
+  },
+  "peopleOf": {
+    "message": "[{n}]",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "empty": {
+    "message": "‏‏فارغ",
+    "description": "2.0 exam.js"
+  },
+  "nnallocated": {
+    "message": "انقر لإضافة",
+    "description": "2.0 exam.js"
+  },
+  "exanStuList": {
+    "message": "قائمة الممتحنين",
+    "description": "2.0 exam.js"
+  },
+  "chooseInvigilator": {
+    "message": "إختر المسئول",
+    "description": "2.0 exam.js"
+  },
+  "inputTeaNameSearch": {
+    "message": "أدخل اسم المعلم للبحث",
+    "description": "2.0 exam.js"
+  },
+  "roomTips1": {
+    "message": "لم يتم العثور على بيانات. الرجاء تعديل معايير البحث لإعادة المحاولة.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips2": {
+    "message": "هل تريد حذف جميع مقرات الامتحان و المسئولين لهذه المحاضرة؟",
+    "description": "2.0 exam.js"
+  },
+  "addBatch": {
+    "message": "إضافة محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "someBatch": {
+    "message": "المجموع {count} محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "time": {
+    "message": "وقت",
+    "description": "2.0 exam.js"
+  },
+  "participantsClassAndStu": {
+    "message": "الفصول / الطلاب",
+    "description": "2.0 exam.js"
+  },
+  "shouldArrivePeople": {
+    "message": "كل الممتحنين",
+    "description": "2.0 exam.js"
+  },
+  "participantsNumber": {
+    "message": "بدات",
+    "description": "2.0 exam.js"
+  },
+  "nonParticipantsNumber": {
+    "message": "لم يبدأ",
+    "description": "2.0 exam.js"
+  },
+  "studentBrackets": {
+    "message": "[طالب]",
+    "description": "2.0 exam.js"
+  },
+  "someClassAndStu": {
+    "message": "الفصول / الطلاب",
+    "description": "2.0 exam.js"
+  },
+  "modify": {
+    "message": "تعديل",
+    "description": "2.0 exam.js"
+  },
+  "checkAll": {
+    "message": "تحقق من الكل",
+    "description": "2.0 exam.js"
+  },
+  "expandEndTime": {
+    "message": "تمديد وقت الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "examTimeCl": {
+    "message": "وقت الامتحان:",
+    "description": "2.0 exam.js"
+  },
+  "startTime": {
+    "message": "وقت البدء",
+    "description": "2.0 exam.js"
+  },
+  "endTime": {
+    "message": "وقت الانتهاء",
+    "description": "2.0 exam.js"
+  },
+  "participantsPeople": {
+    "message": "الممتحنين:",
+    "description": "2.0 exam.js"
+  },
+  "addClass": {
+    "message": "إضافة فصل",
+    "description": "2.0 exam.js"
+  },
+  "addStudent": {
+    "message": "إضافة طالب",
+    "description": "2.0 exam.js"
+  },
+  "selectClass": {
+    "message": "إختر الفصل",
+    "description": "2.0 exam.js"
+  },
+  "selectStudent": {
+    "message": "إختر طالب",
+    "description": "2.0 exam.js"
+  },
+  "allTeacher": {
+    "message": "كل المعلمين",
+    "description": "2.0 exam.js"
+  },
+  "inputClassNameSearch": {
+    "message": "أدخل اسم الفصل للبحث",
+    "description": "2.0 exam.js"
+  },
+  "roomTips3": {
+    "message": "أدخل اسم الطالب/كود الطالب للبحث",
+    "description": "2.0 exam.js"
+  },
+  "roomTips4": {
+    "message": "لم يعيين لهذا المعلم أي فصل",
+    "description": "2.0 exam.js"
+  },
+  "roomTips5": {
+    "message": "لا يوجد فصول حاليا",
+    "description": "2.0 exam.js"
+  },
+  "roomTips6": {
+    "message": "لا يوجد طلاب حاليا",
+    "description": "2.0 exam.js"
+  },
+  "roomTips7": {
+    "message": "لا يوجد طلاب",
+    "description": "2.0 exam.js"
+  },
+  "batchExpand": {
+    "message": "تمتد المحاضرة {count} دقيقة ",
+    "description": "2.0 exam.js"
+  },
+  "roomTips8": {
+    "message": "ملاحظات: بعد تمديد الامتحان، سيتم تمديد وقت الامتحان للطلاب المتأخرين أو الذين ليس لديهم وقت كاف للامتحان لأسباب أخرى وفقا لذلك  لن يتأثر الطلاب الذين يؤدون الامتحان و يرسلونه كالمعتاد.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips9": {
+    "message": "يجب أن تكون مدة التمديد بين 1 و 1000",
+    "description": "2.0 exam.js"
+  },
+  "expandSuccess": {
+    "message": "تم التمديد بنجاح!",
+    "description": "2.0 exam.js"
+  },
+  "expandFailed": {
+    "message": "لم نتمكن من التمديد!",
+    "description": "2.0 exam.js"
+  },
+  "roomTips10": {
+    "message": "قد يؤدي حذف هذه المحاضرة إلى إزالة إجابات الامتحان المقترنة بهذه المحاضرة. هل تريد حذف هذه المحاضرة؟",
+    "description": "2.0 exam.js"
+  },
+  "roomTips11": {
+    "message": "هل تريد حذف مقر الامتحان هذا؟",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch": {
+    "message": "حذف محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "roomTips12": {
+    "message": "حدد وقت المحاضرة",
+    "description": "2.0 exam.js"
+  },
+  "roomTips13": {
+    "message": "أختر من سيقوم بالإختبار (فصول / طلاب)",
+    "description": "2.0 exam.js"
+  },
+  "monitor": {
+    "message": "مراقب",
+    "description": "2.0 exam.js"
+  },
+  "openedFaceVerification": {
+    "message": "تمكين التحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "viewStandbyVerificationCode": {
+    "message": "عرض الكود البديل للتحقق",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips1": {
+    "message": "١. استخدم هذا الرمز للسماح للطالب بإجراء الاختبار إذا فشل التحقق من الوجه أو لم يكن متاحًا.",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips2": {
+    "message": "هذا الكود صالح لمدة 15 دقيقة. بعد 15 دقيقة ستحتاج إلى كود جديد.",
+    "description": "2.0 exam.js"
+  },
+  "allExamRoom": {
+    "message": "كل مقرات الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "inputNameAndStuNoSearch": {
+    "message": "أدخل اسم الطالب/كود الطالب للبحث",
+    "description": "2.0 exam.js"
+  },
+  "exportMonitorInfo": {
+    "message": "تصدير معلومات المراقبة",
+    "description": "2.0 exam.js"
+  },
+  "exportPhotos": {
+    "message": "تصدير صورة",
+    "description": "2.0 exam.js"
+  },
+  "noEnterExam": {
+    "message": "لم يبدأ",
+    "description": "2.0 exam.js"
+  },
+  "byVerificationCode": {
+    "message": "من خلال رمز التحقق",
+    "description": "2.0 exam.js"
+  },
+  "intoExam": {
+    "message": "إبدأ الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "answering": {
+    "message": "قيد التنفيذ",
+    "description": "2.0 exam.js"
+  },
+  "handInExam": {
+    "message": "تم الإرسال",
+    "description": "2.0 exam.js"
+  },
+  "equipment": {
+    "message": "جهاز",
+    "description": "2.0 exam.js"
+  },
+  "verificationType": {
+    "message": "طريقة التحقق",
+    "description": "2.0 exam.js"
+  },
+  "intoExamTime": {
+    "message": "تم البدء في",
+    "description": "2.0 exam.js"
+  },
+  "answerTimeMinite": {
+    "message": "المدة (دقيقة)",
+    "description": "2.0 exam.js"
+  },
+  "faceVerification": {
+    "message": "التحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "verificationCode": {
+    "message": "رمز التحقق",
+    "description": "2.0 exam.js"
+  },
+  "abnormalRecord": {
+    "message": "سجلات العلامة",
+    "description": "2.0 exam.js"
+  },
+  "haveEntered": {
+    "message": "بدات",
+    "description": "2.0 exam.js"
+  },
+  "notEnter": {
+    "message": "لم يبدأ",
+    "description": "2.0 exam.js"
+  },
+  "beAnswering": {
+    "message": "قيد التنفيذ",
+    "description": "2.0 exam.js"
+  },
+  "descriptionCl": {
+    "message": "ملاحظات: ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips1": {
+    "message": "للامتحانات التي يتم فيها تمكين التحقق من الوجه، يجب رفع صور وجه الطالب مقدما. يمكن رفع صور الوجه إما من قبلك كدفعة واحدة أو من قبل الطلاب. تحتاج إلى التحقق من الصور التي قام الطلاب برفعها. ومع ذلك يمكنك اختيار السماح للطلاب بإجراء الامتحان دون التحقق من صور وجوههم بتغير إعدادات الامتحان. وبخلاف ذلك لن يسمح للطلاب الذين لم يتم التحقق من صور وجوههم وقبولها بإجراء الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "batchExportPhotos": {
+    "message": "استيراد الصور دفعة واحدة",
+    "description": "2.0 exam.js"
+  },
+  "exportAuthenticationInfo": {
+    "message": "تصدير صورة التحقق",
+    "description": "2.0 exam.js"
+  },
+  "unuploadedPhotos": {
+    "message": "لم ترفع",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "unuploadedPhotosAlt": {
+    "message": "الصورة غير متوفرة",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "batchOpration": {
+    "message": "إجراءات الدفعة",
+    "description": "2.0 exam.js"
+  },
+  "finish": {
+    "message": "تم",
+    "description": "2.0 exam.js"
+  },
+  "checkAllWholePage": {
+    "message": "اختر الكل في هذه الصفحة",
+    "description": "2.0 exam.js"
+  },
+  "batchAudit": {
+    "message": "التحقق من الصور دفعة واحدة",
+    "description": "2.0 exam.js"
+  },
+  "batchClearPhoto": {
+    "message": "حذف الصور دفعة واحدة",
+    "description": "2.0 exam.js"
+  },
+  "replacePhoto": {
+    "message": "رفع صورة جديدة",
+    "description": "2.0 exam.js"
+  },
+  "reAudit": {
+    "message": "إعادة التحقق",
+    "description": "2.0 exam.js"
+  },
+  "photoUploader": {
+    "message": "تم الرفع بواسطة:",
+    "description": "2.0 exam.js"
+  },
+  "photoUploadTimeCl": {
+    "message": "تم الرفع في:",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditorCl": {
+    "message": "تمت مراجعتها من قبل: ",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditTimeCl": {
+    "message": "تمت مراجعتها في: ",
+    "description": "2.0 exam.js"
+  },
+  "batchExportAuthenticationPhoto": {
+    "message": "استيراد صور وجه الطالب",
+    "description": "2.0 exam.js"
+  },
+  "authenticationPhotoRequire": {
+    "message": "متطلبات صورة الوجه",
+    "description": "2.0 exam.js"
+  },
+  "auditTips2": {
+    "message": "الصيغ: jpg و jpeg و png و bmp.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips3": {
+    "message": "العرض × الارتفاع: 413x295 بكسل أو بحجم مختلف مع مرعاة نفس النسبة.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips4": {
+    "message": "يجب أن يحتوي اسم الصورة على كود الطالب وعدم وضع أي أرقام أخرى.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips5": {
+    "message": "إذا كانت أكاديميتك تستخدم نظام (SIS) لمعلومات الطلاب  و تقوم بتغذية بيانات الطلاب في ULearning بواستطه. نوصي أكاديميتك برفع  صور وجه الطالب من نفس النظام.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips6": {
+    "message": "أمثلة لتسمية الصور",
+    "description": "2.0 exam.js"
+  },
+  "auditTips7": {
+    "message": "Zhang San",
+    "description": "2.0 exam.js"
+  },
+  "auditTips8": {
+    "message": "لرفع صور الوجه الطالب قم بتجميعها في ملف واحد مضغوط",
+    "description": "2.0 exam.js"
+  },
+  "uploadPhoto": {
+    "message": "تم الرفع",
+    "description": "2.0 exam.js"
+  },
+  "cancelUpload": {
+    "message": "إلغاء",
+    "description": "2.0 exam.js"
+  },
+  "batchAuditAuthenticationPhoto": {
+    "message": "التحقق من صور وجوه الطلاب دفعة واحدة",
+    "description": "2.0 exam.js"
+  },
+  "auditTips9": {
+    "message": "انقر لإدخال سبب عدم قبول صورة الوجه. على سبيل المثال، هذه ليست صورة وجه هذا الطالب.",
+    "description": "2.0 exam.js"
+  },
+  "batchClearAuthenticationPhoto": {
+    "message": "حذف الصور دفعة واحدة",
+    "description": "2.0 exam.js"
+  },
+  "auditTips26": {
+    "message": "لا يمكن استرداد الصور المحذوفة. هل تريد حذف هذه الصور؟",
+    "description": "2.0 exam.js"
+  },
+  "auditTips10": {
+    "message": " صور وجه طالب؟",
+    "description": "2.0 exam.js"
+  },
+  "auditTips12": {
+    "message": "الرجاء الانتظار حتى يتم رفع آخر صورة",
+    "description": "2.0 exam.js"
+  },
+  "auditTips13": {
+    "message": "إختر الطالب لمراجعته",
+    "description": "2.0 exam.js"
+  },
+  "auditTips14": {
+    "message": "إختر الطالب الذي تريد حذف صورته",
+    "description": "2.0 exam.js"
+  },
+  "auditTips15": {
+    "message": "لا يمكن رفع ملف مضغوط حجمه أكبر من 1 غيغابايت",
+    "description": "2.0 exam.js"
+  },
+  "uploaded": {
+    "message": "تم الرفع",
+    "description": "2.0 exam.js"
+  },
+  "auditTips16": {
+    "message": "تم الرفع! تتم مطابقة الصور مع الطالب المناسب...",
+    "description": "2.0 exam.js"
+  },
+  "auditTips17": {
+    "message": "تم الإنتهاء من الاستيراد بنجاح",
+    "description": "2.0 exam.js"
+  },
+  "auditTips18": {
+    "message": "لم نتمكن التحقق من قطعة من الصور. ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips19": {
+    "message": " الصور. كود الطالب أو صيغة صورة للطلاب غير صحيحة (",
+    "description": "2.0 exam.js"
+  },
+  "auditTips20": {
+    "message": "تم الإنتهاء من الاستيراد بنجاح",
+    "description": "2.0 exam.js"
+  },
+  "auditTips21": {
+    "message": "صور وجه الطالب.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips22": {
+    "message": "لم يتم العثور على أية صور في الملف المضغوط. تأكد من إختيار الملف الصحيح.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips23": {
+    "message": "خطأ في استيراد الصورة!",
+    "description": "2.0 exam.js"
+  },
+  "auditTips24": {
+    "message": "لم نتمكن من الرفع ! برجاء التحقق من امتداد الملف.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips25": {
+    "message": "خطأ في الرفع!",
+    "description": "2.0 exam.js"
+  },
+  "myQuestionLibrary": {
+    "message": "بنك أسئلتي",
+    "description": "2.0 exam.js"
+  },
+  "examPaperTitle": {
+    "message": "اسم الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "examStructure": {
+    "message": "بنية الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "queTotalNumberCl": {
+    "message": "أسئلة الامتحان:",
+    "description": "2.0 exam.js"
+  },
+  "examPaperFullScore": {
+    "message": "درجة الامتحان: ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips1": {
+    "message": "نسخ بنية الامتحان الحالية",
+    "description": "2.0 exam.js"
+  },
+  "inputSectionName": {
+    "message": "انقر لإدخال اسم القسم",
+    "description": "2.0 exam.js"
+  },
+  "scoreCl": {
+    "message": "الدرجات:",
+    "description": "2.0 exam.js"
+  },
+  "moveUp": {
+    "message": "حرك لأعلى",
+    "description": "2.0 exam.js"
+  },
+  "moveDown": {
+    "message": "حرك لأسفل",
+    "description": "2.0 exam.js"
+  },
+  "extractQueNumberCl": {
+    "message": "الرسم: ",
+    "description": "2.0 exam.js"
+  },
+  "eachContainSubQue": {
+    "message": "أسئلة فرعية:",
+    "description": "2.0 exam.js"
+  },
+  "eachQueScoreCl": {
+    "message": "درجة كل سؤال: ",
+    "description": "2.0 exam.js"
+  },
+  "subQueScoreCl": {
+    "message": "الدرجات:",
+    "description": "2.0 exam.js"
+  },
+  "containSubQueType": {
+    "message": "أنواع الأسئلة الفرعية: ",
+    "description": "2.0 exam.js"
+  },
+  "addQuestionType": {
+    "message": "إضافة نوع سؤال",
+    "description": "2.0 exam.js"
+  },
+  "addSection": {
+    "message": "إضافة قسم",
+    "description": "2.0 exam.js"
+  },
+  "copyExamStructure": {
+    "message": "نسخ بنية الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "selectCourse": {
+    "message": "اختر المقرر الدراسي",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectCourse": {
+    "message": "رجاء إختر المقرر الدراسي",
+    "description": "2.0 exam.js"
+  },
+  "selectExam": {
+    "message": "إختر امتحان المقرر الدراسي",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExam": {
+    "message": "رجاء إختر امتحان المقرر الدراسي",
+    "description": "2.0 exam.js"
+  },
+  "selectExamPaper": {
+    "message": "اختر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExamPaper": {
+    "message": "رجاء إختر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "schoolQuestionLibrary": {
+    "message": "بنك أسئلة الأكاديمية",
+    "description": "2.0 exam.js"
+  },
+  "randomTips5": {
+    "message": "أولاً، انتقل إلى  ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips6": {
+    "message": "بنك أسئلتي",
+    "description": "2.0 exam.js"
+  },
+  "singleChoiceQ": {
+    "message": "الاختيار من متعدد",
+    "description": "2.0 exam.js"
+  },
+  "multipleChoiceQ": {
+    "message": "إجابات متعددة",
+    "description": "2.0 exam.js"
+  },
+  "completionQ": {
+    "message": "تعبئة الفراغ",
+    "description": "2.0 exam.js"
+  },
+  "judgementQ": {
+    "message": "صواب/خطأ",
+    "description": "2.0 exam.js"
+  },
+  "shortAnswerQ": {
+    "message": "إجابة قصيرة",
+    "description": "2.0 exam.js"
+  },
+  "sequencingQ": {
+    "message": "التسلسل",
+    "description": "2.0 exam.js"
+  },
+  "comprehensiveQ": {
+    "message": "تركيب",
+    "description": "2.0 exam.js"
+  },
+  "pullDownSelectionQ": {
+    "message": "قائمة منسدلة متعددة",
+    "description": "2.0 exam.js"
+  },
+  "matchingQ": {
+    "message": "وصل",
+    "description": "2.0 exam.js"
+  },
+  "readingQ": {
+    "message": "قراءة",
+    "description": "2.0 exam.js"
+  },
+  "listeningQ": {
+    "message": "استماع",
+    "description": "2.0 exam.js"
+  },
+  "writingQ": {
+    "message": "كتابة",
+    "description": "2.0 exam.js"
+  },
+  "translationQ": {
+    "message": "ترجمة",
+    "description": "2.0 exam.js"
+  },
+  "clozeQ": {
+    "message": "إغلق الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "formulaQ": {
+    "message": "معادلة محسوبة",
+    "description": "2.0 exam.js"
+  },
+  "descriptionModule": {
+    "message": "شرح وحدة",
+    "description": "2.0 exam.js"
+  },
+  "syntaxModule": {
+    "message": "وحدة نحو",
+    "description": "2.0 exam.js"
+  },
+  "lexicalModule": {
+    "message": "وحدة مفردات",
+    "description": "2.0 exam.js"
+  },
+  "spokenModule": {
+    "message": "وحدة اللغة المنطوقة",
+    "description": "2.0 exam.js"
+  },
+  "readingQBankedCloze": {
+    "message": "القراءة - ملئ الفراغ",
+    "description": "2.0 exam.js"
+  },
+  "attachUploadQ": {
+    "message": "رفع الملف",
+    "description": "2.0 exam.js"
+  },
+  "listeningObjectivesQ": {
+    "message": "الاستماع - سؤال موضوعي",
+    "description": "2.0 exam.js"
+  },
+  "completionQDisorder": {
+    "message": "تعبئة الفراغ- غير مرتب",
+    "description": "2.0 exam.js"
+  },
+  "discussionQ": {
+    "message": "مقال",
+    "description": "2.0 exam.js"
+  },
+  "materialAnalysisQ": {
+    "message": "تحليل",
+    "description": "2.0 exam.js"
+  },
+  "autoGroupPaper": {
+    "message": "إنشاء إمتحان تلقائيا",
+    "description": "2.0 exam.js"
+  },
+  "randomTips8": {
+    "message": "لا يجب أن يقل اسم الامتحان عن حرف و لا يزيد عن 200 حرف",
+    "description": "2.0 exam.js"
+  },
+  "randomTips9": {
+    "message": "أضف للامتحان قسم واحد على الأقل ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips10": {
+    "message": "لا يجب أن يقل اسم القسم عن حرف و لا يزيد عن 200 حرف",
+    "description": "2.0 exam.js"
+  },
+  "randomTips11": {
+    "message": "هيكل الامتحان غير مكتمل. الرجاء التحقق و التعديل إذا لزم الأمر قبل المحاولة مرة أخرى.",
+    "description": "2.0 exam.js"
+  },
+  "selectExamRoom": {
+    "message": "اختر مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "confirmExamRoom": {
+    "message": "تأكيد مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips1": {
+    "message": "# من الممتحنين في كل محاضرة: ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips2": {
+    "message": " (يجب أن يكون العدد الإجمالي للمقاعد في مقر الامتحان المختار أكبر من هذا العدد)",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips3": {
+    "message": "عدد المقاعد في مقر الامتحان المختار: ",
+    "description": "2.0 exam.js"
+  },
+  "addExamRoom": {
+    "message": "إضافة مقر امتحان",
+    "description": "2.0 exam.js"
+  },
+  "examRoomName": {
+    "message": "اسم مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "type": {
+    "message": "نوع",
+    "description": "2.0 exam.js"
+  },
+  "normalClassroom": {
+    "message": "فصل عادي",
+    "description": "2.0 exam.js"
+  },
+  "computerRoom": {
+    "message": "مختبر الكمبيوتر",
+    "description": "2.0 exam.js"
+  },
+  "lastStep": {
+    "message": "رجوع",
+    "description": "2.0 exam.js"
+  },
+  "nextStep": {
+    "message": "الخطوة التالية",
+    "description": "2.0 exam.js"
+  },
+  "seatOf": {
+    "message": "{n} مقعد",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "examStudentOf": {
+    "message": "{n} ممتحن",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "seatsOf": {
+    "message": "{n} مقعد",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips5": {
+    "message": "يتم تعيين المقاعد تلقائيا من قبل النظام. يمكنك تعديل عدد المقاعد يدويا.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips6": {
+    "message": "إختر الفصل لتعديل عدد المقاعد أو تعيين فصلين لتغير المقر",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamRoom": {
+    "message": "تعديل مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "exchangeExamRoom": {
+    "message": "تغير مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "saveArranging": {
+    "message": "حفظ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips7": {
+    "message": "يمكنك نقل كل الفصل أو بعض الطلاب إلى مقر آخر للامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips11": {
+    "message": "هل تريد حذف مقر الامتحان هذا؟",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips12": {
+    "message": "انقر لإدخال اسم مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips13": {
+    "message": "أدخل رقم أكبر من 0",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips14": {
+    "message": "يجب أن تكون المقاعد المتاحة في مقر الامتحان المختار أكثر من عدد المشاركين في الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips15": {
+    "message": "اختر مقر الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTip16": {
+    "message": "عدد المقاعد المتاحة  {n} و هو أقل من عدد الممتحنين",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips17": {
+    "message": "لا يمكن أن يكون عدد الطلاب الذين سيتم نقلهم صفرا",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips18": {
+    "message": "لا يمكن أن يتجاوز عدد الطلاب الذين سيتم نقلهم العدد الإجمالي للطلاب",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips19": {
+    "message": "عدد الطلاب الذين سيتم نقلهم لا يمكن أن يتجاوز عدد المقاعد المتبقية",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips20": {
+    "message": "لا يوجد عدد كافي من المقاعد",
+    "description": "2.0 exam.js"
+  },
+  "inputExamName": {
+    "message": "انقر لإدخال اسم امتحان المقرر الدراسي",
+    "description": "2.0 exam.js"
+  },
+  "examPapers": {
+    "message": "امتحان المقرر الدراسي",
+    "description": "2.0 exam.js"
+  },
+  "appointExamPaper": {
+    "message": "امتحان محدد مسبقا",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips1": {
+    "message": "(لا يمكن التعديل بعد بدء الامتحان)",
+    "description": "2.0 exam.js"
+  },
+  "enable": {
+    "message": "متاح",
+    "description": "2.0 exam.js"
+  },
+  "disable": {
+    "message": "‏‏معطل",
+    "description": "2.0 exam.js"
+  },
+  "questionNumber": {
+    "message": "أسئلة الامتحان:",
+    "description": "2.0 exam.js"
+  },
+  "passScore": {
+    "message": "درجة النجاح",
+    "description": "2.0 exam.js"
+  },
+  "examResult": {
+    "message": "عرض النتيجة:",
+    "description": "2.0 exam.js"
+  },
+  "immediateDisplay": {
+    "message": "فوراً",
+    "description": "2.0 exam.js"
+  },
+  "afterDaysShow": {
+    "message": "يعرض بعد {n} يوم",
+    "description": "教师账号 -> 考试 -> 添加考试"
+  },
+  "weekAfterShow": {
+    "message": "{count} أسبوع بعد الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "noShow": {
+    "message": "عدم عرض",
+    "description": "2.0 exam.js"
+  },
+  "examDuration": {
+    "message": "مدة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "showScope": {
+    "message": "ما يجب عرضه؟",
+    "description": "2.0 exam.js"
+  },
+  "participtionWay": {
+    "message": "جهاز الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "onPCExam": {
+    "message": "كمبيوتر شخصي",
+    "description": "2.0 exam.js"
+  },
+  "onMobileExam": {
+    "message": "جهاز الجوال",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips2": {
+    "message": "كل من جهاز الكمبيوتر وجهاز محمول",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips3": {
+    "message": "أسئلة المعادلات غير مدعومة لامتحان الجوال حتى الآن",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips4": {
+    "message": "يحتوي الامتحان {paperName} على أسئلة لا يدعمها تطبيق الجوال. إما تغير الامتحان إلى امتحان كمبيوتر شخصي أو قم بإزالة أو تعديل أسئلة الامتحان غير المدعومة.",
+    "description": "2.0 exam.js"
+  },
+  "examTimes": {
+    "message": "محاولات الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "most": {
+    "message": "حتى ",
+    "description": "2.0 exam.js"
+  },
+  "mostExamCount": {
+    "message": "{count} مرة",
+    "description": "2.0 exam.js"
+  },
+  "unlimitTimes": {
+    "message": "بلا حدود",
+    "description": "2.0 exam.js"
+  },
+  "lateTip": {
+    "message": "لا يسمح بالدخول بعد {count} دقيقة من بداية الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "commitLimitTip": {
+    "message": "لا يمكن الإرسال في {Count} دقيقة",
+    "description": "2.0 exam.js"
+  },
+  "abnormalMonitor": {
+    "message": "مراقبة السلوك المريب",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips5": {
+    "message": "مراقبة عدد مرات مغادرة الطالب شاشة الامتحان أثناء الامتحان. إذا كان أكثر من ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips6": {
+    "message": "مرات، سيتم إرسال الامتحان لا إراديا.",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips7": {
+    "message": "دعم الامتحان من خلال تطبيق الجوال فقط - الكشف عما إذا كان الطالب يغادر شاشة التطبيق أو يغلق التطبيق أو يفتح التطبيق في الخلفية",
+    "description": "2.0 exam.js"
+  },
+  "identityVerification": {
+    "message": "المصادقة",
+    "description": "2.0 exam.js"
+  },
+  "openFaceVerification": {
+    "message": "التحقق من الوجه متاح",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips8": {
+    "message": "السماح للطلاب الذين لم تتم مراجعة صورهم بعد دخول الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "description": {
+    "message": "الشرح",
+    "description": "2.0 exam.js"
+  },
+  "fold": {
+    "message": "طي",
+    "description": "2.0 exam.js"
+  },
+  "unfold": {
+    "message": "توسيع",
+    "description": "2.0 exam.js"
+  },
+  "publishExam": {
+    "message": "نشر امتحان المقرر الدراسي",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips9": {
+    "message": " (خدمة اختيارية مع رسوم إضافية. اتصل بخدمة العملاء على  service.sg@ulearning.cn أو بمسؤول LMS للحصول على مزيد من المعلومات.)",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips10": {
+    "message": " (انتهت مدة صلاحية الخدمة. إذا كنت بحاجة إلى استمرار استخدام هذه الخدمة، يرجى الاتصال بخدمة العملاء على service.sg@ulearning.cn أو بمسؤول LMS)",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchs": {
+    "message": "تعديل محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "batchs": {
+    "message": "محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips11": {
+    "message": "هل تريد حذف هذه المحاضرة؟",
+    "description": "2.0 exam.js"
+  },
+  "publishSuccess": {
+    "message": "تم النشر بنجاح!",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamSuccess": {
+    "message": "تم تعديل الامتحان بنجاح!",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchSuccess": {
+    "message": "تم تعديل المحاضرة بنجاح!",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips12": {
+    "message": "تمت إزالة الامتحانات المكررة",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips13": {
+    "message": "لا يمكنك حذف الامتحانات بسجلات الإجابة",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips14": {
+    "message": "احتفظ بامتحان واحد على الأقل",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips15": {
+    "message": "يجب أن يتراوح اسم الامتحان بين حرفين و حتى 100 حرف",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips16": {
+    "message": "احتفظ بامتحان واحد متاح على الأقل",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips17": {
+    "message": "يجب أن تتراوح درجة النجاح بين {range}",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips18": {
+    "message": "بين.",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips19": {
+    "message": "أختر من سيقوم بالإختبار (فصول / طلاب)",
+    "description": "2.0 exam.js"
+  },
+  "allBatch": {
+    "message": "كل المحاضرات",
+    "description": "2.0 exam.js"
+  },
+  "inputNameSearch": {
+    "message": "أدخل الاسم للبحث",
+    "description": "2.0 exam.js"
+  },
+  "approve": {
+    "message": "التقدير",
+    "description": "2.0 exam.js"
+  },
+  "scoreAnalysis": {
+    "message": "تحليل نتيجة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "averageFinishedTime": {
+    "message": "متوسط وقت الإكمال",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips1": {
+    "message": "البيانات الواردة في التقرير لا تشمل الطلاب الذين تغيبوا عن الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips2": {
+    "message": "إذا كان هناك عدة محاولات مسموح بها للامتحان، يتم احتساب أعلى الدرجات",
+    "description": "2.0 exam.js"
+  },
+  "userNumber": {
+    "message": "# من المستخدمين",
+    "description": "2.0 exam.js"
+  },
+  "viewQue": {
+    "message": "عرض أسئلة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "examInfo": {
+    "message": "معلومات الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "examinationManagement": {
+    "message": "إدارة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "examMonitor": {
+    "message": "مراقبة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "analysisReport": {
+    "message": "تقرير التحليل",
+    "description": "2.0 exam.js"
+  },
+  "class": {
+    "message": "الفصل",
+    "description": "2.0 exam.js"
+  },
+  "roomTips14": {
+    "message": "أدخل كود الطالب / اسم الطالب للبحث",
+    "description": "2.0 exam.js"
+  },
+  "allStudent": {
+    "message": "كل الطلاب",
+    "description": "2.0 exam.js"
+  },
+  "auditFailed2": {
+    "message": "تم الرفض",
+    "description": "2.0 exam.js"
+  },
+  "remainSeatOf": {
+    "message": "{n} مقعد متبقي",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "remainSeatOf2": {
+    "message": "{roomName} {n} مقعد متبقي",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "modifyRoomTip": {
+    "message": "نقل {n} طالب من {className} (إجمالي الطلاب: {total}) إلى مقر الامتحان التالي: ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "objectivesQ": {
+    "message": "التقدير التلقائي للأسئلة",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQ": {
+    "message": "التقدير اليدوي للأسئلة",
+    "description": "2.0 exam.js"
+  },
+  "commitTime": {
+    "message": "وقت التسليم",
+    "description": "2.0 exam.js"
+  },
+  "view": {
+    "message": "عرض",
+    "description": "2.0 exam.js"
+  },
+  "classRange": {
+    "message": "الفصول : {className}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "exportDate": {
+    "message": "تاريخ التصدير: {date}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "securitySetting": {
+    "message": "إعدادات مكافحة الغش",
+    "description": "2.0 exam.js"
+  },
+  "answerSetting": {
+    "message": "إعدادات الإجابة",
+    "description": "2.0 exam.js"
+  },
+  "attachAccess": {
+    "message": "المرفقات مسموح بها لإجابات الأسئلة القصيرة",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor": {
+    "message": "مراقبة الجهاز",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor1": {
+    "message": "تمكين مراقبة الجهاز. لا يسمح للطلاب بالتبديل إلى جهاز أو متصفح آخر أثناء الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor2": {
+    "message": "إذا كان تبديل الجهاز ضروريا، يمكن للمعلم إصدار رمز تحقق.",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor": {
+    "message": "مراقبة IP ",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor1": {
+    "message": "تمكين مراقبة IP. لا يسمح للطلاب بالتبديل إلى شبكة أخرى أثناء الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor2": {
+    "message": "إذا كان تبديل الشبكة ضروريا، يمكن للمعلم إصدار رمز تحقق.",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor": {
+    "message": "مراقبة الكاميرا",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor1": {
+    "message": "تمكين مراقبة الكاميرا. سيتم التقاط صور للطالب بشكل عشوائي كل 3 أو 5 دقائق و عرضها على صفحة سجل الامتحان الخاصة بالطالب.",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor2": {
+    "message": "تأكد من أن كل الأجهزة التي يستخدمها الطلاب لأداء الامتحان تحتوي جميعها على كاميرا أمامية.",
+    "description": "2.0 exam.js"
+  },
+  "showAfterBatchEnd": {
+    "message": "بعد انتهاء كل محاضرات الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitor": {
+    "message": "مراقبة الشاشة",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips1": {
+    "message": "(دعم الامتحانات عبر تطبيق ULearning التطبيق)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips2": {
+    "message": "تمكين مراقبة الشاشة. سيتم إرسال الامتحان لا إراديا إذا غادر الطالب شاشة الامتحان أكثر من {count} مرة {tip}",
+    "description": "tip处的插值是 “（仅支持手机考试）”，因为tip需要独立的设置样式。"
+  },
+  "faceAuth": {
+    "message": "التحقق من الوجه",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips15": {
+    "message": "تمكين التحقق من الوجه. لابد للطلاب اجتياز عملية التحقق من الوجه لبدء الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips16": {
+    "message": "تحتاج إلى رفع صور وجوه الطلاب قبل الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime": {
+    "message": "تم الإرسال إلى",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime2": {
+    "message": "وقت الإرسال: {time}",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTimeTips1": {
+    "message": "لن يسمح بإرسال الامتحان في غضون {count} {minuteTip} بعد بدء الامتحان",
+    "description": "minuteTip 的插值是分钟，就是下面的minuteTip"
+  },
+  "minuteTip": {
+    "message": "دقيقة",
+    "description": "2.0 exam.js"
+  },
+  "batchTips": {
+    "message": "لإجراء الامتحان، يجب إضافة الطلاب أو الفصل الذي يحتوي على الطلاب إلى محاضرة الامتحان أولا. يمكن إنشاء محاضرة الامتحان بعد نشر امتحان الفصل.",
+    "description": "2.0 exam.js"
+  },
+  "edit": {
+    "message": "تعديل",
+    "description": "2.0 exam.js"
+  },
+  "examTips": {
+    "message": "إرشادات الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "maxTextInputTips": {
+    "message": "لا يتجاوز 2000 حرف",
+    "description": "2.0 exam.js"
+  },
+  "defaultExamTips": {
+    "message": "حفظه كقالب افتراضي لاستخدامه مستقبلا",
+    "description": "2.0 exam.js"
+  },
+  "detailTips3": {
+    "message": "1. بالنسبة للامتحانات التي يتم تمكين مراقبة الشاشة أو IP فيها، يمكن للطالب تغير الجهاز أو الشبكة من خلال رمز التحقق هذا إذا كانت عملية التبديل ضرورية.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips4": {
+    "message": "2. بالنسبة للامتحانات التي يتم فيها تمكين التحقق من الوجه، يمكن للطالب بدء الامتحان من خلال رمز التحقق هذا إذا كان الطالب لا يمكنه دخول الامتحان من خلال التحقق من الوجه.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips5": {
+    "message": "3. الكود صالح لمدة 15 دقيقة. بعد 15 دقيقة ستحتاج إلى كود جديد.",
+    "description": "2.0 exam.js"
+  },
+  "leave": {
+    "message": "مغادرة",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips4": {
+    "message": "يرجى {detectEnv} قبل الامتحان للتأكد من حالة الشبكة و الأجهزة والمتصفح ... الخ.",
+    "description": "detectEnv 的插值是“检测考试环境”，就是下面的 detectEnv 字段"
+  },
+  "detectEnv": {
+    "message": "التحقق من توافق الذي سيتم عليه الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto": {
+    "message": "حذف صورة",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto2": {
+    "message": "حذف صورة",
+    "description": "2.0 exam.js"
+  },
+  "replaceDevice": {
+    "message": "تبديل الجهاز",
+    "description": "2.0 exam.js"
+  },
+  "replaceIp": {
+    "message": "تبديل IP",
+    "description": "2.0 exam.js"
+  },
+  "systemPhoto": {
+    "message": "الصورة الملتقطة",
+    "description": "2.0 exam.js"
+  },
+  "inCorrectPhoto": {
+    "message": "الصورة لا تتطابق مع المستخدم",
+    "description": "2.0 exam.js"
+  },
+  "photoRemoved": {
+    "message": "تم حذف الصورة",
+    "description": "2.0 exam.js"
+  },
+  "deviceID": {
+    "message": "كود الجهاز: {id}",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto": {
+    "message": "هل تريد حذف كل صور الطلاب التي تم التقاطها لهذا الفصل؟",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto2": {
+    "message": "هل تريد حذف كل الصور التي تم التقاطها لهذا الطالب؟",
+    "description": "2.0 exam.js"
+  },
+  "recordShowAfterSubmit": {
+    "message": "بعد التقديم مباشرة",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaper": {
+    "message": "تصدير نموذج الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaperSuccess": {
+    "message": "تم حفظ نموذج الامتحان في مكتبة الامتحانات",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips1": {
+    "message": "بعد انتهاء الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips2": {
+    "message": "{n} يوم قبل نهاية الامتحان",
+    "description": "2.0 {filename}"
+  },
+  "weekPublish": {
+    "message": "{n} اسبوع قبل نهاية الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "noPublish": {
+    "message": "عدم عرض",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch2": {
+    "message": "حذف محاضرة",
+    "description": "2.0 exam.js"
+  },
+  "examDaysPublish": {
+    "message": "تعرض نتائج الامتحان بعد {n} يوم من انتهاء الامتحان",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "auditTipsClassroom": {
+    "message": "التحقق من الوجه قيد تشغيل. يجب رفع صور أوجه الطلاب مسبقًا. يمكن تصدير كل الصور من قبل المعلم أو يقوم الطلاب برفعها. إذ اقام الطلاب رفع صورة الوجه يجب على المعلم مراجعتها وموافقة عليها.",
+    "description": "2.0 exam.js"
+  },
+  "faceServiceTips": {
+    "message": "تمكين التحقق من الوجه ومراقبة الكاميرا لمعهدك غير متاح لمعهدك (خدمات اختيارية مع رسوم إضافية). اتصل بمسؤول LMS للحصول على التفاصيل.",
+    "description": "2.0 exam.js"
+  },
+  "borwserTip": {
+    "message": "المتصفح الذي تستخدمه: {browser}. يرجى استخدام Chrome لإجراء الامتحان.",
+    "description": "2.0 {filename}"
+  },
+  "findExamTip": {
+    "message": "إذا لم تجد الامتحان الذي تحتاج إلى اجتيازه في قائمة الامتحانات أدناه، فتأكد أنك سجلت الدخول إلى الحساب الصحيح  أو ما إذا كنت في الفصل الصحيح.",
+    "description": "2.0 {filename}"
+  },
+  "faceServiceTipsNew": {
+    "message": "تمكين التحقق من الوجه ومراقبة الكاميرا لمعهدك غير متاح لمعهدك (خدمات اختيارية مع رسوم إضافية). اتصل بمسؤول LMS للحصول على التفاصيل.",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWeb": {
+    "message": "ويب فقط",
+    "description": "2.0 exam.js"
+  },
+  "onlyMobile": {
+    "message": "تطبيق ULearning فقط",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExe": {
+    "message": "المتصفح الآمن فقط",
+    "description": "2.0 exam.js"
+  },
+  "unlimit": {
+    "message": "لا توجد قيود",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips": {
+    "message": "لإجراء امتحان باستخدام {PCExe}، لا يمكن للطلاب مغادرة شاشة الامتحان أثناء الامتحان، وهو مناسب للاختبارات عالية المخاطر، أو للامتحانات التي يتم تقديمها في مركز اختبار أو مختبر كمبيوتر.",
+    "description": "2.0 exam.js"
+  },
+  "PCExe": {
+    "message": "متصفح آمن",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips1": {
+    "message": "لهذا الاختيار يجب تثبيت متصفح ULearning الآمن على الكمبيوتر قبل الامتحان. متصفح ULearning الآمن يدعم فقط ويندوز 7 أو الإصدرات الأحدث و لا يدعم نظام تشغيل ماك، للتأكد من أن النظام يعمل بشكل جيد ينصح بإجراء إختبار للنظام قبل أداء امتحان رسمي.",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration": {
+    "message": "مدة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "resultPublic": {
+    "message": "نطاق النشر",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorItem": {
+    "message": "تمكين مراقبة الكاميرا، بما في ذلك أخذ لقطات، والكشف عن الإيماءات، وتسجيل السلوك المريب. ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorTips": {
+    "message": "يجب على الطلاب تشغيل الكاميرا الأمامية لجهازهم و الحفاظ على استقرارها - تدعم الامتحانات عبر الكمبيوتر الشخصي فقط.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent": {
+    "message": "تتضمن مراقبة الكاميرا: ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent1": {
+    "message": "1. التقاط صورة للطالب و/أو البيئة التي أمام الكاميرا كل دقيقة.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent2": {
+    "message": "2.رصد إيماءات الطلاب عن طريق الكاميرا وكشف و تدوين ملاحظات على السلوكيات كطريقة مغادرة المقعد، طريقة إنحراف العين بعد فترة طويلة من التركيز، التحدث مع الآخرين، الخ.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent3": {
+    "message": "3. تسجيل السلوك المريب: تسجيل السلوكيات المريبة و رفع الفيديو للمراجعة لاحقا.",
+    "description": "2.0 exam.js"
+  },
+  "cameraMonitor": {
+    "message": "مراقبة الكاميرا",
+    "description": "2.0 exam.js"
+  },
+  "PCExe1": {
+    "message": "متصفح ULearning الآمن",
+    "description": "2.0 exam.js"
+  },
+  "PCweb": {
+    "message": "الموقع",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips5": {
+    "message": "فيما يلي كل الامتحانات التي نشرها المعلم، يرجى إلقاء نظرة فاحصة على تفاصيل كل امتحان قبل الدخول في الامتحان.",
+    "description": "2.0 exam.js"
+  },
+  "downloadPCExe": {
+    "message": "تنزيل متصفح ULearning الآمن",
+    "description": "2.0 exam.js"
+  },
+  "webEnvTest": {
+    "message": "فحص توافق الكمبيوتر",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeBtnTips": {
+    "message": "يرجى إجراء الامتحان عبر متصفح ULearning الآمن",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWebBtnTips": {
+    "message": "يرجى إجراء الامتحان عبر متصفح الويب الخاص بجهازك",
+    "description": "2.0 exam.js"
+  },
+  "monitorRecords": {
+    "message": "سجلات المراقبة",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminder": {
+    "message": "إشعارات السلوك المريب",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderFilter": {
+    "message": "تصفية السلوكيات المشبوهة",
+    "description": "2.0 exam.js"
+  },
+  "mobileExam": {
+    "message": "الامتحان عن طريق تطبيق ULearning",
+    "description": "2.0 exam.js"
+  },
+  "exception1": {
+    "message": "مدة ترك شاشة الامتحان > 5 توان",
+    "description": "2.0 exam.js"
+  },
+  "exception2": {
+    "message": "سيتم إرسال الامتحان لا إراديا من قبل النظام",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle2": {
+    "message": "إيماءات lمريبة",
+    "description": "2.0 exam.js"
+  },
+  "leaveSeat": {
+    "message": "ترك مقعد",
+    "description": "2.0 exam.js"
+  },
+  "talk": {
+    "message": "التحدث مع الآخرين",
+    "description": "2.0 exam.js"
+  },
+  "examMonitorRecords": {
+    "message": "مراقبة سجلات الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "answerTrack": {
+    "message": "نموذج إجابة الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "clearfixMonitorRecords": {
+    "message": "إزالة سجلات المراقبة",
+    "description": "2.0 exam.js"
+  },
+  "normalState": {
+    "message": "الحالة العادية",
+    "description": "2.0 exam.js"
+  },
+  "confirmClearMonitorRecords": {
+    "message": "هل تريد إزالة سجلات المراقبة؟",
+    "description": "2.0 exam.js"
+  },
+  "timeDay": {
+    "message": "{days} يوم",
+    "description": "2.0 exam.js"
+  },
+  "timeHour": {
+    "message": "{hours} ساعة",
+    "description": "2.0 exam.js"
+  },
+  "timeSecond": {
+    "message": "{seconds} ثانية",
+    "description": "2.0 exam.js"
+  },
+  "UTestName": {
+    "message": "U- نظام اختبار الامتحان",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputName": {
+    "message": "الرجاء إدخال اسم المستخدم",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputPsd": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "2.0 exam.js"
+  },
+  "UTestLoginErr": {
+    "message": "اسم مستخدم أو كلمة مرور غير صحيحة",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogin": {
+    "message": "تسجيل دخول",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogout": {
+    "message": "تسجيل خروج",
+    "description": "2.0 exam.js"
+  },
+  "UTestDesc": {
+    "message": "ملاحظة: يتم استخدام متصفح ULearning الآمن لإجراء الامتحان فقط. يتم تسجيل المستخدمين وتسجيل المقرر الدراسي عبر منصة ULearning أو تطبيق ULearning.",
+    "description": "2.0 exam.js"
+  },
+  "ISee": {
+    "message": "فهمت ذلك!",
+    "description": "2.0 exam.js"
+  },
+  "remoteRecordTime": {
+    "message": "الوقت الذي تم فيه حفظ سجلات الإجابة على المنصة\n",
+    "description": "2.0 exam.js"
+  },
+  "confirmRecover": {
+    "message": "تأكيد",
+    "description": "2.0 exam.js"
+  },
+  "comfirmDelete": {
+    "message": "هل تريد الحذف؟",
+    "description": "2.0 exam.js"
+  },
+  "recover": {
+    "message": "استرداد",
+    "description": "2.0 exam.js"
+  },
+  "recoverErrorTips": {
+    "message": "لم نتمكن من الاستعادة -- الرجاء محاولة ذلك مرة أخرى في وقت لاحق!",
+    "description": "2.0 exam.js"
+  }
+}

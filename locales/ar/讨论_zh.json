@@ -1,0 +1,634 @@
+{
+  "_name": {
+    "message": "‏‏الإنجليزية",
+    "description": "讨论"
+  },
+  "langCss": {
+    "message": "enCs",
+    "description": "讨论"
+  },
+  "system.publishedIn": {
+    "message": "تم النشر",
+    "description": "讨论"
+  },
+  "system.me": {
+    "message": "أنا",
+    "description": "讨论"
+  },
+  "system.allTeacher": {
+    "message": "كل المعلمين",
+    "description": "讨论"
+  },
+  "system.selectAll": {
+    "message": "إختيار الكل",
+    "description": "讨论"
+  },
+  "system.cancel": {
+    "message": "إلغاء",
+    "description": "讨论"
+  },
+  "system.confirm": {
+    "message": "تأكيد",
+    "description": "讨论"
+  },
+  "system.reload": {
+    "message": "إعادة التحميل",
+    "description": "讨论"
+  },
+  "system.error": {
+    "message": "خطأ",
+    "description": "讨论"
+  },
+  "system.loadComplete": {
+    "message": "تم التحميل بنجاح",
+    "description": "讨论"
+  },
+  "system.loadFailed": {
+    "message": "لم نتمكن من التحميل",
+    "description": "讨论"
+  },
+  "system.search": {
+    "message": "بحث",
+    "description": "讨论"
+  },
+  "system.pleaseSelect": {
+    "message": "الرجاء الاختيار",
+    "description": "讨论"
+  },
+  "system.reupload": {
+    "message": "لم نتمكن من الرفع، انقر لإعادة المحاولة",
+    "description": "讨论"
+  },
+  "system.selectLocal": {
+    "message": "اختر من محلي",
+    "description": "讨论"
+  },
+  "system.takePhoto": {
+    "message": "التقاط صورة",
+    "description": "讨论"
+  },
+  "system.page": {
+    "message": "الصفحة",
+    "description": "讨论"
+  },
+  "system.point": {
+    "message": "الدرجة",
+    "description": "讨论"
+  },
+  "system.notStart": {
+    "message": "لم تبدأ بعد",
+    "description": "讨论"
+  },
+  "system.inProgress": {
+    "message": "قيد التنفيذ",
+    "description": "讨论"
+  },
+  "system.ended": {
+    "message": "تم الإنهاء",
+    "description": "讨论"
+  },
+  "system.wrong": {
+    "message": "خطأ",
+    "description": "讨论"
+  },
+  "system.edit": {
+    "message": "تعديل",
+    "description": "讨论"
+  },
+  "system.delete": {
+    "message": "حذف",
+    "description": "讨论"
+  },
+  "system.tip": {
+    "message": "النصائح",
+    "description": "讨论"
+  },
+  "system.deleteTip": {
+    "message": "تأكد من حذف المناقشة",
+    "description": "讨论"
+  },
+  "system.editing": {
+    "message": "قيد التعديل",
+    "description": "讨论"
+  },
+  "system.editFailed": {
+    "message": "لم نتمكن من التحرير",
+    "description": "讨论"
+  },
+  "system.deleteFailed": {
+    "message": "لم نتمكن من الحذف",
+    "description": "讨论"
+  },
+  "system.deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "讨论"
+  },
+  "system.myPoints": {
+    "message": "درجاتي",
+    "description": "讨论"
+  },
+  "system.discuss": {
+    "message": "المناقشة",
+    "description": "讨论"
+  },
+  "system.throwScreen": {
+    "message": "عرض على الشاشة",
+    "description": "讨论"
+  },
+  "system.startingScreen": {
+    "message": "بدء العرض على الشاشة",
+    "description": "讨论"
+  },
+  "system.screenCodeError": {
+    "message": "خطأ في رمز العرض على الشاشة",
+    "description": "讨论"
+  },
+  "system.screenStatusError": {
+    "message": "خطأ في حالة العرض على الشاشة",
+    "description": "讨论"
+  },
+  "system.stopScreenSuccess": {
+    "message": "تم إغلاق العرض على الشاشة بنجاح",
+    "description": "讨论"
+  },
+  "system.stopScreenError": {
+    "message": "خطأ في الشبكة أثناء إغلاق العرض على الشاشة",
+    "description": "讨论"
+  },
+  "system.allClass": {
+    "message": "كل الفصول",
+    "description": "讨论"
+  },
+  "system.filterReply": {
+    "message": "تصفية الردود",
+    "description": "讨论"
+  },
+  "system.timeDesc1": {
+    "message": "عكس بالوقت (افتراضي)",
+    "description": "讨论"
+  },
+  "system.timeDesc": {
+    "message": "عكس الوقت",
+    "description": "讨论"
+  },
+  "system.timeAsc2": {
+    "message": "ترتيب زمني إيجابي",
+    "description": "讨论"
+  },
+  "system.timeAsc": {
+    "message": "ترتيب زمني إيجابي",
+    "description": "讨论"
+  },
+  "system.orderByReplyNum": {
+    "message": "حسب عدد الردود",
+    "description": "讨论"
+  },
+  "system.replyNum": {
+    "message": "عدد الردود",
+    "description": "讨论"
+  },
+  "system.orderByLikesNum": {
+    "message": "حسب عدد الإعجابات",
+    "description": "讨论"
+  },
+  "system.likesNum": {
+    "message": "عدد الإعجابات",
+    "description": "讨论"
+  },
+  "system.relateMe": {
+    "message": "ذات صلة بي",
+    "description": "讨论"
+  },
+  "system.startTime": {
+    "message": "وقت البدء",
+    "description": "讨论"
+  },
+  "system.setStartTime": {
+    "message": "تحديد وقت البدء",
+    "description": "讨论"
+  },
+  "system.endTime": {
+    "message": "وقت الانتهاء",
+    "description": "讨论"
+  },
+  "system.setEndTime": {
+    "message": "تحديد وقت الانتهاء",
+    "description": "讨论"
+  },
+  "system.startTopic": {
+    "message": "نشر الموضوع",
+    "description": "讨论"
+  },
+  "system.pleaseSetTopicName": {
+    "message": "يرجى إدخال اسم الموضوع",
+    "description": "讨论"
+  },
+  "system.classNumTip": {
+    "message": "{num} فصل",
+    "description": "讨论"
+  },
+  "system.participatingClass": {
+    "message": "مشاركة الفصل",
+    "description": "讨论"
+  },
+  "system.pleaseSelectClass": {
+    "message": "الرجاء اختيار الفصل",
+    "description": "讨论"
+  },
+  "system.plzSetStartTime": {
+    "message": "يرجى تحديد وقت البدء",
+    "description": "讨论"
+  },
+  "system.plzSetEndTime": {
+    "message": "يرجى تحديد وقت الإنتهاء",
+    "description": "讨论"
+  },
+  "system.afterMinutes": {
+    "message": "بعد دقائق",
+    "description": "讨论"
+  },
+  "system.afterOneDay": {
+    "message": "بعد يوم",
+    "description": "讨论"
+  },
+  "system.afterOneWeek": {
+    "message": "بعد أسبوع",
+    "description": "讨论"
+  },
+  "system.afterOneMonth": {
+    "message": "بعد شهر",
+    "description": "讨论"
+  },
+  "system.scoreRule": {
+    "message": "قاعدة الدرجات",
+    "description": "讨论"
+  },
+  "system.setScoreRule": {
+    "message": "تحديد قاعدة الدرجات",
+    "description": "讨论"
+  },
+  "system.scorePer": {
+    "message": "درجة كل عنصر",
+    "description": "讨论"
+  },
+  "system.publishing": {
+    "message": "جار النشر",
+    "description": "讨论"
+  },
+  "system.publishSuccess": {
+    "message": "تم النشر بنجاح",
+    "description": "讨论"
+  },
+  "system.publishErrorTip": {
+    "message": "لم نتمكن من النشر، الرجاء إعادة المحاولة",
+    "description": "讨论"
+  },
+  "system.publish": {
+    "message": "نشر",
+    "description": "讨论"
+  },
+  "system.plzSetTopicContent": {
+    "message": "الرجاء إدخال محتوى الموضوع",
+    "description": "讨论"
+  },
+  "system.plzObserve": {
+    "message": "يرجى ملاحظة",
+    "description": "讨论"
+  },
+  "system.uConvention": {
+    "message": "قواعد منتدى ULear",
+    "description": "讨论"
+  },
+  "system.uConventionTip": {
+    "message": "، لا يجوز انتهاك قوانين ولوائح الدولة.",
+    "description": "讨论"
+  },
+  "system.noSearchContent": {
+    "message": "لم يتم العثور على محتوى",
+    "description": "讨论"
+  },
+  "system.noContent": {
+    "message": "لا يوجد محتوى",
+    "description": "讨论"
+  },
+  "system.rankingList": {
+    "message": "قائمة التصنيف",
+    "description": "讨论"
+  },
+  "system.stuNum": {
+    "message": "كود الطالب",
+    "description": "讨论"
+  },
+  "system.lastScore": {
+    "message": "النتيجة النهائية",
+    "description": "讨论"
+  },
+  "system.refreshSuccess": {
+    "message": "تم التحديث بنجاح",
+    "description": "讨论"
+  },
+  "system.changeLastScore": {
+    "message": "تعدييل الدرجة النهائية",
+    "description": "讨论"
+  },
+  "system.changeScoreTip": {
+    "message": "ملاحظة: يمكن للمعلمين مراجعة درجات الطلاب واعتماد الدرجات الجديدة.",
+    "description": "讨论"
+  },
+  "system.avatar": {
+    "message": "الصورة الرمزية",
+    "description": "讨论"
+  },
+  "system.reply": {
+    "message": "الرد",
+    "description": "讨论"
+  },
+  "system.beReplied": {
+    "message": "تم الرد",
+    "description": "讨论"
+  },
+  "system.stuLikes": {
+    "message": "إعجابات الطلاب",
+    "description": "讨论"
+  },
+  "system.teaLikes": {
+    "message": "إعجابات المعلم",
+    "description": "讨论"
+  },
+  "system.teaAddScore": {
+    "message": "درجات يضيفها المعلمون",
+    "description": "讨论"
+  },
+  "system.teaCanEdit": {
+    "message": "المعلمون فقط يمكنهم التعديل",
+    "description": "讨论"
+  },
+  "system.editScore": {
+    "message": "تعديل الدرجة",
+    "description": "讨论"
+  },
+  "system.limitTime": {
+    "message": " مناقشة محددة بوقت",
+    "description": "讨论"
+  },
+  "system.isAnonymous": {
+    "message": " بدء مناقشات مجهولة المصدر ",
+    "description": "讨论"
+  },
+  "system.validTip1": {
+    "message": " لا يمكن أن يكون عنوان المناقشة فارغا ",
+    "description": "讨论"
+  },
+  "system.validTip2": {
+    "message": " يرجي إدخال محتوى المنشور ",
+    "description": "讨论"
+  },
+  "system.validTip3": {
+    "message": " يرجى اختيار وقت بدء و انتهاء المناقشة ",
+    "description": "讨论"
+  },
+  "system.validTip4": {
+    "message": " يرجى اختيار وقت بدء المناقشة ",
+    "description": "讨论"
+  },
+  "system.validTip5": {
+    "message": " يرجى اختيار وقت إنتهاء المناقشة ",
+    "description": "讨论"
+  },
+  "system.validTip6": {
+    "message": " لا يمكن أن يكون وقت الإنتهاء قبل وقت البدء ",
+    "description": "讨论"
+  },
+  "system.validTip7": {
+    "message": "الرجاء اختيار الفصل",
+    "description": "讨论"
+  },
+  "system.chooseClass": {
+    "message": "إختر فصل",
+    "description": "讨论"
+  },
+  "system.addPoint": {
+    "message": "إضافة درجة",
+    "description": "讨论"
+  },
+  "system.deleteTip2": {
+    "message": "حذف الرد سيؤدي إلى حذف ما ارتبط به من إعجابات و كذلك تقدير المعلم. هل تريد الحذف؟",
+    "description": "讨论"
+  },
+  "system.addPointFailed": {
+    "message": "لم نتنكن من الاضافة الدرجات",
+    "description": "讨论"
+  },
+  "system.likeFailed": {
+    "message": "لم نتمكن من الاعجاب",
+    "description": "讨论"
+  },
+  "system.teacher": {
+    "message": "المعلم",
+    "description": "讨论"
+  },
+  "system.addPointForStu": {
+    "message": "إضافة درجات للطلاب",
+    "description": "讨论"
+  },
+  "system.send": {
+    "message": "ارسل",
+    "description": "讨论"
+  },
+  "system.year": {
+    "message": "سنة",
+    "description": "讨论"
+  },
+  "system.month": {
+    "message": "شهر",
+    "description": "讨论"
+  },
+  "system.Day": {
+    "message": "يوم",
+    "description": "讨论"
+  },
+  "system.mon": {
+    "message": "الاثنين",
+    "description": "讨论"
+  },
+  "system.tue": {
+    "message": "الثلاثاء",
+    "description": "讨论"
+  },
+  "system.wed": {
+    "message": "الأربعاء",
+    "description": "讨论"
+  },
+  "system.thu": {
+    "message": "الخميس",
+    "description": "讨论"
+  },
+  "system.frid": {
+    "message": "الجمعة",
+    "description": "讨论"
+  },
+  "system.sat": {
+    "message": "السبت",
+    "description": "讨论"
+  },
+  "system.sun": {
+    "message": "الأحد",
+    "description": "讨论"
+  },
+  "system.hour": {
+    "message": "{hour}",
+    "description": "讨论"
+  },
+  "system.cancelScreen": {
+    "message": "إلغاء العرض على الشاشة",
+    "description": "讨论"
+  },
+  "system.replying": {
+    "message": "قيد الرد",
+    "description": "讨论"
+  },
+  "system.replySuccess": {
+    "message": "تم الرد بنجاح",
+    "description": "讨论"
+  },
+  "system.replayFail": {
+    "message": "لم نتمكن من الرد",
+    "description": "讨论"
+  },
+  "system.imgUploading": {
+    "message": "رفع الصورة",
+    "description": "讨论"
+  },
+  "system.inputContent": {
+    "message": "الرجاء إدخال المحتوى",
+    "description": "讨论"
+  },
+  "system.notStart1": {
+    "message": "لم تبدأ المناقشة بعد",
+    "description": "讨论"
+  },
+  "system.ended1": {
+    "message": "انتهت المناقشة",
+    "description": "讨论"
+  },
+  "system.replay": {
+    "message": "الرد",
+    "description": "讨论"
+  },
+  "system.viewReply": {
+    "message": "عرض الرد",
+    "description": "讨论"
+  },
+  "system.discussTime": {
+    "message": "وقت المناقشة",
+    "description": "讨论"
+  },
+  "system.openDiscuss": {
+    "message": "مناقشة مفتوحة طويلة",
+    "description": "讨论"
+  },
+  "system.to": {
+    "message": "حتى",
+    "description": "讨论"
+  },
+  "system.moreSetting": {
+    "message": " إعدادت متقدمة ",
+    "description": "讨论"
+  },
+  "system.points": {
+    "message": "الدرجة",
+    "description": "讨论"
+  },
+  "system.anonymous": {
+    "message": "مشاركة مجهولة",
+    "description": "讨论"
+  },
+  "system.lastClass": {
+    "message": "آخر فصل",
+    "description": "讨论"
+  },
+  "system.lastClassContent": {
+    "message": "{name}، {num} فصل في المجموع",
+    "description": "讨论"
+  },
+  "system.wordCloud": {
+    "message": "سحابة الكلمات",
+    "description": "讨论"
+  },
+  "system.wordCloudTip": {
+    "message": "الطلاب لديهم مناقشة أقل ولا يمكن استخراج أي كلمات رئيسية",
+    "description": "讨论"
+  },
+  "screen.title": {
+    "message": "عرض على الشاشة",
+    "description": "讨论"
+  },
+  "screen.close": {
+    "message": "إغلاق عرض الشاشة",
+    "description": "讨论"
+  },
+  "screen.creating": {
+    "message": "إعداد عرض الشاشة",
+    "description": "讨论"
+  },
+  "screen.success": {
+    "message": "تم إعداد عرض الشاشة بنجاح",
+    "description": "讨论"
+  },
+  "screen.fail": {
+    "message": "لم نتمكن من بدء التشغيل و عرض الشاشة ",
+    "description": "讨论"
+  },
+  "screen.closeSuccess": {
+    "message": "تم إغلاق عرض الشاشة بنجاح",
+    "description": "讨论"
+  },
+  "screen.start": {
+    "message": "فتح عرض الشاشة",
+    "description": "讨论"
+  },
+  "screen.pleaseOpenUrl": {
+    "message": " يرجى فتح عنوان الويب على الكمبيوتر ",
+    "description": "讨论"
+  },
+  "screen.inputCodeTips": {
+    "message": " أدخل رمز عرض الشاشة التالي على الكمبيوتر لفتح الشاشة. ",
+    "description": "讨论"
+  },
+  "screen.fiveMinutesEffective": {
+    "message": " صالح في غضون خمس دقائق ",
+    "description": "讨论"
+  },
+  "screen.clickRefresh": {
+    "message": " انقر على تحديث ",
+    "description": "讨论"
+  },
+  "screen.cancel": {
+    "message": " إلغاءعرض الشاشة ",
+    "description": "讨论"
+  },
+  "dateFormat.month": {
+    "message": "MMMM YYYY",
+    "description": "讨论"
+  },
+  "dateFormat.calendar": {
+    "message": "DD MMMM YYYY",
+    "description": "讨论"
+  },
+  "dateFormat.dateTime": {
+    "message": "HH:mm",
+    "description": "讨论"
+  },
+  "dateFormat.long": {
+    "message": "DD MMMM YYYY HH:mm",
+    "description": "讨论"
+  },
+  "dateFormat.long2": {
+    "message": "DD MMMM YYYY HH:mm",
+    "description": "讨论"
+  },
+  "dateFormat.longSecond": {
+    "message": "DD MMMM YYYY HH:mm:ss",
+    "description": "讨论"
+  }
+}

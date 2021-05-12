@@ -352,11 +352,11 @@
     "description": "1.0 correctPaper.jsp"
   },
   "downloadStuAttach": {
-    "message": "انقر لتحميل مرفق الطالب",
+    "message": "انقر لتنزيل مرفق الطالب",
     "description": "1.0 correctPaper.jsp"
   },
   "downloadStuAttach2": {
-    "message": "انقر لتحميل مرفقي",
+    "message": "انقر لتنزيل مرفقي",
     "description": "1.0 correctPaper.jsp"
   },
   "lookExit": {

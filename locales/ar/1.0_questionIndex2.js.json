@@ -164,11 +164,11 @@
     "description": "1.0 questionIndex2.js"
   },
   "downloadModel": {
-    "message": "تحميل القالب وإنشاء الأسئلة عليه",
+    "message": "تنزيل القالب وإنشاء الأسئلة عليه",
     "description": "1.0 questionIndex2.js"
   },
   "model": {
-    "message": "تحميل قالب",
+    "message": "تنزيل قالب",
     "description": "1.0 questionIndex2.js"
   },
   "uploadFile2": {

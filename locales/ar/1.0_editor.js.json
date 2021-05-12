@@ -120,7 +120,7 @@
     "description": "1.0 editor.js"
   },
   "saveErrorTips": {
-    "message": "لم نتنكن من الحفظ",
+    "message": "لم نتمكن من الحفظ",
     "description": "1.0 editor.js"
   },
   "saveErrorTips2": {
