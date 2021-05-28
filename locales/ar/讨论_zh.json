@@ -339,6 +339,10 @@
     "message": "الصورة الرمزية",
     "description": "讨论"
   },
+  "system.sReply": {
+    "message": "رده",
+    "description": "讨论"
+  },
   "system.reply": {
     "message": "الرد",
     "description": "讨论"

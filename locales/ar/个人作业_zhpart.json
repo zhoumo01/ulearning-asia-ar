@@ -107,6 +107,10 @@
     "message": "نشر",
     "description": "个人作业zh_part.json"
   },
+  "提交截止": {
+    "message": "تاريخ الاستحقاق",
+    "description": "个人作业zh_part.json"
+  },
   "保存": {
     "message": "حفظ",
     "description": "个人作业zh_part.json"
@@ -181,6 +185,10 @@
   },
   "作业开始时间": {
     "message": " وقت بدء الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "提交截止时间": {
+    "message": "تاريخ الاستحقاق",
     "description": "个人作业zh_part.json"
   },
   "写作业": {
@@ -283,6 +291,14 @@
     "message": "تقييم الأقران",
     "description": "个人作业zh_part.json"
   },
+  "英文写作系统评分": {
+    "message": "التقدير التلقائي لكتابة اللغة الانجليزية",
+    "description": "个人作业zh_part.json"
+  },
+  "英文口语系统评分": {
+    "message": "نظام التصحيح التلقائي لنطق اللغة الانجليزية",
+    "description": "个人作业zh_part.json"
+  },
   "每个学生评价": {
     "message": " التقييم من قبل كل طالب ",
     "description": "个人作业zh_part.json"
@@ -297,6 +313,30 @@
   },
   "总分": {
     "message": "مجموع الدرجات",
+    "description": "个人作业zh_part.json"
+  },
+  "注：学生录音超过3分钟系统将无法评分": {
+    "message": " ملاحظة: لن يتمكن النظام من التصحيح إذا تجاوز تسجيل الطالب 3 دقائق. ",
+    "description": "个人作业zh_part.json"
+  },
+  "注：学生作业只能输入英文，不支持上传附件": {
+    "message": "ملاحظة: يمكن أن يكون واجب الطالب أن يقوم بإدخال الكلمات الإنجليزية فقط في الواجب. لا يسمح برفع المرفقات.",
+    "description": "个人作业zh_part.json"
+  },
+  "取消后学生只能手动打字输入请谨慎使用": {
+    "message": "بعد الإلغاء ، يمكن للطلاب الكتابة يدويًا فقط. يرجى الاستخدام بحذر.",
+    "description": "个人作业zh_part.json"
+  },
+  "支持录音、文档、音频、视频、图片、压缩包": {
+    "message": "ندعم التسجيل، الوثائق، الصوت، الفيديو، الصورة الملفات مضغوطة",
+    "description": "个人作业zh_part.json"
+  },
+  "作业附件中的内容无法被查重": {
+    "message": "لا يمكن إجراء تدقيق مكرر على محتوى مرفق بالواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "语法检测可以检测作业里英语语法错误": {
+    "message": "يمكن للتدقيق النحوي اكتشاف الاخطاء النحوية في واجب اللغة الإنجليزية",
     "description": "个人作业zh_part.json"
   },
   "互评截止时间": {
@@ -319,8 +359,28 @@
     "message": " التدقيق النحوي ",
     "description": "个人作业zh_part.json"
   },
+  "对作业内容进行查重": {
+    "message": "تدقيق مكرر لمحتوى الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "允许学生使用语法检查": {
+    "message": "السماح للطلاب باستخدام التدقيق النحوي",
+    "description": "个人作业zh_part.json"
+  },
+  "附件上传中，请等待上传完成再提交": {
+    "message": "يتم رفع المرفق. يرجى الانتظار حتى يكتمل الرفع قبل الإرسال.",
+    "description": "个人作业zh_part.json"
+  },
+  "作业已开始，不能修改成长值": {
+    "message": " بدأ الواجب، لا يمكن تعديل قدر التطور",
+    "description": "个人作业zh_part.json"
+  },
   "重传": {
     "message": "إعادة رفع",
+    "description": "个人作业zh_part.json"
+  },
+  "其他类型附件请使用电脑登录网站提交": {
+    "message": "بالنسبة للأنواع الأخرى من المرفقات، يرجى استخدام الكمبيوتر لتسجيل الدخول إلى الموقع الإلكتروني وإرسالها.",
     "description": "个人作业zh_part.json"
   },
   "最多添加20个附件": {
@@ -351,8 +411,16 @@
     "message": "في غضون 3 دقائق",
     "description": "个人作业zh_part.json"
   },
+  "完成跟读，3分钟后会自动停止录音。": {
+    "message": "أكمل محتوى الاستماع والقراءة بصوت مسموع. سيتوقف التسجيل تلقائيًا بعد 3 دقائق.",
+    "description": "个人作业zh_part.json"
+  },
   "最多输入5000字": {
     "message": " أدخل ما يصل إلى 5000 كلمة ",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业要求。作业最多支持5000字;手机app仅支持上传图片和录音,其它类型附件需要学生使用电脑网页版提交。": {
+    "message": "يرجى إدخال متطلبات الواجب. يدعم الواجب ما يصل إلى 5000 كلمة ؛ بينما يدعم تطبيق الجوال رفع الصور والتسجيلات فقط. بالنسبة للأنواع الأخرى من المرفقات، يتعين على الطلاب الإرسال باستخدام الكمبيوتر في إصدار الويب.",
     "description": "个人作业zh_part.json"
   },
   "已写": {
@@ -387,12 +455,20 @@
     "message": " شبكة غير معروفة ",
     "description": "个人作业zh_part.json"
   },
+  "继续操作会产生流量费用，确定打开吗？": {
+    "message": "الاستمرار في العمل سيكلفك رسوم مرورية ، هل أنت متأكد من فتحه؟",
+    "description": "个人作业zh_part.json"
+  },
   "选择时间": {
     "message": "اختر الوقت",
     "description": "个人作业zh_part.json"
   },
   "提交开始": {
     "message": "يبدأ التقديم",
+    "description": "个人作业zh_part.json"
+  },
+  "互评截止": {
+    "message": "اغلق تقييم الأقران",
     "description": "个人作业zh_part.json"
   },
   "请选择互评截止日期": {
@@ -405,6 +481,26 @@
   },
   "请选择开始时间": {
     "message": " يرجى اختيار وقت البدء. ",
+    "description": "个人作业zh_part.json"
+  },
+  "发布时间不能大于截止时间": {
+    "message": "يجب ألا يكون الموعد النهائي قبل تاريخ النشر",
+    "description": "个人作业zh_part.json"
+  },
+  "设置作业时间": {
+    "message": "تعيين وقت الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "互评截止时间不能小于提交截止时间": {
+    "message": " لا يمكن أن يكون الموعد النهائي لتقييم الأقران قبل الموعد النهائي للتقديم",
+    "description": "个人作业zh_part.json"
+  },
+  "互评截止时间不能小于发布时间": {
+    "message": "يجب ألا يكون الموعد النهائي لتقييم الأقران قبل وقت النشر ",
+    "description": "个人作业zh_part.json"
+  },
+  "截止日期不能小于发布日期": {
+    "message": "يجب ألا يكون الموعد النهائي قبل تاريخ النشر",
     "description": "个人作业zh_part.json"
   },
   "提交作业": {
@@ -453,6 +549,10 @@
   },
   "作业列表": {
     "message": "قائمة الواجبات",
+    "description": "个人作业zh_part.json"
+  },
+  "包括学生的提交记录和附件（注：附件可能较大会消耗大量时间）": {
+    "message": "إرسال الواجب والمرفقات و الدرجة (قد يستغرق التصدير بعض الوقت إذا كان حجم المرفقات كبيرا جدا)",
     "description": "个人作业zh_part.json"
   },
   "导出详情": {
@@ -539,12 +639,44 @@
     "message": "حذف",
     "description": "个人作业zh_part.json"
   },
+  "请输入跟读内容，200个单词以内，不得输入汉字，否则会造成评分失败": {
+    "message": "الرجاء إدخال محتوى الاستماع والقراءة بصوت مسموع بما لا يزيد عن 200 كلمة. يجب عدم إدخال أحرف صينية وإلا لن نتمكن من التقدير.",
+    "description": "个人作业zh_part.json"
+  },
   "请输入作业题目": {
     "message": " الرجاء إدخال عنوان الواجب. ",
     "description": "个人作业zh_part.json"
   },
   "标题不能超过50个字": {
     "message": "يجب ألا يتجاوز العنوان 50 كلمة",
+    "description": "个人作业zh_part.json"
+  },
+  "作业内容不能超过5000字": {
+    "message": " يجب ألا يتجاوز محتوى الواجب 5000 كلمة. ",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入跟读内容": {
+    "message": " يرجى إدخال محتوى السماع والقراءة بصوت مسموع",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入正确的满分": {
+    "message": "يرجى إدخال الدرجة النهائية الصحيحة.",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业开始时间": {
+    "message": " الرجاء إدخال وقت بدء الواجب. ",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入作业截止时间": {
+    "message": " الرجاء إدخال الموعد النهائي للواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "请输入互评截止时间": {
+    "message": "يرجى إدخال وقت الانتهاء لتقييم الأقران",
+    "description": "个人作业zh_part.json"
+  },
+  "跟读内容不能超过200个单词": {
+    "message": " محتوى الاستماع والقراءة بصوت مسموع يجب ألا يتجاوز 200 كلمة ",
     "description": "个人作业zh_part.json"
   },
   "至少选择一个班级": {
@@ -579,6 +711,10 @@
     "message": "تم التقييم",
     "description": "个人作业zh_part.json"
   },
+  "你未提交作业，返回记录会丢失，确定返回吗？": {
+    "message": "إذا لم ترسل واجبك ، فسيتم فقد سجل الإرجاع. هل أنت متأكد أنك تريد العودة؟",
+    "description": "个人作业zh_part.json"
+  },
   "至少输入10个单词": {
     "message": " أدخل 10 كلمات على الأقل ",
     "description": "个人作业zh_part.json"
@@ -587,8 +723,28 @@
     "message": " التدقيق النحوي ",
     "description": "个人作业zh_part.json"
   },
+  "很棒，你的文章没有检测出问题": {
+    "message": " عظيم. لم يتم الكشف عن أي مشكلة في مقالك. ",
+    "description": "个人作业zh_part.json"
+  },
+  "查重中": {
+    "message": " التحقق من التكرار ",
+    "description": "个人作业zh_part.json"
+  },
+  "经检测，你的作业与其他同学的作业相似度为": {
+    "message": " بعد التحقق، يكون واجبك مشابها بنسبة ٪  لواجبات الطلاب الآخرين. ",
+    "description": "个人作业zh_part.json"
+  },
+  "还不错，放心提交吧": {
+    "message": " ليس سيئا لا تتردد في ارساله. ",
+    "description": "个人作业zh_part.json"
+  },
   "请修改后再次提交": {
     "message": "يرجى المراجعة و الارسال مرة أخرى.",
+    "description": "个人作业zh_part.json"
+  },
+  "最好稍作修改后再提交": {
+    "message": "من الأفضل إجراء تغيير طفيف قبل إرساله.",
     "description": "个人作业zh_part.json"
   },
   "上传附件失败": {
@@ -607,8 +763,24 @@
     "message": " حفظ الخطأ ",
     "description": "个人作业zh_part.json"
   },
+  "获取作业出错了": {
+    "message": " خطأ في الحصول على الواجب",
+    "description": "个人作业zh_part.json"
+  },
   "建议使用": {
     "message": " الاستخدام المقترح ",
+    "description": "个人作业zh_part.json"
+  },
+  "搜索姓名、学号": {
+    "message": " البحث عن الاسم، كود المدرسة",
+    "description": "个人作业zh_part.json"
+  },
+  "跟读文本录入指南": {
+    "message": "دليل المستخدم - محتوى القراءة بصوت مسموع",
+    "description": "个人作业zh_part.json"
+  },
+  "评分规则": {
+    "message": "قاعدة منح الدرجات",
     "description": "个人作业zh_part.json"
   },
   "添加规则": {
@@ -623,12 +795,68 @@
     "message": "عرض القاعدة",
     "description": "个人作业zh_part.json"
   },
+  "帮助学生更客观地评分（非必要）": {
+    "message": " مساعدة الطلاب على التقدير بشكل أكثر موضوعية (غير مطلوب)",
+    "description": "个人作业zh_part.json"
+  },
+  "成绩显示": {
+    "message": "عرض التقدير كـ",
+    "description": "个人作业zh_part.json"
+  },
+  "显示具体分值": {
+    "message": "إظهار الدرجات التفصيلية",
+    "description": "个人作业zh_part.json"
+  },
+  "显示等级A+~F": {
+    "message": "التقدير بالحرف",
+    "description": "个人作业zh_part.json"
+  },
+  "等级和分值对应关系": {
+    "message": "تحويل الدرجة لحرف",
+    "description": "个人作业zh_part.json"
+  },
+  "作业时间": {
+    "message": "وقت الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "各班分开设置": {
+    "message": "إعداد منفصل للفصول",
+    "description": "个人作业zh_part.json"
+  },
+  "统一设置": {
+    "message": "نفس الشيء بالنسبة للفصول",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择班级后设置作业时间": {
+    "message": "اختر الفصل لتعيين وقت الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "等n个班级": {
+    "message": "ما يعادل {num} فصل",
+    "description": "个人作业zh_part.json"
+  },
+  "最多上传20个附件": {
+    "message": " رفع ما يصل إلى 20 مرفقا ",
+    "description": "个人作业zh_part.json"
+  },
+  "录音初始化失败": {
+    "message": " لم نتمكن من تهيئة التسجيل ",
+    "description": "个人作业zh_part.json"
+  },
   "仅加载已提交的作业，点击刷新": {
     "message": "انقر لتحديث",
     "description": "个人作业zh_part.json"
   },
   "作业等级": {
     "message": " تقدير الواجب ",
+    "description": "个人作业zh_part.json"
+  },
+  "各项累计不能超过总分": {
+    "message": "يجب ألا تتجاوز درجات العناصر المتراكمة مجموع الدرجات.",
+    "description": "个人作业zh_part.json"
+  },
+  "请选择作业等级": {
+    "message": "يرجى اختيار درجة الواجب",
     "description": "个人作业zh_part.json"
   },
   "确定删除评分规则": {
@@ -643,8 +871,20 @@
     "message": "المتبقي",
     "description": "个人作业zh_part.json"
   },
+  "添加评分点": {
+    "message": "أضف درجة التقييم",
+    "description": "个人作业zh_part.json"
+  },
   "提示": {
     "message": "تلميح",
+    "description": "个人作业zh_part.json"
+  },
+  "请创建评分点和分值，各评分点分值之和等于总分": {
+    "message": "يرجى إعداد درجات التقييم والنتائج التفصيلية و مجموع الدرجات يساوي إجمالي الدرجات",
+    "description": "个人作业zh_part.json"
+  },
+  "互评开始后不能修改": {
+    "message": " لا يمكن التعديل بعد بدء تقييم الاقران",
     "description": "个人作业zh_part.json"
   },
   "请输入评分点": {
@@ -667,8 +907,460 @@
     "message": "تأكيد التخلي عن الحفظ",
     "description": "个人作业zh_part.json"
   },
+  "添加评分规则": {
+    "message": "إضافة مصفوفة",
+    "description": "个人作业zh_part.json"
+  },
+  "修改评分规则": {
+    "message": "تعديل مصفوفة",
+    "description": "个人作业zh_part.json"
+  },
+  "删除评分规则": {
+    "message": "حذف مصفوفة",
+    "description": "个人作业zh_part.json"
+  },
+  "查看评分规则": {
+    "message": " عرض قاعدة منح الدرجات",
+    "description": "个人作业zh_part.json"
+  },
+  "设置评分规则可以帮助学生更客观地评分": {
+    "message": "المصفوفات تحسن موضوعية التقدير",
+    "description": "个人作业zh_part.json"
+  },
+  "显示实际分值": {
+    "message": "الدرجات",
+    "description": "个人作业zh_part.json"
+  },
+  "分数区间和等级的对应关系": {
+    "message": "العلاقة المقابلة بين الدرجة و التقدير بالحرف",
+    "description": "个人作业zh_part.json"
+  },
+  "说明": {
+    "message": "الوصف",
+    "description": "个人作业zh_part.json"
+  },
+  "分数": {
+    "message": "الدرجة",
+    "description": "个人作业zh_part.json"
+  },
+  "教师给学生打等级时，系统会按照该等级对应的分数区间的最小值给分（例如得A的作业默认是90分），教师可以修改该分数，修改后作业的等级不跟着改变。": {
+    "message": " عندما يقوم المعلم بتقدير الطالب، سيعطي النظام الدرجة وفقا للحد الأدنى من تقدير الحروف المقابلة (على سبيل المثال، تعيين A هو 90 درجة افتراضيا)، يمكن للمعلم تعديل الدرجة، ولا يتغير مستوى التقدير للواجب المعدل.",
+    "description": "个人作业zh_part.json"
+  },
+  "系统批阅的作业，会将分数转化为等级（例如系统批阅作业得84分，那么学生的等级是B）。": {
+    "message": "النظام يصحح الواجب وسيحول الدرجات إلى تقديرات (على سبيل المثال، يمنج النظام الواجب 84 درجة ثم يكون تقدير الطالب B).",
+    "description": "个人作业zh_part.json"
+  },
+  "已选班级": {
+    "message": "الفصل المختار",
+    "description": "个人作业zh_part.json"
+  },
+  "开始时间": {
+    "message": "إبدأ",
+    "description": "个人作业zh_part.json"
+  },
+  "每个班级分开设置": {
+    "message": "مختلفة لكل فصل",
+    "description": "个人作业zh_part.json"
+  },
+  "暂不设置": {
+    "message": "إلغاء",
+    "description": "个人作业zh_part.json"
+  },
+  "教师已批阅": {
+    "message": "تم تقييمه",
+    "description": "个人作业zh_part.json"
+  },
+  "已共享": {
+    "message": "تم مشاركته",
+    "description": "个人作业zh_part.json"
+  },
+  "需重写": {
+    "message": "السماح بإعادة الارسال",
+    "description": "个人作业zh_part.json"
+  },
+  "系统已批阅": {
+    "message": "قام النظام بالتقييم",
+    "description": "个人作业zh_part.json"
+  },
+  "教师评语": {
+    "message": "تعليقات المعلم",
+    "description": "个人作业zh_part.json"
+  },
+  "该学生的作业没有得到任何同学的评价，需要您去批阅。": {
+    "message": "لم يتم تقييم واجب الطالب من قبل أي من زملائه في الفصل ، لذلك تحتاج إلى تقييمه.",
+    "description": "个人作业zh_part.json"
+  },
+  "学生互评作业，学生互评结束后可以查看评价详情": {
+    "message": " يمكن للطلاب التحقق من تفاصيل التقييم بعد الانتهاء من تقييم الأقران.",
+    "description": "个人作业zh_part.json"
+  },
+  "学生互评中，学生互评结束后可以查看评价详情": {
+    "message": "يقوم الطلاب بتقييم بعضهم البعض ، ويمكن للطلاب التحقق من تفاصيل التقييم بعد الانتهاء من تقييم الأقران.",
+    "description": "个人作业zh_part.json"
+  },
+  "学生已互评": {
+    "message": "قام الطلاب بتقييم واجب بعضهم البعض",
+    "description": "个人作业zh_part.json"
+  },
+  "申述理由": {
+    "message": "سبب الشكوى",
+    "description": "个人作业zh_part.json"
+  },
+  "互评平均分": {
+    "message": " متوسط الدرجات لتقييم الأقران ",
+    "description": "个人作业zh_part.json"
+  },
+  "所在班级": {
+    "message": "الفصول",
+    "description": "个人作业zh_part.json"
+  },
+  "至": {
+    "message": "إلى",
+    "description": "个人作业zh_part.json"
+  },
+  "每个班级作业时间不一样，切换班级查看": {
+    "message": "يختلف وقت الواجب لكل فصل ، قم بتبديل الفصل لعرضه",
+    "description": "个人作业zh_part.json"
+  },
+  "全部": {
+    "message": "الكل",
+    "description": "个人作业zh_part.json"
+  },
+  "已批阅": {
+    "message": "تم تقييمه",
+    "description": "个人作业zh_part.json"
+  },
+  "未批阅": {
+    "message": "لم يتم تقييمه",
+    "description": "个人作业zh_part.json"
+  },
+  "班级": {
+    "message": "الفصل",
+    "description": "个人作业zh_part.json"
+  },
+  "姓名": {
+    "message": "اسم",
+    "description": "个人作业zh_part.json"
+  },
+  "学号": {
+    "message": "كود الطالب",
+    "description": "个人作业zh_part.json"
+  },
+  "提交时间": {
+    "message": "تم الإرسال",
+    "description": "个人作业zh_part.json"
+  },
+  "评价进度": {
+    "message": "مستوى التقدم",
+    "description": "个人作业zh_part.json"
+  },
+  "得分": {
+    "message": "الدرجة",
+    "description": "个人作业zh_part.json"
+  },
+  "操作": {
+    "message": "الإجراءات",
+    "description": "个人作业zh_part.json"
+  },
+  "查看": {
+    "message": "عرض",
+    "description": "个人作业zh_part.json"
+  },
+  "批阅": {
+    "message": "التقدير",
+    "description": "个人作业zh_part.json"
+  },
+  "搜索": {
+    "message": "بحث",
+    "description": "个人作业zh_part.json"
+  },
+  "输入班级名称搜索": {
+    "message": "أدخل اسم الفصل للبحث",
+    "description": "个人作业zh_part.json"
+  },
+  "全选": {
+    "message": "إختيار الكل",
+    "description": "个人作业zh_part.json"
+  },
+  "没有符合条件的班级": {
+    "message": "لا توجد فصول مؤهلة",
+    "description": "个人作业zh_part.json"
+  },
+  "已选择": {
+    "message": "تم الأختيار",
+    "description": "个人作业zh_part.json"
+  },
+  "全部教师": {
+    "message": "كل المعلمين",
+    "description": "个人作业zh_part.json"
+  },
+  "评分": {
+    "message": "الدرجة",
+    "description": "个人作业zh_part.json"
+  },
+  "评语": {
+    "message": "تعليق",
+    "description": "个人作业zh_part.json"
+  },
+  "无": {
+    "message": "لا يوجد",
+    "description": "个人作业zh_part.json"
+  },
+  "未对该同学的作业做出任何评价": {
+    "message": "لم يتم إجراء أي تقييم على واجب الطالب. لقد كانت النتيجة {score}.",
+    "description": "个人作业zh_part.json"
+  },
+  "未对该同学的作业做出任何评价不扣分": {
+    "message": "لن يتم خصم أي درجات إذا لم يتم إجراء تقييم لواجب الطالب",
+    "description": "个人作业zh_part.json"
+  },
+  "未评": {
+    "message": "لم jتم المراجعة",
+    "description": "个人作业zh_part.json"
+  },
+  "预览": {
+    "message": "معاينة",
+    "description": "个人作业zh_part.json"
+  },
+  "路径有误": {
+    "message": " مسار خاطئ ",
+    "description": "个人作业zh_part.json"
+  },
+  "图片加载中": {
+    "message": "جار تحميل الصورة",
+    "description": "个人作业zh_part.json"
+  },
+  "1:1显示": {
+    "message": "عرض 1:1",
+    "description": "个人作业zh_part.json"
+  },
+  "添加批注": {
+    "message": "أضف التعليقات التوضيحية",
+    "description": "个人作业zh_part.json"
+  },
+  "删除批注": {
+    "message": "حذف التعليقات التوضيحية ",
+    "description": "个人作业zh_part.json"
+  },
+  "旋转中": {
+    "message": "تدوير",
+    "description": "个人作业zh_part.json"
+  },
+  "旋转": {
+    "message": " دوران ",
+    "description": "个人作业zh_part.json"
+  },
+  "附件": {
+    "message": "المرفقات",
+    "description": "个人作业zh_part.json"
+  },
   "下载": {
     "message": "تنزيل",
+    "description": "个人作业zh_part.json"
+  },
+  "批注": {
+    "message": " تعليق توضيحي ",
+    "description": "个人作业zh_part.json"
+  },
+  "提互评截止交截止": {
+    "message": "ينتهي التقديم",
+    "description": "个人作业zh_part.json"
+  },
+  "添加班级": {
+    "message": "أضف فصل",
+    "description": "个人作业zh_part.json"
+  },
+  "修改作业时间": {
+    "message": "تعديل وقت الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "删除班级": {
+    "message": "حذف الفصل",
+    "description": "个人作业zh_part.json"
+  },
+  "满分x分": {
+    "message": "الدرجة النهائية {score}",
+    "description": "个人作业zh_part.json"
+  },
+  "学生名单": {
+    "message": "قائمة الطلاب (تم إرسالها)",
+    "description": "个人作业zh_part.json"
+  },
+  "提交于": {
+    "message": " تم إرساله على ",
+    "description": "个人作业zh_part.json"
+  },
+  "注：提交截止后开始互评。在提交截止后补交的学生将无法参与互评，需要教师来批阅该学生的作业。": {
+    "message": "سيتم تقييم التقديم المتأخر من قبل المعلم بدلا من مراجعات الأقران",
+    "description": "个人作业zh_part.json"
+  },
+  "注：互评已开始！修改截止时间后补交的学生将无法参与互评，需要教师来批阅该学生的作业。": {
+    "message": " ملاحظة: بدأ تقييم الأقران! لن يتمكن الطلاب الذين قاموا بالارسال بعد الموعد النهائي من المشاركة في تقييم الأقران. مطلوب من المعلمين مراجعة عمل الطالب",
+    "description": "个人作业zh_part.json"
+  },
+  "评分规则和满分不相等请修改": {
+    "message": "يرجى مراجعة قواعد منح الدرجات إذا كانت لا تساوي الدرجة النهائية",
+    "description": "个人作业zh_part.json"
+  },
+  "设置若干评分点，细化评分规则，可以帮助学生更客观地进行互评": {
+    "message": "يمكن أن يؤدي إعداد عدد من نقاط منح الدرجات وتنقيح قواعد منح الدرجات إلى زيادة موضوعية تقييم الأقران\n",
+    "description": "个人作业zh_part.json"
+  },
+  "占对应分值": {
+    "message": " النتيجة المقابلة ",
+    "description": "个人作业zh_part.json"
+  },
+  "注意：进入互评阶段后不允许修改": {
+    "message": "ملاحظة: لا يسمح بإجراء أي تعديل بعد الدخول في مرحلة تقييم الأقران",
+    "description": "个人作业zh_part.json"
+  },
+  "跟读文本含有不支持的字符": {
+    "message": "يحتوي النص التالي على أحرف غير مدعومة",
+    "description": "个人作业zh_part.json"
+  },
+  "按相似度排序": {
+    "message": "الترتيب حسب المتشابه",
+    "description": "个人作业zh_part.json"
+  },
+  "申诉作业": {
+    "message": "جار الشكوى",
+    "description": "个人作业zh_part.json"
+  },
+  "作业成绩列表": {
+    "message": "قائمة نتائج الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "批阅作业": {
+    "message": "تقييم الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "历史作业": {
+    "message": "سجل الواجبات",
+    "description": "个人作业zh_part.json"
+  },
+  "互评作业详情": {
+    "message": "تفاصيل تقييم الأقران",
+    "description": "个人作业zh_part.json"
+  },
+  "经检测，你的作业与其他同学的作业相似度低": {
+    "message": "وفقًا للفحص فإن تشابه واجبك مع الطلاب الآخرين منخفض",
+    "description": "个人作业zh_part.json"
+  },
+  "作业被批阅前你可以撤回重交，批阅后将无法撤回。确定提交作业？": {
+    "message": "يمكنك إعادة إرسال واجبك قبل أن يتم تقديره. بعد أن يتم التقدير ، لا يُسمح بالمزيد من إعادة الإرسال.",
+    "description": "个人作业zh_part.json"
+  },
+  "输入关键字搜索": {
+    "message": "أدخل كلمة للبحث",
+    "description": "个人作业zh_part.json"
+  },
+  "按申诉排序": {
+    "message": " في ترتيب الشكاوى",
+    "description": "个人作业zh_part.json"
+  },
+  "没有找到相关作业": {
+    "message": "لم يتم العثور على واجب ذي صلة",
+    "description": "个人作业zh_part.json"
+  },
+  "已通知学生补交，截止时间": {
+    "message": "تم إبلاغ الطلاب بإعادة الارسال قبل الموعد النهائي",
+    "description": "个人作业zh_part.json"
+  },
+  "学生全部提交了作业": {
+    "message": "كل الطلاب قاموا بارسال واجباتهم",
+    "description": "个人作业zh_part.json"
+  },
+  "没有学生提交作业": {
+    "message": "لم يقم أي طالب بارسال واجب",
+    "description": "个人作业zh_part.json"
+  },
+  "没有未批阅的作业": {
+    "message": "لا توجد واجب ينتظر التصحيح",
+    "description": "个人作业zh_part.json"
+  },
+  "没有批阅过的作业": {
+    "message": "الواجب في انتظار التصحيح",
+    "description": "个人作业zh_part.json"
+  },
+  "没有学生": {
+    "message": "لا يوجد طلاب",
+    "description": "个人作业zh_part.json"
+  },
+  "哎呦，出错了。": {
+    "message": "خطأ",
+    "description": "个人作业zh_part.json"
+  },
+  "本次作业禁止复制粘贴": {
+    "message": " النسخ واللصق غير مسموح به في هذا الواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "完成": {
+    "message": "مكتمل",
+    "description": "个人作业zh_part.json"
+  },
+  "别人给TA的评价": {
+    "message": "تعليقات من الآخرين",
+    "description": "个人作业zh_part.json"
+  },
+  "TA给别人的评价": {
+    "message": "تعليقات للآخرين",
+    "description": "个人作业zh_part.json"
+  },
+  "后面没有了": {
+    "message": "كفاية",
+    "description": "个人作业zh_part.json"
+  },
+  "我知道了": {
+    "message": "أعرف",
+    "description": "个人作业zh_part.json"
+  },
+  "作业还没开始哦~": {
+    "message": "الواجب لم يبدأ بعد-",
+    "description": "个人作业zh_part.json"
+  },
+  "作业将于{time}开始": {
+    "message": "سيبدأ الواجب في {time}",
+    "description": "个人作业zh_part.json"
+  },
+  "请在作业开始后查看并完成作业。": {
+    "message": "الرجاء التحقق من الواجب وإ إنتهاء منه بعد أن يبدأ",
+    "description": "个人作业zh_part.json"
+  },
+  "教师修改了作业时间，当前时间无法提交或修改作业": {
+    "message": "لقد قام المعلم بتغيير وقت الواجب ، ولا يمكنك تعديل الواجب أو إرساله حاليًا.",
+    "description": "个人作业zh_part.json"
+  },
+  "作业已截止，无法提交作业": {
+    "message": "تاريخ استحقاق الواجب و غير قادر على إرساله",
+    "description": "个人作业zh_part.json"
+  },
+  "设置开始时间": {
+    "message": "تعيين وقت البدء",
+    "description": "个人作业zh_part.json"
+  },
+  "设置提交截止时间": {
+    "message": "تعيين الموعد النهائي للواجب",
+    "description": "个人作业zh_part.json"
+  },
+  "设置互评截止时间": {
+    "message": "تعيين الموعد النهائي لمراجعة الاقران",
+    "description": "个人作业zh_part.json"
+  },
+  "当前已有学生提交作业，修改作业开始时间不影响已提交的作业，此部分作业仍是已提交状态，确定修改作业开始时间吗？": {
+    "message": "أرسل بعض الطلاب واجبهم بالفعل. تعديل وقت البدء لن يؤثر على الواجبات المرسلة وستظل حالتها كما هي المرسلة. هل تريد التعديل؟",
+    "description": "个人作业zh_part.json"
+  },
+  "保存失败": {
+    "message": "لم نتنكن من الحفظ",
+    "description": "个人作业zh_part.json"
+  },
+  "选择相册": {
+    "message": "اختر لألبوم",
+    "description": "个人作业zh_part.json"
+  },
+  "选择文件": {
+    "message": "إختيار الملف",
     "description": "个人作业zh_part.json"
   }
 }
