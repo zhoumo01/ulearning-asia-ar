@@ -31,6 +31,10 @@
     "message": "ULearning",
     "description": "2.0 public.js"
   },
+  "peopleMooc": {
+    "message": "People.cn المقررات الدراسية المفتوحة",
+    "description": "2.0 public.js"
+  },
   "helpCenter": {
     "message": "ركن المساعدة",
     "description": "2.0 public.js"
@@ -119,6 +123,10 @@
     "message": "تصنيف",
     "description": "2.0 public.js"
   },
+  "defaultOrder": {
+    "message": "الترتيب الشامل",
+    "description": "2.0 public.js"
+  },
   "mostRecent": {
     "message": "الأحدث",
     "description": "2.0 public.js"
@@ -178,6 +186,10 @@
   "joinCourseCount": {
     "message": "المشاركون: {n} ",
     "description": "自定义门户网站 -> 上方搜索框搜索 \n 自定义门户网站 -> 课程(不包括公开课) \n 自定义门户网站 -> 课程详情 \n 管理员账户 -> 系统管理 -> 网站设置 -> 菜单式"
+  },
+  "customNavigation": {
+    "message": "التنقل المخصص",
+    "description": "2.0 public.js"
   },
   "courseManager": {
     "message": "مدير المقرر الدراسي: ",
@@ -309,6 +321,10 @@
   },
   "annex": {
     "message": "المرفقات",
+    "description": "2.0 public.js"
+  },
+  "peoplePublicChannel": {
+    "message": "People.cn المقررات الدراسية المفتوحة",
     "description": "2.0 public.js"
   },
   "personalResource": {
@@ -481,6 +497,10 @@
   },
   "disallowDownload": {
     "message": "ممنوع التنزيل",
+    "description": "2.0 public.js"
+  },
+  "publishScope": {
+    "message": "نطاق النشر",
     "description": "2.0 public.js"
   },
   "myClassess": {
@@ -671,12 +691,20 @@
     "message": "الرجاء الاختيار",
     "description": "2.0 public.js"
   },
+  "normalClass": {
+    "message": "الفئة الإدارية",
+    "description": "2.0 public.js"
+  },
   "studentNo": {
     "message": "كود الطالب",
     "description": "2.0 public.js"
   },
   "userInfoTips4": {
     "message": "تأكد من إدخال معلومات دقيقة وصحيحة لأنها تتعلق بالتقدير / نتائج التعلم.",
+    "description": "2.0 public.js"
+  },
+  "thirdAccount": {
+    "message": "حساب جهة خارجية ",
     "description": "2.0 public.js"
   },
   "unbind": {
@@ -811,6 +839,10 @@
     "message": "متاح",
     "description": "2.0 public.js"
   },
+  "userInfoTips18": {
+    "message": "حماية تسجيل الدخول للتحقق من الهاتف",
+    "description": "2.0 public.js"
+  },
   "phone": {
     "message": "الهاتف",
     "description": "2.0 public.js"
@@ -825,6 +857,10 @@
   },
   "userInfoTips20": {
     "message": " أكمل ملفك الشخصي برقم هاتف قبل تمكينه",
+    "description": "2.0 public.js"
+  },
+  "setSuccess": {
+    "message": "تم التعيين بنجاح !",
     "description": "2.0 public.js"
   },
   "oldPassword": {
@@ -919,6 +955,14 @@
     "message": "تقدم عملية التعلم",
     "description": "2.0 public.js"
   },
+  "myTextbook": {
+    "message": "كتبي الإلكترونية",
+    "description": "2.0 public.js"
+  },
+  "arrangingExamRoom": {
+    "message": "ترتيب غرفة الامتحان",
+    "description": "2.0 public.js"
+  },
   "studyStatistics": {
     "message": "إحصاءات نتائج التعلم",
     "description": "2.0 public.js"
@@ -935,8 +979,16 @@
     "message": "تحليل أسئلة الامتحان",
     "description": "2.0 public.js"
   },
+  "batchRemarkQue": {
+    "message": "تقدير الدفعة",
+    "description": "2.0 public.js"
+  },
   "examPaperLibrary": {
     "message": "بنك الامتحانات",
+    "description": "2.0 public.js"
+  },
+  "monitor": {
+    "message": "محطة المراقبة",
     "description": "2.0 public.js"
   },
   "faceVerificationPhotoVerify": {
@@ -1223,6 +1275,10 @@
     "message": "لم نتمكن من الاستعادة!",
     "description": "2.0 public.js"
   },
+  "paramError": {
+    "message": "خطأ في المعاملات",
+    "description": "2.0 public.js"
+  },
   "mailTip": {
     "message": "البريد الإلكتروني مكتوب بطريقة غير صحيحة!",
     "description": "2.0 public.js"
@@ -1249,6 +1305,10 @@
   },
   "codeTip1": {
     "message": "يرجى الانتظار لمدة 60 ثانية لتقديم طلب آخر لرمز التحقق",
+    "description": "2.0 public.js"
+  },
+  "codeTip2": {
+    "message": "طلب رمز التحقق كثيرر التكرار!",
     "description": "2.0 public.js"
   },
   "codeTip3": {
@@ -1337,6 +1397,10 @@
   },
   "link": {
     "message": "رابط",
+    "description": "2.0 public.js"
+  },
+  "richText": {
+    "message": "المحتوى الغني",
     "description": "2.0 public.js"
   },
   "microCourse": {

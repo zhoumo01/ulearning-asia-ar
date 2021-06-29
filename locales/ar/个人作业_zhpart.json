@@ -279,6 +279,10 @@
     "message": " تسجيل، الرجاء المحاولة مرة أخرى لاحقا ",
     "description": "个人作业zh_part.json"
   },
+  "音频转码中": {
+    "message": "جار ترميز الصوت",
+    "description": "个人作业zh_part.json"
+  },
   "当前浏览器不支持录音": {
     "message": " المستعرض الحالي لا يدعم التسجيل ",
     "description": "个人作业zh_part.json"
@@ -1177,6 +1181,10 @@
   },
   "删除班级": {
     "message": "حذف الفصل",
+    "description": "个人作业zh_part.json"
+  },
+  "评分点": {
+    "message": "عنصر منح الدرجات",
     "description": "个人作业zh_part.json"
   },
   "满分x分": {

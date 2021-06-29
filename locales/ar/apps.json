@@ -1,46 +1,1478 @@
 {
+  "langCss": {
+    "message": "enCs",
+    "description": "小应用"
+  },
+  "init-loading": {
+    "message": "تحميل المصادر",
+    "description": "小应用"
+  },
+  "init-waiting": {
+    "message": "قد يستغرق الأمر المزيد من الوقت لتحميل المصادر لأول مرة ، يرجى الإنتظار",
+    "description": "小应用"
+  },
+  "confirm": {
+    "message": "تأكيد",
+    "description": "小应用"
+  },
+  "cancel": {
+    "message": "إلغاء",
+    "description": "小应用"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "小应用"
+  },
+  "modify": {
+    "message": "تعديل",
+    "description": "小应用"
+  },
+  "edit": {
+    "message": "تعديل",
+    "description": "小应用"
+  },
+  "deleting": {
+    "message": "جارٍ الحذف...",
+    "description": "小应用"
+  },
   "deleteFail": {
     "message": "لم نتمكن من الحذف، الرجاء التحقق من الاتصال بالشبكة ",
+    "description": "小应用"
+  },
+  "deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "小应用"
+  },
+  "move": {
+    "message": "نقل",
     "description": "小应用"
   },
   "moveFailed": {
     "message": "لم نتمكن من النقل",
     "description": "小应用"
   },
+  "moveSuccess": {
+    "message": "تم النقل بنجاح!",
+    "description": "小应用"
+  },
   "operateFailed": {
     "message": "لم نتمكن من العمل",
+    "description": "小应用"
+  },
+  "operateSuccess": {
+    "message": "تعمل بنجاح",
+    "description": "小应用"
+  },
+  "preview": {
+    "message": "معاينة",
+    "description": "小应用"
+  },
+  "day": {
+    "message": "0 يوم| يوم واحد| {n} أيام",
+    "description": "小应用"
+  },
+  "hour": {
+    "message": "0 ساعة | ساعة | {n} ساعات",
+    "description": "小应用"
+  },
+  "minute": {
+    "message": "0 دقيقة | دقيقة واحدة | {n} دقيقة",
+    "description": "小应用"
+  },
+  "second": {
+    "message": "0 ثانية | ثانية واحدة | {n} ثانية",
+    "description": "小应用"
+  },
+  "saveAsDraft": {
+    "message": "حفظ كمسودة",
+    "description": "小应用"
+  },
+  "options": {
+    "message": "خيارات",
+    "description": "小应用"
+  },
+  "addOptions": {
+    "message": "إضافة خيارات",
+    "description": "小应用"
+  },
+  "radio": {
+    "message": "اختيار واحد",
+    "description": "小应用"
+  },
+  "effectiveDuration": {
+    "message": "المدة الفعالة",
+    "description": "小应用"
+  },
+  "publish": {
+    "message": "نشر",
+    "description": "小应用"
+  },
+  "publishSuccess": {
+    "message": "انشر بنجاح",
     "description": "小应用"
   },
   "publishFailed": {
     "message": "لم نتمكن من النشر",
     "description": "小应用"
   },
+  "isConfirmDeleteDraft": {
+    "message": "هل تريد حذف المسودة؟",
+    "description": "小应用"
+  },
+  "isConfrimDeleteActivity": {
+    "message": "هل تريد حذف النشاط؟",
+    "description": "小应用"
+  },
+  "endActivity": {
+    "message": "إنهاء النشاط",
+    "description": "小应用"
+  },
+  "restartActivity": {
+    "message": "بدء النشاط مرة أخرى",
+    "description": "小应用"
+  },
+  "saving": {
+    "message": "‏‏جار الحفظ",
+    "description": "小应用"
+  },
+  "save": {
+    "message": "حفظ",
+    "description": "小应用"
+  },
+  "tips": {
+    "message": "النصائح",
+    "description": "小应用"
+  },
+  "pleaseSelectPublishClass": {
+    "message": "يرجى اختيار الفصل الدراسي ليتم نشره",
+    "description": "小应用"
+  },
+  "optionCannotEmpty": {
+    "message": "لا يمكن أن تكون الخيارات فارغة",
+    "description": "小应用"
+  },
+  "selectPhoto": {
+    "message": "اختر الصورة",
+    "description": "小应用"
+  },
+  "selectAll": {
+    "message": "إختيار الكل",
+    "description": "小应用"
+  },
+  "person": {
+    "message": "الطلاب",
+    "description": "小应用"
+  },
+  "all": {
+    "message": "الكل",
+    "description": "小应用"
+  },
+  "title": {
+    "message": "العنوان",
+    "description": "小应用"
+  },
+  "selectedCount": {
+    "message": "اختر عدد الطلاب",
+    "description": "小应用"
+  },
+  "randomSelectStu": {
+    "message": "اختيار الطلاب بشكل عشوائي",
+    "description": "小应用"
+  },
+  "specialStu": {
+    "message": "طالب معين",
+    "description": "小应用"
+  },
+  "noStuToSelect": {
+    "message": "لا يوجد طالب ليتم اختياره في هذا الوقت.",
+    "description": "小应用"
+  },
+  "giveAMark": {
+    "message": "علامة",
+    "description": "小应用"
+  },
+  "giveStuAMark": {
+    "message": "تعيين درجة للطلاب",
+    "description": "小应用"
+  },
+  "ge": {
+    "message": "  ",
+    "description": "小应用"
+  },
+  "unknown": {
+    "message": "غير معروف",
+    "description": "小应用"
+  },
+  "orderByStudentNo": {
+    "message": "الترتيب حسب كود الطالب",
+    "description": "小应用"
+  },
+  "orderByEnterTimes": {
+    "message": "الترتيب حسب عدد الأنشطة المشاركة",
+    "description": "小应用"
+  },
+  "complete": {
+    "message": "إكتمل",
+    "description": "小应用"
+  },
+  "other": {
+    "message": "أخرى",
+    "description": "小应用"
+  },
+  "refresh": {
+    "message": "تحديث",
+    "description": "小应用"
+  },
   "getDataFail": {
     "message": "لم نتمكن من الحصول على البيانات، الرجاء المحاولة مرة أخرى لاحقاً ",
+    "description": "小应用"
+  },
+  "inputPositiveIntegerTips": {
+    "message": "الرجاء إدخال عدد صحيح موجب",
+    "description": "小应用"
+  },
+  "pleaseInputTitle": {
+    "message": " يرجى إدخال العنوان ",
+    "description": "小应用"
+  },
+  "create": {
+    "message": "إنشاء",
+    "description": "小应用"
+  },
+  "creating": {
+    "message": "جارٍ الإنشاء...",
+    "description": "小应用"
+  },
+  "saveSuccess": {
+    "message": "تم الحفظ بنجاح",
     "description": "小应用"
   },
   "saveFail": {
     "message": "لم نتمكن من الحفظ، الرجاء المحاولة مرة أخرى لاحقاً ",
     "description": "小应用"
   },
+  "desc": {
+    "message": "الوصف",
+    "description": "小应用"
+  },
+  "viewAll": {
+    "message": "عرض الكل",
+    "description": "小应用"
+  },
+  "viewMore": {
+    "message": "عرض المزيد",
+    "description": "小应用"
+  },
+  "expand": {
+    "message": "توسيع",
+    "description": "小应用"
+  },
+  "collapse": {
+    "message": "طي",
+    "description": "小应用"
+  },
+  "me": {
+    "message": "أنا",
+    "description": "小应用"
+  },
   "loadingTips2": {
     "message": "جارٍ التحميل...",
+    "description": "小应用"
+  },
+  "noData": {
+    "message": " لا توجد بيانات ",
+    "description": "小应用"
+  },
+  "noMoreData": {
+    "message": "لا مزيد من البيانات",
+    "description": "小应用"
+  },
+  "refreshSuccess": {
+    "message": "تم التحديث بنجاح",
+    "description": "小应用"
+  },
+  "retry": {
+    "message": "إعادة المحاولة",
+    "description": "小应用"
+  },
+  "view": {
+    "message": "عرض",
+    "description": "小应用"
+  },
+  "open": {
+    "message": " مفتوح ",
     "description": "小应用"
   },
   "loadFail": {
     "message": "لم نتمكن من التحميل ",
     "description": "小应用"
   },
+  "close": {
+    "message": "إغلاق",
+    "description": "小应用"
+  },
+  "year": {
+    "message": "سنة",
+    "description": "小应用"
+  },
+  "month": {
+    "message": "شهر",
+    "description": "小应用"
+  },
+  "Day": {
+    "message": "يوم",
+    "description": "小应用"
+  },
+  "mon": {
+    "message": "الاثنين",
+    "description": "小应用"
+  },
+  "tue": {
+    "message": "الثلاثاء",
+    "description": "小应用"
+  },
+  "wed": {
+    "message": "الأربعاء",
+    "description": "小应用"
+  },
+  "thu": {
+    "message": "الخميس",
+    "description": "小应用"
+  },
+  "frid": {
+    "message": "الجمعة",
+    "description": "小应用"
+  },
+  "sat": {
+    "message": "السبت",
+    "description": "小应用"
+  },
+  "sun": {
+    "message": "الأحد",
+    "description": "小应用"
+  },
+  "ulearn": {
+    "message": "ULearning",
+    "description": "小应用"
+  },
+  "noStudentInClass": {
+    "message": "لا يوجد طلاب في الفصل الدراسي.",
+    "description": "小应用"
+  },
+  "modifySuccess": {
+    "message": "تم التعديل بنجاح",
+    "description": "小应用"
+  },
+  "reStart": {
+    "message": "ابدأ من جديد",
+    "description": "小应用"
+  },
+  "opening": {
+    "message": "بدأ النشاط",
+    "description": "小应用"
+  },
   "startFail": {
     "message": "لم نتمكن من بدء النشاط.",
+    "description": "小应用"
+  },
+  "integral": {
+    "message": "مجموع الدرجات",
+    "description": "小应用"
+  },
+  "startNow": {
+    "message": "ابدأ الآن",
+    "description": "小应用"
+  },
+  "deleteDraft": {
+    "message": "حذف المسودة.",
+    "description": "小应用"
+  },
+  "cutScore": {
+    "message": "درجات سالبة",
+    "description": "小应用"
+  },
+  "classroomTips": {
+    "message": "الفصل الدراسي الحالي لم يبدأ. يرجى حفظ المسودة قبل بدء النشاط.",
+    "description": "小应用"
+  },
+  "logTip": {
+    "message": "تم تسجيل الدخول من على جهاز آخر!",
+    "description": "小应用"
+  },
+  "dontActToo": {
+    "message": "لا تفعل ذلك كثيرا!",
+    "description": "小应用"
+  },
+  "teacher.title": {
+    "message": "المعلم",
+    "description": "小应用"
+  },
+  "teacher.title2": {
+    "message": "المعلم",
+    "description": "小应用"
+  },
+  "teacher.all": {
+    "message": "كل المعلمين",
+    "description": "小应用"
+  },
+  "teacher.manager": {
+    "message": " إدارة المعلم ",
+    "description": "小应用"
+  },
+  "teacher.changeRole": {
+    "message": "تغيير الدور",
+    "description": "小应用"
+  },
+  "teacher.roleManager": {
+    "message": "المدير",
+    "description": "小应用"
+  },
+  "teacher.roleAssistant": {
+    "message": "مساعد",
+    "description": "小应用"
+  },
+  "teacher.add": {
+    "message": "إضافة معلم",
+    "description": "小应用"
+  },
+  "teacher.create": {
+    "message": " إنشاء معلم ",
+    "description": "小应用"
+  },
+  "teacher.pleaseAddMoreThanOne": {
+    "message": "يرجى اختيار مدرس واحد على الأقل",
+    "description": "小应用"
+  },
+  "teacher.managedClass": {
+    "message": "الفصل الدراسي الذي تتم إدارته",
+    "description": "小应用"
+  },
+  "teacher.teachingClass": {
+    "message": "تدريس الفصل الدراسي",
+    "description": "小应用"
+  },
+  "teacher.noTeachingClass": {
+    "message": " لا يوجد تدريس فصل دراسي",
+    "description": "小应用"
+  },
+  "network.unknown": {
+    "message": " شبكة غير معروفة ",
+    "description": "小应用"
+  },
+  "network.notWifiTips": {
+    "message": "الاستمرار في العمل سوف يكلفك دفع رسوم ، هل أنت متأكد من الفتح؟",
+    "description": "小应用"
+  },
+  "student.title": {
+    "message": "الطالب",
+    "description": "小应用"
+  },
+  "student.add": {
+    "message": "إضافة طالب",
+    "description": "小应用"
+  },
+  "student.select": {
+    "message": "اختيار طالب",
+    "description": "小应用"
+  },
+  "student.number": {
+    "message": "كود الطالب",
+    "description": "小应用"
+  },
+  "student.pleaseAddMoreThanOne": {
+    "message": " يرجى اختيار طالب واحد على الأقل ",
+    "description": "小应用"
+  },
+  "student.total": {
+    "message": "عدد الطلاب",
+    "description": "小应用"
+  },
+  "student.selected": {
+    "message": "الطالب الذي تم اختياره",
+    "description": "小应用"
+  },
+  "student.unSelected": {
+    "message": "لم يتم اختيار الطالب بعد",
+    "description": "小应用"
+  },
+  "screen.title": {
+    "message": "عرض على الشاشة",
+    "description": "小应用"
+  },
+  "screen.close": {
+    "message": "إغلاق عرض الشاشة",
+    "description": "小应用"
+  },
+  "screen.creating": {
+    "message": "إعداد عرض الشاشة",
+    "description": "小应用"
+  },
+  "screen.success": {
+    "message": "تم إعداد عرض الشاشة بنجاح",
     "description": "小应用"
   },
   "screen.fail": {
     "message": "لم نتمكن من بدء التشغيل و عرض الشاشة ",
     "description": "小应用"
   },
+  "screen.closeSuccess": {
+    "message": "تم إغلاق عرض الشاشة بنجاح",
+    "description": "小应用"
+  },
+  "screen.start": {
+    "message": "فتح عرض الشاشة",
+    "description": "小应用"
+  },
+  "screen.pleaseOpenUrl": {
+    "message": " يرجى فتح عنوان الويب على الكمبيوتر ",
+    "description": "小应用"
+  },
+  "screen.inputCodeTips": {
+    "message": " أدخل رمز عرض الشاشة التالي على الكمبيوتر لفتح الشاشة. ",
+    "description": "小应用"
+  },
+  "screen.fiveMinutesEffective": {
+    "message": " صالح في غضون خمس دقائق ",
+    "description": "小应用"
+  },
+  "screen.clickRefresh": {
+    "message": " انقر على تحديث ",
+    "description": "小应用"
+  },
+  "screen.cancel": {
+    "message": " إلغاءعرض الشاشة ",
+    "description": "小应用"
+  },
+  "screen.tips": {
+    "message": "يرجى تشغيل الشاشة قبل أن تتمكن من عرض المصادر. هل تريد تمكين هذا",
+    "description": "小应用"
+  },
+  "vote.title": {
+    "message": "استطلاعات الراي",
+    "description": "小应用"
+  },
+  "vote.publishVote": {
+    "message": "إبدأ الاستطلاع",
+    "description": "小应用"
+  },
+  "vote.titlePlaceholder": {
+    "message": "يرجى إدخال وصف الموضوع بما لا يزيد عن 200 كلمة",
+    "description": "小应用"
+  },
+  "vote.addImageTips": {
+    "message": "يمكنك إضافة صورة ذات صلة بالموضوع",
+    "description": "小应用"
+  },
+  "vote.voteType": {
+    "message": "نوع الاستطلاع",
+    "description": "小应用"
+  },
+  "vote.selectVoteType": {
+    "message": "اختر نوع الاستطلاع",
+    "description": "小应用"
+  },
+  "vote.setVoteDuration": {
+    "message": "حدد مدة الاستطلاع",
+    "description": "小应用"
+  },
+  "vote.multipleSelectionText": {
+    "message": "خيارات متعددة، بحد أقصى {count} خيار",
+    "description": "小应用"
+  },
+  "vote.voteDetail": {
+    "message": "تفاصيل الاستطلاع ",
+    "description": "小应用"
+  },
+  "vote.ballot": {
+    "message": "0 الأصوات | صوت واحد | {n} صوت ",
+    "description": "小应用"
+  },
+  "vote.notVote": {
+    "message": " لم يتم التصويت ",
+    "description": "小应用"
+  },
+  "vote.voted": {
+    "message": "تم التصويت",
+    "description": "小应用"
+  },
+  "vote.endTime": {
+    "message": "وقت الانتهاء",
+    "description": "小应用"
+  },
+  "vote.end": {
+    "message": "انتهى الاستطلاع",
+    "description": "小应用"
+  },
+  "vote.optionNoVotedTips": {
+    "message": " رقم الخيار الحالي هو 0",
+    "description": "小应用"
+  },
+  "vote.source": {
+    "message": " مصدر الوصول ",
+    "description": "小应用"
+  },
+  "vote.deleteConfirmTips": {
+    "message": "هل تريد حذف هذا الاستطلاع؟",
+    "description": "小应用"
+  },
+  "vote.voteStuList": {
+    "message": "قائمة استطلاع الرأي",
+    "description": "小应用"
+  },
+  "vote.notVoteStuList": {
+    "message": "قائمة الطلاب الذين لم يقوموا بالتصويت",
+    "description": "小应用"
+  },
+  "vote.votedStuList": {
+    "message": "صوت الطلاب لصالح هذا الخيار",
+    "description": "小应用"
+  },
+  "vote.limitDuration": {
+    "message": "الحد الأقصى للمدة",
+    "description": "小应用"
+  },
+  "vote.confirmEnd": {
+    "message": "هل أنت تريد إنهاء هذا الاستطلاع؟",
+    "description": "小应用"
+  },
+  "vote.onlyCount": {
+    "message": "يمكنك إضافة {count} خيار فقط",
+    "description": "小应用"
+  },
+  "vote.endVote": {
+    "message": "قم بإنهاء الاستطلاع",
+    "description": "小应用"
+  },
+  "vote.confirmRestart": {
+    "message": "هل أنت متأكد من أنك تريد إعادة الاستطلاع؟",
+    "description": "小应用"
+  },
+  "pick.title": {
+    "message": "اختيار عشوائي",
+    "description": "小应用"
+  },
+  "pick.publish": {
+    "message": "إطلاق اختيار عشوائي",
+    "description": "小应用"
+  },
+  "pick.contentPlaceholder": {
+    "message": " يرجى إدخال الأسئلة أو المهام (غير مطلوب) التي تتطلب من الطلاب الإجابة، بما لا يزيد 50 كلمة. ",
+    "description": "小应用"
+  },
+  "pick.noStuTipsForStu": {
+    "message": "يرجى انتظار معلمك لاختيار طالب",
+    "description": "小应用"
+  },
+  "pick.teaNoReasonTips": {
+    "message": "لم يملأ المعلم أسباب اختيار الطالب",
+    "description": "小应用"
+  },
+  "pick.stuSelectedTips": {
+    "message": "يتم اختيار الطلاب التالية أسماؤهم. يرجى التعاون مع المعلم لإكمال تفاعل الفصل الدراسي.",
+    "description": "小应用"
+  },
+  "pick.participateTimes": {
+    "message": "عدد المشاركات: {times} مرة",
+    "description": "小应用"
+  },
+  "pick.orderByTimesAsc": {
+    "message": "حسب عدد المشاركات من الأقل إلى الأعلى",
+    "description": "小应用"
+  },
+  "pick.orderByTimesDesc": {
+    "message": "حسب عدد المشاركات من الأعلى إلى الأقل",
+    "description": "小应用"
+  },
+  "pick.repickTips": {
+    "message": " باقي {count} طالب، يرجى اختيار مرة أخرى",
+    "description": "小应用"
+  },
+  "pick.success": {
+    "message": "تم الاختيار بنجاح!",
+    "description": "小应用"
+  },
+  "pick.deleteConfirm": {
+    "message": "هل تريد حذف هذا الطالب؟",
+    "description": "小应用"
+  },
+  "pick.unmarkedTips": {
+    "message": "لم يتم تقدير {count} طالبًا وسيتم تعيين تقديرهم 0 بعد انتهاء الحدث.",
+    "description": "小应用"
+  },
+  "pick.rePick": {
+    "message": "أعد الاختيار",
+    "description": "小应用"
+  },
+  "pick.continue": {
+    "message": "استمر في الاختيار",
+    "description": "小应用"
+  },
+  "pick.start": {
+    "message": "إبدأ",
+    "description": "小应用"
+  },
+  "pick.randomPick": {
+    "message": "الطلاب الذين تم اختيارهم عشوائيًا للإجابة على الأسئلة ،",
+    "description": "小应用"
+  },
+  "pick.pickList": {
+    "message": "اختيار عشوائي للسجلات",
+    "description": "小应用"
+  },
+  "pick.commonScore": {
+    "message": "تقدير الكل",
+    "description": "小应用"
+  },
+  "pick.noList": {
+    "message": "لا يوجد سجل",
+    "description": "小应用"
+  },
+  "pick.endPick": {
+    "message": "قم بإنهاء الاختيار العشوائي",
+    "description": "小应用"
+  },
+  "pick.picking": {
+    "message": "جار الاختيار العشوائي...",
+    "description": "小应用"
+  },
+  "pick.noStu": {
+    "message": "لا يوجد أحد متاح",
+    "description": "小应用"
+  },
+  "pick.confirmEndPick": {
+    "message": "هل تريد إنهاء الاختيار العشوائي؟",
+    "description": "小应用"
+  },
+  "pick.confirmDeletePick": {
+    "message": "هل تريد الحذف؟",
+    "description": "小应用"
+  },
+  "pick.confirmRestart": {
+    "message": "هل أنت متأكد أنك تريد إعادة بدء هذا الاختيار العشوائي؟",
+    "description": "小应用"
+  },
+  "pick.pickStuTitle": {
+    "message": "اختيار الطلاب",
+    "description": "小应用"
+  },
+  "pick.participateTimes2": {
+    "message": "التنافس للإجابة: {interlocutionCount}؛ يتم اختيارها: {joinCount}",
+    "description": "小应用"
+  },
+  "pick.picked": {
+    "message": "تم اختياره",
+    "description": "小应用"
+  },
+  "pick.absent": {
+    "message": "غائب",
+    "description": "小应用"
+  },
+  "pick.pick": {
+    "message": "اختار",
+    "description": "小应用"
+  },
+  "pick.pickFromDuty": {
+    "message": "الاختيار من بين كل الحاضرين",
+    "description": "小应用"
+  },
+  "pick.addPickFirst": {
+    "message": "لا توجد تفقد أسماء حتى الآن في هذه المحاضرة. استخدم هذه الوظيفة بعد بدء تفقد الأسماء.",
+    "description": "小应用"
+  },
+  "score.title": {
+    "message": "علامة",
+    "description": "小应用"
+  },
+  "score.unit": {
+    "message": "علامات",
+    "description": "小应用"
+  },
+  "score.publish": {
+    "message": "بدء مراجعة الاقران",
+    "description": "小应用"
+  },
+  "score.rule": {
+    "message": "قواعد منح الدرجات",
+    "description": "小应用"
+  },
+  "score.total": {
+    "message": "مجموع الدرجات",
+    "description": "小应用"
+  },
+  "score.max": {
+    "message": "الدرجة النهائية",
+    "description": "小应用"
+  },
+  "score.remaining": {
+    "message": "الدرجات المتبقية",
+    "description": "小应用"
+  },
+  "score.modify": {
+    "message": "تعديل مراجعة الأقران",
+    "description": "小应用"
+  },
+  "score.descPlaceholder": {
+    "message": " يرجى إدخال الملاحظة ",
+    "description": "小应用"
+  },
+  "score.markKeyPlaceholder": {
+    "message": "يرجى إدخال درجة التقدير",
+    "description": "小应用"
+  },
+  "score.markKeyEmptyTips": {
+    "message": " لا يمكن أن تكون درجة التقدير فارغة ",
+    "description": "小应用"
+  },
+  "score.markKeyMoreThanTips": {
+    "message": "عدد الحروف يجب ألا يتجاوز",
+    "description": "小应用"
+  },
+  "score.addMarkKey": {
+    "message": "أضف درجة تقدير",
+    "description": "小应用"
+  },
+  "score.valuePlaceholder": {
+    "message": "يرجى إدخال الدرجة",
+    "description": "小应用"
+  },
+  "score.valueEmptyTips": {
+    "message": " لا يمكن أن تكون الدرجة فارغة ",
+    "description": "小应用"
+  },
+  "score.totalTips": {
+    "message": "مجموع الكلي للدرجات يساوي مجموع الدرجات",
+    "description": "小应用"
+  },
+  "score.evaluatedObject": {
+    "message": " أداة التقييم ",
+    "description": "小应用"
+  },
+  "score.addEvaluatedObject": {
+    "message": " إضافة أداة تقييم ",
+    "description": "小应用"
+  },
+  "score.modifyEvaluateObject": {
+    "message": " تعديل أداة التقييم ",
+    "description": "小应用"
+  },
+  "score.evaluating": {
+    "message": "جار التقييم",
+    "description": "小应用"
+  },
+  "score.evaluateStarted": {
+    "message": "التقييم قد بدأ",
+    "description": "小应用"
+  },
+  "score.evaluateEnd": {
+    "message": "تم الإنهاء",
+    "description": "小应用"
+  },
+  "score.addGroup": {
+    "message": "إضافة مجموعة",
+    "description": "小应用"
+  },
+  "score.publishedTips": {
+    "message": " بعد بدء الحدث، يمكنك إضافة الطلاب إلى واجهة مستخدم الحدث؛ دعم الطلاب المعينين واختيار الطلاب عشوائيا.",
+    "description": "小应用"
+  },
+  "score.activityTips": {
+    "message": "من أجل ضمان فعالية الحدث ، لا يمكن تعديل المشاركة في نشاط الفصل الدراسي وقواعد منح الدرجات.",
+    "description": "小应用"
+  },
+  "score.tips": {
+    "message": "يتم اختيار الطلاب أو المجموعات للقيام بالعروض التقديمية ، بينما يقوم الطلاب / المجموعات الأخرى بمراجعة عروضهم التقديمية.",
+    "description": "小应用"
+  },
+  "score.activityTypeTips1": {
+    "message": "بعد أن يبدأ، أضف الطلاب ، واطلب من الطلاب الآخرين إجراء مراجعة الزملاء للطلاب المضافة.",
+    "description": "小应用"
+  },
+  "score.activityTypeTips2": {
+    "message": " يشير هذا النشاط إلى تجميع المعلومات من خطة مجموعة الفصل الدراسي، وتحتاج إلى إعداد خطة جماعية من أعضاء الفصل الدراسي مقدما. ",
+    "description": "小应用"
+  },
+  "score.activityTypeTips3": {
+    "message": "يرجى تحديد الموضوعات التي تحتاج إلى تقييمها في الفصل الدراسي.",
+    "description": "小应用"
+  },
+  "score.pleaseAddStu": {
+    "message": " يرجى إضافة طالب",
+    "description": "小应用"
+  },
+  "score.pleaseAddGroup": {
+    "message": " يرجى إضافة مجموعة ",
+    "description": "小应用"
+  },
+  "score.pleaseAddObject": {
+    "message": " يرجى إضافة أداة تقييم ",
+    "description": "小应用"
+  },
+  "score.noEndEvaluation": {
+    "message": " لا يوجد تقييم منتهي ",
+    "description": "小应用"
+  },
+  "score.isConfirmEndEva": {
+    "message": " هل تريد إنهاء التقييم؟ ",
+    "description": "小应用"
+  },
+  "score.endEvaluationTips": {
+    "message": "بعد إنهاء النشاط، لن يتمكن الطلاب (الذين لم يقوموا بمراجعة الأقران) من إجراء مراجعة الأقران. هل أنت متأكد من أنك تريد الإنهاء؟ ",
+    "description": "小应用"
+  },
+  "score.startEvaluation": {
+    "message": "إبدأ التقييم",
+    "description": "小应用"
+  },
+  "score.endEvaluation": {
+    "message": "إنهاء التقييم",
+    "description": "小应用"
+  },
+  "score.evaluationDetail": {
+    "message": " تفاصيل التقييم ",
+    "description": "小应用"
+  },
+  "score.evaluatedCount": {
+    "message": "قام {count} طالب بالتقييم",
+    "description": "小应用"
+  },
+  "score.noStuEvaluated": {
+    "message": "لا يوجد تقييم للطالب",
+    "description": "小应用"
+  },
+  "score.allStuEvaluated": {
+    "message": " تم تقييم جميع الطلاب ",
+    "description": "小应用"
+  },
+  "score.member": {
+    "message": "عضو",
+    "description": "小应用"
+  },
+  "score.groupMember": {
+    "message": " عضو المجموعة ",
+    "description": "小应用"
+  },
+  "score.noMember": {
+    "message": " لا يوجد عضو ",
+    "description": "小应用"
+  },
+  "score.nameAndCount": {
+    "message": "{name}، {count} الطلاب",
+    "description": "小应用"
+  },
+  "score.evaluated": {
+    "message": "تم التقييم",
+    "description": "小应用"
+  },
+  "score.noEvaluation": {
+    "message": " لم يتم التقييم ",
+    "description": "小应用"
+  },
+  "score.noEvaluation2": {
+    "message": "لا يوجد منح درجات",
+    "description": "小应用"
+  },
+  "score.selectGroup": {
+    "message": "إختر مجموعة",
+    "description": "小应用"
+  },
+  "score.classNoGroupTips": {
+    "message": "لا يوجد تجميع للفصل الدراسي الحالي",
+    "description": "小应用"
+  },
+  "score.myScore": {
+    "message": "الدرجة",
+    "description": "小应用"
+  },
+  "score.myMark": {
+    "message": "مراجعات زملائي",
+    "description": "小应用"
+  },
+  "score.noEvaluatingScore": {
+    "message": "لا يوجد مراجعة من الزملاء قيد التقدم",
+    "description": "小应用"
+  },
+  "score.noEvaluateEndScore": {
+    "message": "لا توجد مراجعات أقران منتهية",
+    "description": "小应用"
+  },
+  "score.pleaseMarkTips": {
+    "message": "أدخل الدرجة (من أصل 100 نقطة متاحة) ",
+    "description": "小应用"
+  },
+  "score.markPlaceholder": {
+    "message": "يرجى إدخال الدرجة",
+    "description": "小应用"
+  },
+  "score.maxTips": {
+    "message": " لا يمكن أن تتجاوز الدرجة 100 درجة",
+    "description": "小应用"
+  },
+  "score.markByItem": {
+    "message": "التقدير حسب العنصر",
+    "description": "小应用"
+  },
+  "score.markItemEmptyTips": {
+    "message": " لا يمكن أن يكون عنصر التقييم فارغا ",
+    "description": "小应用"
+  },
+  "score.unite": {
+    "message": "تقدير الدفعة",
+    "description": "小应用"
+  },
+  "score.scoreByItems": {
+    "message": "عنصر التقييم",
+    "description": "小应用"
+  },
+  "score.setItems": {
+    "message": "قم تعيين عناصر التقدير و قواعد للطلاب لمتابعة مراجعة الزملاء",
+    "description": "小应用"
+  },
+  "score.rules": {
+    "message": "قاعدة منح الدرجات",
+    "description": "小应用"
+  },
+  "score.itemsCount": {
+    "message": "تعيين {count} عنصرًا",
+    "description": "小应用"
+  },
+  "score.setRule": {
+    "message": "يرجى وضع قواعد لمنح الدرجات",
+    "description": "小应用"
+  },
+  "score.groupDetail": {
+    "message": "تفاصيل المجموعة",
+    "description": "小应用"
+  },
+  "score.confirmDeteleStu": {
+    "message": "تأكد من حذف الطالب",
+    "description": "小应用"
+  },
+  "score.confirmDeleteGroup": {
+    "message": "هل تريد حذف المجموعة؟",
+    "description": "小应用"
+  },
+  "score.confirmDeleteObj": {
+    "message": "هل تريد حذف أداة التصنيف الحالية؟",
+    "description": "小应用"
+  },
+  "score.evaluatingStudents": {
+    "message": "تقييم الطلاب.",
+    "description": "小应用"
+  },
+  "score.evaluatingGroups": {
+    "message": "فريق التقييم.",
+    "description": "小应用"
+  },
+  "score.addStudent": {
+    "message": "إضافة طالب",
+    "description": "小应用"
+  },
+  "score.titleErrTip": {
+    "message": "لا يمكن أن يتجاوز العنوان 200 حرف",
+    "description": "小应用"
+  },
+  "score.objErrTip": {
+    "message": "يرجى اختيار أداة تقييم واحدة على الأقل.",
+    "description": "小应用"
+  },
+  "score.ruleErrTip": {
+    "message": "لا يمكن أن تكون قواعد منح الدرجات فارغة لكل عنصر.",
+    "description": "小应用"
+  },
+  "score.confirmEndScore": {
+    "message": "هل تريد إنهاء مراجعة الأقران؟",
+    "description": "小应用"
+  },
+  "score.confirmRestart": {
+    "message": "هل أنت متأكد أنك تريد إعادة فتح \"مراجعة الزملاء\"؟",
+    "description": "小应用"
+  },
+  "score.endScore": {
+    "message": "إنهاء مراجعة الأقران",
+    "description": "小应用"
+  },
+  "score.confirmDeleteScore": {
+    "message": "هل تريد حذف مراجعة الزملاء هذه؟",
+    "description": "小应用"
+  },
+  "score.noStuEvaluation": {
+    "message": "لا يوجد طلاب قيد التقييم",
+    "description": "小应用"
+  },
+  "score.noGroupEvaluation": {
+    "message": "لا توجد مجموعة يتم تقييمها",
+    "description": "小应用"
+  },
+  "score.noObjEvaluation": {
+    "message": "لا jوجد أداة قيد التقييم",
+    "description": "小应用"
+  },
+  "attendance.create": {
+    "message": "بدأ تفقد الأسماء",
+    "description": "小应用"
+  },
+  "attendance.title": {
+    "message": "تفقد الحضور",
+    "description": "小应用"
+  },
+  "attendance.sign": {
+    "message": "تسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.signing": {
+    "message": " التوقيع ",
+    "description": "小应用"
+  },
+  "attendance.create2": {
+    "message": "بدأ",
+    "description": "小应用"
+  },
+  "attendance.signType": {
+    "message": " طريقة التوقيع ",
+    "description": "小应用"
+  },
+  "attendance.screenTips": {
+    "message": "\"تسجيل الدخول باستخدام رمز الاستجابة السريع\"، استخدم عرض الشاشة لإظهار رمز الاستجابة السريع.",
+    "description": "小应用"
+  },
+  "attendance.locationTips": {
+    "message": "لاستخدام تسجيل الدخول عن طريق الموقع ، تحتاج إلى تشغيل وظيفة تتبع الموقع. قد تحتوي بيانات الموقع على درجة معينة من الانحراف (ليست دقيقة كما ينبغي).",
+    "description": "小应用"
+  },
+  "attendance.qrCodeUpdateTips": {
+    "message": " تحديث رمز الاستجابة السريع كل 15 ثانية ",
+    "description": "小应用"
+  },
+  "attendance.oneKeySign": {
+    "message": "تسجيل الدخول عن طريق الموقع",
+    "description": "小应用"
+  },
+  "attendance.qrCodeSign": {
+    "message": "تسجيل الدخول عن طريق رمز الاستجابة السريع",
+    "description": "小应用"
+  },
+  "attendance.titleMaxTips": {
+    "message": "لا يمكن أن يتجاوز العنوان 200 حرف",
+    "description": "小应用"
+  },
+  "attendance.saveError": {
+    "message": " خطأ في الحفظ ",
+    "description": "小应用"
+  },
+  "attendance.duration": {
+    "message": "المدة",
+    "description": "小应用"
+  },
+  "attendance.totalTime": {
+    "message": "الوقت التراكمي",
+    "description": "小应用"
+  },
+  "attendance.rateOfThisTime": {
+    "message": " معدل الحضور حاليا",
+    "description": "小应用"
+  },
+  "attendance.rateOfCurrent": {
+    "message": " معدل الحضور الحالي ",
+    "description": "小应用"
+  },
+  "attendance.confirmTips": {
+    "message": "يوصى بتأكيد حالة تسجيل الدخول في الموقع للطلاب البعيدين عن المسافة التالية.",
+    "description": "小应用"
+  },
+  "attendance.endConfirmTips": {
+    "message": " هل أنت متأكد من إغلاق تفقد الحضور؟ ",
+    "description": "小应用"
+  },
+  "attendance.ending": {
+    "message": "إنهاء الحدث",
+    "description": "小应用"
+  },
   "attendance.endFail": {
     "message": "لم نتمكن من إنهاء النشاط ",
+    "description": "小应用"
+  },
+  "attendance.allSign": {
+    "message": "تم تسجيل دخول الكل",
+    "description": "小应用"
+  },
+  "attendance.tooFarAway": {
+    "message": " بعيد جدًا ",
+    "description": "小应用"
+  },
+  "attendance.unSign": {
+    "message": "لم يتم تسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.signed": {
+    "message": "تم تسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.signFail": {
+    "message": "تعذر تسجيل الدخول ",
+    "description": "小应用"
+  },
+  "attendance.signSuccess": {
+    "message": "تم تسجيل الدخول بنجاح",
+    "description": "小应用"
+  },
+  "attendance.signNow": {
+    "message": " سجل الدخول الآن ",
+    "description": "小应用"
+  },
+  "attendance.scanCodeSign": {
+    "message": " مسح الرمز لتسجيل الدخول ",
+    "description": "小应用"
+  },
+  "attendance.stuAllSgin": {
+    "message": " كل الطلاب قاموا بتسجيل الدخول ",
+    "description": "小应用"
+  },
+  "attendance.noStuUnSign": {
+    "message": " لم يقم أي طالب بتسجيل الدخول بعد ",
+    "description": "小应用"
+  },
+  "attendance.tooLate": {
+    "message": " لقد تأخرت، لقد انتهى تسجيل الدخول. ",
+    "description": "小应用"
+  },
+  "attendance.deleteConfirm": {
+    "message": "تأكيد لحذف الحضور؟",
+    "description": "小应用"
+  },
+  "attendance.modifySignStatus": {
+    "message": "تعديل حالة تسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.myRecord": {
+    "message": " سجل تسجيل الدخول الخاص بي ",
+    "description": "小应用"
+  },
+  "attendance.record": {
+    "message": " سجل تسجيل الدخول ",
+    "description": "小应用"
+  },
+  "attendance.qrCodeErrorTips": {
+    "message": "يرجى مسح رمز الاستجابة السريع الصحيح لتسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.deviceSignedTips": {
+    "message": "اكتشف النظام أن الجهاز قد تم تسجيل دخوله. يُرجى عدم تسجيل الدخول للطلاب الآخرين.",
+    "description": "小应用"
+  },
+  "attendance.absenteeism": {
+    "message": "غائب",
+    "description": "小应用"
+  },
+  "attendance.late": {
+    "message": " متأخر ",
+    "description": "小应用"
+  },
+  "attendance.leaveEarly": {
+    "message": "انصرف مبكرا",
+    "description": "小应用"
+  },
+  "attendance.sickLeave": {
+    "message": "إجازة مرضية",
+    "description": "小应用"
+  },
+  "attendance.personalLeave": {
+    "message": "إجازة بعذر",
+    "description": "小应用"
+  },
+  "attendance.notJoinSign": {
+    "message": " لم يتم تسجيل الدخول بعد ",
+    "description": "小应用"
+  },
+  "attendance.notInCourseTips": {
+    "message": "أنت لست في المقرر الدراسي ولا يمكنك المشاركة في الحدث ، يرجى الاتصال بمعلمك للانضمام إلى الفصل الدراسي لهذا المقرر الدراسي.",
+    "description": "小应用"
+  },
+  "attendance.tooFar": {
+    "message": " بعيد جدًا ",
+    "description": "小应用"
+  },
+  "attendance.distanceUnknow": {
+    "message": " مسافة غير معروفة ",
+    "description": "小应用"
+  },
+  "attendance.qrCodeUpdateSepTips": {
+    "message": "تحديث رمز الاستجابة السريع",
+    "description": "小应用"
+  },
+  "attendance.rangeTitle": {
+    "message": "حدد مسافة تسجيل دخول الطالب ، والتي لا يمكن بعدها تسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.rangTip": {
+    "message": "ملاحظه:",
+    "description": "小应用"
+  },
+  "attendance.rangeTipContent": {
+    "message": "بسبب شبكة الفصول الدراسية أو محطة 4G الأساسية ، قد يكون تحديد مواقع بعض الطلاب للجوال غير دقيق ، ولكنه قد على بعد مسافة طويلة من الفصل الدراسي. يمكن للمدرسين تغيير حالة تسجيل الوصول لهؤلاء الطلاب يدويا إلى \"تسجيل الوصول\" بعد انتهاء تفقد الأسماء. ",
+    "description": "小应用"
+  },
+  "attendance.rangeNotLimit": {
+    "message": "غير محدود",
+    "description": "小应用"
+  },
+  "attendance.stuSignTip": {
+    "message": "أنت بعيد جدا عن المعلم! إذا كنت في الفصل الدراسي، يمكنك محاولة التبديل إلى شبكة اتصال مختلفة، ثم تسجيل الدخول مرة أخرى. إذا كان تحديد المواقع لا يزال غير دقيق بعد عدة محاولات، يرجى إبلاغ المعلم و سوف يقوم المعلم يدويا بتغيير حالة تسجيل الوصول الخاص بك. ",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips1": {
+    "message": "يرجى السماح لكليتك باستخدام خدمة الموقع ، ثم حاول مرة أخرى",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips2": {
+    "message": "يرجى تشغيل خدمة الموقع في إعدادات نظام الجوال والسماح لك باستخدام خدمة الموقع",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips3": {
+    "message": "خدمة الموقع غير مستقرة ، وغير قادرة على الحصول على معلومات موقعك ، يمكنك المحاولة مرة أخرى لاحقًا",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips4": {
+    "message": "إذن الألبوم غير مفتوح",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips5": {
+    "message": "يرجى فتح إذن الهاتف",
+    "description": "小应用"
+  },
+  "attendance.numCodeFresh": {
+    "message": "تم تحديث الرمز",
+    "description": "小应用"
+  },
+  "attendance.numCodeSign": {
+    "message": "الرقم الرمزي لتسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.numCodeTips": {
+    "message": "يقوم الطلاب بإدخال رمز رقمي لإكمال التسجيل ، إذا تم فتح شاشة الإرسال ، يمكن عرض الرمز الرقمي على الشاشة الكبيرة. يمكنك أيضًا إبلاغ الطلاب شفهيًا بالرمز الرقمي.",
+    "description": "小应用"
+  },
+  "attendance.numcode": {
+    "message": "كود الرقم",
+    "description": "小应用"
+  },
+  "attendance.numcodenow": {
+    "message": "الرقم الرمزي الحالي.",
+    "description": "小应用"
+  },
+  "attendance.inputNumcode": {
+    "message": "يقوم الطلاب بإدخال الأرقام لتسجيل الدخول.",
+    "description": "小应用"
+  },
+  "attendance.freshTime": {
+    "message": "تحديث الوقت",
+    "description": "小应用"
+  },
+  "attendance.endAttendence": {
+    "message": "إنهاء الحضور",
+    "description": "小应用"
+  },
+  "attendance.inputNumCode": {
+    "message": "يرجى إدخال الرمز",
+    "description": "小应用"
+  },
+  "attendance.surround": {
+    "message": "موقع قريب",
+    "description": "小应用"
+  },
+  "attendance.getPosAgain": {
+    "message": "إعادة الموقع",
+    "description": "小应用"
+  },
+  "attendance.openPos": {
+    "message": "قم بتشغيل الموقع لدى جوالك",
+    "description": "小应用"
+  },
+  "attendance.positon": {
+    "message": "مكان",
+    "description": "小应用"
+  },
+  "attendance.confirmPos": {
+    "message": "يرجى تأكيد موقع تسجيل الدخول",
+    "description": "小应用"
+  },
+  "attendance.userNumber": {
+    "message": "كود الطالب: {studentID}",
+    "description": "小应用"
+  },
+  "attendance.attData": {
+    "message": "الحاضر: {signCount}، غياب: {absenceCount}، معدل الحضور: {rate} ",
+    "description": "小应用"
+  },
+  "attendance.teaEnter": {
+    "message": "لم يتم تحديد موقع- لقد دخل المعلم",
+    "description": "小应用"
+  },
+  "announcement.title": {
+    "message": "إشعارات",
+    "description": "小应用"
+  },
+  "announcement.publish": {
+    "message": "نشر إعلان",
+    "description": "小应用"
+  },
+  "announcement.contentInputTips": {
+    "message": " يرجى إدخال محتوى الإعلان ",
+    "description": "小应用"
+  },
+  "announcement.isStopEditing": {
+    "message": "ما إذا كان سيتم التخلي عن هذا التعديل؟",
+    "description": "小应用"
+  },
+  "announcement.contentEmptyTips": {
+    "message": "لا يمكن أن يكون المحتوى فارغا",
+    "description": "小应用"
+  },
+  "announcement.contentMaxTips": {
+    "message": " يجب ألا يزيد المحتوى عن 2000 حرف ",
+    "description": "小应用"
+  },
+  "announcement.modifyError": {
+    "message": " خطأ في تصحيح ",
+    "description": "小应用"
+  },
+  "announcement.saveError": {
+    "message": " خطأ في الحفظ ",
+    "description": "小应用"
+  },
+  "announcement.saveError2": {
+    "message": " خطأ في الحفظ، يرجى المحاولة مرة أخرى ",
+    "description": "小应用"
+  },
+  "announcement.classNameAndCount": {
+    "message": "{className} و الفصول الدراسية الأخرى {count}",
+    "description": "小应用"
+  },
+  "announcement.list": {
+    "message": " قائمة الإعلانات ",
+    "description": "小应用"
+  },
+  "announcement.noModifyPermissionTips": {
+    "message": " ليس لديك إذن للتعديل ",
+    "description": "小应用"
+  },
+  "announcement.noDeletePermissionTips": {
+    "message": " ليس لديك إذن بالحذف ",
+    "description": "小应用"
+  },
+  "announcement.deletConfirm": {
+    "message": " هل تريد حذف هذا الإعلان؟ ",
+    "description": "小应用"
+  },
+  "announcement.read": {
+    "message": "إقرأ",
+    "description": "小应用"
+  },
+  "announcement.hasRead": {
+    "message": " إقرأ",
+    "description": "小应用"
+  },
+  "announcement.clickMe": {
+    "message": "أنقر هنا",
     "description": "小应用"
   },
   "download.title": {
@@ -49,6 +1481,14 @@
   },
   "download.error": {
     "message": " خطأ في التنزيل ",
+    "description": "小应用"
+  },
+  "upload.imageIngTips": {
+    "message": "جار رفع الصور",
+    "description": "小应用"
+  },
+  "upload.attachmentIngTips": {
+    "message": "جار رفع المرفقات",
     "description": "小应用"
   },
   "upload.file": {
@@ -67,28 +1507,332 @@
     "message": "لم نتمكن من الرفع، الرجاء المحاولة مرة أخرى ",
     "description": "小应用"
   },
+  "upload.ing": {
+    "message": "جار رفع المصادر، لا تقم بالمغادرة",
+    "description": "小应用"
+  },
   "upload.ing2": {
     "message": "جارٍ التحميل...",
+    "description": "小应用"
+  },
+  "upload.waiting": {
+    "message": "في انتظار الرفع",
+    "description": "小应用"
+  },
+  "upload.maxFileCount": {
+    "message": " ما يصل إلى 5 مرفقات",
     "description": "小应用"
   },
   "upload.retry": {
     "message": "إعادة رفع",
     "description": "小应用"
   },
+  "upload.notSupport": {
+    "message": "لا يمكن دعم هذا النوع من المستندات",
+    "description": "小应用"
+  },
+  "upload.maxFileCount2": {
+    "message": "رفع ما يصل إلى {count} مرفق",
+    "description": "小应用"
+  },
+  "upload.video1GLimit": {
+    "message": " لا يمكن أن يتجاوز حجم الفيديو 1 جيجابايت",
+    "description": "小应用"
+  },
+  "upload.fileSizeLimit": {
+    "message": " لا يمكن أن يتجاوز حجم الملف 200 ميغابايت",
+    "description": "小应用"
+  },
+  "answer.publish": {
+    "message": "بدء التنافس على الإجابة",
+    "description": "小应用"
+  },
+  "answer.contentPlaceholder": {
+    "message": "أدخل تعليمات التنافس على الإجابة (اختياري)",
+    "description": "小应用"
+  },
+  "answer.participantsCount": {
+    "message": "عدد المشاركون",
+    "description": "小应用"
+  },
+  "answer.publishNow": {
+    "message": "ابدأ على الفور",
+    "description": "小应用"
+  },
+  "answer.classroomAnswer": {
+    "message": "تنافس على الإجابة",
+    "description": "小应用"
+  },
+  "answer.deleteConfirm": {
+    "message": "هل أنت متأكد أنك تريد حذف التنافس على الإجابة؟",
+    "description": "小应用"
+  },
+  "answer.backConfirm": {
+    "message": " لم يتم الحفظ بعد، هل تريد العودة ",
+    "description": "小应用"
+  },
+  "answer.publishing": {
+    "message": "البدء ",
+    "description": "小应用"
+  },
+  "answer.pleaseSelectParticipant": {
+    "message": " يرجى اختيار المشاركين ",
+    "description": "小应用"
+  },
+  "answer.stuAnswering": {
+    "message": "التنافس على الإجابة قيد التقدم... ",
+    "description": "小应用"
+  },
+  "answer.manualSelecting": {
+    "message": "جار الانتقاء يدويًا ...",
+    "description": "小应用"
+  },
+  "answer.manualSelect": {
+    "message": "اختيار يدوي",
+    "description": "小应用"
+  },
+  "answer.cannotAnswer": {
+    "message": "أثناء عملية الاختيار، لن يتمكن الطلاب مؤقتًا من الإجابة على الأسئلة.",
+    "description": "小应用"
+  },
+  "answer.special": {
+    "message": "محدد",
+    "description": "小应用"
+  },
+  "answer.random": {
+    "message": " عشوائيا ",
+    "description": "小应用"
+  },
+  "answer.deleteStuConfirm": {
+    "message": "هل تريد حذف هذا الطالب؟",
+    "description": "小应用"
+  },
+  "answer.switching": {
+    "message": " التبديل ",
+    "description": "小应用"
+  },
+  "answer.someStuUnScore": {
+    "message": " لم يتم تقدير {count} طالب وسيتم تقديرهم بـ 0 بعد انتهاء المحاضرة",
+    "description": "小应用"
+  },
   "answer.requestFail": {
     "message": "لم نتمكن من الطلب، الرجاء المحاولة مرة أخرى ",
+    "description": "小应用"
+  },
+  "answer.checkYourNetwork": {
+    "message": " يرجى التحقق من الشبكة ",
+    "description": "小应用"
+  },
+  "answer.allClassStuJoin": {
+    "message": "انضم جميع الطلاب للفصل الدراسي",
+    "description": "小应用"
+  },
+  "answer.allPeopleJoined": {
+    "message": "انضم جميع الطلاب",
+    "description": "小应用"
+  },
+  "answer.selectScore": {
+    "message": "اختر الدرجة",
+    "description": "小应用"
+  },
+  "answer.tryAgainLater": {
+    "message": " حاول مرة أخرى لاحقا ",
+    "description": "小应用"
+  },
+  "answer.toJoin": {
+    "message": " للانضمام ",
+    "description": "小应用"
+  },
+  "answer.error": {
+    "message": "خطأ",
+    "description": "小应用"
+  },
+  "answer.selectStu": {
+    "message": "إختر طالب",
+    "description": "小应用"
+  },
+  "answer.noStuToSelect": {
+    "message": " لا يوجد طالب لاختياره",
+    "description": "小应用"
+  },
+  "answer.participateTimes": {
+    "message": "شارك {times} مرة",
+    "description": "小应用"
+  },
+  "answer.participateAndSelectTimes": {
+    "message": "التنافس على الإجابة: {count}; تم اختياره: {selectCount}",
+    "description": "小应用"
+  },
+  "answer.orderByStuNo": {
+    "message": "الترتيب حسب كود الطالب",
+    "description": "小应用"
+  },
+  "answer.orderByTimes": {
+    "message": "الترتيب حسب أوقات المشاركة ",
+    "description": "小应用"
+  },
+  "answer.stuMax": {
+    "message": "يمكنك اختيار {count} طالب كحد أقصى.",
+    "description": "小应用"
+  },
+  "answer.record": {
+    "message": "سجلات التانفس على الإجابة",
+    "description": "小应用"
+  },
+  "answer.unsetContent": {
+    "message": "لم يتم تعيين محتوى السؤال والجواب",
+    "description": "小应用"
+  },
+  "answer.teacherUnsetContent": {
+    "message": " لم يحدد المعلم محتوى السؤال و الجواب.",
+    "description": "小应用"
+  },
+  "answer.stuThisQuestion": {
+    "message": " الطلاب الذين أجابوا على السؤال ",
+    "description": "小应用"
+  },
+  "answer.noStuparticipate": {
+    "message": "لا توجد مشاركة طلابية",
+    "description": "小应用"
+  },
+  "answer.teacherStartSelect": {
+    "message": "يبدأ المعلم في اختيار الطالب (الطلاب) يدويًا",
+    "description": "小应用"
+  },
+  "answer.stuGrowthCongratulations": {
+    "message": "تهانينا للطلاب التاليين الذين أجابوا على الأسئلة وحصلوا على درجات تطور.",
+    "description": "小应用"
+  },
+  "answer.remainingQuota": {
+    "message": " الحصة المتبقية ",
+    "description": "小应用"
+  },
+  "answer.grab": {
+    "message": "تنافس على الإجابة",
+    "description": "小应用"
+  },
+  "answer.commonScore": {
+    "message": "تقدير الكل",
+    "description": "小应用"
+  },
+  "answer.endAnswer": {
+    "message": "إنهاء التنافس للإجابة",
+    "description": "小应用"
+  },
+  "answer.confirmDeleteAnswer": {
+    "message": "هل تريد الحذف؟",
+    "description": "小应用"
+  },
+  "answer.confirmEndScore": {
+    "message": "هل تريد إنهاء هذا النشاط؟",
+    "description": "小应用"
+  },
+  "answer.confirmRestart": {
+    "message": "هل تريد إعادة بدء هذا التنافس على الإجابة؟",
+    "description": "小应用"
+  },
+  "answer.selecting": {
+    "message": "اختيار",
+    "description": "小应用"
+  },
+  "class.create": {
+    "message": "إنشاء فصل دراسي",
     "description": "小应用"
   },
   "class.all": {
     "message": "كل الفصول",
     "description": "小应用"
   },
+  "class.title": {
+    "message": "الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.title2": {
+    "message": "الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.code": {
+    "message": "كود",
+    "description": "小应用"
+  },
+  "class.code2": {
+    "message": "كود الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.noData": {
+    "message": "لا توجد بيانات للفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.participating": {
+    "message": "مشاركة الفصل",
+    "description": "小应用"
+  },
   "class.pleaseSelect": {
     "message": "الرجاء اختيار الفصل",
     "description": "小应用"
   },
+  "class.pleaseSelectAtLeastOne": {
+    "message": "يرجى اختيار فصل دراسي واحدة على الأقل",
+    "description": "小应用"
+  },
+  "class.createTips": {
+    "message": "يرجى إدخال اسم الفصل الدراسي. يتم فصل الفصول الدراسية المتعددة بعلامة \"،\".",
+    "description": "小应用"
+  },
+  "class.nameUniqueTips": {
+    "message": "لا يمكن أن يكون إسم الفصل الدراسي مكررا",
+    "description": "小应用"
+  },
+  "class.nameRepeatTips": {
+    "message": " اسم الفصل الدراسي متكرر مع فصل دراسي موجود",
+    "description": "小应用"
+  },
+  "class.needCheck": {
+    "message": "يجب أن تتم الموافقة على الطلاب للانضمام إلى الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.inputMorethanOneTips": {
+    "message": " يرجى إدخال فصل دراسي واحد على الأقل. ",
+    "description": "小应用"
+  },
+  "class.selectMorethanOneTips": {
+    "message": "اختر فصل واحدة على الأقل",
+    "description": "小应用"
+  },
+  "class.nameMaxLengthTips": {
+    "message": "يجب ألا يزيد  طول اسم الفصل الدراسي عن 100 حرف",
+    "description": "小应用"
+  },
   "class.createFailWarning": {
     "message": "لم نتمكن من الإنشاء، الرجاء التحقق من الاتصال بالشبكة ",
+    "description": "小应用"
+  },
+  "class.addMember": {
+    "message": "إضافة أعضاء إلى الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.enterCourse": {
+    "message": "أدخل فصل دراسي",
+    "description": "小应用"
+  },
+  "class.defaultClassTips": {
+    "message": "لإضافة أعضاء إلى الفصل الدراسي ، لم تقم بإنشاء فصل دراسي، لقد أنشأ النظام لك فصل دراسي افتراضي ؛ يمكنك تغيير معلومات الفصل الدراسي بعد دخوله.",
+    "description": "小应用"
+  },
+  "class.default": {
+    "message": "الفصل الدراسي الافتراضي",
+    "description": "小应用"
+  },
+  "class.modify": {
+    "message": "تعديل الفصل",
+    "description": "小应用"
+  },
+  "class.change": {
+    "message": "تغيير الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.delete": {
+    "message": "حذف الفصل الدراسى",
     "description": "小应用"
   },
   "class.saveFail": {
@@ -99,32 +1843,1180 @@
     "message": "إختر الفصل",
     "description": "小应用"
   },
+  "class.my": {
+    "message": "فصلي الدراسي",
+    "description": "小应用"
+  },
+  "class.special": {
+    "message": " فصل دراسي محدد",
+    "description": "小应用"
+  },
+  "class.otherClass": {
+    "message": " فصل دراسي أخر",
+    "description": "小应用"
+  },
+  "class.courseTeaGroup": {
+    "message": " فريق تدريس هذا المقرر الدراسي",
+    "description": "小应用"
+  },
+  "class.null": {
+    "message": "لا يوجد فصل دراسي",
+    "description": "小应用"
+  },
+  "class.null2": {
+    "message": "لا يوجد فصل دراسي",
+    "description": "小应用"
+  },
+  "class.noStudent": {
+    "message": "لا يوجد طلاب في الفصل الدراسي.",
+    "description": "小应用"
+  },
+  "class.manager": {
+    "message": "إدارة الفصل الدراسى",
+    "description": "小应用"
+  },
+  "class.changeStuClass": {
+    "message": " تغيير الفصل الدراسي للطلاب ",
+    "description": "小应用"
+  },
+  "class.changeStuClassConfirm": {
+    "message": "تأكد من تغيير الطلاب للفصول الدراسية",
+    "description": "小应用"
+  },
+  "class.noTeacherTips": {
+    "message": " يوجد معلم واحد على الأقل بالفصل الدراسي. ",
+    "description": "小应用"
+  },
+  "class.setTeacherClass": {
+    "message": " تحديد فصل دراسي للمعلم ",
+    "description": "小应用"
+  },
+  "class.deleteStuNoAccess": {
+    "message": "ليس لديك إذن بحذف الطلاب",
+    "description": "小应用"
+  },
+  "class.modifyStuNoAccess": {
+    "message": "ليس لديك إذن بتعديل الفصل الدراسي للطالب",
+    "description": "小应用"
+  },
+  "class.deleteNoAccess": {
+    "message": " ليس لديك إذن بحذف الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.modifyNoAccess": {
+    "message": " ليس لديك إذن لتعديل الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.deleteConfirm1": {
+    "message": "عند حذف الفصل الدراسي، سيتم حذف جميع الطلاب الموجودين في الفصل الدراسي من المقرر الدراسي ، وسيتم حذف سجلات جميع الأنشطة التي شارك فيها الطلاب. · سيتم مسح الفصل الدراسي.",
+    "description": "小应用"
+  },
+  "class.deleteConfirm2": {
+    "message": "هل تريد حذف الفصل الدراسي؟",
+    "description": "小应用"
+  },
+  "class.qrCodeJoin": {
+    "message": "يمكن للطلاب الانضمام إلى الفصل الدراسي عن طريق إدخال رمز الفصل الدراسي أو مسح رمز الاستجابة السريع.",
+    "description": "小应用"
+  },
+  "class.qrCodeInvite": {
+    "message": "يمكنك مشاركة رمز الاستجابة السريع للفصل الدراسي أو رمز الفصل الدراسي لدعوة الطلاب للانضمام إليه.",
+    "description": "小应用"
+  },
+  "class.tips1": {
+    "message": "يمكنك الانتظار حتى يقوم المسؤول بتعيين فصل دراسي لك ، أو يمكنك إنشاء فصل دراسي بنفسك.",
+    "description": "小应用"
+  },
+  "class.tips2": {
+    "message": "لا توجد فصول دراسية تم إنشاؤها بواسطة معلمين آخرين. يمكنك تجربة تدريس مع العديد من المعلمين في نفس المقرر الدراسي.",
+    "description": "小应用"
+  },
+  "class.tips3": {
+    "message": " يمكنك تعيين فصل دراسي للمعلمين أو السماح للمعلمين بإنشاء الفصل الدراسي بأنفسهم. ",
+    "description": "小应用"
+  },
+  "class.assign": {
+    "message": "تعيين",
+    "description": "小应用"
+  },
+  "class.teacherFollowingClass": {
+    "message": "قم بتدريس الفصل الدراسي التالي",
+    "description": "小应用"
+  },
+  "class.assessmentClass": {
+    "message": "تقييم الفصل الدراسي",
+    "description": "小应用"
+  },
+  "class.moveOut": {
+    "message": " أخرج ",
+    "description": "小应用"
+  },
+  "class.count": {
+    "message": "إلخ {count} فصل دراسي",
+    "description": "小应用"
+  },
+  "class.lastClass": {
+    "message": "تم إختيارها مسبقاً:",
+    "description": "小应用"
+  },
+  "class.exit": {
+    "message": "إنهاء الفصل دراسي",
+    "description": "小应用"
+  },
+  "class.exitConfirm": {
+    "message": "عند إنهاء الفصل الدراسي ، سيتم إفراغ ملاحظات الفصل الدراسي الخاصة بالواجبات والمناقشات والامتحانات الخ و لن تتأثر المناهج الدراسية. هل أنت متأكد من أنك تريد الخروج؟",
+    "description": "小应用"
+  },
+  "class.exitSuccessTips": {
+    "message": "لقد خرجت من الفصل الدراسي بنجاح. إذا كنت ترغب في الانضمام إلى فصل دراسي جديد ، فيرجى سؤال المعلم عن رمز الاستجابة السريع أو كود الفصل الدراسي الجديد.",
+    "description": "小应用"
+  },
+  "class.courseware": {
+    "message": "منهج دراسي",
+    "description": "小应用"
+  },
+  "class.weightCl": {
+    "message": "الترجيح:",
+    "description": "小应用"
+  },
+  "class.theItemScoreCl": {
+    "message": "درجة العنصر: ",
+    "description": "小应用"
+  },
+  "class.studyScore": {
+    "message": "نتيجة الدراسة",
+    "description": "小应用"
+  },
+  "class.averageScoreByChapter": {
+    "message": "حسب متوسط درجات الفصل الذي تم اختياره",
+    "description": "小应用"
+  },
+  "class.studyTime": {
+    "message": "وقت الدراسة",
+    "description": "小应用"
+  },
+  "class.totalStudyTimeAchieve": {
+    "message": "يصل وقت التعلم التراكمي",
+    "description": "小应用"
+  },
+  "class.chapterStudyTimeAchieve": {
+    "message": "يصل وقت التعلم لكل فصل",
+    "description": "小应用"
+  },
+  "class.sectionStudyTimeAchieve": {
+    "message": "يصل وقت التعلم لكل قسم",
+    "description": "小应用"
+  },
+  "class.fullMarksLessThan": {
+    "message": "الدرجة النهائية، أقل من",
+    "description": "小应用"
+  },
+  "class.score0": {
+    "message": "سجل 0 درجة",
+    "description": "小应用"
+  },
+  "class.minite": {
+    "message": "دقيقة",
+    "description": "小应用"
+  },
+  "class.studyProgress": {
+    "message": "التقدم فى الدراسة",
+    "description": "小应用"
+  },
+  "class.totalStudyProgress": {
+    "message": "يصل تقدم التعلم التراكمي",
+    "description": "小应用"
+  },
+  "class.chapterStudyProgress": {
+    "message": "يصل تقدم التعلم لكل فصل",
+    "description": "小应用"
+  },
+  "class.newStrategyTips1": {
+    "message": "قم بإنشاء وتعديل استراتيجية التقييم الخاصة بك على جهاز الكمبيوتر الخاص بك.",
+    "description": "小应用"
+  },
+  "class.newStrategyTips2": {
+    "message": "الموعد النهائي:",
+    "description": "小应用"
+  },
+  "class.newStrategyTips3": {
+    "message": "هل يسمح للطلاب بعرض ملخص الدرجات:",
+    "description": "小应用"
+  },
+  "class.newStrategyTips4": {
+    "message": "السماح",
+    "description": "小应用"
+  },
+  "class.newStrategyTips5": {
+    "message": "لا ",
+    "description": "小应用"
+  },
+  "class.newStrategyTips6": {
+    "message": "بعد انتهاء المراجعة،",
+    "description": "小应用"
+  },
+  "class.newStrategyTips7": {
+    "message": "لم يتم تعيين قواعد حتى الآن",
+    "description": "小应用"
+  },
+  "class.newStrategyTips8": {
+    "message": "الفصل الدراسي:",
+    "description": "小应用"
+  },
+  "class.newStrategyTips12": {
+    "message": "مجموع الدرجات الحالية ",
+    "description": "小应用"
+  },
+  "class.newStrategyTips13": {
+    "message": "النتائج الإجمالية",
+    "description": "小应用"
+  },
+  "class.newStrategyTips14": {
+    "message": "غير معلن",
+    "description": "小应用"
+  },
+  "class.newStrategyTips15": {
+    "message": "تم إغلاق هذه المراجعة.",
+    "description": "小应用"
+  },
+  "class.newStrategyTips16": {
+    "message": "ملاحظة: جميع الدرجات هنا هي درجات مرجحة",
+    "description": "小应用"
+  },
+  "class.newStrategyTips17": {
+    "message": "قواعد الحساب:",
+    "description": "小应用"
+  },
+  "class.newStrategyTips18": {
+    "message": "الترجيح:",
+    "description": "小应用"
+  },
+  "class.newStrategyTips19": {
+    "message": "درجتي:",
+    "description": "小应用"
+  },
+  "class.newStrategyTips20": {
+    "message": "لا يوجد تقييم للمقرر الدراسي الحالي",
+    "description": "小应用"
+  },
+  "class.newStrategyTips21": {
+    "message": "مجموع درجات المقرر الدراسي: ",
+    "description": "小应用"
+  },
+  "class.newStrategyTips22": {
+    "message": "درجة هذا العنصر: ",
+    "description": "小应用"
+  },
+  "class.courseAssessment": {
+    "message": "قواعد تصنيف المقرر الدراسي",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips1": {
+    "message": "تعلم المنهج الدراسي",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips2": {
+    "message": "وقت تعلم المنهج الدراسي.",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips3": {
+    "message": "عملية تقدم تعلم المنهج الدراسي",
+    "description": "小应用"
+  },
   "class.newStrategyScoreItemTips4": {
     "message": "الواجب المنزلي",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips5": {
+    "message": "اختبار",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips6": {
+    "message": "مخصص",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips7": {
+    "message": "المناقشات",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips8": {
+    "message": "الفصل الدراسي المسمى",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips9": {
+    "message": "أداء الفصل الدراسي.",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips10": {
+    "message": "الفصول متوسطة",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips12": {
+    "message": "وفقا للطول الإجمالي",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips13": {
+    "message": "وفقا لطول كل فصل",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips14": {
+    "message": "وفقا لطول كل محاضرة",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips15": {
+    "message": "يصل وقت التعلم التراكمي لكل فصل",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips16": {
+    "message": "يصل طول كل فصل",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips17": {
+    "message": "يصل طول كل محاضرة",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips18": {
+    "message": "دقائق للدرجة النهائية، أقل من",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips20": {
+    "message": "التقدم التراكمي في الدراسة",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips21": {
+    "message": "الفصل وفقا للحساب",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips22": {
+    "message": "القسم وفقا للحساب",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips23": {
+    "message": "فصول لإكمال التقدم في النتيجة ، كل الأقسام التي أكملت التقدم",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips24": {
+    "message": "تقدم جميع أقسام المقرر الدراسي، عدد الأقسام المكتملة/ إجمالي عدد الأقسام",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips25": {
+    "message": "٪ للدرجة النهائية، أقل من",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips26": {
+    "message": "٪ 0 درجة",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips32": {
+    "message": "درجات للدرجة النهائية",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips33": {
+    "message": "الدرجة النهائية للحضور الكامل، و يتم خصم الغياب",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips34": {
+    "message": "درجة، زر متأخر / غادر مبكرا / إجازة مرضية / إجازة بعذر",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips36": {
+    "message": "الدرجات المكتسبة من أنشطة الاختيار العشوائي / اليدوي والتنافس على الإجابة ،",
+    "description": "小应用"
+  },
+  "resource.createFolder": {
+    "message": " إنشاء مجلد ",
+    "description": "小应用"
+  },
+  "resource.createLink": {
+    "message": "إنشاء رابط",
+    "description": "小应用"
+  },
+  "resource.createRichtext": {
+    "message": "إضافة رسم",
+    "description": "小应用"
+  },
+  "resource.modifyFolder": {
+    "message": " تعديل المجلد ",
+    "description": "小应用"
+  },
+  "resource.modifyLink": {
+    "message": " تعديل الرابط",
+    "description": "小应用"
+  },
+  "resource.modifyRichtext": {
+    "message": " تعديل الرسم ",
+    "description": "小应用"
+  },
+  "resource.stopEditConfirm": {
+    "message": " هل أنت متأكد من التخلي عن هذا التعديل؟ ",
+    "description": "小应用"
+  },
+  "resource.continueAdd": {
+    "message": " استمر في الإضافة ",
+    "description": "小应用"
+  },
+  "resource.complete": {
+    "message": "مكتمل",
+    "description": "小应用"
+  },
+  "resource.from": {
+    "message": " من ",
+    "description": "小应用"
+  },
+  "resource.modify": {
+    "message": " تعديل المصدر",
+    "description": "小应用"
+  },
+  "resource.detail": {
+    "message": "تفاصيل المصدر",
+    "description": "小应用"
+  },
+  "resource.studentData": {
+    "message": " إحصائيات الطلاب ",
+    "description": "小应用"
+  },
+  "resource.delete": {
+    "message": "حذف المصدر",
+    "description": "小应用"
+  },
+  "resource.deleteNoAccess": {
+    "message": "لا يمكنك حذف المصادر المنشورة من قبل المعلمين الآخرين",
+    "description": "小应用"
+  },
+  "resource.modifyNoAccess": {
+    "message": "لا يمكنك تعديل المصادر المنشورة من قبل المعلمين الآخرين",
+    "description": "小应用"
+  },
+  "resource.deleteConfirm": {
+    "message": "هل تريد حذف المصادر؟",
+    "description": "小应用"
+  },
+  "resource.preview": {
+    "message": " معاينة المصادر",
+    "description": "小应用"
+  },
+  "resource.noStu": {
+    "message": " لا يوجد طالب ",
+    "description": "小应用"
+  },
+  "resource.viewed": {
+    "message": "تمت مشاهدتها",
+    "description": "小应用"
+  },
+  "resource.notView": {
+    "message": "لم يتم مشاهدتها",
+    "description": "小应用"
+  },
+  "resource.titlePlaceholder": {
+    "message": " يرجى إدخال العنوان ",
+    "description": "小应用"
+  },
+  "resource.linkPlaceholder": {
+    "message": "يرجى إدخال الرابط",
+    "description": "小应用"
+  },
+  "resource.descPlaceholder": {
+    "message": " يرجى إدخال الملف الشخصي(غير مطلوب)",
+    "description": "小应用"
+  },
+  "resource.titleEmptyTips": {
+    "message": " لا يمكن أن يكون العنوان فارغا ",
+    "description": "小应用"
+  },
+  "resource.linkEmptyTips": {
+    "message": " لا يمكن أن يكون مسار المصدر فارغا ",
+    "description": "小应用"
+  },
+  "resource.urlIllegalTips": {
+    "message": "يرجى إدخال المسار الصحيح",
+    "description": "小应用"
+  },
+  "resource.contentPlaceholder": {
+    "message": " الرجاء إدخال المحتوى",
+    "description": "小应用"
+  },
+  "resource.contentEmptyTips": {
+    "message": " لا يمكن أن يكون المحتوى فارغا ",
+    "description": "小应用"
+  },
+  "resource.fromCamera": {
+    "message": "التقاط صورة",
+    "description": "小应用"
+  },
+  "resource.fromAlbum": {
+    "message": " اختر من الألبوم ",
+    "description": "小应用"
+  },
+  "resource.writtenWordsCount": {
+    "message": "تم كتابة {count} كلمة",
+    "description": "小应用"
+  },
+  "resource.written": {
+    "message": " مكتوب ",
+    "description": "小应用"
+  },
+  "resource.wordsUnit": {
+    "message": "كلمات",
+    "description": "小应用"
+  },
+  "resource.placeholder": {
+    "message": " يرجى إدخال العنصر النائب ",
+    "description": "小应用"
+  },
+  "resource.accessPermission": {
+    "message": "إذن الوصول",
+    "description": "小应用"
+  },
+  "resource.rename": {
+    "message": "إعادة تسمية",
+    "description": "小应用"
+  },
+  "resource.allProgress": {
+    "message": "كل التقدم",
+    "description": "小应用"
+  },
+  "resource.publishToCourse": {
+    "message": "نشر لمقرر دراسي",
+    "description": "小应用"
+  },
+  "resource.modifyAccessPermission": {
+    "message": "تعديل إذن الوصول ",
+    "description": "小应用"
+  },
+  "resource.accessPermissionTips1": {
+    "message": "مرئية لجميع فصولي الدراسية",
+    "description": "小应用"
+  },
+  "resource.accessPermissionTips2": {
+    "message": "مرئي لكل الفصول الدراسية في المقرر الدراسي",
+    "description": "小应用"
+  },
+  "resource.accessPermissionTips3": {
+    "message": "مرئي للفصول الدراسية المعينة",
+    "description": "小应用"
+  },
+  "resource.recordMicroCourse": {
+    "message": "تسجيل مقرر دراسي صغير",
+    "description": "小应用"
+  },
+  "resource.creatorCl": {
+    "message": "المنشئ:",
+    "description": "小应用"
+  },
+  "resource.createTimeCl": {
+    "message": "وقت الإنشاء:",
+    "description": "小应用"
+  },
+  "resource.fileSizeCl": {
+    "message": "حجم الملف:",
+    "description": "小应用"
+  },
+  "resource.pageNumberCl": {
+    "message": "عدد الصفحات:",
+    "description": "小应用"
+  },
+  "resource.audioDurationCl": {
+    "message": "مدة المقطع الصوتي:",
+    "description": "小应用"
+  },
+  "resource.accessPermissionCl": {
+    "message": "إذن الوصول:",
     "description": "小应用"
   },
   "resource.accessPermissionTips4": {
     "message": "جميع فصولي الدراسية",
     "description": "小应用"
   },
+  "resource.accessPermissionTips5": {
+    "message": "كل الفصول الدراسية بالمقرر الدراسي",
+    "description": "小应用"
+  },
+  "resource.shareScopeTips1": {
+    "message": "أنا فقط",
+    "description": "小应用"
+  },
+  "resource.shareScopeTips2": {
+    "message": "معلم الأكاديمية",
+    "description": "小应用"
+  },
+  "resource.shareScopeTips3": {
+    "message": "كل المعلمين",
+    "description": "小应用"
+  },
+  "resource.shareScopeTips4": {
+    "message": "معلمون المدرسة المحددون",
+    "description": "小应用"
+  },
+  "resource.newMicroCourse": {
+    "message": "إنشاء دمقرر دراسي جديد صغير",
+    "description": "小应用"
+  },
+  "resource.progress": {
+    "message": "مستوى التقدم",
+    "description": "小应用"
+  },
+  "resource.studyDuration": {
+    "message": "مدة التعلم",
+    "description": "小应用"
+  },
+  "resource.progressDesc": {
+    "message": "وصف التقدم",
+    "description": "小应用"
+  },
+  "resource.progressTips1": {
+    "message": "تقدم الطالب في التعلم = عدد الصفحات التي تم تعلمها/ إجمالي صفحات المقرر الدراسي الصغير * 100٪؛",
+    "description": "小应用"
+  },
+  "resource.progressTips2": {
+    "message": "حالة إكمال الصفحة:",
+    "description": "小应用"
+  },
+  "resource.progressTips3": {
+    "message": "بالنسبة للصفحات التي تتضمن مقاطع صوتية، إذا استمع الطالب لـ 90% أو أكثر من المقطع الصوتي يتم احتسابه كطالب أكمل التعلم",
+    "description": "小应用"
+  },
+  "resource.progressTips4": {
+    "message": "بالنسبة للصفحة التي لا تحتوي على مقطع صوتي ، بمجرد أن يقرأ الطالب الصفحات ، يتم احتسابها كالطالب أكمل التعلم",
+    "description": "小应用"
+  },
   "resource.chooseCourse": {
     "message": "إختيار دورة دراسية",
+    "description": "小应用"
+  },
+  "resource.pleaseChoseCourse": {
+    "message": "رجاء إختر المقرر الدراسي",
+    "description": "小应用"
+  },
+  "resource.folder": {
+    "message": "مجلد",
+    "description": "小应用"
+  },
+  "resource.myResourseList": {
+    "message": "مكتبة المصادر الخاصة بي",
+    "description": "小应用"
+  },
+  "resource.webLink": {
+    "message": "رابط صفحة ويب",
+    "description": "小应用"
+  },
+  "resource.deleteAfterRecord": {
+    "message": "حذف إعادة التسجيل",
+    "description": "小应用"
+  },
+  "resource.clickRecordExplain": {
+    "message": "انقر لتسجيل الوصف الصوتي",
+    "description": "小应用"
+  },
+  "resource.finishRecord": {
+    "message": "انتهى التسجيل",
+    "description": "小应用"
+  },
+  "resource.listenRecondCl": {
+    "message": "استمع إلى التسجيل ：",
+    "description": "小应用"
+  },
+  "resource.finished": {
+    "message": "مكتمل",
+    "description": "小应用"
+  },
+  "resource.unfinishedAndListen": {
+    "message": "تم الاستماع إليه ولكن لم يكتمل بعد",
+    "description": "小应用"
+  },
+  "resource.prevPage": {
+    "message": "الصفحة السابقة",
+    "description": "小应用"
+  },
+  "resource.nextPage": {
+    "message": "الصفحة التالية",
+    "description": "小应用"
+  },
+  "resource.studiedPageCl": {
+    "message": "الصفحات التي تم تعلمها:",
+    "description": "小应用"
+  },
+  "resource.microCourseTips1": {
+    "message": "يرجى الانتظار حتى يكتمل تحويل المستند ...",
+    "description": "小应用"
+  },
+  "resource.microCourseTips2": {
+    "message": "هل تريد أن تؤكد أن تنشر الدورة الصغرى؟ تم حفظ المقرر المصغر في مكتبة المصادر. إذا لم يتم إكمال التسجيل بعد، يمكنك تحريره في مكتبة المصادر قبل النشر.",
+    "description": "小应用"
+  },
+  "resource.microCourseTips3": {
+    "message": "عدم النشر الآن",
+    "description": "小应用"
+  },
+  "resource.microCourseTips4": {
+    "message": "يمكن للطالب أن يتعلم على الفور بمجرد نشر المقرر الدراسي  المصغر. تأكيد للنشر؟",
+    "description": "小应用"
+  },
+  "resource.microCourseTips5": {
+    "message": "برجاء تأكيد الحذف",
+    "description": "小应用"
+  },
+  "remind.oneKey": {
+    "message": " تذكير بنقرة واحدة ",
+    "description": "小应用"
+  },
+  "remind.ing": {
+    "message": " تذكير ",
+    "description": "小应用"
+  },
+  "remind.success": {
+    "message": "تم التذكير بنجاح",
+    "description": "小应用"
+  },
+  "remind.fail": {
+    "message": "لم تمكن من التذكير",
+    "description": "小应用"
+  },
+  "discuss.title": {
+    "message": "المناقشة",
+    "description": "小应用"
+  },
+  "discuss.reply": {
+    "message": "الرد",
+    "description": "小应用"
+  },
+  "discuss.publishDiscuss": {
+    "message": "نشر المناقشة",
+    "description": "小应用"
+  },
+  "discuss.nodata": {
+    "message": "لا توجد مناقشة",
+    "description": "小应用"
+  },
+  "course.title": {
+    "message": "المقرر الدراسي",
+    "description": "小应用"
+  },
+  "course.teacherTeam": {
+    "message": "فريق التدريس",
+    "description": "小应用"
+  },
+  "course.teacherCount": {
+    "message": "{count} المعلمون ",
+    "description": "小应用"
+  },
+  "course.modify": {
+    "message": " تعديل المقرر الدراسي ",
+    "description": "小应用"
+  },
+  "course.end": {
+    "message": " إنهاء المقرر الدراسي",
+    "description": "小应用"
+  },
+  "course.removeFrom": {
+    "message": "أخرج المقرر الدراسي",
+    "description": "小应用"
+  },
+  "course.removeTea": {
+    "message": "أخرج المدرس من المقرر الدراسي",
+    "description": "小应用"
+  },
+  "course.removeTeaTips1": {
+    "message": "1 بعد حذف المعلم، سوف يستمر الاحتفاظ بالأنشطة التعليمية والفصول الدراسية التي أنشئها.",
+    "description": "小应用"
+  },
+  "course.removeTeaTips2": {
+    "message": "2  في حالة عدم وجود مدرسين آخرين في الفصل الدراسي، سيتم تعيين منشئ المقرر الدراسي تلقائيا للفصل الدراسي.",
+    "description": "小应用"
+  },
+  "course.ending": {
+    "message": " إنهاء المقرر الدراسي",
+    "description": "小应用"
+  },
+  "course.delete": {
+    "message": "حذف المقرر الدراسي",
+    "description": "小应用"
+  },
+  "course.deleteConfirm": {
+    "message": "بعد الحذف ، لا يمكن استكمال المقرر الدراسي. لن يتمكن الطلاب الذين انضموا بالفعل إلى المقرر الدراسي من مواصلة التعلم. يرجى توخي الحذر!",
+    "description": "小应用"
+  },
+  "course.endTips1": {
+    "message": "بعد انتهاء المقرر الدراسي:",
+    "description": "小应用"
+  },
+  "course.endTips2": {
+    "message": "لا يمكن للمدرسين نشر مصادر أو أنشطة جديدة ، ولا يمكنهم تعديل ما هو موجود بالفعل في المقرر الدراسي. يمكنهم فقط عرض البيانات وتصديرها من الكمبيوتر.",
+    "description": "小应用"
+  },
+  "course.endTips3": {
+    "message": "يمكن للطلاب الاستمرار في تصفح محتوى المقرر الدراسي ، ولكن لم يعد بإمكانهم الانضمام إلى المقرر الدراسي.",
+    "description": "小应用"
+  },
+  "course.endTips4": {
+    "message": " هل تريد إنهاء المقرر الدراسي؟ ",
+    "description": "小应用"
+  },
+  "course.removeStu": {
+    "message": "سيؤدي إخراج الطلاب من المقرر الدراسي إلى حذف واجبات الطالب ومناقشته وامتحاناته وسجلات الأنشطة الأخرى الموجودة بالمقرر الدراسي ، يرجى توخي الحذر!",
+    "description": "小应用"
+  },
+  "course.removeStuConfirm": {
+    "message": "هل تريد إخراج {name} من المقرر الدراسي؟",
     "description": "小应用"
   },
   "course.removeFail": {
     "message": "لم نتمكن من الحذف، الرجاء المحاولة مرة أخرى لاحقاً ",
     "description": "小应用"
   },
+  "course.creatorNoOperation": {
+    "message": " لا يمكن القيام بهذا لمنشئ المقرر الدراسي ",
+    "description": "小应用"
+  },
+  "course.assessmentTotal": {
+    "message": "مجموع الدرجات",
+    "description": "小应用"
+  },
+  "course.inviteStu": {
+    "message": " دعوة الطلاب للانضمام إلى الفصول الدراسية ",
+    "description": "小应用"
+  },
+  "course.teaInviteStu": {
+    "message": "المعلم يدعوك للانضمام إلى الفصل الدراسي",
+    "description": "小应用"
+  },
+  "course.shareSummary": {
+    "message": " يرجى الانضمام إلى فصل {courseName} الدراسي، معلمك هو {teacherName}",
+    "description": "小应用"
+  },
+  "course.qrCode": {
+    "message": "رمز الاستجابة السريع للفصل الدراسي",
+    "description": "小应用"
+  },
+  "course.qrCodeJoin": {
+    "message": " يرجى استخدام تطبيق ULearng 2.0 لمسح الكود للانضمام إلى الفصل الدراسي. ",
+    "description": "小应用"
+  },
+  "course.creator": {
+    "message": "منشئ المقرر الدراسي",
+    "description": "小应用"
+  },
+  "course.resetTip": {
+    "message": "هل تريد تأكيد إعادة تعيين كلمة مرور {name} على أنها 123456؟",
+    "description": "小应用"
+  },
+  "course.resetSucTip": {
+    "message": "تم إعادة تعيين كلمة مرور الطالب إلى 123456",
+    "description": "小应用"
+  },
   "course.resetFailTip": {
     "message": "لم نتمكن من إعادة اضبط",
+    "description": "小应用"
+  },
+  "course.notRest": {
+    "message": "ليس لديك إذن لإعادة تعيين كلمة المرور",
+    "description": "小应用"
+  },
+  "course.action": {
+    "message": "الإجراء",
+    "description": "小应用"
+  },
+  "course.resetPassword": {
+    "message": "إعادة تعيين كلمة المرور",
+    "description": "小应用"
+  },
+  "member.title": {
+    "message": "عضو",
+    "description": "小应用"
+  },
+  "member.null": {
+    "message": " لا يوجد عضو ",
+    "description": "小应用"
+  },
+  "group.title": {
+    "message": "مجموعة",
+    "description": "小应用"
+  },
+  "group.member": {
+    "message": " عضو المجموعة ",
+    "description": "小应用"
+  },
+  "group.program": {
+    "message": " خطة المجموعة ",
+    "description": "小应用"
+  },
+  "group.count": {
+    "message": "{count} مجموعة",
+    "description": "小应用"
+  },
+  "group.add": {
+    "message": "إضافة مجموعة",
+    "description": "小应用"
+  },
+  "group.delete": {
+    "message": "حذف المجموعة",
+    "description": "小应用"
+  },
+  "group.stuOwner": {
+    "message": "مجموعة",
+    "description": "小应用"
+  },
+  "group.unclassified": {
+    "message": " لم يتم التجميع بعد ",
+    "description": "小应用"
+  },
+  "group.leader": {
+    "message": "قائد",
+    "description": "小应用"
+  },
+  "group.resetLeader": {
+    "message": " إعادة تعيين قائد الفريق ",
+    "description": "小应用"
+  },
+  "group.setLeader": {
+    "message": " تعيين قائد ",
+    "description": "小应用"
+  },
+  "group.modify": {
+    "message": " تعديل المجموعة ",
+    "description": "小应用"
+  },
+  "group.change": {
+    "message": " تغيير المجموعة ",
     "description": "小应用"
   },
   "group.select": {
     "message": "إختر مجموعة",
     "description": "小应用"
   },
+  "group.nameEmptyTips": {
+    "message": "لا يمكن أن يكون الاسم فارغا",
+    "description": "小应用"
+  },
+  "group.deleteConfirm": {
+    "message": " هل تريد حذف الفريق؟ ",
+    "description": "小应用"
+  },
   "group.modifyFail": {
     "message": " لم نتمكن من التعديل",
+    "description": "小应用"
+  },
+  "group.changeStuGroupConfirm": {
+    "message": " تأكيد إعادة تجميع الطلاب ",
+    "description": "小应用"
+  },
+  "group.pleaseSelectOne": {
+    "message": "يرجى اختيار مجموعة.",
+    "description": "小应用"
+  },
+  "group.classEmpty": {
+    "message": " لا توجد مجموعة في الفصل الدراسي. يرجى إضافة مجموعة أولا. ",
+    "description": "小应用"
+  },
+  "group.let": {
+    "message": "دع",
+    "description": "小应用"
+  },
+  "group.moveTo": {
+    "message": " تغيير إلى ",
+    "description": "小应用"
+  },
+  "user.Email": {
+    "message": "بريد إلكتروني",
+    "description": "小应用"
+  },
+  "user.usedEmail": {
+    "message": "البريد الإلكتروني المستخدم بشكل متكرر",
+    "description": "小应用"
+  },
+  "user.next": {
+    "message": "التالي",
+    "description": "小应用"
+  },
+  "user.invalidParameter": {
+    "message": "خطأ في المعاملات",
+    "description": "小应用"
+  },
+  "user.codeErr": {
+    "message": "رمز التحقق غير صالح",
+    "description": "小应用"
+  },
+  "user.expiredCode": {
+    "message": "رمز التحقق هذا منتهي الصلاحية",
+    "description": "小应用"
+  },
+  "user.newPassword": {
+    "message": "كلمة المرور الجديدة",
+    "description": "小应用"
+  },
+  "user.resetpassWord": {
+    "message": "إعادة تعيين كلمة المرور",
+    "description": "小应用"
+  },
+  "user.inputInfoTip1": {
+    "message": "يرجى ملء المعلومات بشكل صحيح",
+    "description": "小应用"
+  },
+  "user.phoneUsed": {
+    "message": "تم تسجيل رقم الهاتف",
+    "description": "小应用"
+  },
+  "user.emailUsed": {
+    "message": "تم تسجيل البريد الإلكتروني",
+    "description": "小应用"
+  },
+  "user.identity": {
+    "message": "الهوية",
+    "description": "小应用"
+  },
+  "user.student": {
+    "message": "الطالب",
+    "description": "小应用"
+  },
+  "user.teacher": {
+    "message": "المعلم",
+    "description": "小应用"
+  },
+  "user.nameTitle": {
+    "message": "اسم",
+    "description": "小应用"
+  },
+  "user.nameTip": {
+    "message": "(مطلوب)",
+    "description": "小应用"
+  },
+  "user.inputNameTip": {
+    "message": "يرجى استخدام الاسمك الحقيقي",
+    "description": "小应用"
+  },
+  "user.schoolOrOrg": {
+    "message": "الأكاديمية/ المؤسسة",
+    "description": "小应用"
+  },
+  "user.select": {
+    "message": "الرجاء الاختيار",
+    "description": "小应用"
+  },
+  "user.notOpen": {
+    "message": "ليس للتسجيل",
+    "description": "小应用"
+  },
+  "user.selectOrgTip": {
+    "message": "يرجى اختيار الأكاديمية/ المعهد",
+    "description": "小应用"
+  },
+  "user.studentId": {
+    "message": "كود الطالب/ كود العمل",
+    "description": "小应用"
+  },
+  "user.studentIdTip": {
+    "message": "يرجى إدخال كود الطالب/ كود العمل",
+    "description": "小应用"
+  },
+  "user.inputOrgTip1": {
+    "message": "يرجى إدخال اسم معهد صالح",
+    "description": "小应用"
+  },
+  "user.studentIdUsed": {
+    "message": "تم تسجيل كود الطالب",
+    "description": "小应用"
+  },
+  "user.studentIdUsed1": {
+    "message": "تم تسجيل كود العمل",
+    "description": "小应用"
+  },
+  "user.registerSubmit": {
+    "message": "قم بالتسجيل ثم تسجيل الدخول",
+    "description": "小应用"
+  },
+  "user.tip": {
+    "message": "بالتسجيل، فإنك توافق على ULearning",
+    "description": "小应用"
+  },
+  "user.userAgreement": {
+    "message": "<اتفاقية المستخدم>",
+    "description": "小应用"
+  },
+  "user.and": {
+    "message": "و ",
+    "description": "小应用"
+  },
+  "user.privacyAgreement": {
+    "message": "<سياسة الخصوصية>",
+    "description": "小应用"
+  },
+  "user.idMore": {
+    "message": " ",
+    "description": "小应用"
+  },
+  "user.goHome": {
+    "message": "الرجوع للصفحة الرئيسية",
+    "description": "小应用"
+  },
+  "user.phone": {
+    "message": "رقم الهاتف",
+    "description": "小应用"
+  },
+  "user.inputPhoneTip": {
+    "message": "يرجى إدخال رقم الهاتف",
+    "description": "小应用"
+  },
+  "user.inputPasswordTip": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "小应用"
+  },
+  "user.confirmPassword": {
+    "message": "تأكيد كلمة المرور",
+    "description": "小应用"
+  },
+  "user.confirmPasswordTip": {
+    "message": "أدخل كلمة المرور مرة أخرى",
+    "description": "小应用"
+  },
+  "user.password": {
+    "message": "كلمه المرور",
+    "description": "小应用"
+  },
+  "user.code": {
+    "message": "رمز التحقق",
+    "description": "小应用"
+  },
+  "user.inputCodeTip": {
+    "message": "رمز التحقق",
+    "description": "小应用"
+  },
+  "user.getAgain": {
+    "message": "احصل مرة أخرى",
+    "description": "小应用"
+  },
+  "user.get": {
+    "message": "احصل",
+    "description": "小应用"
+  },
+  "user.getCode": {
+    "message": "أحصل على رمز التحقق",
+    "description": "小应用"
+  },
+  "user.inputEmailTip1": {
+    "message": "البريد الإلكتروني مكتوب بطريقة غير صحيحة!",
+    "description": "小应用"
+  },
+  "user.inputPhoneTip1": {
+    "message": "تنسيق رقم الهاتف غير صالح",
+    "description": "小应用"
+  },
+  "user.getCodeTip1": {
+    "message": "لقد أجريت محاولات كثيرة جدًا للحصول على رمز التحقق ، يرجى المحاولة مرة أخرى بعد 60 ثانية",
+    "description": "小应用"
+  },
+  "user.getCodeTip2": {
+    "message": "محاولات كثيرة جدًا للحصول على رمز التحقق",
+    "description": "小应用"
+  },
+  "user.inputPhoneTip2": {
+    "message": "رقم الهاتف غير مسجل",
+    "description": "小应用"
+  },
+  "user.inputEmailTip2": {
+    "message": "البريد الإلكتروني غير مسجل",
+    "description": "小应用"
+  },
+  "user.getSuccess": {
+    "message": "حاول بنجاح",
     "description": "小应用"
   },
   "user.getFail": {
@@ -133,6 +3025,34 @@
   },
   "user.sendFail": {
     "message": "لم نتمكن من الإرسال",
+    "description": "小应用"
+  },
+  "user.inputEmail": {
+    "message": "يرجى إدخال البريد الإلكتروني",
+    "description": "小应用"
+  },
+  "user.inputPasswordTip1": {
+    "message": "يجب أن تكون كلمة المرور من 8 إلى 16 حرفا وأن تحتوي على أرقام و حروف",
+    "description": "小应用"
+  },
+  "user.inputPasswordTip2": {
+    "message": "كلمتا المرور ليستا متطابقتين",
+    "description": "小应用"
+  },
+  "user.inputPasswordTip3": {
+    "message": "لا يمكن أن تحتوي على أحرف غير قانونية",
+    "description": "小应用"
+  },
+  "user.inputPasswordTip4": {
+    "message": "لا يمكن أن يزيد طولها عن 100 حرف",
+    "description": "小应用"
+  },
+  "user.inputNameTip1": {
+    "message": "يرجى استخدام الاسم الحقيقي",
+    "description": "小应用"
+  },
+  "user.selectOrgTip1": {
+    "message": "يرجى اختيار المعهد",
     "description": "小应用"
   },
   "user.findPassword": {
@@ -147,8 +3067,48 @@
     "message": "استعادة البريد الإلكتروني",
     "description": "小应用"
   },
+  "user.logoutVerification": {
+    "message": "التحقق من تسجيل الخروج",
+    "description": "小应用"
+  },
+  "user.verificationByPhone": {
+    "message": "التحقق بواسطة الجوال",
+    "description": "小应用"
+  },
+  "user.verificationByMail": {
+    "message": "التحقق بواسطة البريد الإلكتروني",
+    "description": "小应用"
+  },
+  "user.logoutAccount": {
+    "message": "تسجيل الخروج من الحساب",
+    "description": "小应用"
+  },
+  "user.getCodeTip3": {
+    "message": "انتهت صلاحية رمز التحقق",
+    "description": "小应用"
+  },
+  "user.resetSuccess": {
+    "message": "تمت إعادة التعيين بنجاح",
+    "description": "小应用"
+  },
+  "user.inputOrgTip2": {
+    "message": "المعهد غير مفتوح للتسجيل",
+    "description": "小应用"
+  },
+  "user.inputPasswordTip5": {
+    "message": "تنسيق كلمة المرور لا يفي بالقواعد",
+    "description": "小应用"
+  },
   "user.resetFail": {
     "message": "لم نتمكن من إعادة الضبط",
+    "description": "小应用"
+  },
+  "user.inputStudentIdTip": {
+    "message": "يرجى إدخال 4-20 حرفا بما في ذلك الحروف أو الأرقام و مراعاة حالة الأحرف",
+    "description": "小应用"
+  },
+  "user.inputStudentIdTip1": {
+    "message": "يرجى إدخال كود الطالب",
     "description": "小应用"
   },
   "user.inputUserNameTip": {
@@ -159,8 +3119,40 @@
     "message": "يرجى إدخال رقم الحساب",
     "description": "小应用"
   },
+  "user.selectCountry": {
+    "message": "اختر البلد/ المنطقة",
+    "description": "小应用"
+  },
+  "user.ULearningAccount": {
+    "message": "حساب ULearning",
+    "description": "小应用"
+  },
   "user.inputUserNameTip1": {
     "message": "اسم المستخدم/ رقم الهاتف/ البريد الإلكتروني",
+    "description": "小应用"
+  },
+  "user.bind": {
+    "message": "ربط",
+    "description": "小应用"
+  },
+  "user.passwordErr": {
+    "message": "حساب خاطئ أو كلمة مرور خاطئة",
+    "description": "小应用"
+  },
+  "user.register": {
+    "message": "تسجيل",
+    "description": "小应用"
+  },
+  "user.selectRegisterType": {
+    "message": "اختر طريقة التسجيل",
+    "description": "小应用"
+  },
+  "user.registerByPhone": {
+    "message": "التسجيل برقم الهاتف",
+    "description": "小应用"
+  },
+  "user.registerByMail": {
+    "message": "التسجيل بالبريد الإلكتروني",
     "description": "小应用"
   },
   "user.userNameUsed": {
@@ -171,12 +3163,636 @@
     "message": "لم نتمكن من التسجيل",
     "description": "小应用"
   },
+  "user.resgisterSuccess": {
+    "message": "تم التسجيل بنجاح",
+    "description": "小应用"
+  },
+  "user.goRegister": {
+    "message": "سجل الآن",
+    "description": "小应用"
+  },
+  "user.bindAccount": {
+    "message": "ربط الحساب",
+    "description": "小应用"
+  },
+  "user.noAccount": {
+    "message": "لا يوجد حساب؟",
+    "description": "小应用"
+  },
+  "user.inputPas": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "小应用"
+  },
+  "user.registerTitle": {
+    "message": "تسجيل حساب",
+    "description": "小应用"
+  },
+  "user.back": {
+    "message": "العودة إلى الخطوة السابقة ",
+    "description": "小应用"
+  },
+  "user.registerTip": {
+    "message": "يتم تسجيل حسابات بعض الأكاديميات و المعاهد من قبل المسؤولين و ليست مفتوحة للتسجيل",
+    "description": "小应用"
+  },
+  "user.registerTip1": {
+    "message": "إذا تم تسجيل الحساب من قبل المسؤول ، يرجى استخدام الحساب الذي استلمته من الأكاديمية لتسجيل الدخول. لا تكرر التسجيل",
+    "description": "小应用"
+  },
+  "user.isStudent": {
+    "message": "أنا طالب",
+    "description": "小应用"
+  },
+  "user.isTeacher": {
+    "message": "أنا معلم",
+    "description": "小应用"
+  },
+  "user.inputInfo": {
+    "message": "تعبئة المعلومات",
+    "description": "小应用"
+  },
+  "user.authentication": {
+    "message": "تأكيد الهوية",
+    "description": "小应用"
+  },
   "user.registertip": {
     "message": "ملاحظة: إذا تم إنشاء حساب المستخدم من قبل مدرستك، يرجى استخدام الحساب الذي توفره مدرستك لتسجيل الدخول.  لا تقم بإعادة تسجيل وإنشاء حساب مستخدم آخر. إذا كنت لا تعرف اسم المستخدم / كلمة المرور الخاصة بك، يرجى الاتصال بخدمة العملاء.",
     "description": "小应用"
   },
+  "user.customerService": {
+    "message": "خدمة العملاء",
+    "description": "小应用"
+  },
+  "user.noDataTip": {
+    "message": "لم يتم العثور على الأكاديمية/المعهد",
+    "description": "小应用"
+  },
+  "search.title": {
+    "message": "بحث",
+    "description": "小应用"
+  },
+  "search.noResult": {
+    "message": " البحث بدون نتيجة ",
+    "description": "小应用"
+  },
+  "search.noData": {
+    "message": " لا توجد بيانات ",
+    "description": "小应用"
+  },
+  "controls.fastForward": {
+    "message": "تقديم سريع",
+    "description": "小应用"
+  },
+  "controls.play": {
+    "message": "تشغيل",
+    "description": "小应用"
+  },
+  "controls.pause": {
+    "message": "إيقاف مؤقت",
+    "description": "小应用"
+  },
+  "controls.fastBack": {
+    "message": " إنهاء سريع ",
+    "description": "小应用"
+  },
+  "audio.clickToRecord": {
+    "message": " انقر بدء التسجيل ",
+    "description": "小应用"
+  },
+  "audio.clickToStop": {
+    "message": " يقوم بالتسجيل، انقر فوق التموج للإيقاف المؤقت ",
+    "description": "小应用"
+  },
+  "audio.retry": {
+    "message": " سجل مرة أخرى ",
+    "description": "小应用"
+  },
+  "audio.contentTips": {
+    "message": " ملاحظات، غير مطلوب، بمالا يزيد عن 200 كلمة ",
+    "description": "小应用"
+  },
+  "audio.retryConfirm": {
+    "message": "سيتم حذف التسجيلات الأصلية بعد التسجيل الجديد. هل أنت متأكد أنك تريد التسجيل مرة أخرى؟",
+    "description": "小应用"
+  },
+  "classroom.classroom": {
+    "message": "الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.activityList": {
+    "message": "الأنشطة",
+    "description": "小应用"
+  },
+  "classroom.classIntro": {
+    "message": "كيف يتم التدريس في الفصل الدراسي بشكل فعال؟",
+    "description": "小应用"
+  },
+  "classroom.createClass": {
+    "message": "إنشاء محاضرة",
+    "description": "小应用"
+  },
+  "classroom.ing": {
+    "message": "قيد التنفيذ",
+    "description": "小应用"
+  },
+  "classroom.ed": {
+    "message": "تم الإنهاء",
+    "description": "小应用"
+  },
+  "classroom.unstart": {
+    "message": "لم يبدأ",
+    "description": "小应用"
+  },
+  "classroom.class": {
+    "message": "الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.course": {
+    "message": "المقرر الدراسي",
+    "description": "小应用"
+  },
+  "classroom.activity": {
+    "message": "النشاط",
+    "description": "小应用"
+  },
+  "classroom.activityNum": {
+    "message": "{count} مرة",
+    "description": "小应用"
+  },
+  "classroom.teacher": {
+    "message": "المعلم",
+    "description": "小应用"
+  },
+  "classroom.copyClass": {
+    "message": "نسخ الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.modify": {
+    "message": "تعديل",
+    "description": "小应用"
+  },
+  "classroom.delete": {
+    "message": "حذف",
+    "description": "小应用"
+  },
+  "classroom.allClass": {
+    "message": "كل المحاضرات",
+    "description": "小应用"
+  },
+  "classroom.classesNames": {
+    "message": "الفصول المختارة {name}، {count}",
+    "description": "小应用"
+  },
+  "classroom.tips1": {
+    "message": "سيؤدي حذف محاضرة الفصل إلى حذف كل الأنشطة الفصلية التي تم بدؤها في المحاضرة . هل تريد حذفها؟",
+    "description": "小应用"
+  },
+  "classroom.copyTipTitle": {
+    "message": "تكرار أنشطة الفصل للفصول الأخرى",
+    "description": "小应用"
+  },
+  "classroom.copyTip": {
+    "message": "الأنشطة المكررة غير نشطة. يمكنك تنشيط هذه الأنشطة بعد بدء المحاضرة. لا يمكن تكرار تفقد الأسماء و الاختيار العشوائي",
+    "description": "小应用"
+  },
+  "classroom.unOpen": {
+    "message": "الميزات ليست مفتوحة في الوقت الحالي ، ابقوا متابعين",
+    "description": "小应用"
+  },
+  "classroom.hd": {
+    "message": "التفاعل",
+    "description": "小应用"
+  },
+  "classroom.demo": {
+    "message": "شرح",
+    "description": "小应用"
+  },
+  "classroom.student": {
+    "message": "الطالب",
+    "description": "小应用"
+  },
+  "classroom.modifyClass": {
+    "message": " تعديل المقرر الدراسي ",
+    "description": "小应用"
+  },
+  "classroom.goClassDetail": {
+    "message": "أدخل تفاصيل المقرر الدراسي",
+    "description": "小应用"
+  },
+  "classroom.beginClass": {
+    "message": "بدء الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.endClass": {
+    "message": "إنهاء المحاضرة",
+    "description": "小应用"
+  },
+  "classroom.openScreen": {
+    "message": "فتح عرض الشاشة",
+    "description": "小应用"
+  },
+  "classroom.closeScreen": {
+    "message": "إغلاق عرض الشاشة",
+    "description": "小应用"
+  },
+  "classroom.newAct": {
+    "message": "إنشاء تفاعل جديد",
+    "description": "小应用"
+  },
+  "classroom.attendence": {
+    "message": "تفقد الحضور",
+    "description": "小应用"
+  },
+  "classroom.vote": {
+    "message": "استطلاع رأي",
+    "description": "小应用"
+  },
+  "classroom.answer": {
+    "message": "تنافس على الإجابة",
+    "description": "小应用"
+  },
+  "classroom.pick": {
+    "message": "اختيار عشوائي",
+    "description": "小应用"
+  },
+  "classroom.score": {
+    "message": "مراجعة الزملاء",
+    "description": "小应用"
+  },
+  "classroom.emptyTips": {
+    "message": "انقر فوق الزر أعلاه لنشر الحدث",
+    "description": "小应用"
+  },
+  "classroom.draft": {
+    "message": "مسودة",
+    "description": "小应用"
+  },
+  "classroom.start": {
+    "message": "إبدأ",
+    "description": "小应用"
+  },
+  "classroom.end": {
+    "message": "‏‏النهاية",
+    "description": "小应用"
+  },
+  "classroom.ended": {
+    "message": "تم الإنهاء",
+    "description": "小应用"
+  },
+  "classroom.confirmStart": {
+    "message": "هل تريد حضور الفصل الدراسي؟",
+    "description": "小应用"
+  },
+  "classroom.confirmEnd": {
+    "message": "هل تريد إنهاء هذه المحاضرة؟",
+    "description": "小应用"
+  },
+  "classroom.goAttendence": {
+    "message": "أدخل تفقد الأسماء",
+    "description": "小应用"
+  },
+  "classroom.goVote": {
+    "message": "أدخل الاستطلاع",
+    "description": "小应用"
+  },
+  "classroom.goAnswer": {
+    "message": "أدخل المنافسة للإجابة",
+    "description": "小应用"
+  },
+  "classroom.goPick": {
+    "message": "أدخل الاختيار العشوائي",
+    "description": "小应用"
+  },
+  "classroom.goScore": {
+    "message": "أدخل عرض الزملاء",
+    "description": "小应用"
+  },
+  "classroom.openSuccess": {
+    "message": "تم البدء بنجاح",
+    "description": "小应用"
+  },
+  "classroom.closeSuccess": {
+    "message": "تم الإغلاق بنجاح",
+    "description": "小应用"
+  },
+  "classroom.confirmEndPick": {
+    "message": "هل تريد إنهاء الاختيار العشوائي؟",
+    "description": "小应用"
+  },
+  "classroom.actunstart": {
+    "message": "لم يبدأ النشاط",
+    "description": "小应用"
+  },
+  "classroom.starting": {
+    "message": "بدأ النشاط",
+    "description": "小应用"
+  },
   "classroom.startSuccess": {
     "message": "لم نتمكن من بدء التشغيل",
+    "description": "小应用"
+  },
+  "classroom.confirmEndAnswer": {
+    "message": "هل تريد إنهاء التنافس على الإجابة؟",
+    "description": "小应用"
+  },
+  "classroom.confirmEndScore": {
+    "message": "هل تريد إنهاء مراجعة الأقران؟",
+    "description": "小应用"
+  },
+  "classroom.tips2": {
+    "message": "يرجى بدء تفقد الحضور بعد بدء الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.tips3": {
+    "message": "قم بتشغيل الاختيار العشوائي بعد بدء المحاضرة",
+    "description": "小应用"
+  },
+  "classroom.tips4": {
+    "message": "لم يبدأ الفصل الدراسي الحالي ، يرجى بدء الفصل الدراسي أولاً",
+    "description": "小应用"
+  },
+  "classroom.tips5": {
+    "message": "لنبدأ الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.tips6": {
+    "message": "تم إنشاء بيانات النشاط في هذا الفصل الدراسي ولا يمكن تعديل الفصول الدراسية. إذا اخترت الفصل الدراسي الخطأ ، فابدأ فصلًا دراسيا جديدًا",
+    "description": "小应用"
+  },
+  "classroom.tips7": {
+    "message": "يجب استخدام هذه الميزة مع شاشة كبيرة",
+    "description": "小应用"
+  },
+  "classroom.tips9": {
+    "message": "2. قم بتسجيل الدخول إلى حسابك ، أو أدخل رقم شاشتك",
+    "description": "小应用"
+  },
+  "classroom.startAgain": {
+    "message": "إعادة فتح",
+    "description": "小应用"
+  },
+  "classroom.attend": {
+    "message": "الحضور",
+    "description": "小应用"
+  },
+  "classroom.attendRatio": {
+    "message": "معدل الحضور",
+    "description": "小应用"
+  },
+  "classroom.attended": {
+    "message": "حاضر",
+    "description": "小应用"
+  },
+  "classroom.absence": {
+    "message": "غائب",
+    "description": "小应用"
+  },
+  "classroom.late": {
+    "message": "متأخر",
+    "description": "小应用"
+  },
+  "classroom.leaveEarly": {
+    "message": "انصرف مبكرا",
+    "description": "小应用"
+  },
+  "classroom.sick": {
+    "message": "إجازة مرضية",
+    "description": "小应用"
+  },
+  "classroom.leave": {
+    "message": "إجازة بعذر",
+    "description": "小应用"
+  },
+  "classroom.thisAct": {
+    "message": "أنشطة المحاضرة التفاعلية",
+    "description": "小应用"
+  },
+  "classroom.thisScore": {
+    "message": "درجات المحاضرة المحصلة",
+    "description": "小应用"
+  },
+  "classroom.readMore": {
+    "message": "المزيد",
+    "description": "小应用"
+  },
+  "classroom.summary": {
+    "message": "ملخص المحاضرة",
+    "description": "小应用"
+  },
+  "classroom.summaryPlaceHolder": {
+    "message": "انقر على الزر التعديل لتلخيص المحاضرة.",
+    "description": "小应用"
+  },
+  "classroom.restartConfirm": {
+    "message": "هل أنت متأكد من أنك تريد أن تبدأ من جديد؟",
+    "description": "小应用"
+  },
+  "classroom.classEnd": {
+    "message": "إنتهى الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.thisClassAct": {
+    "message": "هذا النشاط الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.thisClassScore": {
+    "message": "درجات هذا الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.totalScore": {
+    "message": "مجموع الدرجات",
+    "description": "小应用"
+  },
+  "classroom.classRank": {
+    "message": "ترتيب الفصل",
+    "description": "小应用"
+  },
+  "classroom.noAct": {
+    "message": "لا توجد أنشطة منشورة في الفصل الدراسي الحالي",
+    "description": "小应用"
+  },
+  "classroom.selectClass": {
+    "message": "يرجى اختيار الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.tempUnBegin": {
+    "message": "ليس الآن",
+    "description": "小应用"
+  },
+  "classroom.beginNow": {
+    "message": "بدء الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.monday": {
+    "message": "الاثنين",
+    "description": "小应用"
+  },
+  "classroom.tuesday": {
+    "message": "الثلاثاء",
+    "description": "小应用"
+  },
+  "classroom.winsday": {
+    "message": "الأربعاء",
+    "description": "小应用"
+  },
+  "classroom.thursday": {
+    "message": "الخميس",
+    "description": "小应用"
+  },
+  "classroom.friday": {
+    "message": "الجمعة",
+    "description": "小应用"
+  },
+  "classroom.saturday": {
+    "message": "السبت",
+    "description": "小应用"
+  },
+  "classroom.sunday": {
+    "message": "الأحد",
+    "description": "小应用"
+  },
+  "classroom.atleastOne": {
+    "message": "اختر فصل دراسي واحد على الأقل",
+    "description": "小应用"
+  },
+  "classroom.demoTip": {
+    "message": "ضع محتوى التدريس في عرض تقديمي بشاشة كبيرة",
+    "description": "小应用"
+  },
+  "classroom.demoing": {
+    "message": "تقديم، انقر فوق إدخال",
+    "description": "小应用"
+  },
+  "classroom.recourse": {
+    "message": "المصادر",
+    "description": "小应用"
+  },
+  "classroom.discussion": {
+    "message": "المناقشات",
+    "description": "小应用"
+  },
+  "classroom.goRecourseDetail": {
+    "message": "فتح",
+    "description": "小应用"
+  },
+  "classroom.slt": {
+    "message": "مصغرات",
+    "description": "小应用"
+  },
+  "classroom.outScreen": {
+    "message": "الخروج من ملئ الشاشة",
+    "description": "小应用"
+  },
+  "classroom.allScreen": {
+    "message": "ملء الشاشة",
+    "description": "小应用"
+  },
+  "classroom.switchKj": {
+    "message": "تغيير المنهج الدراسي",
+    "description": "小应用"
+  },
+  "classroom.endDemo": {
+    "message": "إنهاء العرض التقديمي",
+    "description": "小应用"
+  },
+  "classroom.prePage": {
+    "message": "السابق",
+    "description": "小应用"
+  },
+  "classroom.nextPage": {
+    "message": "التالي",
+    "description": "小应用"
+  },
+  "classroom.goRecourse": {
+    "message": "مفتوح",
+    "description": "小应用"
+  },
+  "classroom.nosupport": {
+    "message": "المصدر لا يدعم العروض التقديمية",
+    "description": "小应用"
+  },
+  "classroom.closeRecourseConfirm": {
+    "message": "هل أنت متأكد أنك تريد إيقاف تشغيل المصادر التي تعرضها؟",
+    "description": "小应用"
+  },
+  "classroom.selectDemo": {
+    "message": "اختر مصدر العرض التقديمي",
+    "description": "小应用"
+  },
+  "classroom.nomatchs": {
+    "message": "لا يوجد محتوى مناسب",
+    "description": "小应用"
+  },
+  "classroom.scoreRank": {
+    "message": "درجات المحاضرة المحصلة",
+    "description": "小应用"
+  },
+  "classroom.scoreDown": {
+    "message": "تنازلي حسب مجموع الدرجات",
+    "description": "小应用"
+  },
+  "classroom.scoreUp": {
+    "message": "الترتيب حسب مجموع الدرجات",
+    "description": "小应用"
+  },
+  "classroom.learningcoderank": {
+    "message": "الترتيب حسب كود الطالب",
+    "description": "小应用"
+  },
+  "classroom.classStu": {
+    "message": "طلاب الفصل الدراسي",
+    "description": "小应用"
+  },
+  "classroom.nodata": {
+    "message": "لا توجد بيانات",
+    "description": "小应用"
+  },
+  "classroom.tips10": {
+    "message": "لا يمكن أن يتجاوز العنوان 50 حرف",
+    "description": "小应用"
+  },
+  "classroom.classRoport": {
+    "message": "تقرير المحاضرة",
+    "description": "小应用"
+  },
+  "classroom.startClass": {
+    "message": "في المحاضرة",
+    "description": "小应用"
+  },
+  "classroom.endingClass": {
+    "message": "الجلسة تنتهي...",
+    "description": "小应用"
+  },
+  "classroom.resourseDemo": {
+    "message": "عرض تجريبي للمصدر",
+    "description": "小应用"
+  },
+  "classroom.backActi": {
+    "message": "رجوع",
+    "description": "小应用"
+  },
+  "classroom.opeaOnScreen": {
+    "message": "يرجى القيام بذلك على الشاشة الكبيرة",
+    "description": "小应用"
+  },
+  "classroom.opeaOnScreenLine": {
+    "message": "رابط خارجي - يرجى العمل على الشاشة الكبيرة",
+    "description": "小应用"
+  },
+  "classroom.playOrPause": {
+    "message": "تشغيل/إيقاف مؤقت",
+    "description": "小应用"
+  },
+  "classroom.classLive": {
+    "message": "بث مباشر لمحاضرة",
+    "description": "小应用"
+  },
+  "classroom.playbackTip": {
+    "message": "جار إنشاء فيديو... وسوف يكون متاح بعد 30 دقيقة من انتهاء المحاضرة المباشرة",
+    "description": "小应用"
+  },
+  "live.enterLiveRoom": {
+    "message": "بث مباشر لمحاضرة قيد التقدم - انقر للانضمام",
     "description": "小应用"
   }
 }
